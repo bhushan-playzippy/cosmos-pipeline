@@ -1,0 +1,322 @@
+# ============================================================
+#  Channel 2: TRUE stories, history's most unbelievable real events
+#  Original scripts (Gemini) + fact-check + public-domain archive images (Wikimedia Commons) + AI voice.
+#  Runs on the same tested pipeline as channel 1 (writer.template: story → pipeline/storygen.py).
+#  Standalone profile: nothing is inherited from config.yaml. Earlier profile: archive/clips-creator-clips-profile-*.yaml
+# ============================================================
+
+channel:
+  id: clips                       # internal id (keeps this channel's token, queue and history)
+  type: generated
+  youtube_channel_id: "UCPzixXDunk2uJUqLp-ndLVA"   # @peakmomentsworld, linked 2026-10-25
+  name: "Unbelievably True"
+  niche: "true stories: history's most unbelievable real events, survivals, disasters, mysteries and coincidences"
+  signature: >
+    Every video tells ONE real, documented story through its single most unbelievable true detail, opens on that
+    detail, escalates with concrete facts, and ends on the twist people never knew. Real archive images only.
+  language: "en"
+  # Owner 2026-10-27: new videos target premium-ad markets (US, UK, Canada, Australia, Western Europe).
+  audience: "curious teens and adults in the US, UK, Canada, Australia and Western Europe who love true stories and history"
+  audience_rule: >
+    Write for American and European viewers: favour stories from American, British and European history (and
+    world-famous events they already know: Titanic, WWII, the Wild West, the space race, polar exploration).
+    Use US units first (miles, feet, mph, °F, pounds), adding metric once for the key number.
+
+# Applied with:  python main.py --channel clips channel-setup   (name/handle/profile picture: YouTube Studio only)
+channel_profile:
+  description: |
+    History is stranger than fiction. Unbelievably True tells the real stories that sound made up: impossible
+    survivals, disasters that turned on one tiny detail, forgotten heroes, eerie coincidences and mysteries
+    that were finally solved.
+
+    📜 Every story is real and fact-checked against encyclopedias, museums and historians (sources in each description)
+    🖼️ Archive photos and paintings are public domain (Wikimedia Commons)
+    🤖 Narration is AI-voiced; research and scripts are fact-checked
+    🎬 New true stories every day
+
+    Subscribe if you love stories that make you say "wait, that really happened?"
+  keywords: [true stories, history, history facts, unbelievable but true, true story, history shorts, survival stories,
+             strange history, historical mysteries, disasters, forgotten history, weird history, real events, shorts]
+  country: "IN"
+  banner: "assets/branding/clips/banner_stories.png"   # profile picture: assets/branding/clips/profile_stories.png (Studio)
+
+credentials:
+  # Defaults: credentials/clips/youtube_token.json, env YOUTUBE_TOKEN_JSON_CLIPS.
+
+writer:
+  template: story                 # true-story writer + history fact-checker (pipeline/storygen.py)
+  research: true                  # 3 Nov: numbered Wikipedia notes + timeline before writing (storygen.research)
+  research_chars: 4500            # size of the notes (~1,100 tokens; fits Groq's 8,000 TPM write call)
+
+packaging:
+  system: >
+    You run a true-story Shorts channel with millions of subscribers. You know what makes people click, watch to
+    the end and comment, but you never write clickbait the story can't pay off, and you never add facts that are
+    not in the narration.
+  hashtags: ["#History", "#TrueStory", "#Shorts"]
+  hashtag_rule: "exactly 4 hashtags on the last line: #Shorts first, then the story's subject, then #History #TrueStory"
+
+gemini:
+  api_key_env: "GEMINI_API_KEY_2"  # own free AI Studio project (owner, 3 Nov): clips no longer shares channel 1's quota
+  models: ["gemini-flash-latest", "gemini-3.8-flash", "gemini-3.6-flash", "gemini-3.5-flash", "gemini-flash-lite-latest"]
+  # 3.6/3.5-flash added 3 Nov: same free key and family (each has its own free daily bucket); 3.6 answered while the
+  # first two were 503 all day. 3.7-flash returns 429 (no free quota on this key), 2.5-flash is retired (404).
+  # Strong tier (writer, fact-check, verify, review) never falls back to these: it defers to the next run.
+  weak_models: ["gemini-flash-lite-latest"]
+  # The reviewer (frames + audio) has no fallback provider: wait out overload spikes before deferring.
+  overload_retries: 3
+  overload_wait_seconds: 120
+  temperature: 0.85
+
+# Other free LLM providers (OpenAI-compatible), text-only. Off until the key env var is set in .env.
+# Groq: free key, no card, at https://console.groq.com/keys  (limits per model: console.groq.com/settings/limits)
+fallback:
+  providers:
+    - name: ollama
+      # local model on this Mac (owner approved 4 Nov): no account, no quota. Listed first so cheap calls land here
+      # when Gemini is out, leaving Groq's per-minute tokens for verify (4 Nov: polish and packaging used them up
+      # and verify then deferred). `brew services start ollama` keeps it running; the key is a placeholder.
+      base_url: "http://localhost:11434/v1"
+      key_env: "OLLAMA_API_KEY"
+      models: ["qwen3.5:9b"]
+      # tested 4 Nov: wrong date for BA Flight 9 and ~4 min per answer with thinking on, so cheap calls only
+      # (polish, packaging, comments): output_limits 0 keeps it out of every strong call (write, checks, review)
+      output_limits: {"qwen3.5:9b": 0}
+      json_mode: false            # Ollama answers 501 "structured output is unavailable"; the prompt asks for JSON
+      extra_body: {"reasoning_effort": "none"}   # thinking off: a hook rewrite in 1.7 s instead of minutes
+      timeout: 120                # 5 Nov: a topic brainstorm ran past 300 s twice; hand big jobs on quickly
+    - name: nvidia-meta
+      stream: true                # 5 Nov: the free queue drops idle connections mid-answer; chunks keep it open
+      # owner's third NVIDIA key (5 Nov): Meta Muse Glimmer 30B, a fifth family. Tested 5 Nov on 5 claims with 2
+      # planted errors: all correct, including Apollo 13's blown-off panel that Mistral had called wrong. ~3.5 min.
+      # Tried first from 8 Nov: both Mistral endpoints repeatedly consumed their full 480 s timeouts.
+      base_url: "https://integrate.api.nvidia.com/v1"
+      key_env: "NVIDIA_API_KEY_3"
+      models: ["meta/muse-glimmer-30b"]
+      extra_body: {"max_tokens": 24000}   # 8,192 came back empty on a claim ledger (reasoning used it all)
+      timeout: 480
+    - name: nvidia
+      stream: true                # 5 Nov: the free queue drops idle connections mid-answer; chunks keep it open
+      # NVIDIA build.nvidia.com free developer key (owner, 4 Nov; email signup, no card): two strong families that
+      # aren't Gemini, Groq or Nemotron, so a writer, its fact-check and the independent verify each get their own.
+      # Tested 4 Nov on 5 claims with 2 planted errors (Pinatubo for Galunggung; Hunley "80 lb on a five-foot spar"):
+      # both caught both. Mistral Large 4: 24 s with reasoning low; DeepSeek V4.1 Flash: ~130 s (queued), correct.
+      base_url: "https://integrate.api.nvidia.com/v1"
+      key_env: "NVIDIA_API_KEY"
+      models: ["mistralai/mistral-large-4-1t-a52b"]
+      # reasoning tokens count against max_tokens: 1,500 returned an empty answer, so ask for room
+      extra_body: {"reasoning_effort": "low", "max_tokens": 16000}   # 5 Nov: claim ledgers cut off at ~11k chars with 8000
+      timeout: 480                # 5 Nov: a ledger took 300+ s; caps the whole stream too (a 17-min reasoning stream hung verify)
+    - name: nvidia-2
+      stream: true                # 5 Nov: the free queue drops idle connections mid-answer; chunks keep it open
+      # owner's second NVIDIA key (5 Nov): same Mistral model, own rate limit and own circuit breaker, so one key's
+      # timeouts don't take Mistral out of the run
+      base_url: "https://integrate.api.nvidia.com/v1"
+      key_env: "NVIDIA_API_KEY_2"
+      models: ["mistralai/mistral-large-4-1t-a52b"]
+      extra_body: {"reasoning_effort": "low", "max_tokens": 16000}
+      timeout: 480
+    - name: groq
+      base_url: "https://api.groq.com/openai/v1"
+      key_env: "GROQ_API_KEY"
+      models: ["openai/gpt-oss-120b", "qwen/qwen3.8-27b"]
+      tpm: 8000                   # free per-minute token limit (x-ratelimit-limit-tokens, measured 2 Nov)
+      max_tokens: 4096            # completion budget requested (fits prompt + answer under tpm)
+      output_limits: {"qwen/qwen3.8-27b": 1000}   # output tokens/minute (Groq OTPM, measured 2 Nov): too small for
+                                                  # a script or claim ledger, so qwen only takes cheap calls
+    - name: nvidia-deepseek
+      stream: true                # 5 Nov: the free queue drops idle connections mid-answer; chunks keep it open
+      # same key; DeepSeek answers empty with reasoning "low" but correctly with "none" (4 Nov). Listed after
+      # Groq: correct but slow on the free queue (one answer took 9.5 min with a timeout), so a late backup
+      base_url: "https://integrate.api.nvidia.com/v1"
+      key_env: "NVIDIA_API_KEY"
+      models: ["deepseek-ai/deepseek-v4.1-flash"]
+      extra_body: {"reasoning_effort": "none", "max_tokens": 8000}
+      timeout: 300
+    - name: openrouter
+      base_url: "https://openrouter.ai/api/v1"
+      key_env: "OPENROUTER_API_KEY"
+      # free vision models (frames only: free endpoints won't take audio); kept for the reviewer, ~50 free requests/day
+      models: ["nvidia/nemotron-3.5-super-vl:free", "google/gemma-4-31b-it:free"]
+      vision: true
+      images_only: true
+    - name: openrouter-text
+      # third independent family for text (owner approved 2 Nov): NVIDIA Nemotron, tried after Groq. Same free
+      # account as the vision reviewer, so text calls are capped below its ~50/day. Tested 2 Nov: valid JSON in 3 s.
+      base_url: "https://openrouter.ai/api/v1"
+      key_env: "OPENROUTER_API_KEY"
+      models: ["nvidia/nemotron-3-ultra-550b-a55b:free", "nvidia/nemotron-3.5-lightning:free"]
+      daily_requests: 25
+  # These go to the providers above FIRST: the checkers become a different model family from the writer (a truly
+  # independent second opinion) and Gemini's ~40 strong calls/day are kept for writing and the frame/audio review.
+  # Every other text call uses them only when Gemini is out or overloaded.
+  prefer_for: ["verify"]          # independent family checks first (2 Nov, R1). 8 Nov: briefly [] to dodge Mistral timeouts, which broke 9 tests and let Gemini check its own scripts; Muse now precedes Mistral instead
+
+voice:
+  en: "en-US-AndrewMultilingualNeural"   # warm storyteller voice
+  rate: "+10%"
+  pitch: "-2Hz"
+
+video:
+  width: 1080
+  height: 1920
+  fps: 30
+  max_seconds: 57
+  music_dir: "assets/music/stories"  # documentary-style originals (tools/make_music.py); add your own .mp3/.m4a
+  music_moods:                    # the writer picks a mood per story; render.pick_music plays a matching track
+    tense: [tension-em]                   # suspense, danger, a countdown, a near-miss
+    mysterious: [fog-am]                  # unexplained, eerie, cold cases
+    somber: [archive-dm]                  # tragedy, loss, disasters (respectful)
+    dramatic: [chronicle-cm]              # battles, epic events, big turning points
+    triumphant: [triumph-g]               # survival against the odds, heroes, rescues
+  music_volume: 0.22
+  progress_bar: true
+  max_shot_seconds: 2.8           # long still scenes are cut into 2–3 punch-in shots (render.shot_frames)
+  # Real archive images first (public domain / CC0 only), then stock video (needs PEXELS_API_KEY), then fallback.
+  sources: ["commons", "pixabay", "pexels", "stars"]
+
+captions:
+  font: "Poppins"
+  # big boxed headline for the first seconds (youtube.hook_text): the swipe decision comes before the voice
+  hook: {enabled: true, size: 96, seconds: 2.8, from_top: 260, pad: 22}
+  size: 112
+  words_per_group: 3
+  color: "&H00FFFFFF"
+  highlight: "&H0000E1FF"
+  outline: 8
+  position_from_bottom: 600
+
+disclosure:
+  ai_label: true
+  text: "Narration is AI-voiced; the story is researched and fact-checked. Archive images: public domain."
+
+review:
+  enabled: true
+  attempts: 2
+  stage_resumes: 2                # a verified script that failed at voice/visuals/render resumes next run, at most twice
+  human_approval: false           # owner 2026-10-25: no human step; QA + virality + AI reviewer approve and upload
+  approval_lead_hours: 1
+  listen: true                    # reviewer also hears the final mix (voice + music) and scores the audio
+  system: >
+    You are a demanding senior editor at a top true-story Shorts channel. You review finished videos before they
+    go out. You fail anything inaccurate, legend sold as fact, invented dialogue, or images that don't match the
+    story. Archive photos are often black-and-white, grainy or faded: that is authentic, never a quality fault.
+    Score visual_quality and visual_match low only for MODERN images in a historical story, images of the wrong
+    subject/era, or unreadable/broken frames. You never praise by default. No photo exists of most moments in a
+    historical story, so a period photo, portrait or painting of the story's main person, place, object or era
+    is an acceptable illustration for a scene about them; never fail a frame only for not showing the exact
+    moment described (that is CONTEXTUAL, which passes). A portrait of a DIFFERENT person, a modern scene, or an
+    artifact/wreck/museum photo taken long after the event under a line about the event is a MISMATCH.
+  # In true stories, archive photos/portraits of the real people involved ARE the right visuals.
+  people_rule: "Photos and portraits of the real historical people in the story are expected and good; only penalise people who have nothing to do with it."
+
+youtube:
+  enabled: true
+  privacy: "private"              # uploaded private + publishAt → YouTube makes it public at its slot
+  schedule: true
+  default_hour_ist: 20
+  playlist: "Unbelievably True Stories"
+  category_id: "27"               # Education
+  made_for_kids: false
+
+instagram:
+  enabled: false                  # its own account: IG_USER_ID_CLIPS + IG_ACCESS_TOKEN_CLIPS in .env
+  graph_host: "https://graph.facebook.com"
+  api_version: "v23.0"
+  share_to_feed: true
+  max_per_run: 5
+  max_age_days: 3
+
+comments:
+  days: 30
+
+schedule:
+  # 2 a day (owner 2026-10-29: fewer, better Shorts; was 5), timed for US + European viewers (owner 2026-10-27).
+  # IST → 20:00 = India evening / 2:30 PM London / 9:30 AM New York; 23:30 = 6 PM London / 1 PM New York.
+  # Owner 8 Nov: 05:30 (weakest slot, median 162 first-48h views) moved to 20:00 (see config.yaml).
+  videos_per_day: 2
+  timezone: "Asia/Kolkata"
+  slots: ["20:00", "23:30"]
+  min_gap_hours: 2
+  lead_minutes: 45
+  buffer_days: 15                 # owner 6 Nov: "videos for 15 plus days" ahead (was 2)
+  max_videos_per_run: 4
+  max_attempts_per_run: 8         # topics tried per run; a topic failing its own checks hands the slot to the next
+
+planning:
+  roles: ["discovery", "authority", "retention", "discovery", "retention"]   # rotate through the day's slots (jobs.role_for)
+  pillars: ["Impossible survivals", "Disasters that hinged on one detail", "Forgotten heroes",
+            "Eerie true coincidences", "Mysteries finally solved", "Strange but true history"]
+  series:
+    discovery: "Unbelievably True"
+    authority: "The Detail Nobody Remembers"
+    retention: "Survived"
+  score_weights: {familiarity: 2.0, audience_relevance: 1.5, curiosity: 2.0, evidence_quality: 2.0, visual_feasibility: 2.5,
+                  series_potential: 1.0}
+  min_backlog: 8
+  truth_rule: >
+    Each topic is ONE real, well-documented event or person (encyclopedia/museum/historian level), with one
+    specific jaw-dropping true detail. No legends sold as fact, no unsolved speculation sold as solved, no living
+    private individuals, no graphic gore, nothing that mocks victims.
+  visual_question: >-
+    can real PUBLIC-DOMAIN archive photos, paintings or maps of THIS event show it? Score 1–2 for events after
+    ~1930 with no US-government/NASA/military photos (they're still copyrighted), 4–5 for older history or
+    events documented by US-government/NASA/military photographers
+
+visual:
+  # Scene-level grounding (pipeline/grounding.py), added 2 Nov after 13 of 28 uploads were withdrawn, mostly for
+  # mismatched archive images. MISMATCH/UNVERIFIED scenes never pass.
+  min_match_share: 0.5            # at least half the scenes must show the narrated subject itself
+  max_image_uses: 2               # one image on at most 2 scenes (Hunley: 4 images across 9 scenes)
+  scene_retries: 2                # stage recovery (3 Nov): a MISMATCH scene gets a new picture, up to 2 rounds
+  precheck_images: 2              # Commons images (with licence evidence) needed before a topic is written
+
+verify:
+  # Independent claim check (pipeline/verify.py): a blind second opinion on every number/date/name, compared
+  # in Python. Added 2026-10-29 after two withdrawals for wrong numbers that the writer's fact-check passed.
+  enabled: true
+  max_unresolved: 3               # non-numeric material claims with no document sentence, allowed per video. 5 Nov: 2 → 3; the
+                                  # word-matcher misses plain paraphrase ("belonged" vs the article's "owned", "sending" vs
+                                  # "sent"); each one still needs the independent model's verdict, and quotes, attributions,
+                                  # superlatives, motives and numbers are checked as before
+  max_fetches: 6                  # source pages fetched per check (allowlisted domains only, evidence.QUALITY)
+  tolerance: 0.25                 # narrated vs independent value may differ by at most 25% ("about" rounding)
+  model: "gemini-3.8-flash"       # tried first, so the verifier is a different model from the writer when it has quota
+
+qa:
+  min_seconds: 25
+  loudness_lufs: [-18, -11]
+  max_silence: 1.5
+  words: [90, 145]
+  max_fallback_scenes: 1          # at most one generated fallback scene: stories need real images
+  min_archive_share: 0.5          # at least half the scenes must be Commons images of the subject, not stock clips
+  max_similarity: 0.25
+
+control:
+  kill_switch: false              # or: touch STOP.clips (this channel only) / STOP (everything)
+  max_uploads_per_run: 5
+  max_gemini_calls_per_run: 60
+  gemini_calls_per_video: 8       # story + fact-check + packaging + review (+ retries); no per-image vision calls
+  reconcile_after_minutes: 30
+  max_run_minutes: 180            # watchdog (see config.yaml)
+  # run continuity (pipeline/runs.py): launchd catches up a run missed in sleep on wake, RunAtLoad after a restart
+  run_times_ist: ["15:05", "21:40"]     # same as the plist; scheduled runs that never started are logged as missed
+  min_minutes_between_runs: 45    # a wake/login catch-up right after a completed run is skipped (daily --force runs)
+  network_checks: 4               # offline at start: check this many times, network_check_seconds apart, then skip
+  network_check_seconds: 60
+
+analytics:
+  min_sample: 5
+
+performance:
+  every_days: 1                   # performance agent re-ranks all public Shorts daily (2 = every other day)
+
+monetization:
+  thresholds: {subscribers: 1000}
+  status: {ypp_applied: false, ypp_approved: false, adsense_linked: false}
+
+finance:
+  currency: "INR"
+  tax_rate: 0.30
+  reserve: 0
+  other_obligations: 0

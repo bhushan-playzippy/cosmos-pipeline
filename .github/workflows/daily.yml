@@ -1,0 +1,133 @@
+name: Daily pipeline
+
+# Same timetable as the Mac's launchd agents (IST): cosmic 14:20 + 21:00, clips 15:05 + 21:40.
+# GitHub cron is UTC and can start a few minutes late; the pipeline schedules uploads days ahead, so that's fine.
+on:
+  schedule:
+    - cron: "50 8 * * *"    # 14:20 IST  cosmic
+    - cron: "35 9 * * *"    # 15:05 IST  clips
+    - cron: "30 15 * * *"   # 21:00 IST  cosmic
+    - cron: "10 16 * * *"   # 21:40 IST  clips
+  workflow_dispatch:
+    inputs:
+      channel:
+        description: "Channel"
+        type: choice
+        options: [cosmic, clips]
+        default: cosmic
+      dry_run:
+        description: "Dry run (make a video, no uploads, nothing saved)"
+        type: boolean
+        default: true
+
+permissions:
+  contents: write            # saves data/ (queue, history, analytics) back to the repo after each run
+
+# One run at a time across both channels: they share data/gemini_quota.json and the git history.
+concurrency:
+  group: pipeline
+  cancel-in-progress: false
+
+jobs:
+  run:
+    # Off until the repo variable SCHEDULER is "github", so the Mac and GitHub never both upload (manual runs always allowed).
+    if: github.event_name == 'workflow_dispatch' || vars.SCHEDULER == 'github'
+    runs-on: ubuntu-latest
+    timeout-minutes: 200     # main.py's own watchdog stops at control.max_run_minutes (180)
+    env:
+      TZ: Asia/Kolkata
+      PYTHONUNBUFFERED: "1"
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Pick channel
+        id: ch
+        run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            echo "id=${{ inputs.channel }}" >> "$GITHUB_OUTPUT"
+            if [ "${{ inputs.dry_run }}" = "true" ]; then echo "dry=--dry-run" >> "$GITHUB_OUTPUT"; else echo "dry=" >> "$GITHUB_OUTPUT"; fi
+          else
+            case "${{ github.event.schedule }}" in
+              "50 8 * * *"|"30 15 * * *") echo "id=cosmic" >> "$GITHUB_OUTPUT" ;;
+              *) echo "id=clips" >> "$GITHUB_OUTPUT" ;;
+            esac
+            echo "dry=" >> "$GITHUB_OUTPUT"
+          fi
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: requirements.lock.txt
+
+      - name: Install FFmpeg
+        run: sudo apt-get update -y -qq && sudo apt-get install -y -qq ffmpeg
+
+      - name: Install Python packages
+        run: pip install -q -r requirements.lock.txt
+
+      - name: Write secrets to files (never committed)
+        env:
+          ENV_FILE: ${{ secrets.ENV_FILE }}
+          YT_TOKEN_COSMIC: ${{ secrets.YT_TOKEN_COSMIC }}
+          YT_ANALYTICS_COSMIC: ${{ secrets.YT_ANALYTICS_COSMIC }}
+          YT_TOKEN_CLIPS: ${{ secrets.YT_TOKEN_CLIPS }}
+          YT_ANALYTICS_CLIPS: ${{ secrets.YT_ANALYTICS_CLIPS }}
+        run: |
+          umask 077
+          mkdir -p credentials/clips
+          printf '%s\n' "$ENV_FILE" > .env
+          printf '%s' "$YT_TOKEN_COSMIC" > youtube_token.json
+          printf '%s' "$YT_ANALYTICS_COSMIC" > youtube_analytics_token.json
+          printf '%s' "$YT_TOKEN_CLIPS" > credentials/clips/youtube_token.json
+          printf '%s' "$YT_ANALYTICS_CLIPS" > credentials/clips/youtube_analytics_token.json
+
+      # Videos made but not uploaded yet (e.g. quota hit) must survive to the next run.
+      - name: Restore unfinished videos
+        uses: actions/cache/restore@v4
+        with:
+          path: output
+          key: output-${{ steps.ch.outputs.id }}-${{ github.run_id }}
+          restore-keys: output-${{ steps.ch.outputs.id }}-
+
+      - name: Run the pipeline
+        run: python -u main.py --channel ${{ steps.ch.outputs.id }} daily ${{ steps.ch.outputs.dry }}
+
+      - name: Keep only unfinished job folders
+        if: always()
+        run: |
+          mkdir -p output
+          python - <<'PY'
+          import json, os, shutil
+          done = {"published", "scheduled", "failed", "quarantined", "withdrawn", "deleted", "rejected"}
+          for hist, base in (("data/history.json", "output"), ("data/channels/clips/history.json", "output/channels/clips")):
+              if not os.path.exists(hist) or not os.path.isdir(base):
+                  continue
+              keep = {j.get("folder") for j in json.load(open(hist)) if j.get("status") not in done}
+              for d in os.listdir(base):
+                  p = os.path.join(base, d)
+                  if os.path.isdir(p) and d != "channels" and d not in keep:
+                      shutil.rmtree(p, ignore_errors=True)
+          PY
+          du -sh output 2>/dev/null || true
+
+      - name: Save unfinished videos
+        if: always() && steps.ch.outputs.dry == ''
+        uses: actions/cache/save@v4
+        with:
+          path: output
+          key: output-${{ steps.ch.outputs.id }}-${{ github.run_id }}
+
+      - name: Save queue and history
+        if: always() && steps.ch.outputs.dry == ''
+        run: |
+          git config user.name "pipeline-bot"
+          git config user.email "pipeline-bot@users.noreply.github.com"
+          git add data/
+          git commit -q -m "run ${{ steps.ch.outputs.id }}: update state" || { echo "nothing to save"; exit 0; }
+          for i in 1 2 3; do git pull -q --rebase && git push -q && exit 0; sleep 5; done
+          exit 1
+
+      - name: Remove secret files
+        if: always()
+        run: rm -f .env youtube_token.json youtube_analytics_token.json && rm -rf credentials

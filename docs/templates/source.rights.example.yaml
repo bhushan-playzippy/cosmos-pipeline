@@ -1,0 +1,24 @@
+# Sidecar for a creator-supplied file. Save as assets/sources/clips/inbox/<video-name>.rights.yaml next to
+# <video-name>.mp4 (and optionally <video-name>.srt), then run:  python main.py --channel clips discover
+# Nothing here grants rights by itself: it records the permission you actually hold, and the evidence file must exist.
+title: "I Survived 100 Days in Hardcore Minecraft"
+creator: "Example Creator"
+youtube_id: "XXXXXXXXXXX"            # attaches this file to the discovered lead yt:XXXXXXXXXXX (credit links to it)
+rights:
+  pathway: clip_campaign               # clip_campaign | written_permission | creator_policy | own | licence
+  campaign: "Example Creator Clip Program (Discord, joined 2026-11-02)"
+  holder: "Example Creator LLC"
+  licence: "campaign terms v3, accepted 2026-11-02"
+  evidence: "docs/permissions/example-creator-campaign-terms.png"   # screenshot/PDF of the terms you accepted
+  permitted_uses: [edit, publish_youtube, monetize]             # must cover rights.required_uses in the profile
+  commercial_use: true
+  attribution_required: true
+  attribution_text: "Clip: Example Creator (used with permission)"
+  max_clip_seconds: 40                 # optional limit from the agreement
+  expires: "2027-11-01"                # optional
+  restrictions: ["no political edits", "creator may ask for removal within 7 days"]
+  requirements:                        # the campaign's rules; added to every Short and checked by compliance
+    hashtags: ["#ExampleCreator"]
+    mention: "@ExampleCreator"
+    description_lines: ["Full video on @ExampleCreator's channel"]
+    tags: ["example creator"]

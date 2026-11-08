@@ -1,0 +1,882 @@
+[
+  {
+    "slot": "2026-10-24T20:00:00+05:30",
+    "role": "retention",
+    "topic": "Mangalyaan's Fuel Efficiency vs. A Standard Motorcycle Mileage",
+    "pillar": "Missions (ISRO, NASA, ESA)",
+    "series": "Mission Files",
+    "benefit": "Appreciates the incredible orbital mechanics efficiency mastered by ISRO.",
+    "score": 36.0,
+    "status": "planned"
+  },
+  {
+    "slot": "2026-10-25T09:00:00+05:30",
+    "role": "discovery",
+    "topic": "The Size of Jupiter's Great Red Spot vs. Planet Earth",
+    "pillar": "Planets & moons",
+    "series": "How Big Is It?",
+    "benefit": "Comprehends the gargantuan scale of gas giant weather systems.",
+    "score": 37.5,
+    "status": "planned"
+  },
+  {
+    "slot": "2026-10-25T15:00:00+05:30",
+    "role": "authority",
+    "topic": "The Size of a Supermassive Black Hole (M87) vs. Our Entire Solar System",
+    "pillar": "Stars & black holes",
+    "series": "How Big Is It?",
+    "benefit": "Comprehends the staggering physical dimensions of supermassive black holes.",
+    "score": 37.5,
+    "status": "planned"
+  },
+  {
+    "slot": "2026-10-25T20:00:00+05:30",
+    "role": "retention",
+    "topic": "Perseverance Rover's Entry, Descent, and Landing vs. A Commercial Flight Duration",
+    "pillar": "Missions (ISRO, NASA, ESA)",
+    "series": "Mission Files",
+    "benefit": "Understands the communication delay and autonomous engineering required for planetary landing.",
+    "score": 36.0,
+    "status": "planned"
+  },
+  {
+    "slot": "2026-10-26T09:00:00+05:30",
+    "role": "discovery",
+    "topic": "The Temperature of Lightning on Earth vs. The Surface of the Sun",
+    "pillar": "Weird physics & light",
+    "series": "Cosmic Scale Explained",
+    "benefit": "Realizes that extreme cosmic temperatures happen right here in our own storm clouds.",
+    "score": 37.5,
+    "status": "planned"
+  },
+  {
+    "slot": "2026-10-26T15:00:00+05:30",
+    "role": "authority",
+    "topic": "The Thickness of Saturn's Rings vs. A Standard Cricket Pitch",
+    "pillar": "Planets & moons",
+    "series": "Cosmic Scale Explained",
+    "benefit": "Grasps the mind-boggling ratio of width to thickness in astronomical structures.",
+    "score": 37.5,
+    "status": "planned"
+  },
+  {
+    "slot": "2026-10-26T20:00:00+05:30",
+    "role": "retention",
+    "topic": "The Speed of the Parker Solar Probe Grazing the Sun vs. A Commercial Bullet Train",
+    "pillar": "Missions (ISRO, NASA, ESA)",
+    "series": "Mission Files",
+    "benefit": "Appreciates elite aerospace engineering feats through extreme travel time comparisons.",
+    "score": 36.0,
+    "status": "planned"
+  },
+  {
+    "slot": "2026-10-27T09:00:00+05:30",
+    "role": "discovery",
+    "topic": "The Age of Light from Andromeda vs. Recorded Human History",
+    "pillar": "Weird physics & light",
+    "series": "",
+    "benefit": "Grasps the literal definition of looking back in time through astronomy.",
+    "score": 36.5,
+    "status": "planned"
+  },
+  {
+    "slot": "2026-10-27T15:00:00+05:30",
+    "role": "authority",
+    "topic": "The Volume of Earth Inside the Sun vs. Marbles in a Bucket",
+    "pillar": "Stars & black holes",
+    "series": "Cosmic Scale Explained",
+    "benefit": "Visualizes the extreme volume disparity between a star and a rocky planet.",
+    "score": 37.5,
+    "status": "planned"
+  },
+  {
+    "slot": "2026-10-27T20:00:00+05:30",
+    "role": "retention",
+    "topic": "Chandrayaan-3 Landing Site Temperature Swing vs. A Kitchen Oven",
+    "pillar": "Missions (ISRO, NASA, ESA)",
+    "series": "Mission Files",
+    "benefit": "Appreciates the extreme thermal engineering required for lunar exploration.",
+    "score": 34.5,
+    "status": "planned"
+  },
+  {
+    "slot": "2026-10-28T09:00:00+05:30",
+    "role": "discovery",
+    "topic": "The Lifespan of a Red Dwarf Star vs. The Current Age of the Universe",
+    "pillar": "Stars & black holes",
+    "series": "How Big Is It?",
+    "benefit": "Understands stellar evolution and the long-term future timeline of the cosmos.",
+    "score": 36.0,
+    "status": "planned"
+  },
+  {
+    "slot": "2026-10-28T15:00:00+05:30",
+    "role": "authority",
+    "topic": "The Amount of Water in Earth's Oceans vs. The Entire Volume of the Planet",
+    "pillar": "Cosmic scale comparisons",
+    "series": "Cosmic Scale Explained",
+    "benefit": "Realizes how thin Earth's actual water layer is relative to planetary volume.",
+    "score": 37.5,
+    "status": "planned"
+  },
+  {
+    "slot": "2026-10-28T20:00:00+05:30",
+    "role": "retention",
+    "topic": "JWST Mirror Assembly Alignment vs. The Width of a Human Hair",
+    "pillar": "Missions (ISRO, NASA, ESA)",
+    "series": "Mission Files",
+    "benefit": "Appreciates the robotic and optical precision of modern space observatories.",
+    "score": 34.5,
+    "status": "planned"
+  },
+  {
+    "slot": "2026-10-29T09:00:00+05:30",
+    "role": "discovery",
+    "topic": "The Thickness of Earth's Atmosphere vs. An Onion Skin",
+    "pillar": "Cosmic scale comparisons",
+    "series": "How Big Is It?",
+    "benefit": "Realises how fragile Earth's life-support system truly is in the vastness of space.",
+    "score": 36.0,
+    "status": "planned"
+  },
+  {
+    "slot": "2026-10-29T15:00:00+05:30",
+    "role": "authority",
+    "topic": "JWST Mirror Light Collection vs. A Human Pupil",
+    "pillar": "Missions (ISRO, NASA, ESA)",
+    "series": "Mission Files",
+    "benefit": "Appreciates the unprecedented technological leap of modern infrared space telescopes.",
+    "score": 37.5,
+    "status": "planned"
+  },
+  {
+    "slot": "2026-10-29T20:00:00+05:30",
+    "role": "retention",
+    "topic": "Sun's Core Energy Travel Time vs. A Mumbai Local Train Commute",
+    "pillar": "Weird physics & light",
+    "series": "",
+    "benefit": "Gains a deep appreciation for the violent, dense physics inside our nearest star.",
+    "score": 33.5,
+    "status": "planned"
+  },
+  {
+    "slot": "2026-10-30T09:00:00+05:30",
+    "role": "discovery",
+    "topic": "The Size of Pluto vs. The Distance from Delhi to Mumbai",
+    "pillar": "Planets & moons",
+    "series": "How Big Is It?",
+    "benefit": "Visualises the surprising tiny scale of distant outer solar system worlds.",
+    "score": 36.0,
+    "status": "planned"
+  },
+  {
+    "slot": "2026-10-30T15:00:00+05:30",
+    "role": "authority",
+    "topic": "The Number of Stars in the Universe vs. Grains of Sand on Earth",
+    "pillar": "Cosmic scale comparisons",
+    "series": "Cosmic Scale Explained",
+    "benefit": "Grasps the staggering, counter-intuitive scale of the cosmos.",
+    "score": 37.5,
+    "status": "planned"
+  },
+  {
+    "slot": "2026-10-30T20:00:00+05:30",
+    "role": "retention",
+    "topic": "The Total Mass of All Human-Made Satellites in Orbit vs. A Loaded Mumbai Local Train",
+    "pillar": "Missions (ISRO, NASA, ESA)",
+    "series": "Mission Files",
+    "benefit": "Grasps the literal physical burden of our space infrastructure without getting lost in abstract tonnage.",
+    "score": 34.5,
+    "status": "planned"
+  },
+  {
+    "slot": "2026-10-31T09:00:00+05:30",
+    "role": "discovery",
+    "topic": "The Distance to the Nearest Star vs. Driving Across India End-to-End",
+    "pillar": "Cosmic scale comparisons",
+    "series": "Cosmic Scale Explained",
+    "benefit": "Comprehends the true, humbling isolation of our solar system in the galaxy.",
+    "score": 36.0,
+    "status": "planned"
+  },
+  {
+    "slot": "2026-10-31T15:00:00+05:30",
+    "role": "authority",
+    "topic": "ISRO's Mars Orbiter Mission Cost vs. A Hollywood Movie Budget",
+    "pillar": "Missions (ISRO, NASA, ESA)",
+    "series": "Mission Files",
+    "benefit": "Understands ISRO's legendary cost-efficiency and frugal engineering genius.",
+    "score": 36.0,
+    "status": "planned"
+  },
+  {
+    "slot": "2026-10-31T20:00:00+05:30",
+    "role": "retention",
+    "topic": "Gaganyaan Parachute Deployment Force vs. A Breaking Cable",
+    "pillar": "Missions (ISRO, NASA, ESA)",
+    "series": "Mission Files",
+    "benefit": "Understands the brutal physics Indian astronauts will face coming back home from space.",
+    "score": 34.5,
+    "status": "planned"
+  },
+  {
+    "slot": "2026-11-01T09:00:00+05:30",
+    "role": "discovery",
+    "topic": "The Thickness of the Kuiper Belt Compared to the Width of India",
+    "pillar": "Cosmic scale comparisons",
+    "series": "How Big Is It?",
+    "benefit": "Visualizes the staggering scale of the outer solar system using a familiar cross-country journey.",
+    "score": 36.0,
+    "status": "planned"
+  },
+  {
+    "slot": "2026-11-01T15:00:00+05:30",
+    "role": "authority",
+    "topic": "The Amount of Empty Space Inside Atoms vs. The Solar System",
+    "pillar": "Weird physics & light",
+    "series": "Cosmic Scale Explained",
+    "benefit": "Understands that the solid objects we touch are mostly vast cosmic emptiness at the quantum level.",
+    "score": 36.0,
+    "status": "planned"
+  },
+  {
+    "slot": "2026-11-01T20:00:00+05:30",
+    "role": "retention",
+    "topic": "Hubble Space Telescope's Mirror Precision vs. The Size of the United States",
+    "pillar": "Missions (ISRO, NASA, ESA)",
+    "series": "Mission Files",
+    "benefit": "Realizes the extreme precision engineering required for space telescopes.",
+    "score": 33.0,
+    "status": "planned"
+  },
+  {
+    "slot": "2026-11-02T09:00:00+05:30",
+    "role": "discovery",
+    "topic": "The Depth of Liquid Methane Oceans on Saturn's Moon Titan vs. Earth's Oceans",
+    "pillar": "Planets & moons",
+    "series": "How Big Is It?",
+    "benefit": "Learns about alien weather systems and liquid cycles outside of Earth.",
+    "score": 36.0,
+    "status": "planned"
+  },
+  {
+    "slot": "2026-11-02T15:00:00+05:30",
+    "role": "authority",
+    "topic": "The Distance Light Travels in One Second vs. The Earth's Circumference",
+    "pillar": "Weird physics & light",
+    "series": "Cosmic Scale Explained",
+    "benefit": "Visualizes the actual numerical speed of light in everyday terms.",
+    "score": 34.5,
+    "status": "planned"
+  },
+  {
+    "slot": "2026-11-02T20:00:00+05:30",
+    "role": "retention",
+    "topic": "Chandrayaan-3 Solar Panel Power Generation vs. A Home Inverter",
+    "pillar": "Missions (ISRO, NASA, ESA)",
+    "series": "Mission Files",
+    "benefit": "Appreciates the extreme engineering efficiency required to run a moon mission on minimal energy.",
+    "score": 33.0,
+    "status": "planned"
+  },
+  {
+    "slot": "2026-11-03T09:00:00+05:30",
+    "role": "discovery",
+    "topic": "The Magnetic Field of Earth Protecting Us vs. An Invisible Cricket Net",
+    "pillar": "Weird physics & light",
+    "series": "How Big Is It?",
+    "benefit": "Visualizes the invisible shield that keeps life on Earth safe from solar radiation every second.",
+    "score": 36.0,
+    "status": "planned"
+  },
+  {
+    "slot": "2026-11-03T15:00:00+05:30",
+    "role": "authority",
+    "topic": "The Mass of the Asteroid That Ended the Dinosaurs vs. A Mountain",
+    "pillar": "Planets & moons",
+    "series": "Cosmic Scale Explained",
+    "benefit": "Realizes how a relatively small object on a cosmic scale can completely reshape planetary history.",
+    "score": 36.0,
+    "status": "planned"
+  },
+  {
+    "slot": "2026-11-03T20:00:00+05:30",
+    "role": "retention",
+    "topic": "Aditya-L1 Solar Observatory Fuel Consumption vs. A Family Car",
+    "pillar": "Missions (ISRO, NASA, ESA)",
+    "series": "Mission Files",
+    "benefit": "Understands the precise orbital mechanics that allow spacecraft to hover in space for years.",
+    "score": 33.0,
+    "status": "planned"
+  },
+  {
+    "slot": "2026-11-04T09:00:00+05:30",
+    "role": "discovery",
+    "topic": "The Distance Between Stars in Our Galaxy vs. Two Cricket Balls in India",
+    "pillar": "Cosmic scale comparisons",
+    "series": "How Big Is It?",
+    "benefit": "Grasps the immense, terrifying emptiness of interstellar space within our own galaxy.",
+    "score": 36.0,
+    "status": "planned"
+  },
+  {
+    "slot": "2026-11-04T15:00:00+05:30",
+    "role": "authority",
+    "topic": "The Rate at Which the Moon is Spiraling Away From Earth vs. Fingernail Growth",
+    "pillar": "Planets & moons",
+    "series": "Cosmic Scale Explained",
+    "benefit": "Grasps dynamic orbital mechanics using a simple biological growth rate.",
+    "score": 36.0,
+    "status": "planned"
+  },
+  {
+    "slot": "2026-11-04T20:00:00+05:30",
+    "role": "retention",
+    "topic": "The Speed of Mars Rover Communications Delay vs. A Cricket Commentary Broadcast",
+    "pillar": "Missions (ISRO, NASA, ESA)",
+    "series": "Mission Files",
+    "benefit": "Appreciates why deep-space missions must rely entirely on autonomous artificial intelligence.",
+    "score": 33.0,
+    "status": "planned"
+  },
+  {
+    "slot": "2026-11-05T09:00:00+05:30",
+    "role": "discovery",
+    "topic": "The Amount of Gold in the Universe vs. A Drop of Water in an Ocean",
+    "pillar": "Cosmic scale comparisons",
+    "series": "",
+    "benefit": "Learns the cosmic astrophysical origin of heavy elements like gold and platinum.",
+    "score": 35.0,
+    "status": "planned"
+  },
+  {
+    "slot": "2026-11-05T15:00:00+05:30",
+    "role": "authority",
+    "topic": "Voyager 1's Data Storage vs. A Modern Smartphone",
+    "pillar": "Missions (ISRO, NASA, ESA)",
+    "series": "Mission Files",
+    "benefit": "Appreciates the vintage engineering triumphs that unlocked deep space exploration.",
+    "score": 34.5,
+    "status": "planned"
+  },
+  {
+    "slot": "2026-11-05T20:00:00+05:30",
+    "role": "retention",
+    "topic": "The Thickness of Saturn's Main Ring System vs. A Standard Highway",
+    "pillar": "Planets & moons",
+    "series": "How Big Is It?",
+    "benefit": "Visualizes the extreme flatness and delicate nature of planetary ring systems.",
+    "score": 35.0,
+    "status": "planned"
+  },
+  {
+    "slot": "2026-11-06T09:00:00+05:30",
+    "role": "discovery",
+    "topic": "The Size of a Supernova Remnant (Crab Nebula) vs. Interstellar Distances",
+    "pillar": "Stars & black holes",
+    "series": "How Big Is It?",
+    "benefit": "Comprehends the scale of stellar death explosions and nebula expansion.",
+    "score": 34.5,
+    "status": "planned"
+  },
+  {
+    "slot": "2026-11-06T15:00:00+05:30",
+    "role": "authority",
+    "topic": "The Speed of Light Traversing Earth's Diameter vs. A Blinking Eyelid",
+    "pillar": "Weird physics & light",
+    "series": "Cosmic Scale Explained",
+    "benefit": "Appreciates the absolute speed limit of the universe through bodily reflex comparison.",
+    "score": 34.5,
+    "status": "planned"
+  },
+  {
+    "slot": "2026-11-06T20:00:00+05:30",
+    "role": "retention",
+    "topic": "The Speed of Earth's Orbit Around the Sun vs. A Commercial Bullet Train",
+    "pillar": "Planets & moons",
+    "series": "How Big Is It?",
+    "benefit": "Visualises our planet's invisible motion through the solar system.",
+    "score": 34.5,
+    "status": "planned"
+  },
+  {
+    "slot": "2026-11-07T09:00:00+05:30",
+    "role": "discovery",
+    "topic": "The Amount of Energy Released by a Magnetar Flare in One Second vs. India's Total Power Grid Output",
+    "pillar": "Stars & black holes",
+    "series": "How Big Is It?",
+    "benefit": "Comprehends the unimaginable violence of extreme stellar phenomena using national energy consumption.",
+    "score": 34.5,
+    "status": "planned"
+  },
+  {
+    "slot": "2026-11-07T15:00:00+05:30",
+    "role": "authority",
+    "topic": "The Surface Area of Pluto vs. The Country of Russia",
+    "pillar": "Planets & moons",
+    "series": "Cosmic Scale Explained",
+    "benefit": "Gains a true, grounded perspective on the actual physical size of dwarf planets in our solar system.",
+    "score": 33.5,
+    "status": "planned"
+  },
+  {
+    "slot": "2026-11-07T20:00:00+05:30",
+    "role": "retention",
+    "topic": "The Size of Mars vs. Earth's Pacific Ocean Basin",
+    "pillar": "Planets & moons",
+    "series": "How Big Is It?",
+    "benefit": "Gains an intuitive sense of planetary sizing between terrestrial siblings.",
+    "score": 34.5,
+    "status": "planned"
+  },
+  {
+    "slot": "2026-11-08T09:00:00+05:30",
+    "role": "discovery",
+    "topic": "The Size of the Oort Cloud vs. The Distance to the Nearest Star",
+    "pillar": "Cosmic scale comparisons",
+    "series": "How Big Is It?",
+    "benefit": "Realizes how massive our Sun's gravitational dominion truly is compared to the planets alone.",
+    "score": 34.5,
+    "status": "planned"
+  },
+  {
+    "slot": "2026-11-08T15:00:00+05:30",
+    "role": "authority",
+    "topic": "The Energy Output of a Quasar vs. The Entire Milky Way",
+    "pillar": "Stars & black holes",
+    "series": "Cosmic Scale Explained",
+    "benefit": "Comprehends the unimaginable power unleashed when black holes consume matter.",
+    "score": 33.5,
+    "status": "planned"
+  },
+  {
+    "slot": "2026-11-08T20:00:00+05:30",
+    "role": "retention",
+    "topic": "The Volume of Jupiter Compared to Earth vs. Marbles in a Bucket",
+    "pillar": "Planets & moons",
+    "series": "How Big Is It?",
+    "benefit": "Visualizes gas giant scale using simple household objects.",
+    "score": 34.5,
+    "status": "planned"
+  },
+  {
+    "slot": "2026-11-09T09:00:00+05:30",
+    "role": "discovery",
+    "topic": "Magnetic Field Strength of a Magnetar vs. A Hospital MRI Machine",
+    "pillar": "Stars & black holes",
+    "series": "",
+    "benefit": "Learns about the most extreme magnetic forces in the known universe.",
+    "score": 33.5,
+    "status": "planned"
+  },
+  {
+    "slot": "2026-11-09T15:00:00+05:30",
+    "role": "authority",
+    "topic": "The Mass of the Asteroid Belt vs. Earth's Moon",
+    "pillar": "Planets & moons",
+    "series": "How Big Is It?",
+    "benefit": "Debunks science fiction tropes about asteroid belts while revealing their true, sparse nature.",
+    "score": 33.5,
+    "status": "planned"
+  },
+  {
+    "slot": "2026-11-09T20:00:00+05:30",
+    "role": "retention",
+    "topic": "The Surface Temperature of Venus vs. A Self-Cleaning Kitchen Oven",
+    "pillar": "Planets & moons",
+    "series": "How Big Is It?",
+    "benefit": "Understands the catastrophic power of runaway greenhouse gases on a planetary scale.",
+    "score": 34.5,
+    "status": "planned"
+  },
+  {
+    "slot": "2026-11-10T09:00:00+05:30",
+    "role": "discovery",
+    "topic": "The Rotation Speed of Pulsars vs. A Standard Kitchen Blender",
+    "pillar": "Stars & black holes",
+    "series": "",
+    "benefit": "Understands the dizzying conservation of angular momentum in stellar remnants.",
+    "score": 33.5,
+    "status": "planned"
+  },
+  {
+    "slot": "2026-11-10T15:00:00+05:30",
+    "role": "authority",
+    "topic": "The Pressure at the Center of Jupiter vs. Earth's Deepest Ocean Trench",
+    "pillar": "Planets & moons",
+    "series": "Cosmic Scale Explained",
+    "benefit": "Understands states of matter under extreme planetary core pressures.",
+    "score": 33.0,
+    "status": "planned"
+  },
+  {
+    "slot": "2026-11-10T20:00:00+05:30",
+    "role": "retention",
+    "topic": "Titan's Methane Lakes vs. Earth's Water Reservoirs",
+    "pillar": "Planets & moons",
+    "series": "",
+    "benefit": "Learns about exotic liquid cycles on outer solar system moons.",
+    "score": 33.5,
+    "status": "planned"
+  },
+  {
+    "slot": "2026-11-11T09:00:00+05:30",
+    "role": "discovery",
+    "topic": "The Temperature of the Sun's Corona vs. A Kitchen Oven",
+    "pillar": "Stars & black holes",
+    "series": "",
+    "benefit": "Learns one of solar physics' greatest unsolved mysteries: the coronal heating problem.",
+    "score": 33.5,
+    "status": "planned"
+  },
+  {
+    "slot": "2026-11-11T15:00:00+05:30",
+    "role": "authority",
+    "topic": "The Orbital Speed of Mercury vs. A Commercial Jetliner",
+    "pillar": "Planets & moons",
+    "series": "Cosmic Scale Explained",
+    "benefit": "Grasps Kepler's laws of planetary motion and gravitational pull near the Sun.",
+    "score": 33.0,
+    "status": "planned"
+  },
+  {
+    "slot": "2026-11-11T20:00:00+05:30",
+    "role": "retention",
+    "topic": "The Daily Data Output of the James Webb Space Telescope vs. A Smartphone Memory Card",
+    "pillar": "Missions (ISRO, NASA, ESA)",
+    "series": "Mission Files",
+    "benefit": "Surprises viewers with the realization that deep space insight is measured in extreme image quality, not endless data bloat.",
+    "score": 33.5,
+    "status": "planned"
+  },
+  {
+    "slot": "2026-11-12T09:00:00+05:30",
+    "role": "discovery",
+    "topic": "The Temperature Drop Inside a Lunar Crater in Permanent Shadow vs. A Household Deep Freezer",
+    "pillar": "Planets & moons",
+    "series": "How Big Is It?",
+    "benefit": "Appreciates the extreme thermal environments our lunar missions (like Chandrayaan-3 and Artemis) must endure.",
+    "score": 33.5,
+    "status": "planned"
+  },
+  {
+    "slot": "2026-11-12T15:00:00+05:30",
+    "role": "authority",
+    "topic": "The Density of a Black Hole Singularity vs. The Entire Earth",
+    "pillar": "Stars & black holes",
+    "series": "Cosmic Scale Explained",
+    "benefit": "Comprehends the staggering absence of empty space inside extreme gravitational singularities.",
+    "score": 33.5,
+    "status": "planned"
+  },
+  {
+    "slot": "2026-11-12T20:00:00+05:30",
+    "role": "retention",
+    "topic": "The Temperature of the Cosmic Microwave Background vs. An Ice Cube",
+    "pillar": "Cosmic scale comparisons",
+    "series": "How Big Is It?",
+    "benefit": "Learns about the thermal signature left over from the birth of the universe.",
+    "score": 33.0,
+    "status": "planned"
+  },
+  {
+    "slot": "2026-11-13T09:00:00+05:30",
+    "role": "discovery",
+    "topic": "The Vacuum of Space vs. Earth's Highest Mountain Peak",
+    "pillar": "Weird physics & light",
+    "series": "",
+    "benefit": "Understands how extreme the transition from Earth's atmosphere to outer space really is.",
+    "score": 32.0,
+    "status": "planned"
+  },
+  {
+    "slot": "2026-11-13T15:00:00+05:30",
+    "role": "authority",
+    "topic": "The Volume of All Asteroids in the Main Belt Combined vs. A Small Country",
+    "pillar": "Planets & moons",
+    "series": "Cosmic Scale Explained",
+    "benefit": "Dispels Hollywood myths about crowded asteroid belts by showing how mostly empty space really is.",
+    "score": 33.0,
+    "status": "planned"
+  },
+  {
+    "slot": "2026-11-13T20:00:00+05:30",
+    "role": "retention",
+    "topic": "The Density of Interstellar Space vs. The Sahara Desert",
+    "pillar": "Cosmic scale comparisons",
+    "series": "How Big Is It?",
+    "benefit": "Understands the true emptiness of interstellar space.",
+    "score": 33.0,
+    "status": "planned"
+  },
+  {
+    "slot": "2026-11-14T09:00:00+05:30",
+    "role": "discovery",
+    "topic": "The Speed of Solar Flares vs. A Commercial Jetliner",
+    "pillar": "Stars & black holes",
+    "series": "",
+    "benefit": "Understands space weather and how it threatens satellites around Earth.",
+    "score": 32.0,
+    "status": "planned"
+  },
+  {
+    "slot": "2026-11-14T15:00:00+05:30",
+    "role": "authority",
+    "topic": "The Air Pressure on the Surface of Mars vs. Earth's Stratosphere",
+    "pillar": "Planets & moons",
+    "series": "Cosmic Scale Explained",
+    "benefit": "Understands why human explorers on Mars would instantly need pressurized suits without complex jargon.",
+    "score": 32.0,
+    "status": "planned"
+  },
+  {
+    "slot": "2026-11-14T20:00:00+05:30",
+    "role": "retention",
+    "topic": "The Mass Lost by the Sun Every Second Through Fusion vs. A Loaded Cargo Ship",
+    "pillar": "Stars & black holes",
+    "series": "Cosmic Scale Explained",
+    "benefit": "Comprehends the relentless energy generation rate of our home star.",
+    "score": 33.0,
+    "status": "planned"
+  },
+  {
+    "slot": "2026-11-15T09:00:00+05:30",
+    "role": "discovery",
+    "topic": "The Time Delay of Radio Signals from Mars to Earth vs. A Cricket Commentary Broadcast",
+    "pillar": "Missions (ISRO, NASA, ESA)",
+    "series": "Mission Files",
+    "benefit": "Realizes the profound isolation of interplanetary robotic missions.",
+    "score": 32.0,
+    "status": "planned"
+  },
+  {
+    "slot": "2026-11-15T15:00:00+05:30",
+    "role": "authority",
+    "topic": "The Lifetime of a Massive Star vs. A Cricket Match",
+    "pillar": "Stars & black holes",
+    "series": "Cosmic Scale Explained",
+    "benefit": "Understands stellar evolution and why mass determines a star's destiny.",
+    "score": 32.0,
+    "status": "planned"
+  },
+  {
+    "slot": "2026-11-15T20:00:00+05:30",
+    "role": "retention",
+    "topic": "The Sound Wave Frequency of a Perseus Galaxy Cluster Black Hole vs. Human Hearing",
+    "pillar": "Stars & black holes",
+    "series": "Cosmic Scale Explained",
+    "benefit": "Learns how astrophysical data from galaxy clusters can be converted into acoustic waves.",
+    "score": 32.0,
+    "status": "planned"
+  },
+  {
+    "slot": "2026-11-16T09:00:00+05:30",
+    "role": "discovery",
+    "topic": "The Number of Trees on Earth vs. Stars in the Milky Way",
+    "pillar": "Cosmic scale comparisons",
+    "series": "Cosmic Scale Explained",
+    "benefit": "Blindsides the viewer with a counter-intuitive scale fact about our own planet versus space.",
+    "score": 31.5,
+    "status": "planned"
+  },
+  {
+    "slot": "2026-11-16T15:00:00+05:30",
+    "role": "authority",
+    "topic": "The Intensity of Cosmic Radiation Passing Through Interplanetary Space vs. A Medical X-Ray",
+    "pillar": "Weird physics & light",
+    "series": "Cosmic Scale Explained",
+    "benefit": "Understands the invisible health hazards awaiting astronauts traveling to Mars.",
+    "score": 30.5,
+    "status": "planned"
+  },
+  {
+    "slot": "2026-11-16T20:00:00+05:30",
+    "role": "retention",
+    "topic": "The Rate at Which the Universe is Expanding vs. A Growing Cricket Pitch",
+    "pillar": "Cosmic scale comparisons",
+    "series": "Cosmic Scale Explained",
+    "benefit": "Demystifies cosmic expansion by translating incomprehensible megaparsecs into a tangible sports field.",
+    "score": 31.5,
+    "status": "planned"
+  },
+  {
+    "slot": "2026-11-17T09:00:00+05:30",
+    "role": "discovery",
+    "topic": "Uranus's Extreme Axial Tilt vs. A Rolling Cricket Ball",
+    "pillar": "Planets & moons",
+    "series": "",
+    "benefit": "Visualizes planetary orbital mechanics and axial anomalies.",
+    "score": 31.0,
+    "status": "planned"
+  },
+  {
+    "slot": "2026-11-17T15:00:00+05:30",
+    "role": "authority",
+    "topic": "The Speed of Cosmic Expansion vs. A Running Athlete",
+    "pillar": "Weird physics & light",
+    "series": "Cosmic Scale Explained",
+    "benefit": "Understands how cosmological expansion only becomes noticeable across vast intergalactic distances.",
+    "score": 29.0,
+    "status": "planned"
+  },
+  {
+    "slot": "2026-11-17T20:00:00+05:30",
+    "role": "retention",
+    "topic": "The Atmospheric Pressure on Venus vs. A Deep-Sea Submarine Dive",
+    "pillar": "Planets & moons",
+    "series": "",
+    "benefit": "Learns why surface exploration of Venus is technologically extreme.",
+    "score": 31.0,
+    "status": "planned"
+  },
+  {
+    "slot": "2026-11-18T09:00:00+05:30",
+    "role": "discovery",
+    "topic": "The Mass of All Insects on Earth vs. Human Population",
+    "pillar": "Planets & moons",
+    "series": "",
+    "benefit": "Puts Earth's biological scale into a startling perspective before exploring other worlds.",
+    "score": 27.5,
+    "status": "planned"
+  },
+  {
+    "slot": "2026-11-18T15:00:00+05:30",
+    "role": "authority",
+    "topic": "The Decay Rate of Radioactive Isotopes on the Moon vs. A Stopwatch",
+    "pillar": "Weird physics & light",
+    "series": "Cosmic Scale Explained",
+    "benefit": "Understands how scientists use radioactive decay to date the exact age of solar system bodies.",
+    "score": 29.0,
+    "status": "planned"
+  },
+  {
+    "slot": "2026-11-18T20:00:00+05:30",
+    "role": "retention",
+    "topic": "Cold Welding in Vacuum",
+    "pillar": null,
+    "series": null,
+    "benefit": null,
+    "score": null,
+    "status": "planned"
+  },
+  {
+    "slot": "2026-11-19T09:00:00+05:30",
+    "role": "discovery",
+    "topic": "Sunlight's Journey to Earth",
+    "pillar": null,
+    "series": null,
+    "benefit": null,
+    "score": null,
+    "status": "planned"
+  },
+  {
+    "slot": "2026-11-19T15:00:00+05:30",
+    "role": "authority",
+    "topic": "Voyager 1's Tiny Power Source",
+    "pillar": null,
+    "series": null,
+    "benefit": null,
+    "score": null,
+    "status": "planned"
+  },
+  {
+    "slot": "2026-11-19T20:00:00+05:30",
+    "role": "retention",
+    "topic": "Water Ocean on Europa",
+    "pillar": null,
+    "series": null,
+    "benefit": null,
+    "score": null,
+    "status": "planned"
+  },
+  {
+    "slot": "2026-11-20T09:00:00+05:30",
+    "role": "discovery",
+    "topic": "Saturn's Rings are Younger Than Dinosaurs",
+    "pillar": null,
+    "series": null,
+    "benefit": null,
+    "score": null,
+    "status": "planned"
+  },
+  {
+    "slot": "2026-11-20T15:00:00+05:30",
+    "role": "authority",
+    "topic": "Scale of the Solar System",
+    "pillar": null,
+    "series": null,
+    "benefit": null,
+    "score": null,
+    "status": "planned"
+  },
+  {
+    "slot": "2026-11-20T20:00:00+05:30",
+    "role": "retention",
+    "topic": "Silence of Space",
+    "pillar": null,
+    "series": null,
+    "benefit": null,
+    "score": null,
+    "status": "planned"
+  },
+  {
+    "slot": "2026-11-21T09:00:00+05:30",
+    "role": "discovery",
+    "topic": "Gaganyaan Heat Shield Re-entry",
+    "pillar": null,
+    "series": null,
+    "benefit": null,
+    "score": null,
+    "status": "planned"
+  },
+  {
+    "slot": "2026-11-21T15:00:00+05:30",
+    "role": "authority",
+    "topic": "Proxima Centauri Distance",
+    "pillar": null,
+    "series": null,
+    "benefit": null,
+    "score": null,
+    "status": "planned"
+  },
+  {
+    "slot": "2026-11-21T20:00:00+05:30",
+    "role": "retention",
+    "topic": "Empty Space in an Atom vs the Universe",
+    "pillar": null,
+    "series": null,
+    "benefit": null,
+    "score": null,
+    "status": "planned"
+  },
+  {
+    "slot": "2026-11-22T09:00:00+05:30",
+    "role": "discovery",
+    "topic": "Time Dilation Near a Black Hole",
+    "pillar": null,
+    "series": null,
+    "benefit": null,
+    "score": null,
+    "status": "planned"
+  },
+  {
+    "slot": "2026-11-22T15:00:00+05:30",
+    "role": "authority",
+    "topic": "Betelgeuse Monster Star Scale",
+    "pillar": null,
+    "series": null,
+    "benefit": null,
+    "score": null,
+    "status": "planned"
+  },
+  {
+    "slot": "2026-11-22T20:00:00+05:30",
+    "role": "retention",
+    "topic": "Water Recycling on the ISS",
+    "pillar": null,
+    "series": null,
+    "benefit": null,
+    "score": null,
+    "status": "planned"
+  }
+]

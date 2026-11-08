@@ -1,0 +1,32 @@
+.env
+client_secret.json
+youtube_token.json
+output/
+__pycache__/
+*.pyc
+.venv/
+youtube_analytics_token.json
+logs/
+data/finance/
+# owner-level money, debt, prospects and clients (Phase 7): never committed
+data/business/
+data/channels/*/finance/
+reports/business/
+.pytest_cache/
+# multi-channel runtime state (never commit credentials or source media)
+credentials/
+*.bak
+*.tmp
+.pipeline.lock
+STOP
+STOP.*
+data/channels/*/media/
+assets/sources/
+archive/
+
+# public repo: per-run reports can include private money lines
+reports/
+config.yaml.before-*
+channels/*.before-*
+docstudio/
+tmp/

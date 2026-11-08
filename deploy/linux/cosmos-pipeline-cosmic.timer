@@ -1,0 +1,13 @@
+# Same run times as autopilot/com.cosmicscale.daily.plist (IST).
+# Persistent=true runs a time missed while the VM was down once at boot (launchd's wake behaviour).
+[Unit]
+Description=Shorts pipeline schedule (cosmic)
+
+[Timer]
+OnCalendar=*-*-* 14:20:00 Asia/Kolkata
+OnCalendar=*-*-* 21:00:00 Asia/Kolkata
+Persistent=true
+Unit=cosmos-pipeline@cosmic.service
+
+[Install]
+WantedBy=timers.target

@@ -1,0 +1,20 @@
+# Linux (systemd) equivalent of autopilot/*.plist. Installed by deploy/linux/setup-vm.sh, enabled only by
+# deploy/linux/cutover.sh (guide: deploy/DEPLOY-FREE-SERVER.md). Instance name = channel id (cosmic, clips).
+# Never enable a channel here while its launchd agent (or the GitHub workflow) is still active: two schedulers
+# keep two queues and double-upload.
+[Unit]
+Description=Shorts pipeline daily run (%i)
+Wants=network-online.target
+After=network-online.target
+
+[Service]
+Type=oneshot
+User=pipeline
+WorkingDirectory=/opt/cosmos-pipeline
+Environment=TZ=Asia/Kolkata PYTHONUNBUFFERED=1
+ExecStart=/opt/cosmos-pipeline/.venv/bin/python -u main.py --channel %i daily
+StandardOutput=append:/opt/cosmos-pipeline/logs/%i.log
+StandardError=append:/opt/cosmos-pipeline/logs/%i.log
+# main.py's own watchdog stops a run at control.max_run_minutes (180); this is the outer bound
+TimeoutStartSec=4h
+Nice=10

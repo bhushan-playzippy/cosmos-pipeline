@@ -1,0 +1,340 @@
+# ============================================================
+#  Cosmic Scale: faceless Shorts/Reels pipeline configuration
+# ============================================================
+
+channel:
+  id: cosmic                      # internal id (other channels live in channels/<id>.yaml; see docs/MULTI_CHANNEL.md)
+  youtube_channel_id: "UCS3WDSezET11wMQjfWuc2OQ"   # every upload checks the token is for THIS channel first
+  name: "Universe in a Teaspoon"  # channel name (set in YouTube Studio; the API cannot rename)
+  niche: "space, astronomy and the universe"
+  # The channel's signature angle. This is what makes the videos original
+  # instead of "AI slop". Every video explains one cosmic fact using an
+  # everyday scale comparison.
+  signature: >
+    Every video makes one mind-blowing space fact about a famous subject feel real through ONE everyday image the
+    sources themselves use (a teaspoon of neutron star weighing a billion tons, Earth fitting inside Jupiter about
+    1,300 times, Saturn being less dense than water), or tells one real space mission's
+    most unbelievable true moment (Apollo 13's oxygen tank, Mangalyaan reaching Mars first try for less than a
+    Hollywood film's budget).
+  language: "en"                  # "en" = English, "hi" = Hindi (Devanagari captions)
+  # Owner 2026-10-27: new videos target premium-ad markets (US, UK, Canada, Australia, Western Europe).
+  audience: "curious teens and adults in the US, UK, Canada, Australia and Western Europe"
+  audience_rule: >
+    Write for American and European viewers: use landmarks, places, sports and objects they know (no cricket,
+    Indian cities or rupees). Give big numbers in US units first (miles, feet, mph, °F, pounds) and add the
+    metric value once for the key number (e.g. "93 million miles, about 150 million km"). Favour NASA, ESA,
+    SpaceX and Apollo/Artemis stories; ISRO missions (Mangalyaan, Chandrayaan, Gaganyaan) are welcome as stories
+    (owner 5 Nov: "How India Beat Bike Mileage to Mars" was one of the channel's two best Shorts, 1,265 views).
+
+# Applied to YouTube with:  python main.py channel-setup
+# (The channel NAME and profile picture can't be set by the API: change those in YouTube Studio → Customization.)
+channel_profile:
+  description: |
+    The universe is too big to imagine, so we shrink it down to things you already know.
+
+    Universe in a Teaspoon explains mind-blowing space facts by comparing them to something everyday:
+    a basketball, a teaspoon, a road trip from New York to LA, a football stadium. Black holes, neutron stars,
+    planets, the Moon, NASA, ESA and SpaceX missions: if it's real, measurable and blows your mind, it's here.
+
+    🚀 New Shorts every day
+    ✅ Every fact is checked against NASA and ESA sources (listed in each description)
+    🤖 Made with AI tools: scripts, voice and some visuals are AI-assisted; facts are verified
+
+    Subscribe and let the universe rewire your sense of scale.
+  keywords: [space, astronomy, universe, space facts, science shorts, cosmic scale, black hole, neutron star,
+             planets, solar system, NASA, ESA, SpaceX, Artemis, physics, astrophysics, science facts]
+  country: "IN"
+
+gemini:
+  # Free API key from https://aistudio.google.com/apikey  (put it in .env)
+  # Models are tried in order; the first one that works is used.
+  api_key_env: "GEMINI_API_KEY_2"  # second spare owner key; used when other configured keys reach daily quota
+  models: ["gemini-flash-latest", "gemini-3.8-flash", "gemini-3.6-flash", "gemini-3.5-flash", "gemini-flash-lite-latest"]
+  # 3.6/3.5-flash added 3 Nov: same free key and family (each has its own free daily bucket); 3.6 answered while the
+  # first two were 503 all day. 3.7-flash returns 429 (no free quota on this key), 2.5-flash is retired (404).
+  # Strong tier (writer, fact-check, verify, review) never falls back to these: it defers to the next run.
+  weak_models: ["gemini-flash-lite-latest"]
+  # The reviewer (frames + audio) has no fallback provider: wait out overload spikes before deferring.
+  overload_retries: 3
+  overload_wait_seconds: 120
+  temperature: 0.9
+
+# Other free LLM providers (OpenAI-compatible), text-only. Off until the key env var is set in .env.
+# Groq: free key, no card, at https://console.groq.com/keys  (limits per model: console.groq.com/settings/limits)
+fallback:
+  providers:
+    - name: ollama
+      # local model on this Mac (owner approved 4 Nov): no account, no quota. Listed first so cheap calls land here
+      # when Gemini is out, leaving Groq's per-minute tokens for verify (4 Nov: polish and packaging used them up
+      # and verify then deferred). `brew services start ollama` keeps it running; the key is a placeholder.
+      base_url: "http://localhost:11434/v1"
+      key_env: "OLLAMA_API_KEY"
+      models: ["qwen3.5:9b"]
+      # tested 4 Nov: wrong date for BA Flight 9 and ~4 min per answer with thinking on, so cheap calls only
+      # (polish, packaging, comments): output_limits 0 keeps it out of every strong call (write, checks, review)
+      output_limits: {"qwen3.5:9b": 0}
+      json_mode: false            # Ollama answers 501 "structured output is unavailable"; the prompt asks for JSON
+      extra_body: {"reasoning_effort": "none"}   # thinking off: a hook rewrite in 1.7 s instead of minutes
+      timeout: 120                # 5 Nov: a topic brainstorm ran past 300 s twice; hand big jobs on quickly
+    - name: nvidia-meta
+      stream: true                # 5 Nov: the free queue drops idle connections mid-answer; chunks keep it open
+      # owner's third NVIDIA key (5 Nov): Meta Muse Glimmer 30B, a fifth family. Tested 5 Nov on 5 claims with 2
+      # planted errors: all correct, including Apollo 13's blown-off panel that Mistral had called wrong. ~3.5 min.
+      # Tried first from 8 Nov: both Mistral endpoints repeatedly consumed their full 480 s timeouts.
+      base_url: "https://integrate.api.nvidia.com/v1"
+      key_env: "NVIDIA_API_KEY_3"
+      models: ["meta/muse-glimmer-30b"]
+      extra_body: {"max_tokens": 24000}   # 8,192 came back empty on a claim ledger (reasoning used it all)
+      timeout: 480
+    - name: nvidia
+      stream: true                # 5 Nov: the free queue drops idle connections mid-answer; chunks keep it open
+      # NVIDIA build.nvidia.com free developer key (owner, 4 Nov; email signup, no card): two strong families that
+      # aren't Gemini, Groq or Nemotron, so a writer, its fact-check and the independent verify each get their own.
+      # Tested 4 Nov on 5 claims with 2 planted errors (Pinatubo for Galunggung; Hunley "80 lb on a five-foot spar"):
+      # both caught both. Mistral Large 4: 24 s with reasoning low; DeepSeek V4.1 Flash: ~130 s (queued), correct.
+      base_url: "https://integrate.api.nvidia.com/v1"
+      key_env: "NVIDIA_API_KEY"
+      models: ["mistralai/mistral-large-4-1t-a52b"]
+      # reasoning tokens count against max_tokens: 1,500 returned an empty answer, so ask for room
+      extra_body: {"reasoning_effort": "low", "max_tokens": 16000}   # 5 Nov: claim ledgers cut off at ~11k chars with 8000
+      timeout: 480                # 5 Nov: a ledger took 300+ s; caps the whole stream too (a 17-min reasoning stream hung verify)
+    - name: nvidia-2
+      stream: true                # 5 Nov: the free queue drops idle connections mid-answer; chunks keep it open
+      # owner's second NVIDIA key (5 Nov): same Mistral model, own rate limit and own circuit breaker, so one key's
+      # timeouts don't take Mistral out of the run
+      base_url: "https://integrate.api.nvidia.com/v1"
+      key_env: "NVIDIA_API_KEY_2"
+      models: ["mistralai/mistral-large-4-1t-a52b"]
+      extra_body: {"reasoning_effort": "low", "max_tokens": 16000}
+      timeout: 480
+    - name: groq
+      base_url: "https://api.groq.com/openai/v1"
+      key_env: "GROQ_API_KEY"
+      models: ["openai/gpt-oss-120b", "qwen/qwen3.8-27b"]
+      tpm: 8000                   # free per-minute token limit (x-ratelimit-limit-tokens, measured 2 Nov)
+      max_tokens: 4096            # completion budget requested (fits prompt + answer under tpm)
+      output_limits: {"qwen/qwen3.8-27b": 1000}   # output tokens/minute (Groq OTPM, measured 2 Nov): too small for
+                                                  # a script or claim ledger, so qwen only takes cheap calls
+    - name: nvidia-deepseek
+      stream: true                # 5 Nov: the free queue drops idle connections mid-answer; chunks keep it open
+      # same key; DeepSeek answers empty with reasoning "low" but correctly with "none" (4 Nov). Listed after
+      # Groq: correct but slow on the free queue (one answer took 9.5 min with a timeout), so a late backup
+      base_url: "https://integrate.api.nvidia.com/v1"
+      key_env: "NVIDIA_API_KEY"
+      models: ["deepseek-ai/deepseek-v4.1-flash"]
+      extra_body: {"reasoning_effort": "none", "max_tokens": 8000}
+      timeout: 300
+    - name: nvidia-vision
+      # Strong 120B vision reviewer on the owner's existing NVIDIA key; frames only, with audio still covered by QA.
+      stream: true
+      base_url: "https://integrate.api.nvidia.com/v1"
+      key_env: "NVIDIA_API_KEY_3"
+      models: ["nvidia/nemotron-3.5-super-vl-120b-a12b"]
+      vision: true
+      images_only: true
+      extra_body: {"max_tokens": 6000}
+      timeout: 300
+    - name: openrouter
+      base_url: "https://openrouter.ai/api/v1"
+      key_env: "OPENROUTER_API_KEY"
+      # free vision models (frames only: free endpoints won't take audio); kept for the reviewer, ~50 free requests/day
+      models: ["nvidia/nemotron-3.5-super-vl:free", "google/gemma-4-31b-it:free"]
+      vision: true
+      images_only: true
+    - name: openrouter-text
+      # third independent family for text (owner approved 2 Nov): NVIDIA Nemotron, tried after Groq. Same free
+      # account as the vision reviewer, so text calls are capped below its ~50/day. Tested 2 Nov: valid JSON in 3 s.
+      base_url: "https://openrouter.ai/api/v1"
+      key_env: "OPENROUTER_API_KEY"
+      models: ["nvidia/nemotron-3-ultra-550b-a55b:free", "nvidia/nemotron-3.5-lightning:free"]
+      daily_requests: 25
+  # These go to the providers above FIRST: the checkers become a different model family from the writer (a truly
+  # independent second opinion) and Gemini's ~40 strong calls/day are kept for writing and the frame/audio review.
+  # Every other text call uses them only when Gemini is out or overloaded.
+  prefer_for: ["verify"]          # independent family checks first (2 Nov, R1). 8 Nov: briefly [] to dodge Mistral timeouts, which broke 9 tests and let Gemini check its own scripts; Muse now precedes Mistral instead
+
+writer:
+  # 5 Nov (owner: "switch topics"): Wikipedia notes before writing, as the true-story channel does, so the script
+  # uses the articles' own facts and wording and the independent check finds them (scriptgen.write_script)
+  research: true
+  research_chars: 4500
+
+voice:
+  # Free Microsoft Edge neural voices (no key needed).
+  # English options: en-US-AndrewMultilingualNeural, en-US-GuyNeural,
+  #                  en-GB-RyanNeural, en-IN-PrabhatNeural
+  # Hindi options:   hi-IN-MadhurNeural, hi-IN-SwaraNeural
+  en: "en-US-AndrewMultilingualNeural"
+  hi: "hi-IN-MadhurNeural"
+  rate: "+8%"                     # slightly fast = better retention on Shorts
+  pitch: "-2Hz"
+
+video:
+  width: 1080
+  height: 1920
+  fps: 30
+  max_seconds: 58                 # stay under 60s for Shorts
+  music_dir: "assets/music/space"  # background tracks for this channel (tools/make_music.py makes originals)
+  music_moods:                    # the writer picks a mood per video; render.pick_music plays a matching track
+    wonder: [nebula-d, deepfield-f]       # bright, awe-struck (huge scales, beautiful objects)
+    calm: [drift-am]                      # reflective (light travel, deep time, the Earth)
+    mysterious: [orbit-em]                # dark, eerie (black holes, magnetars, the unknown)
+  music_volume: 0.22              # bed level before ducking: ~15–18 dB under the voice, ducks further while it speaks
+  progress_bar: true
+  max_shot_seconds: 2.8           # long still scenes are cut into 2–3 punch-in shots (render.shot_frames)
+  # Visual sources tried per scene, in order:
+  #   veo    = clips you make in the Gemini app, dropped in assets/veo/ (used for the hook)
+  #   pexels = free stock video (needs free key; new keys paused since Oct 2026)
+  #   pixabay = free stock video (PIXABAY_API_KEY, free at pixabay.com/api/docs)
+  #   nasa   = NASA Image Library (public domain, no key)
+  #   stars  = generated starfield fallback (always works)
+  sources: ["nasa", "commons", "veo", "pexels", "pixabay", "stars"]   # real images of the actual object first; Commons
+  # added 5 Nov: ISRO missions (Mangalyaan) have real photos there but none at NASA, so stock "mars planet" was all it got
+
+captions:
+  font: "Poppins"
+  # big boxed headline for the first seconds (youtube.hook_text): the swipe decision comes before the voice
+  hook: {enabled: true, size: 96, seconds: 2.8, from_top: 260, pad: 22}
+  size: 116
+  words_per_group: 3
+  color: "&H00FFFFFF"             # white   (ASS colours are &HAABBGGRR)
+  highlight: "&H0000E1FF"         # yellow-orange for the word being spoken
+  outline: 8
+  position_from_bottom: 640       # pixels from bottom edge
+
+disclosure:
+  # Label every video as AI-made: sets YouTube's "altered or synthetic content" flag on upload and
+  # adds the line below + #AIgenerated to the YouTube description and Instagram caption.
+  ai_label: true
+  text: "Made with AI: script, voice and visuals are AI-assisted. Facts checked against NASA/ESA sources."
+
+review:
+  # Reviewer agent watches frames of each finished video; failed videos are remade, and never auto-published.
+  enabled: true
+  attempts: 2
+  stage_resumes: 2                # a verified script that failed at voice/visuals/render resumes next run, at most twice
+  # New videos wait for `python main.py approve ...` before upload (the AI gates miss some factual errors).
+  # Videos are made ~1 day ahead of their slot, so there's time to check. Set false for fully automatic.
+  human_approval: false           # owner 2026-10-25: no human step; QA + AI reviewer approve and upload
+  approval_lead_hours: 12         # only make videos for slots at least this far ahead
+  listen: true                    # reviewer also hears the final mix (voice + music) and scores the audio
+
+youtube:
+  # Keep false until Google approves your API audit (README step 5). Before that,
+  # every API upload gets locked to private, so upload manually from output/ meanwhile.
+  enabled: true
+  # After approval: "public" posts straight away, "private" lets you review in YouTube Studio first.
+  privacy: "private"
+  # Schedule each upload for the YouTuber agent's best release time, one video per day.
+  schedule: true
+  default_hour_ist: 18
+  playlist: "Universe in a Teaspoon: Space Facts"   # every upload is added here (playlists help Shorts get binge-watched)
+  category_id: "28"               # Science & Technology
+  made_for_kids: false
+
+instagram:
+  enabled: false                  # turn on after you finish Instagram setup (see README)
+  graph_host: "https://graph.facebook.com"   # or https://graph.instagram.com for "Instagram Login" tokens
+  api_version: "v23.0"
+  share_to_feed: true
+  max_per_run: 5                  # Reels posted per run (each Short once it is public on YouTube)
+  max_age_days: 3                 # only Shorts that went public in the last N days (no back-catalogue flood)
+  # Credentials: IG_USER_ID + IG_ACCESS_TOKEN in .env (an Instagram Professional account linked to a Facebook Page)
+
+comments:
+  days: 30                        # comments agent reads public Shorts from the last N days (1 quota unit each)
+
+schedule:
+  # Target: 2 confirmed publications a day (owner 2026-10-29: fewer, better Shorts; was 3), timed for US +
+  # European viewers (owner 2026-10-27). Slots are IST:
+  #   20:00 IST = India evening / 2:30 PM London / 9:30 AM New York
+  #   23:30 IST = 6 PM London / 7 PM Paris / 1 PM New York (Europe evening prime + US lunch)
+  # Owner 8 Nov: 05:30 moved to 20:00. First-48h views by publish hour (both channels, 26 Oct-5 Nov):
+  # 05:30 median 162 (weakest), 18:00-20:00 median ~630-830, 23:30 median 664 (docstudio/reports/
+  # shorts-performance-2026-11-08.md). Re-tune once each slot has 5+ public videos.
+  videos_per_day: 2
+  timezone: "Asia/Kolkata"
+  slots_ist: ["20:00", "23:30"]
+  min_gap_hours: 2                # never two videos closer than this
+  lead_minutes: 45                # never schedule a slot sooner than this from now (upload + processing time)
+  buffer_days: 15                 # owner 6 Nov: "videos for 15 plus days" ahead (was 2). Uploads still cap at ~5/day (shared API quota)
+  max_videos_per_run: 4           # production per daily run (6 Nov: 4 while the 15-day buffer fills)
+  max_attempts_per_run: 8         # topics tried per run; a topic failing its own checks hands the slot to the next
+
+planning:
+  roles: ["discovery", "authority", "retention"]     # rotate through the day's slots (jobs.role_for)
+  # owner 5 Nov ("switch topics"): the two winners (teaspoon of neutron star 1,337 views, India's Mars mileage
+  # 1,265) were a famous subject with one source-stated image, or a mission story; the "X vs Y" topics whose second
+  # number the writer had to compute (coast-to-coast at 70 mph, 18 X-rays a day) failed the claim check 4 in 4
+  pillars: ["Famous objects, one impossible fact", "Missions in danger (Apollo, ISS, Voyager, Artemis)",
+            "Planets & moons", "Stars & black holes", "ISRO & India in space"]
+  truth_rule: >-
+    Each topic is ONE specific, true fact or real mission moment that NASA/ESA/ISRO or an encyclopedia states in
+    so many words, including its everyday image ("a teaspoon would weigh a billion tons"). Never a topic whose
+    comparison needs a number nobody published: no "X vs Y" built by dividing or multiplying two quantities, no
+    "how many times", no "if you drove...". One headline number per topic at most. If the honest answer is
+    "scientists think", the topic says so.
+  series:
+    discovery: "How Big Is It?"
+    authority: "Scale Explained"
+    retention: "Mission Files"
+  score_weights: {familiarity: 2.0, audience_relevance: 1.5, curiosity: 1.5, evidence_quality: 2.0, visual_feasibility: 1.5,
+                  series_potential: 1.0}
+  min_backlog: 6
+
+control:
+  kill_switch: false              # or create a file named STOP in the project folder
+  max_uploads_per_run: 5          # YouTube free quota ≈ 6 uploads/day; keep 1 spare for manual fixes
+  max_gemini_calls_per_run: 120   # hard ceiling (free tier: 20/day per Flash model + Flash-Lite)
+  gemini_calls_per_video: 25      # don't start a video unless this much budget is left
+  reconcile_after_minutes: 30     # an interrupted upload not found on YouTube after this long is retried
+  max_run_minutes: 180            # watchdog: a daily run that takes longer is stopped (stack trace in the log)
+  # run continuity (pipeline/runs.py): launchd catches up a run missed in sleep on wake, RunAtLoad after a restart
+  run_times_ist: ["14:20", "21:00"]     # same as the plist; scheduled runs that never started are logged as missed
+  min_minutes_between_runs: 45    # a wake/login catch-up right after a completed run is skipped (daily --force runs)
+  network_checks: 4               # offline at start: check this many times, network_check_seconds apart, then skip
+  network_check_seconds: 60
+
+visual:
+  # Scene-level grounding (pipeline/grounding.py). MISMATCH/UNVERIFIED scenes never pass. Stock and starfield
+  # scenes are CONTEXTUAL; space Shorts illustrate, so no MATCH share is required here (raise it with evidence).
+  min_match_share: 0.0
+  max_image_uses: 2
+  scene_retries: 2                # stage recovery (3 Nov): a MISMATCH scene gets a new picture, up to 2 rounds
+
+verify:
+  # Independent claim check (pipeline/verify.py): a blind second opinion on every number/date/name, compared
+  # in Python. Added 2026-10-29 after two withdrawals for wrong numbers that the writer's fact-check passed.
+  enabled: true
+  max_unresolved: 3               # non-numeric material claims with no document sentence, allowed per video. 5 Nov: 2 → 3; the
+                                  # word-matcher misses plain paraphrase ("belonged" vs the article's "owned", "sending" vs
+                                  # "sent"); each one still needs the independent model's verdict, and quotes, attributions,
+                                  # superlatives, motives and numbers are checked as before
+  max_fetches: 6                  # source pages fetched per check (allowlisted domains only, evidence.QUALITY)
+  tolerance: 0.25                 # narrated vs independent value may differ by at most 25% ("about" rounding)
+  model: "gemini-3.8-flash"       # tried first, so the verifier is a different model from the writer when it has quota
+
+qa:
+  min_seconds: 20
+  loudness_lufs: [-18, -11]       # Shorts are mixed to about -14
+  max_silence: 1.5                # seconds
+  words: [90, 165]
+  max_fallback_scenes: 2          # generated-starfield scenes allowed per video
+  max_similarity: 0.25            # 5-word overlap with any earlier script (screen, not legal clearance)
+
+analytics:
+  min_sample: 5                   # don't draw conclusions from fewer videos than this
+
+performance:
+  every_days: 1                   # performance agent re-ranks all public Shorts daily (2 = every other day)
+
+monetization:
+  # Verified against YouTube Help Center on 2026-10-24 — see docs/research/YOUTUBE_POLICY_NOTES.md
+  thresholds: {subscribers: 1000}
+  status: {ypp_applied: false, ypp_approved: false, adsense_linked: false, two_step_verification: unknown}
+
+finance:
+  currency: "INR"
+  tax_rate: 0.30                  # provision estimate only; confirm with a tax professional
+  reserve: 0                      # cash to keep back before any debt repayment
+  other_obligations: 0

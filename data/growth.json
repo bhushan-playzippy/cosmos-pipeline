@@ -1,0 +1,165 @@
+{
+  "date": "2026-11-08",
+  "videos": 19,
+  "median_views_per_day": 30.2,
+  "min_sample": 5,
+  "groups": {
+    "slot": {
+      "18:00": {
+        "n": 2,
+        "median_vpd": 59.7,
+        "conclusive": false
+      },
+      "15:00": {
+        "n": 4,
+        "median_vpd": 29.6,
+        "conclusive": false
+      },
+      "09:00": {
+        "n": 5,
+        "median_vpd": 28.1,
+        "conclusive": true
+      },
+      "20:00": {
+        "n": 2,
+        "median_vpd": 66.0,
+        "conclusive": false
+      },
+      "23:30": {
+        "n": 3,
+        "median_vpd": 433.3,
+        "conclusive": false
+      },
+      "05:30": {
+        "n": 3,
+        "median_vpd": 22.1,
+        "conclusive": false
+      }
+    },
+    "type": {
+      "?": {
+        "n": 8,
+        "median_vpd": 39.6,
+        "conclusive": true
+      },
+      "discovery": {
+        "n": 6,
+        "median_vpd": 25.1,
+        "conclusive": true
+      },
+      "retention": {
+        "n": 4,
+        "median_vpd": 27.5,
+        "conclusive": false
+      },
+      "authority": {
+        "n": 1,
+        "median_vpd": 33.4,
+        "conclusive": false
+      }
+    },
+    "creator": {}
+  },
+  "type_boost": {
+    "discovery": 0.91
+  },
+  "recommendations": [
+    "hooks with big number hook earn 0.8× vs 1.04× without (n=5/14): the topic picker applies it."
+  ],
+  "feature_boost": {
+    "question_hook": {
+      "with": 0.99,
+      "without": 1.0,
+      "n_with": 7,
+      "n_without": 12,
+      "conclusive": true
+    },
+    "number_hook": {
+      "with": 0.9,
+      "without": 1.0,
+      "n_with": 8,
+      "n_without": 11,
+      "conclusive": true
+    },
+    "big_number_hook": {
+      "with": 0.8,
+      "without": 1.04,
+      "n_with": 5,
+      "n_without": 14,
+      "conclusive": true
+    },
+    "long_hook": {
+      "with": 1.08,
+      "without": 0.99,
+      "n_with": 8,
+      "n_without": 11,
+      "conclusive": true
+    }
+  },
+  "feature_boost_retention": {
+    "question_hook": {
+      "with": 1.01,
+      "without": 0.99,
+      "n_with": 7,
+      "n_without": 10,
+      "conclusive": true
+    },
+    "number_hook": {
+      "with": 1.03,
+      "without": 0.96,
+      "n_with": 7,
+      "n_without": 10,
+      "conclusive": true
+    },
+    "big_number_hook": {
+      "with": 1.03,
+      "without": 0.96,
+      "n_with": 5,
+      "n_without": 12,
+      "conclusive": true
+    },
+    "long_hook": {
+      "with": 0.97,
+      "without": 1.01,
+      "n_with": 6,
+      "n_without": 11,
+      "conclusive": true
+    }
+  },
+  "feature_boost_subs": {
+    "question_hook": {
+      "with": 1.0,
+      "without": 1.0,
+      "n_with": 6,
+      "n_without": 9,
+      "conclusive": false
+    },
+    "number_hook": {
+      "with": 1.0,
+      "without": 1.0,
+      "n_with": 5,
+      "n_without": 10,
+      "conclusive": false
+    },
+    "big_number_hook": {
+      "with": 1.0,
+      "without": 1.0,
+      "n_with": 3,
+      "n_without": 12,
+      "conclusive": false
+    },
+    "long_hook": {
+      "with": 1.0,
+      "without": 1.0,
+      "n_with": 5,
+      "n_without": 10,
+      "conclusive": false
+    }
+  },
+  "metric_samples": {
+    "views": 19,
+    "retention": 17,
+    "subscribers": 15
+  },
+  "playbook": []
+}

@@ -1,0 +1,5302 @@
+[
+  {
+    "date": "2026-10-24_1336",
+    "topic": "Neutron Star Density",
+    "title": "One Teaspoon Weighs a Billion Tons #Shorts",
+    "folder": "2026-10-24_1336_neutron-star-density",
+    "youtube_id": "OSnRf7p1aWo",
+    "instagram_id": null,
+    "publish_at": "2026-10-24T18:00:00+05:30",
+    "status": "published",
+    "privacy": "public",
+    "stages": {
+      "published": "2026-10-24T19:21:19+05:30"
+    },
+    "commented": true
+  },
+  {
+    "date": "2026-10-24_1351",
+    "topic": "International Space Station Speed",
+    "title": "This is how fast the ISS actually moves",
+    "folder": "2026-10-24_1351_international-space-station-speed",
+    "youtube_id": "bgeVoyqXUe8",
+    "instagram_id": null,
+    "publish_at": null,
+    "deleted": true,
+    "deleted_reason": "wrong Delhi–Mumbai timing",
+    "status": "deleted"
+  },
+  {
+    "date": "2026-10-24_1354",
+    "topic": "Earth Compressed into a Black Hole",
+    "title": "Squishing Earth into a 9mm Black Hole",
+    "folder": "2026-10-24_1354_earth-compressed-into-a-black-hole",
+    "youtube_id": "o4737LwCEsw",
+    "instagram_id": null,
+    "publish_at": null,
+    "deleted": true,
+    "deleted_reason": "radius/diameter error",
+    "status": "deleted"
+  },
+  {
+    "date": "2026-10-24_1402",
+    "topic": "Olympus Mons Scale",
+    "title": "The Volcano That Puts Mount Everest To Shame",
+    "folder": "2026-10-24_1402_olympus-mons-scale",
+    "youtube_id": "kwI_Atb1430",
+    "instagram_id": null,
+    "publish_at": "2026-10-25T18:00:00+05:30",
+    "status": "published",
+    "privacy": "public",
+    "stages": {
+      "published": "2026-10-25T21:10:09+05:30"
+    },
+    "commented": true
+  },
+  {
+    "date": "2026-10-24_1404",
+    "topic": "Diamond Rain on Neptune",
+    "title": "It Rains Solid Diamonds On This Planet",
+    "folder": "2026-10-24_1404_diamond-rain-on-neptune",
+    "youtube_id": "NmVrPnHCeRY",
+    "instagram_id": null,
+    "publish_at": null,
+    "deleted": true,
+    "deleted_reason": "theory stated as fact, garbled ending",
+    "status": "deleted"
+  },
+  {
+    "date": "2026-10-24_1414",
+    "topic": "International Space Station Speed",
+    "title": "This is how fast the ISS actually moves",
+    "folder": "2026-10-24_1414_international-space-station-speed",
+    "youtube_id": "abWmusH5Tg0",
+    "instagram_id": null,
+    "status": "published",
+    "stages": {
+      "upload": "2026-10-25T00:39:05+05:30",
+      "published": "2026-10-25T21:10:09+05:30"
+    },
+    "publish_at": "2026-10-25T15:00:00+05:30",
+    "verification": {
+      "ok": true,
+      "problems": [],
+      "privacy": "private",
+      "publish_at": "2026-10-25T09:30:00Z"
+    },
+    "privacy": "public",
+    "commented": true
+  },
+  {
+    "date": "2026-10-24_1427",
+    "topic": "Earth Compressed into a Black Hole",
+    "title": "Earth as a Black Hole Would Fit in Your Palm",
+    "folder": "2026-10-24_1427_earth-compressed-into-a-black-hole",
+    "youtube_id": "5i4v_-f-K9A",
+    "instagram_id": null,
+    "status": "published",
+    "stages": {
+      "upload": "2026-10-25T00:39:12+05:30",
+      "published": "2026-10-26T13:00:05+05:30"
+    },
+    "publish_at": "2026-10-26T09:00:00+05:30",
+    "verification": {
+      "ok": true,
+      "problems": [],
+      "privacy": "private",
+      "publish_at": "2026-10-26T03:30:00Z"
+    },
+    "privacy": "public",
+    "commented": true
+  },
+  {
+    "date": "2026-10-24_1428",
+    "topic": "Diamond Rain on Neptune",
+    "title": "Scientists Think It Rains Diamonds on Neptune",
+    "folder": "2026-10-24_1428_diamond-rain-on-neptune",
+    "youtube_id": "Qvk_c-27d4c",
+    "instagram_id": null,
+    "status": "published",
+    "stages": {
+      "upload": "2026-10-25T00:39:20+05:30",
+      "published": "2026-10-26T21:06:51+05:30"
+    },
+    "publish_at": "2026-10-26T15:00:00+05:30",
+    "verification": {
+      "ok": true,
+      "problems": [],
+      "privacy": "private",
+      "publish_at": "2026-10-26T09:30:00Z"
+    },
+    "privacy": "public",
+    "commented": true
+  },
+  {
+    "folder": "2026-10-24_192602_aditya-l1-lagrange-point-balance",
+    "topic": "Aditya-L1 Lagrange Point Balance",
+    "status": "quarantined",
+    "stage": "script",
+    "role": "discovery",
+    "slot": "2026-10-25T09:00:00+05:30",
+    "created": "2026-10-24T19:26:02+05:30",
+    "stages": {
+      "script": "2026-10-24T19:26:24+05:30",
+      "render": "2026-10-24T19:30:09+05:30",
+      "gates": "2026-10-24T19:30:11+05:30"
+    },
+    "youtube_id": null,
+    "instagram_id": null,
+    "reason": "quality gate: real visuals",
+    "stage_failed": null,
+    "title": "Why India's solar probe balances on a needle"
+  },
+  {
+    "folder": "2026-10-24_193519_the-moon-drifting-away",
+    "topic": "The Moon Drifting Away",
+    "status": "published",
+    "stage": "script",
+    "role": "discovery",
+    "slot": null,
+    "created": "2026-10-24T19:35:19+05:30",
+    "stages": {
+      "script": "2026-10-24T19:35:19+05:30",
+      "render": "2026-10-24T19:37:47+05:30",
+      "gates": "2026-10-24T19:37:57+05:30",
+      "upload": "2026-10-25T00:38:58+05:30",
+      "published": "2026-10-25T10:25:03+05:30"
+    },
+    "youtube_id": "UWmusUZxwDA",
+    "instagram_id": null,
+    "reason": null,
+    "stage_failed": null,
+    "title": "The Moon Drifts Away at Fingernail Speed",
+    "publish_at": "2026-10-25T09:00:00+05:30",
+    "verification": {
+      "ok": true,
+      "problems": [],
+      "privacy": "private",
+      "publish_at": "2026-10-25T03:30:00Z"
+    },
+    "privacy": "public",
+    "commented": true
+  },
+  {
+    "folder": "2026-10-25_131315_mangalyaans-fuel-efficiency-vs-a-standard-motorcyc",
+    "topic": "Mangalyaan's Fuel Efficiency vs. A Standard Motorcycle Mileage",
+    "status": "published",
+    "stage": "script",
+    "role": "retention",
+    "slot": "2026-10-26T20:00:00+05:30",
+    "created": "2026-10-25T13:13:15+05:30",
+    "stages": {
+      "script": "2026-10-25T13:20:06+05:30",
+      "render": "2026-10-25T13:21:56+05:30",
+      "gates": "2026-10-25T13:23:44+05:30",
+      "approved": "2026-10-25T13:43:39+05:30",
+      "upload_started": "2026-10-25T13:43:40+05:30",
+      "upload": "2026-10-25T13:43:46+05:30",
+      "published": "2026-10-26T21:06:51+05:30"
+    },
+    "youtube_id": "uuT6oc7akQE",
+    "instagram_id": null,
+    "reason": null,
+    "stage_failed": null,
+    "title": "780,000 km/kg: How India Beat Bike Mileage to Mars",
+    "alert": null,
+    "publish_at": "2026-10-26T20:00:00+05:30",
+    "verification": {
+      "ok": true,
+      "problems": [],
+      "privacy": "private",
+      "publish_at": "2026-10-26T14:30:00Z"
+    },
+    "privacy": "public",
+    "commented": true
+  },
+  {
+    "folder": "2026-10-25_133113_the-size-of-jupiters-great-red-spot-vs-planet-eart",
+    "topic": "The Size of Jupiter's Great Red Spot vs. Planet Earth",
+    "status": "quarantined",
+    "stage": "script",
+    "role": "discovery",
+    "slot": "2026-10-27T09:00:00+05:30",
+    "created": "2026-10-25T13:31:13+05:30",
+    "stages": {
+      "script": "2026-10-25T13:34:24+05:30",
+      "render": "2026-10-25T13:36:35+05:30",
+      "gates": "2026-10-25T13:36:37+05:30"
+    },
+    "youtube_id": null,
+    "instagram_id": null,
+    "reason": "quality gate: no repeated lines",
+    "stage_failed": null,
+    "title": "Fitting Planet Earth Inside Jupiter's Monster Storm"
+  },
+  {
+    "folder": "2026-10-25_133913_the-temperature-of-lightning-on-earth-vs-the-surfa",
+    "topic": "The Temperature of Lightning on Earth vs. The Surface of the Sun",
+    "status": "published",
+    "stage": "script",
+    "role": "discovery",
+    "slot": "2026-10-27T09:00:00+05:30",
+    "created": "2026-10-25T13:39:13+05:30",
+    "stages": {
+      "script": "2026-10-25T13:39:37+05:30",
+      "render": "2026-10-25T13:42:19+05:30",
+      "gates": "2026-10-25T13:42:25+05:30",
+      "approved": "2026-10-25T13:43:47+05:30",
+      "upload_started": "2026-10-25T13:43:48+05:30",
+      "upload": "2026-10-25T13:43:53+05:30",
+      "published": "2026-10-27T13:00:03+05:30"
+    },
+    "youtube_id": "pLD9VYe3l5Q",
+    "instagram_id": null,
+    "reason": null,
+    "stage_failed": null,
+    "title": "Why Lightning is 5x Hotter Than the Sun",
+    "alert": null,
+    "publish_at": "2026-10-27T09:00:00+05:30",
+    "verification": {
+      "ok": true,
+      "problems": [],
+      "privacy": "private",
+      "publish_at": "2026-10-27T03:30:00Z"
+    },
+    "privacy": "public",
+    "commented": true
+  },
+  {
+    "folder": "2026-10-25_231845_the-thickness-of-saturns-rings-vs-a-standard-crick",
+    "topic": "The Thickness of Saturn's Rings vs. A Standard Cricket Pitch",
+    "status": "quarantined",
+    "stage": "script",
+    "role": "authority",
+    "slot": "2026-10-27T15:00:00+05:30",
+    "created": "2026-10-25T23:18:45+05:30",
+    "stages": {
+      "script": "2026-10-25T23:19:02+05:30",
+      "render": "2026-10-25T23:20:05+05:30",
+      "gates": "2026-10-25T23:20:14+05:30"
+    },
+    "youtube_id": null,
+    "instagram_id": null,
+    "reason": "AI reviewer: Fails due to bizarre, completely irrelevant stock and AI visuals in the middle scenes that break immersion.",
+    "stage_failed": null,
+    "title": "Saturn’s rings are thinner than a cricket pitch"
+  },
+  {
+    "folder": "2026-10-25_232114_the-size-of-a-supermassive-black-hole-m87-vs-our-e",
+    "topic": "The Size of a Supermassive Black Hole (M87) vs. Our Entire Solar System",
+    "status": "quarantined",
+    "stage": "script",
+    "role": "authority",
+    "slot": "2026-10-27T15:00:00+05:30",
+    "created": "2026-10-25T23:21:14+05:30",
+    "stages": {
+      "script": "2026-10-25T23:21:27+05:30",
+      "render": "2026-10-25T23:22:20+05:30",
+      "gates": "2026-10-25T23:22:22+05:30"
+    },
+    "youtube_id": null,
+    "instagram_id": null,
+    "reason": "quality gate: no black frames",
+    "stage_failed": null,
+    "title": "Neptune's orbit fits inside this black hole"
+  },
+  {
+    "folder": "2026-10-25_232314_the-volume-of-earth-inside-the-sun-vs-marbles-in-a",
+    "topic": "The Volume of Earth Inside the Sun vs. Marbles in a Bucket",
+    "status": "quarantined",
+    "stage": "script",
+    "role": "authority",
+    "slot": "2026-10-27T15:00:00+05:30",
+    "created": "2026-10-25T23:23:14+05:30",
+    "stages": {
+      "script": "2026-10-25T23:23:29+05:30",
+      "render": "2026-10-25T23:24:14+05:30",
+      "gates": "2026-10-25T23:24:16+05:30"
+    },
+    "youtube_id": null,
+    "instagram_id": null,
+    "reason": "quality gate: no black frames",
+    "stage_failed": null,
+    "title": "1.3 Million Earths Fit Inside the Sun"
+  },
+  {
+    "folder": "2026-10-26_132847_the-amount-of-water-in-earths-oceans-vs-the-entire",
+    "topic": "The Amount of Water in Earth's Oceans vs. The Entire Volume of the Planet",
+    "status": "quarantined",
+    "stage": "script",
+    "role": "authority",
+    "slot": "2026-10-27T15:00:00+05:30",
+    "created": "2026-10-26T13:28:47+05:30",
+    "stages": {
+      "script": "2026-10-26T13:37:05+05:30",
+      "render": "2026-10-26T13:38:21+05:30",
+      "gates": "2026-10-26T13:38:26+05:30"
+    },
+    "youtube_id": null,
+    "instagram_id": null,
+    "reason": "quality gate: no repeated lines",
+    "stage_failed": null,
+    "title": "All Earth's Water vs The Entire Planet"
+  },
+  {
+    "folder": "2026-10-26_133826_the-number-of-stars-in-the-universe-vs-grains-of-s",
+    "topic": "The Number of Stars in the Universe vs. Grains of Sand on Earth",
+    "status": "published",
+    "stage": "script",
+    "role": "authority",
+    "slot": "2026-10-27T15:00:00+05:30",
+    "created": "2026-10-26T13:38:26+05:30",
+    "stages": {
+      "script": "2026-10-26T13:38:35+05:30",
+      "render": "2026-10-26T13:40:41+05:30",
+      "gates": "2026-10-26T13:40:50+05:30",
+      "upload_started": "2026-10-26T13:46:10+05:30",
+      "upload": "2026-10-26T13:46:33+05:30",
+      "published": "2026-10-27T21:00:04+05:30"
+    },
+    "youtube_id": "06KQPbsd9aU",
+    "instagram_id": null,
+    "reason": null,
+    "stage_failed": null,
+    "title": "Why Stars Crush Every Grain of Sand on Earth",
+    "alert": null,
+    "publish_at": "2026-10-27T15:00:00+05:30",
+    "verification": {
+      "ok": true,
+      "problems": [],
+      "privacy": "private",
+      "publish_at": "2026-10-27T09:30:00Z"
+    },
+    "privacy": "public",
+    "commented": true
+  },
+  {
+    "folder": "2026-10-26_134337_perseverance-rovers-entry-descent-and-landing-vs-a",
+    "topic": "Perseverance Rover's Entry, Descent, and Landing vs. A Commercial Flight Duration",
+    "status": "quarantined",
+    "stage": "script",
+    "role": "retention",
+    "slot": "2026-10-27T20:00:00+05:30",
+    "created": "2026-10-26T13:43:37+05:30",
+    "stages": {
+      "script": "2026-10-26T13:43:45+05:30",
+      "render": "2026-10-26T13:46:02+05:30",
+      "gates": "2026-10-26T13:46:08+05:30"
+    },
+    "youtube_id": null,
+    "instagram_id": null,
+    "reason": "quality gate: no repeated lines",
+    "stage_failed": null,
+    "title": "Mars Landing vs. A Flight's Cruising Altitude"
+  },
+  {
+    "folder": "2026-10-26_215313_the-speed-of-the-parker-solar-probe-grazing-the-su",
+    "topic": "The Speed of the Parker Solar Probe Grazing the Sun vs. A Commercial Bullet Train",
+    "status": "quarantined",
+    "stage": "script",
+    "role": "retention",
+    "slot": "2026-10-27T20:00:00+05:30",
+    "created": "2026-10-26T21:53:13+05:30",
+    "stages": {
+      "script": "2026-10-26T21:54:59+05:30",
+      "render": "2026-10-26T22:01:04+05:30",
+      "gates": "2026-10-26T22:01:13+05:30"
+    },
+    "youtube_id": null,
+    "instagram_id": null,
+    "reason": "quality gate: no repeated lines",
+    "stage_failed": null,
+    "title": "Delhi to Mumbai in 6 Seconds? Meet NASA's Fastest Probe"
+  },
+  {
+    "folder": "2026-10-26_223723_chandrayaan-3-landing-site-temperature-swing-vs-a-",
+    "topic": "Chandrayaan-3 Landing Site Temperature Swing vs. A Kitchen Oven",
+    "status": "quarantined",
+    "stage": "script",
+    "role": "retention",
+    "slot": "2026-10-27T20:00:00+05:30",
+    "created": "2026-10-26T22:37:23+05:30",
+    "stages": {
+      "script": "2026-10-26T22:38:53+05:30",
+      "render": "2026-10-26T22:44:11+05:30",
+      "gates": "2026-10-26T22:44:50+05:30"
+    },
+    "youtube_id": null,
+    "instagram_id": null,
+    "reason": "AI reviewer: Failed due to glaring visual mismatches in the opening and transition scenes, alongside weak visual quality and an unres",
+    "stage_failed": null,
+    "title": "Moon's Oven to Freezer: Chandrayaan-3's Survival"
+  },
+  {
+    "folder": "2026-10-26_225316_jwst-mirror-assembly-alignment-vs-the-width-of-a-h",
+    "topic": "JWST Mirror Assembly Alignment vs. The Width of a Human Hair",
+    "status": "failed",
+    "stage": "script",
+    "role": "retention",
+    "slot": "2026-10-27T20:00:00+05:30",
+    "created": "2026-10-26T22:53:16+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "stage_failed": "packaging",
+    "reason": "RuntimeError: All Gemini models failed: Expecting ',' delimiter: line 4 column 393 (char 470)"
+  },
+  {
+    "folder": "2026-10-27_130005_the-total-mass-of-all-human-made-satellites-in-orb",
+    "topic": "The Total Mass of All Human-Made Satellites in Orbit vs. A Loaded Mumbai Local Train",
+    "status": "published",
+    "stage": "script",
+    "role": "retention",
+    "slot": "2026-10-28T15:00:00+05:30",
+    "created": "2026-10-27T13:00:05+05:30",
+    "stages": {
+      "script": "2026-10-27T13:44:12+05:30",
+      "render": "2026-10-27T13:47:08+05:30",
+      "gates": "2026-10-27T13:47:30+05:30",
+      "upload_started": "2026-10-27T21:00:05+05:30",
+      "upload": "2026-10-27T21:00:11+05:30",
+      "published": "2026-10-28T21:00:24+05:30"
+    },
+    "youtube_id": "wCbgGDBM2lY",
+    "instagram_id": null,
+    "reason": null,
+    "stage_failed": null,
+    "title": "18 Trains vs Every Satellite in Space",
+    "music": "orbit-em.m4a",
+    "alert": null,
+    "publish_at": "2026-10-28T15:00:00+05:30",
+    "verification": {
+      "ok": true,
+      "problems": [],
+      "privacy": "private",
+      "publish_at": "2026-10-28T09:30:00Z"
+    },
+    "privacy": "public",
+    "commented": true
+  },
+  {
+    "folder": "2026-10-27_134730_the-age-of-light-from-andromeda-vs-recorded-human-",
+    "topic": "The Age of Light from Andromeda vs. Recorded Human History",
+    "status": "published",
+    "stage": "script",
+    "role": "discovery",
+    "slot": "2026-10-28T09:00:00+05:30",
+    "created": "2026-10-27T13:47:30+05:30",
+    "stages": {
+      "script": "2026-10-27T13:47:40+05:30",
+      "render": "2026-10-27T13:49:34+05:30",
+      "gates": "2026-10-27T13:49:48+05:30",
+      "upload_started": "2026-10-27T21:00:14+05:30",
+      "upload": "2026-10-27T21:00:21+05:30",
+      "published": "2026-10-28T13:00:05+05:30"
+    },
+    "youtube_id": "yylP_CNZL4g",
+    "instagram_id": null,
+    "reason": null,
+    "stage_failed": null,
+    "title": "Why 2.5 Million-Year-Old Starlight is Hitting Your Eye",
+    "music": "drift-am.m4a",
+    "alert": null,
+    "publish_at": "2026-10-28T09:00:00+05:30",
+    "verification": {
+      "ok": true,
+      "problems": [],
+      "privacy": "private",
+      "publish_at": "2026-10-28T03:30:00Z"
+    },
+    "privacy": "public",
+    "commented": true
+  },
+  {
+    "folder": "2026-10-27_134948_jwst-mirror-light-collection-vs-a-human-pupil",
+    "topic": "JWST Mirror Light Collection vs. A Human Pupil",
+    "status": "failed",
+    "stage": "script",
+    "role": "authority",
+    "slot": "2026-10-28T15:00:00+05:30",
+    "created": "2026-10-27T13:49:48+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "stage_failed": "packaging",
+    "reason": "RuntimeError: All Gemini models failed: Expecting ',' delimiter: line 4 column 357 (char 429)"
+  },
+  {
+    "folder": "2026-10-27_210615_gaganyaan-parachute-deployment-force-vs-a-breaking",
+    "topic": "Gaganyaan Parachute Deployment Force vs. A Breaking Cable",
+    "status": "published",
+    "stage": "script",
+    "role": "retention",
+    "slot": "2026-10-28T20:00:00+05:30",
+    "created": "2026-10-27T21:06:15+05:30",
+    "stages": {
+      "script": "2026-10-27T21:08:09+05:30",
+      "render": "2026-10-27T21:10:26+05:30",
+      "gates": "2026-10-27T21:10:45+05:30",
+      "upload_started": "2026-10-27T21:26:17+05:30",
+      "upload": "2026-10-27T21:26:23+05:30",
+      "published": "2026-10-28T21:00:24+05:30"
+    },
+    "youtube_id": "e6Uz9tsxTE0",
+    "instagram_id": null,
+    "reason": null,
+    "stage_failed": null,
+    "title": "8Gs of Force: Surviving ISRO Gaganyaan's Drop",
+    "music": "orbit-em.m4a",
+    "alert": null,
+    "publish_at": "2026-10-28T20:00:00+05:30",
+    "verification": {
+      "ok": true,
+      "problems": [],
+      "privacy": "private",
+      "publish_at": "2026-10-28T14:30:00Z"
+    },
+    "privacy": "public",
+    "commented": true
+  },
+  {
+    "folder": "2026-10-27_211045_the-lifespan-of-a-red-dwarf-star-vs-the-current-ag",
+    "topic": "The Lifespan of a Red Dwarf Star vs. The Current Age of the Universe",
+    "status": "published",
+    "stage": "script",
+    "role": "discovery",
+    "slot": "2026-10-29T09:00:00+05:30",
+    "created": "2026-10-27T21:10:45+05:30",
+    "stages": {
+      "script": "2026-10-27T21:11:31+05:30",
+      "render": "2026-10-27T21:14:36+05:30",
+      "gates": "2026-10-27T21:15:06+05:30",
+      "upload_started": "2026-10-27T21:26:26+05:30",
+      "upload": "2026-10-27T21:26:32+05:30",
+      "published": "2026-10-29T11:25:12+05:30"
+    },
+    "youtube_id": "EALndKHYuyk",
+    "instagram_id": null,
+    "reason": null,
+    "stage_failed": null,
+    "title": "Why Hasn't a Single Red Dwarf Star Died Yet?",
+    "music": "nebula-d.m4a",
+    "alert": null,
+    "publish_at": "2026-10-29T09:00:00+05:30",
+    "verification": {
+      "ok": true,
+      "problems": [],
+      "privacy": "private",
+      "publish_at": "2026-10-29T03:30:00Z"
+    },
+    "privacy": "public",
+    "commented": true
+  },
+  {
+    "folder": "2026-10-27_212058_isros-mars-orbiter-mission-cost-vs-a-hollywood-mov",
+    "topic": "ISRO's Mars Orbiter Mission Cost vs. A Hollywood Movie Budget",
+    "status": "withdrawn",
+    "stage": "script",
+    "role": "authority",
+    "slot": "2026-10-29T15:00:00+05:30",
+    "created": "2026-10-27T21:20:58+05:30",
+    "stages": {
+      "script": "2026-10-27T21:21:37+05:30",
+      "render": "2026-10-27T21:26:00+05:30",
+      "gates": "2026-10-27T21:26:16+05:30",
+      "upload_started": "2026-10-27T21:26:35+05:30",
+      "upload": "2026-10-27T21:26:41+05:30",
+      "withdrawn": "2026-10-29T11:25:38+05:30"
+    },
+    "youtube_id": "vK10h94wCis",
+    "instagram_id": null,
+    "reason": "withdrawn: factual error: MOM travelled ~666 million km (ISRO), narration says 400 million; also over the new 2/day cap",
+    "stage_failed": null,
+    "title": "Why Mars Cost 50% Less Than Interstellar",
+    "music": "drift-am.m4a",
+    "alert": null,
+    "publish_at": null,
+    "verification": {
+      "ok": true,
+      "problems": [],
+      "privacy": "private",
+      "publish_at": "2026-10-29T09:30:00Z"
+    },
+    "privacy": "private"
+  },
+  {
+    "folder": "2026-10-27_221529_suns-core-energy-travel-time-vs-your-morning-commu",
+    "topic": "Sun's Core Energy Travel Time vs. Your Morning Commute",
+    "status": "published",
+    "stage": "script",
+    "role": "retention",
+    "slot": "2026-10-27T23:30:00+05:30",
+    "created": "2026-10-27T22:15:29+05:30",
+    "stages": {
+      "script": "2026-10-27T22:16:24+05:30",
+      "render": "2026-10-27T22:19:51+05:30",
+      "gates": "2026-10-27T22:20:03+05:30",
+      "upload_started": "2026-10-27T22:23:47+05:30",
+      "upload": "2026-10-27T22:23:57+05:30",
+      "published": "2026-10-28T13:00:05+05:30"
+    },
+    "youtube_id": "8wUMlZ-J0sw",
+    "instagram_id": null,
+    "reason": null,
+    "stage_failed": null,
+    "title": "Why Sunlight Takes 100,000 Years to Reach You",
+    "music": "deepfield-f.m4a",
+    "alert": null,
+    "publish_at": "2026-10-27T23:30:00+05:30",
+    "verification": {
+      "ok": true,
+      "problems": [],
+      "privacy": "private",
+      "publish_at": "2026-10-27T18:00:00Z"
+    },
+    "privacy": "public",
+    "commented": true
+  },
+  {
+    "folder": "2026-10-27_222003_the-thickness-of-earths-atmosphere-vs-an-onion-ski",
+    "topic": "The Thickness of Earth's Atmosphere vs. An Onion Skin",
+    "status": "withdrawn",
+    "stage": "script",
+    "role": "discovery",
+    "slot": "2026-10-29T05:30:00+05:30",
+    "created": "2026-10-27T22:20:03+05:30",
+    "stages": {
+      "script": "2026-10-27T22:20:30+05:30",
+      "render": "2026-10-27T22:23:25+05:30",
+      "gates": "2026-10-27T22:23:45+05:30",
+      "upload_started": "2026-10-27T22:24:00+05:30",
+      "upload": "2026-10-27T22:24:09+05:30",
+      "withdrawn": "2026-10-27T22:24:56+05:30"
+    },
+    "youtube_id": "In1hD5OYnwU",
+    "instagram_id": null,
+    "reason": "withdrawn: payoff wrong: 30 km on a basketball-sized Earth is ~0.56 mm, ~5x thicker than onion skin",
+    "stage_failed": null,
+    "title": "Why Earth's Atmosphere Is Just An Onion Skin",
+    "music": "nebula-d.m4a",
+    "alert": null,
+    "publish_at": null,
+    "verification": {
+      "ok": true,
+      "problems": [],
+      "privacy": "private",
+      "publish_at": "2026-10-29T00:00:00Z"
+    }
+  },
+  {
+    "folder": "2026-10-28_134025_the-size-of-pluto-vs-the-width-of-the-united-state",
+    "topic": "The Size of Pluto vs. The Width of the United States",
+    "status": "quarantined",
+    "stage": "script",
+    "role": "discovery",
+    "slot": "2026-10-29T05:30:00+05:30",
+    "created": "2026-10-28T13:40:25+05:30",
+    "stages": {
+      "script": "2026-10-28T13:43:37+05:30",
+      "render": "2026-10-28T13:45:35+05:30",
+      "gates": "2026-10-28T13:45:43+05:30"
+    },
+    "youtube_id": null,
+    "instagram_id": null,
+    "reason": "quality gate: no black frames",
+    "stage_failed": null,
+    "title": "You Can Drive Across the Entire Planet Pluto",
+    "music": "deepfield-f.m4a"
+  },
+  {
+    "folder": "2026-10-28_134543_the-distance-to-the-nearest-star-vs-a-highway-road",
+    "topic": "The Distance to the Nearest Star vs. A Highway Road Trip",
+    "status": "published",
+    "stage": "script",
+    "role": "discovery",
+    "slot": "2026-10-29T05:30:00+05:30",
+    "created": "2026-10-28T13:45:43+05:30",
+    "stages": {
+      "script": "2026-10-28T13:46:22+05:30",
+      "render": "2026-10-28T14:14:44+05:30",
+      "gates": "2026-10-28T14:15:08+05:30",
+      "upload_started": "2026-10-28T14:17:42+05:30",
+      "upload": "2026-10-28T14:17:50+05:30",
+      "published": "2026-10-29T11:25:12+05:30"
+    },
+    "youtube_id": "4rTETbscT-o",
+    "instagram_id": null,
+    "reason": null,
+    "stage_failed": null,
+    "title": "Why Driving to the Nearest Star Takes 47 Million Years",
+    "music": "orbit-em.m4a",
+    "alert": null,
+    "publish_at": "2026-10-29T05:30:00+05:30",
+    "verification": {
+      "ok": true,
+      "problems": [],
+      "privacy": "private",
+      "publish_at": "2026-10-29T00:00:00Z"
+    },
+    "privacy": "public",
+    "commented": true
+  },
+  {
+    "folder": "2026-10-28_141508_the-width-of-the-kuiper-belt-vs-driving-across-ame",
+    "topic": "The Width of the Kuiper Belt vs. Driving Across America",
+    "status": "published",
+    "stage": "script",
+    "role": "discovery",
+    "slot": "2026-10-30T05:30:00+05:30",
+    "created": "2026-10-28T14:15:08+05:30",
+    "stages": {
+      "script": "2026-10-28T14:15:23+05:30",
+      "render": "2026-10-28T14:17:30+05:30",
+      "gates": "2026-10-28T14:17:41+05:30",
+      "upload_started": "2026-10-28T14:17:53+05:30",
+      "upload": "2026-10-28T14:17:58+05:30",
+      "published": "2026-10-30T13:08:35+05:30"
+    },
+    "youtube_id": "bqO7avYWuRk",
+    "instagram_id": null,
+    "reason": null,
+    "stage_failed": null,
+    "title": "Drive Across America 660,000 Times to Match This",
+    "music": "orbit-em.m4a",
+    "alert": null,
+    "publish_at": "2026-10-30T05:30:00+05:30",
+    "verification": {
+      "ok": true,
+      "problems": [],
+      "privacy": "private",
+      "publish_at": "2026-10-30T00:00:00Z"
+    },
+    "privacy": "public",
+    "commented": true
+  },
+  {
+    "folder": "2026-10-28_210024_the-amount-of-empty-space-inside-atoms-vs-the-sola",
+    "topic": "The Amount of Empty Space Inside Atoms vs. The Solar System",
+    "status": "failed",
+    "stage": "script",
+    "role": "authority",
+    "slot": "2026-10-30T17:30:00+05:30",
+    "created": "2026-10-28T21:00:24+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "stage_failed": "packaging",
+    "reason": "RuntimeError: All Gemini models failed: The read operation timed out"
+  },
+  {
+    "folder": "2026-10-29_130004_hubble-space-telescopes-mirror-precision-vs-the-si",
+    "topic": "Hubble Space Telescope's Mirror Precision vs. The Size of the United States",
+    "status": "failed",
+    "stage": "script",
+    "role": "retention",
+    "slot": "2026-10-30T23:30:00+05:30",
+    "created": "2026-10-29T13:00:04+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "stage_failed": "verify",
+    "reason": "RuntimeError: All Gemini models failed: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usa"
+  },
+  {
+    "folder": "2026-10-30_130838_talking-to-a-mars-rover-vs-a-live-sports-broadcast",
+    "topic": "Talking to a Mars Rover vs. A Live Sports Broadcast",
+    "status": "failed",
+    "stage": "script",
+    "role": "retention",
+    "slot": "2026-10-30T23:30:00+05:30",
+    "created": "2026-10-30T13:08:38+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "stage_failed": "script",
+    "reason": "RuntimeError: All Gemini models failed: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}"
+  },
+  {
+    "folder": "2026-10-30_204249_the-mass-of-the-asteroid-that-ended-the-dinosaurs-",
+    "topic": "The Mass of the Asteroid That Ended the Dinosaurs vs. A Mountain",
+    "status": "failed",
+    "stage": "script",
+    "role": "retention",
+    "slot": "2026-10-30T23:30:00+05:30",
+    "created": "2026-10-30T20:42:49+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "stage_failed": "script",
+    "reason": "RuntimeError: All Gemini models failed: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usa"
+  },
+  {
+    "folder": "2026-10-31_130007_the-rate-at-which-the-moon-is-spiraling-away-from-",
+    "topic": "The Rate at Which the Moon is Spiraling Away From Earth vs. Fingernail Growth",
+    "status": "failed",
+    "stage": "script",
+    "role": "authority",
+    "slot": "2026-10-31T23:30:00+05:30",
+    "created": "2026-10-31T13:00:07+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "stage_failed": "verify",
+    "reason": "ValueError: independent check still failing after repair: In 4.5 billion years the Moon will be about 170,000 km farth (misleading); Your Fingernail Growth Matches the Moon's Drift (misleading)"
+  },
+  {
+    "folder": "2026-10-31_131657_the-distance-light-travels-in-one-second-vs-the-ea",
+    "topic": "The Distance Light Travels in One Second vs. The Earth's Circumference",
+    "status": "failed",
+    "stage": "script",
+    "role": "authority",
+    "slot": "2026-10-31T23:30:00+05:30",
+    "created": "2026-10-31T13:16:57+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "stage_failed": "verify",
+    "reason": "ValueError: independent check still failing after repair: Light can travel from New York to Los Angeles in about 0.01  (misleading); A finger snap lasts about 0.2 seconds. (narrated 0.2 vs independent 0.15 s)"
+  },
+  {
+    "folder": "2026-11-01_132548_the-depth-of-liquid-methane-oceans-on-saturns-moon",
+    "topic": "The Depth of Liquid Methane Oceans on Saturn's Moon Titan vs. Earth's Oceans",
+    "status": "quarantined",
+    "stage": "script",
+    "role": "discovery",
+    "slot": "2026-11-01T23:30:00+05:30",
+    "created": "2026-11-01T13:25:48+05:30",
+    "stages": {
+      "script": "2026-11-01T13:31:45+05:30",
+      "render": "2026-11-01T13:33:46+05:30",
+      "gates": "2026-11-01T13:37:09+05:30"
+    },
+    "youtube_id": null,
+    "instagram_id": null,
+    "reason": "AI reviewer: Fails review: a caption error in Scene 7 mislabels Earth’s ocean depth as Titan’s, dropping accuracy below the passing t",
+    "stage_failed": null,
+    "title": "Titan’s 1,000-Foot Methane Sea Could Drown the Eiffel Tower",
+    "music": "orbit-em.m4a"
+  },
+  {
+    "folder": "2026-11-01_133709_earths-magnetic-field-vs-an-invisible-force-field",
+    "topic": "Earth's Magnetic Field vs. An Invisible Force Field",
+    "status": "failed",
+    "stage": "script",
+    "role": "discovery",
+    "slot": "2026-11-01T23:30:00+05:30",
+    "created": "2026-11-01T13:37:09+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "stage_failed": "verify",
+    "reason": "ValueError: independent check still failing after repair: billions of tons of lethal solar plasma (misleading)"
+  },
+  {
+    "folder": "2026-11-01_211130_the-distance-between-stars-vs-two-basketballs-on-d",
+    "topic": "The Distance Between Stars vs. Two Basketballs on Different Continents",
+    "status": "failed",
+    "stage": "script",
+    "role": "discovery",
+    "slot": "2026-11-01T23:30:00+05:30",
+    "created": "2026-11-01T21:11:30+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "stage_failed": "script",
+    "reason": "RuntimeError: Script came back too short, try again"
+  },
+  {
+    "folder": "2026-11-01_221302_all-the-gold-ever-mined-vs-four-olympic-swimming-p",
+    "topic": "All the Gold Ever Mined vs. Four Olympic Swimming Pools",
+    "status": "failed",
+    "stage": "script",
+    "role": "discovery",
+    "slot": "2026-11-01T23:30:00+05:30",
+    "created": "2026-11-01T22:13:02+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "stage_failed": "verify",
+    "reason": "ValueError: independent check still failing after repair: Four Olympic swimming pools can hold 212,000 tonnes of gold (misleading); All gold ever mined totals roughly 212,000 metric tonnes (wrong); All gold ever mined is about 6.8 billion troy ounces (wrong)"
+  },
+  {
+    "folder": "2026-11-03_142009_the-surface-area-of-pluto-vs-the-country-of-russia",
+    "topic": "The Surface Area of Pluto vs. The Country of Russia",
+    "status": "failed",
+    "stage": "script",
+    "role": "authority",
+    "slot": "2026-11-03T23:30:00+05:30",
+    "pillar": "Planets & moons",
+    "selection": {
+      "role": "authority",
+      "base_score": 33.5,
+      "multiplier": 0.99,
+      "parts": {
+        "pillar_role": 1.0,
+        "question_hook": 0.99,
+        "number_hook": 1.01,
+        "big_number_hook": 0.99,
+        "long_hook": 1.0
+      },
+      "final": 33.16,
+      "runner_up": [
+        {
+          "topic": "The Density of a Black Hole Singularity vs. The Entire Earth",
+          "final": 33.16
+        },
+        {
+          "topic": "The Pressure at the Center of Jupiter vs. Earth's Deepest Oc",
+          "final": 32.67
+        }
+      ]
+    },
+    "created": "2026-11-03T14:20:09+05:30",
+    "stages": {
+      "script": "2026-11-03T14:30:01+05:30"
+    },
+    "youtube_id": null,
+    "instagram_id": null,
+    "stage_failed": "visuals",
+    "reason": "ValueError: visual grounding: scene 2: MISMATCH (narration is about pluto; the image is of earth, mars)"
+  },
+  {
+    "folder": "2026-11-03_210003_the-density-of-a-black-hole-singularity-vs-the-ent",
+    "topic": "The Density of a Black Hole Singularity vs. The Entire Earth",
+    "status": "failed",
+    "stage": "script",
+    "role": "authority",
+    "slot": "2026-11-03T23:30:00+05:30",
+    "pillar": "Stars & black holes",
+    "selection": {
+      "role": "authority",
+      "base_score": 33.5,
+      "multiplier": 0.99,
+      "parts": {
+        "pillar_role": 1.0,
+        "question_hook": 1.0,
+        "number_hook": 1.01,
+        "big_number_hook": 0.99,
+        "long_hook": 0.99
+      },
+      "final": 33.16,
+      "runner_up": [
+        {
+          "topic": "The Pressure at the Center of Jupiter vs. Earth's Deepest Oc",
+          "final": 32.67
+        },
+        {
+          "topic": "The Volume of All Asteroids in the Main Belt Combined vs. A ",
+          "final": 32.67
+        }
+      ]
+    },
+    "visual_precheck": null,
+    "created": "2026-11-03T21:00:03+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "stage_failed": "verify",
+    "reason": "ValueError: independent check still failing after repair: Marble 0.018 km (wrong); 10 in: A 10‑solar‑mass black hole contains roughly 2×10^31 k (number not checked (no ledger entry states it)); 2 in: A 10‑solar‑mass black hole contains roughly 2×10^31 kg (number not checked (no ledger entry states i"
+  },
+  {
+    "folder": "2026-11-03_211817_the-pressure-at-the-center-of-jupiter-vs-earths-de",
+    "topic": "The Pressure at the Center of Jupiter vs. Earth's Deepest Ocean Trench",
+    "status": "quarantined",
+    "stage": "script",
+    "role": "authority",
+    "slot": "2026-11-03T23:30:00+05:30",
+    "pillar": "Planets & moons",
+    "selection": {
+      "role": "authority",
+      "base_score": 33.0,
+      "multiplier": 0.99,
+      "parts": {
+        "pillar_role": 1.0,
+        "question_hook": 1.0,
+        "number_hook": 1.01,
+        "big_number_hook": 0.99,
+        "long_hook": 0.99
+      },
+      "final": 32.67,
+      "runner_up": [
+        {
+          "topic": "The Volume of All Asteroids in the Main Belt Combined vs. A ",
+          "final": 32.67
+        },
+        {
+          "topic": "The Mass Lost by the Sun Every Second Through Fusion vs. A L",
+          "final": 32.67
+        }
+      ]
+    },
+    "visual_precheck": null,
+    "created": "2026-11-03T21:18:17+05:30",
+    "stages": {
+      "script": "2026-11-03T21:18:17+05:30",
+      "render": "2026-11-03T21:21:31+05:30",
+      "gates": "2026-11-03T21:22:35+05:30"
+    },
+    "youtube_id": null,
+    "instagram_id": null,
+    "reason": "AI reviewer: visual grounding failed: scene 1: MISMATCH (metadata doesn't name the subject (Jupiter core)). The narration's math chec",
+    "stage_failed": null,
+    "title": "Jupiter's Core: Extreme Pressure Crush",
+    "music": "nebula-d.m4a"
+  },
+  {
+    "folder": "2026-11-03_212235_the-mass-lost-by-the-sun-every-second-through-fusi",
+    "topic": "The Mass Lost by the Sun Every Second Through Fusion vs. A Loaded Cargo Ship",
+    "status": "failed",
+    "stage": "script",
+    "role": "authority",
+    "slot": "2026-11-03T23:30:00+05:30",
+    "pillar": "Stars & black holes",
+    "selection": {
+      "role": "authority",
+      "base_score": 33.0,
+      "multiplier": 0.99,
+      "parts": {
+        "pillar_role": 1.0,
+        "question_hook": 1.0,
+        "number_hook": 1.01,
+        "big_number_hook": 0.99,
+        "long_hook": 0.99
+      },
+      "final": 32.67,
+      "runner_up": [
+        {
+          "topic": "Voyager 1's Data Storage vs. A Modern Smartphone",
+          "final": 32.26
+        },
+        {
+          "topic": "The Rate at Which the Universe is Expanding vs. A Football F",
+          "final": 31.18
+        }
+      ]
+    },
+    "visual_precheck": null,
+    "created": "2026-11-03T21:22:35+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "stage_failed": "verify",
+    "reason": "ValueError: independent check still failing after repair: Over roughly 10 billion years the Sun will lose about 1×10^2 (narrated 999,999,999,999,999,983,222,784 vs independent 1,350,000,000,000,000,00); If the Sun stopped losing mass, what would happen to the sun (quote with no document stating it; "
+  },
+  {
+    "folder": "2026-11-03_212707_voyager-1s-data-storage-vs-a-modern-smartphone",
+    "topic": "Voyager 1's Data Storage vs. A Modern Smartphone",
+    "status": "failed",
+    "stage": "script",
+    "role": "authority",
+    "slot": "2026-11-03T23:30:00+05:30",
+    "pillar": "Missions (ISRO, NASA, ESA)",
+    "selection": {
+      "role": "authority",
+      "base_score": 34.5,
+      "multiplier": 0.935,
+      "parts": {
+        "pillar_role": 1.0,
+        "question_hook": 1.07,
+        "number_hook": 0.96,
+        "big_number_hook": 0.91,
+        "long_hook": 1.0
+      },
+      "final": 32.26,
+      "runner_up": [
+        {
+          "topic": "The Rate at Which the Universe is Expanding vs. A Football F",
+          "final": 31.18
+        },
+        {
+          "topic": "The Intensity of Cosmic Radiation Passing Through Interplane",
+          "final": 30.2
+        }
+      ]
+    },
+    "visual_precheck": null,
+    "created": "2026-11-03T21:27:07+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "stage_failed": "verify",
+    "reason": "ValueError: independent check still failing after repair: Voyager 1 is among the farthest human‑made objects. (superlative with no document stating it; a model's word isn't enough); Voyager 1 beams science data back to Earth daily. (misleading); Voyager’s memory stack is 0.007 meter tall. (unverifia"
+  },
+  {
+    "folder": "2026-11-04_142002_the-moon-vs-the-width-of-the-united-states",
+    "topic": "The Moon vs. The Width of the United States",
+    "status": "failed",
+    "stage": "script",
+    "role": "discovery",
+    "slot": "2026-11-04T23:30:00+05:30",
+    "pillar": "Cosmic scale comparisons",
+    "selection": {
+      "role": "discovery",
+      "base_score": 46.5,
+      "multiplier": 1.018,
+      "parts": {
+        "pillar_role": 0.97,
+        "question_hook": 1.05,
+        "number_hook": 1.01,
+        "big_number_hook": 0.99,
+        "long_hook": 1.0
+      },
+      "final": 47.34,
+      "runner_up": [
+        {
+          "topic": "How Many Times Light Could Circle Earth in One Second",
+          "final": 43.11
+        },
+        {
+          "topic": "The Energy of a Magnetar Flare in One Second vs. All the Ele",
+          "final": 33.12
+        }
+      ]
+    },
+    "visual_precheck": null,
+    "created": "2026-11-04T14:20:02+05:30",
+    "stages": {
+      "script": "2026-11-04T14:27:35+05:30"
+    },
+    "youtube_id": null,
+    "instagram_id": null,
+    "stage_failed": "voice",
+    "reason": "RuntimeError: Edge TTS failed 3 times",
+    "resumable": true
+  },
+  {
+    "folder": "2026-11-04_143214_the-moon-vs-the-width-of-the-united-states",
+    "topic": "The Moon vs. The Width of the United States",
+    "status": "quarantined",
+    "stage": "script",
+    "role": "discovery",
+    "slot": "2026-11-04T23:30:00+05:30",
+    "pillar": "Cosmic scale comparisons",
+    "selection": {
+      "role": "discovery",
+      "base_score": 46.5,
+      "multiplier": 1.018,
+      "parts": {
+        "pillar_role": 0.97,
+        "question_hook": 1.05,
+        "number_hook": 1.01,
+        "big_number_hook": 0.99,
+        "long_hook": 1.0
+      },
+      "final": 47.34,
+      "runner_up": [
+        {
+          "topic": "How Many Times Light Could Circle Earth in One Second",
+          "final": 43.11
+        },
+        {
+          "topic": "The Energy of a Magnetar Flare in One Second vs. All the Ele",
+          "final": 33.12
+        }
+      ]
+    },
+    "visual_precheck": null,
+    "created": "2026-11-04T14:32:14+05:30",
+    "stages": {
+      "script": "2026-11-04T14:32:14+05:30",
+      "render": "2026-11-04T14:34:01+05:30",
+      "gates": "2026-11-04T14:34:12+05:30"
+    },
+    "youtube_id": null,
+    "instagram_id": null,
+    "reason": "quality gate: duration",
+    "stage_failed": null,
+    "title": "US Coast‑to‑Coast Drive Exceeds Moon’s Diameter",
+    "music": "deepfield-f.m4a"
+  },
+  {
+    "folder": "2026-11-04_143412_how-many-times-light-could-circle-earth-in-one-sec",
+    "topic": "How Many Times Light Could Circle Earth in One Second",
+    "status": "failed",
+    "stage": "script",
+    "role": "discovery",
+    "slot": "2026-11-04T23:30:00+05:30",
+    "pillar": "Weird physics & light",
+    "selection": {
+      "role": "discovery",
+      "base_score": 45.0,
+      "multiplier": 0.958,
+      "parts": {
+        "pillar_role": 0.97,
+        "question_hook": 1.05,
+        "number_hook": 0.95,
+        "big_number_hook": 0.99,
+        "long_hook": 1.0
+      },
+      "final": 43.11,
+      "runner_up": [
+        {
+          "topic": "The Energy of a Magnetar Flare in One Second vs. All the Ele",
+          "final": 33.12
+        },
+        {
+          "topic": "The Rotation Speed of Pulsars vs. A Standard Kitchen Blender",
+          "final": 32.16
+        }
+      ]
+    },
+    "visual_precheck": null,
+    "created": "2026-11-04T14:34:12+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "stage_failed": "verify",
+    "reason": "ValueError: independent check still failing after repair: 1 s in: How many laps could a basketball circle Earth in one (number not checked (no ledger entry states it)); 1 s in: Divide light’s one‑second journey by Earth’s girth a (number not checked (no ledger entry states it)); 200 mph in: Even a c"
+  },
+  {
+    "folder": "2026-11-04_143934_the-energy-of-a-magnetar-flare-in-one-second-vs-al",
+    "topic": "The Energy of a Magnetar Flare in One Second vs. All the Electricity Humans Make",
+    "status": "failed",
+    "stage": "script",
+    "role": "discovery",
+    "slot": "2026-11-04T23:30:00+05:30",
+    "pillar": "Stars & black holes",
+    "selection": {
+      "role": "discovery",
+      "base_score": 34.5,
+      "multiplier": 0.96,
+      "parts": {
+        "pillar_role": 0.97,
+        "question_hook": 1.0,
+        "number_hook": 1.01,
+        "big_number_hook": 0.99,
+        "long_hook": 0.99
+      },
+      "final": 33.12,
+      "runner_up": [
+        {
+          "topic": "The Rotation Speed of Pulsars vs. A Standard Kitchen Blender",
+          "final": 32.16
+        },
+        {
+          "topic": "The Daily Data Output of the James Webb Space Telescope vs. ",
+          "final": 32.16
+        }
+      ]
+    },
+    "visual_precheck": null,
+    "created": "2026-11-04T14:39:34+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "stage_failed": "verify",
+    "reason": "ValueError: independent check still failing after repair: packing a Sun‑mass into a city‑size sphere (misleading); magnetic fields on the order of 10^14–10^15 times Earth's (narrated 100,000,000,000,000 vs independent 200,000,000,000,000 times Earth's fi); magnetic fields on the order of 10^14–10^15"
+  },
+  {
+    "folder": "2026-11-04_155210_the-moon-vs-the-width-of-the-united-states",
+    "topic": "The Moon vs. The Width of the United States",
+    "status": "quarantined",
+    "stage": "script",
+    "role": "discovery",
+    "slot": null,
+    "pillar": "Cosmic scale comparisons",
+    "selection": null,
+    "visual_precheck": null,
+    "created": "2026-11-04T15:52:10+05:30",
+    "stages": {
+      "script": "2026-11-04T15:52:10+05:30",
+      "render": "2026-11-04T15:53:27+05:30",
+      "gates": "2026-11-04T15:53:36+05:30"
+    },
+    "youtube_id": null,
+    "instagram_id": null,
+    "reason": "quality gate: no black frames",
+    "stage_failed": null,
+    "title": "US Coast‑to‑Coast Drive Exceeds Moon’s Diameter",
+    "music": "nebula-d.m4a"
+  },
+  {
+    "folder": "2026-11-04_155804_the-moon-vs-the-width-of-the-united-states",
+    "topic": "The Moon vs. The Width of the United States",
+    "status": "quarantined",
+    "stage": "script",
+    "role": "discovery",
+    "slot": null,
+    "pillar": "Cosmic scale comparisons",
+    "selection": null,
+    "visual_precheck": null,
+    "created": "2026-11-04T15:58:04+05:30",
+    "stages": {
+      "script": "2026-11-04T15:58:04+05:30",
+      "render": "2026-11-04T15:59:25+05:30",
+      "gates": "2026-11-04T16:00:44+05:30"
+    },
+    "youtube_id": null,
+    "instagram_id": null,
+    "reason": "AI reviewer: visual grounding failed: scene 0: MISMATCH (metadata names the subject (moon)). The narration and numbers are accurate, ",
+    "stage_failed": null,
+    "title": "US Coast‑to‑Coast Drive Exceeds Moon’s Diameter",
+    "music": "deepfield-f.m4a"
+  },
+  {
+    "folder": "2026-11-04_210007_the-rotation-speed-of-pulsars-vs-a-standard-kitche",
+    "topic": "The Rotation Speed of Pulsars vs. A Standard Kitchen Blender",
+    "status": "failed",
+    "stage": "script",
+    "role": "discovery",
+    "slot": "2026-11-04T23:30:00+05:30",
+    "pillar": "Stars & black holes",
+    "selection": {
+      "role": "discovery",
+      "base_score": 33.5,
+      "multiplier": 0.96,
+      "parts": {
+        "pillar_role": 0.97,
+        "question_hook": 1.0,
+        "number_hook": 1.01,
+        "big_number_hook": 0.99,
+        "long_hook": 0.99
+      },
+      "final": 32.16,
+      "runner_up": [
+        {
+          "topic": "The Daily Data Output of the James Webb Space Telescope vs. ",
+          "final": 32.16
+        },
+        {
+          "topic": "The Vacuum of Space vs. Earth's Highest Mountain Peak",
+          "final": 30.72
+        }
+      ]
+    },
+    "visual_precheck": null,
+    "created": "2026-11-04T21:00:07+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "stage_failed": "verify",
+    "reason": "ValueError: independent check still failing after repair: Pulsar 20 km (sources disagree (20, 10, 30 km) but the narration states 20 as fact); This is PSR J1748‑2446ad, the fastest known spinning pulsar (no document evidence (4 unresolved claims; at most 2 per video): support it, sof); Some pulsars "
+  },
+  {
+    "folder": "2026-11-04_211620_the-daily-data-output-of-the-james-webb-space-tele",
+    "topic": "The Daily Data Output of the James Webb Space Telescope vs. A Smartphone Memory Card",
+    "status": "failed",
+    "stage": "script",
+    "role": "discovery",
+    "slot": "2026-11-04T23:30:00+05:30",
+    "pillar": "Missions (ISRO, NASA, ESA)",
+    "selection": {
+      "role": "discovery",
+      "base_score": 33.5,
+      "multiplier": 0.96,
+      "parts": {
+        "pillar_role": 0.97,
+        "question_hook": 1.0,
+        "number_hook": 1.01,
+        "big_number_hook": 0.99,
+        "long_hook": 0.99
+      },
+      "final": 32.16,
+      "runner_up": [
+        {
+          "topic": "The Vacuum of Space vs. Earth's Highest Mountain Peak",
+          "final": 30.72
+        },
+        {
+          "topic": "The Speed of Solar Flares vs. A Commercial Jetliner",
+          "final": 30.72
+        }
+      ]
+    },
+    "visual_precheck": null,
+    "created": "2026-11-04T21:16:20+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "stage_failed": "verify",
+    "reason": "ValueError: independent check still failing after repair: Each 4-hour contact can transmit about 50 GB (narrated 4 vs independent 50.4 GB); JWST records 150–300 exposures per day (no independent value for a narrated number); Each exposure is around 100–150 MB (no independent value for a narrated num"
+  },
+  {
+    "folder": "2026-11-04_212404_the-vacuum-of-space-vs-earths-highest-mountain-pea",
+    "topic": "The Vacuum of Space vs. Earth's Highest Mountain Peak",
+    "status": "failed",
+    "stage": "script",
+    "role": "discovery",
+    "slot": "2026-11-04T23:30:00+05:30",
+    "pillar": "Weird physics & light",
+    "selection": {
+      "role": "discovery",
+      "base_score": 32.0,
+      "multiplier": 0.96,
+      "parts": {
+        "pillar_role": 0.97,
+        "question_hook": 1.0,
+        "number_hook": 1.01,
+        "big_number_hook": 0.99,
+        "long_hook": 0.99
+      },
+      "final": 30.72,
+      "runner_up": [
+        {
+          "topic": "The Speed of Solar Flares vs. A Commercial Jetliner",
+          "final": 30.72
+        },
+        {
+          "topic": "The Size of a Supernova Remnant (Crab Nebula) vs. Interstell",
+          "final": 28.63
+        }
+      ]
+    },
+    "visual_precheck": null,
+    "created": "2026-11-04T21:24:04+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "stage_failed": "verify",
+    "reason": "ValueError: independent check still failing after repair: 300 in: Above the Kármán line (100 km), pressure is about th (number not checked (no ledger entry states it)); If you dropped a sealed water bottle on Everest vs in space, (comment states more than the narration: first)"
+  },
+  {
+    "folder": "2026-11-05_013927_a-day-on-venus-vs-a-year-on-venus",
+    "topic": "A Day on Venus vs. A Year on Venus",
+    "status": "failed",
+    "stage": "script",
+    "role": "authority",
+    "slot": "2026-11-05T05:30:00+05:30",
+    "pillar": "Planets & moons",
+    "selection": {
+      "role": "authority",
+      "base_score": 46.5,
+      "multiplier": 0.85,
+      "parts": {
+        "pillar_role": 1.0,
+        "question_hook": 1.0,
+        "number_hook": 1.01,
+        "big_number_hook": 0.99,
+        "long_hook": 1.0,
+        "repeat_pillar": 0.85
+      },
+      "final": 39.52,
+      "runner_up": [
+        {
+          "topic": "One Year on Neptune vs. The Time Since We Discovered It",
+          "final": 39.01
+        },
+        {
+          "topic": "The Intensity of Cosmic Radiation Passing Through Interplane",
+          "final": 30.2
+        }
+      ]
+    },
+    "visual_precheck": null,
+    "created": "2026-11-05T01:39:27+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "stage_failed": "verify",
+    "reason": "ValueError: independent check still failing after repair: Venus rotates backwards (no document evidence (3 unresolved claims; at most 2 per video): support it, sof)"
+  },
+  {
+    "folder": "2026-11-05_015713_one-year-on-neptune-vs-the-time-since-we-discovere",
+    "topic": "One Year on Neptune vs. The Time Since We Discovered It",
+    "status": "failed",
+    "stage": "script",
+    "role": "authority",
+    "slot": "2026-11-05T05:30:00+05:30",
+    "pillar": "Planets & moons",
+    "selection": {
+      "role": "authority",
+      "base_score": 46.5,
+      "multiplier": 0.839,
+      "parts": {
+        "pillar_role": 1.0,
+        "question_hook": 1.05,
+        "number_hook": 0.95,
+        "big_number_hook": 0.99,
+        "long_hook": 1.0,
+        "repeat_pillar": 0.85
+      },
+      "final": 39.01,
+      "runner_up": [
+        {
+          "topic": "The Intensity of Cosmic Radiation Passing Through Interplane",
+          "final": 30.2
+        },
+        {
+          "topic": "The Sound Wave Frequency of a Perseus Galaxy Cluster Black H",
+          "final": 29.79
+        }
+      ]
+    },
+    "visual_precheck": null,
+    "created": "2026-11-05T01:57:13+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "stage_failed": "verify",
+    "reason": "ValueError: independent check still failing after repair: A single Neptunian year is almost as long as the entire time (no document evidence (3 unresolved claims; at most 2 per video): support it, sof); 70 mph in: Driving coast‑to‑coast across the US at about 70  (number not checked (no ledger entry"
+  },
+  {
+    "folder": "2026-11-05_021221_the-intensity-of-cosmic-radiation-passing-through-",
+    "topic": "The Intensity of Cosmic Radiation Passing Through Interplanetary Space vs. A Medical X-Ray",
+    "status": "failed",
+    "stage": "script",
+    "role": "authority",
+    "slot": "2026-11-05T05:30:00+05:30",
+    "pillar": "Weird physics & light",
+    "selection": {
+      "role": "authority",
+      "base_score": 30.5,
+      "multiplier": 0.99,
+      "parts": {
+        "pillar_role": 1.0,
+        "question_hook": 1.0,
+        "number_hook": 1.01,
+        "big_number_hook": 0.99,
+        "long_hook": 0.99
+      },
+      "final": 30.2,
+      "runner_up": [
+        {
+          "topic": "The Sound Wave Frequency of a Perseus Galaxy Cluster Black H",
+          "final": 29.79
+        },
+        {
+          "topic": "The Decay Rate of Radioactive Isotopes on the Moon vs. A Sto",
+          "final": 28.71
+        }
+      ]
+    },
+    "visual_precheck": null,
+    "created": "2026-11-05T02:12:21+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "stage_failed": "verify",
+    "reason": "ValueError: independent check still failing after repair: On-screen headline: '18 HOSPITAL X-RAYS EVERY SINGLE DAY' (sources disagree (18, 90 count) but the title states 18 as fact); Earth Daily Dose 0.01 mSv (sources disagree (0.008, 0.006, 0.01 mSv/day) but the narration states 0.01 as f); Deep sp"
+  },
+  {
+    "folder": "2026-11-05_101251_apollo-13-oxygen-tank-explosion",
+    "topic": "Apollo 13 Oxygen Tank Explosion",
+    "status": "failed",
+    "stage": "script",
+    "role": "retention",
+    "slot": "2026-11-05T23:30:00+05:30",
+    "pillar": "Missions in danger (Apollo, ISS, Voyager, Artemis)",
+    "selection": {
+      "role": "retention",
+      "base_score": 46.0,
+      "multiplier": 0.969,
+      "parts": {
+        "pillar_role": 1.0,
+        "question_hook": 1.03,
+        "number_hook": 0.95,
+        "big_number_hook": 0.99,
+        "long_hook": 1.0
+      },
+      "final": 44.57,
+      "runner_up": [
+        {
+          "topic": "Voyager 1 Gold Record Longevity",
+          "final": 40.8
+        }
+      ]
+    },
+    "visual_precheck": null,
+    "created": "2026-11-05T10:12:51+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "stage_failed": "verify",
+    "reason": "ValueError: independent check still failing after repair: The blast blew off an outer panel (wrong); They built an air filter using duct tape (misleading); The blast caused oxygen to leak (no document evidence (5 unresolved claims; at most 2 per video): support it, sof)"
+  },
+  {
+    "folder": "2026-11-05_114628_voyager-1-gold-record-longevity",
+    "topic": "Voyager 1 Gold Record Longevity",
+    "status": "failed",
+    "stage": "script",
+    "role": "retention",
+    "slot": "2026-11-05T23:30:00+05:30",
+    "pillar": "Missions in danger (Apollo, ISS, Voyager, Artemis)",
+    "selection": {
+      "role": "retention",
+      "base_score": 40.0,
+      "multiplier": 1.02,
+      "parts": {
+        "pillar_role": 1.0,
+        "question_hook": 1.03,
+        "number_hook": 1.0,
+        "big_number_hook": 0.99,
+        "long_hook": 1.0
+      },
+      "final": 40.8,
+      "runner_up": []
+    },
+    "visual_precheck": null,
+    "created": "2026-11-05T11:46:28+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "reason": "interrupted: the run ended before this video finished (sleep/crash); nothing was uploaded",
+    "stage_failed": "script"
+  },
+  {
+    "folder": "2026-11-05_122019_saturn-density-vs-water",
+    "topic": "Saturn Density vs Water",
+    "status": "failed",
+    "stage": "script",
+    "role": "retention",
+    "slot": "2026-11-05T23:30:00+05:30",
+    "pillar": "Famous objects, one impossible fact",
+    "selection": {
+      "role": "retention",
+      "base_score": 47.5,
+      "multiplier": 0.969,
+      "parts": {
+        "pillar_role": 0.95,
+        "question_hook": 1.03,
+        "number_hook": 1.0,
+        "big_number_hook": 0.99,
+        "long_hook": 1.0
+      },
+      "final": 46.03,
+      "runner_up": [
+        {
+          "topic": "Mangalyaan Mars Mission Budget",
+          "final": 42.64
+        },
+        {
+          "topic": "JWST Mirror Gold Coating",
+          "final": 42.33
+        }
+      ]
+    },
+    "visual_precheck": null,
+    "created": "2026-11-05T12:20:19+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "reason": "interrupted: the run ended before this video finished (sleep/crash); nothing was uploaded",
+    "stage_failed": "script"
+  },
+  {
+    "folder": "2026-11-05_123118_mangalyaan-mars-mission-budget",
+    "topic": "Mangalyaan Mars Mission Budget",
+    "status": "failed",
+    "stage": "script",
+    "role": "retention",
+    "slot": "2026-11-05T23:30:00+05:30",
+    "pillar": "ISRO & India in space",
+    "selection": {
+      "role": "retention",
+      "base_score": 44.0,
+      "multiplier": 0.969,
+      "parts": {
+        "pillar_role": 0.95,
+        "question_hook": 1.03,
+        "number_hook": 1.0,
+        "big_number_hook": 0.99,
+        "long_hook": 1.0
+      },
+      "final": 42.64,
+      "runner_up": [
+        {
+          "topic": "JWST Mirror Gold Coating",
+          "final": 42.33
+        },
+        {
+          "topic": "Apollo 11 Computer Memory",
+          "final": 42.15
+        }
+      ]
+    },
+    "visual_precheck": null,
+    "created": "2026-11-05T12:31:18+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "stage_failed": "verify",
+    "reason": "ValueError: independent check still failing after repair: first mission to do so (wrong); Journey distance 666000000 km (misleading); India reached Mars orbit in 2014 (no document evidence (4 unresolved claims; at most 2 per video): support it, sof)"
+  },
+  {
+    "folder": "2026-11-05_131722_jwst-mirror-gold-coating",
+    "topic": "JWST Mirror Gold Coating",
+    "status": "failed",
+    "stage": "script",
+    "role": "retention",
+    "slot": "2026-11-05T23:30:00+05:30",
+    "pillar": "Famous objects, one impossible fact",
+    "selection": {
+      "role": "retention",
+      "base_score": 41.5,
+      "multiplier": 1.02,
+      "parts": {
+        "pillar_role": 1.0,
+        "question_hook": 1.03,
+        "number_hook": 1.0,
+        "big_number_hook": 0.99,
+        "long_hook": 1.0
+      },
+      "final": 42.33,
+      "runner_up": [
+        {
+          "topic": "Apollo 11 Computer Memory",
+          "final": 42.15
+        },
+        {
+          "topic": "All Earth's Oceans Sphere Scale",
+          "final": 41.18
+        }
+      ]
+    },
+    "visual_precheck": null,
+    "created": "2026-11-05T13:17:22+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "reason": "interrupted: the run ended before this video finished (sleep/crash); nothing was uploaded",
+    "stage_failed": "script"
+  },
+  {
+    "folder": "2026-11-05_132044_indias-mars-orbiter-mission-mangalyaan-reaching-ma",
+    "topic": "India's Mars Orbiter Mission (Mangalyaan) reaching Mars orbit on its first attempt for about 74 million dollars",
+    "status": "failed",
+    "stage": "script",
+    "role": null,
+    "slot": null,
+    "pillar": null,
+    "selection": null,
+    "visual_precheck": null,
+    "created": "2026-11-05T13:20:44+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "reason": "interrupted: the run ended before this video finished (sleep/crash); nothing was uploaded",
+    "stage_failed": "script"
+  },
+  {
+    "folder": "2026-11-05_135334_indias-mars-orbiter-mission-mangalyaan-reaching-ma",
+    "topic": "India's Mars Orbiter Mission (Mangalyaan) reaching Mars orbit on its first attempt for about 74 million dollars",
+    "status": "failed",
+    "stage": "script",
+    "role": null,
+    "slot": null,
+    "pillar": null,
+    "selection": null,
+    "visual_precheck": null,
+    "created": "2026-11-05T13:53:34+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "reason": "interrupted: the run ended before this video finished (sleep/crash); nothing was uploaded",
+    "stage_failed": "script"
+  },
+  {
+    "folder": "2026-11-05_142508_indias-mars-orbiter-mission-mangalyaan-reaching-ma",
+    "topic": "India's Mars Orbiter Mission (Mangalyaan) reaching Mars orbit on its first attempt for about 74 million dollars",
+    "status": "failed",
+    "stage": "script",
+    "role": null,
+    "slot": null,
+    "pillar": null,
+    "selection": null,
+    "visual_precheck": null,
+    "created": "2026-11-05T14:25:08+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "reason": "interrupted: the run ended before this video finished (sleep/crash); nothing was uploaded",
+    "stage_failed": "script"
+  },
+  {
+    "folder": "2026-11-05_143641_indias-mars-orbiter-mission-mangalyaan-reaching-ma",
+    "topic": "India's Mars Orbiter Mission (Mangalyaan) reaching Mars orbit on its first attempt for about 74 million dollars",
+    "status": "failed",
+    "stage": "script",
+    "role": null,
+    "slot": null,
+    "pillar": null,
+    "selection": null,
+    "visual_precheck": null,
+    "created": "2026-11-05T14:36:41+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "stage_failed": "verify",
+    "reason": "ValueError: independent check still failing after repair: the orbiter unexpectedly operated for about eight years arou (contradicted by https://en.wikipedia.org/wiki/Mars_Orbiter_Mission: \"On 24 Septe); India's Mars Mission Cost Less Than a Movie (no document evidence (3 unresolved claims; at most 2"
+  },
+  {
+    "folder": "2026-11-05_145645_indias-mars-orbiter-mission-mangalyaan-reaching-ma",
+    "topic": "India's Mars Orbiter Mission (Mangalyaan) reaching Mars orbit on its first attempt for about 74 million dollars",
+    "status": "failed",
+    "stage": "script",
+    "role": null,
+    "slot": null,
+    "pillar": null,
+    "selection": null,
+    "visual_precheck": null,
+    "created": "2026-11-05T14:56:45+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "stage_failed": "verify",
+    "reason": "ValueError: independent check still failing after repair: 2013 in: In November 2013, India launched the Mars Orbiter M (number not checked (no ledger entry states it)); 2014 in: On September 24, 2014, the probe successfully enter (number not checked (no ledger entry states it))"
+  },
+  {
+    "folder": "2026-11-05_152658_indias-mars-orbiter-mission-mangalyaan-reaching-ma",
+    "topic": "India's Mars Orbiter Mission (Mangalyaan) reaching Mars orbit on its first attempt for about 74 million dollars",
+    "status": "quarantined",
+    "stage": "script",
+    "role": null,
+    "slot": null,
+    "pillar": null,
+    "selection": null,
+    "visual_precheck": null,
+    "created": "2026-11-05T15:26:58+05:30",
+    "stages": {
+      "script": "2026-11-05T15:26:58+05:30",
+      "render": "2026-11-05T15:28:04+05:30",
+      "gates": "2026-11-05T15:28:30+05:30"
+    },
+    "youtube_id": null,
+    "instagram_id": null,
+    "reason": "AI reviewer: visual grounding failed: scene 0: MISMATCH (generic stock footage (pixabay: 'mars planet')). REJECT: While the voiceover",
+    "stage_failed": null,
+    "title": "How India Reached Mars on Its First Attempt",
+    "music": "nebula-d.m4a"
+  },
+  {
+    "folder": "2026-11-05_153243_indias-mars-orbiter-mission-mangalyaan",
+    "topic": "India's Mars Orbiter Mission (Mangalyaan)",
+    "status": "quarantined",
+    "stage": "script",
+    "role": null,
+    "slot": null,
+    "pillar": null,
+    "selection": null,
+    "visual_precheck": null,
+    "created": "2026-11-05T15:32:43+05:30",
+    "stages": {
+      "script": "2026-11-05T15:32:43+05:30",
+      "render": "2026-11-05T15:33:50+05:30",
+      "gates": "2026-11-05T15:34:41+05:30"
+    },
+    "youtube_id": null,
+    "instagram_id": null,
+    "reason": "AI reviewer: visual grounding failed: scene 1: MISMATCH (metadata names the subject (launch, rocket)). The video fails because it ill",
+    "stage_failed": null,
+    "title": "How India Reached Mars on Its First Attempt",
+    "music": "deepfield-f.m4a"
+  },
+  {
+    "folder": "2026-11-05_153821_indias-mars-orbiter-mission-mangalyaan",
+    "topic": "India's Mars Orbiter Mission (Mangalyaan)",
+    "status": "quarantined",
+    "stage": "script",
+    "role": null,
+    "slot": null,
+    "pillar": null,
+    "selection": null,
+    "visual_precheck": null,
+    "created": "2026-11-05T15:38:21+05:30",
+    "stages": {
+      "script": "2026-11-05T15:38:21+05:30",
+      "render": "2026-11-05T15:39:31+05:30",
+      "gates": "2026-11-05T15:40:22+05:30"
+    },
+    "youtube_id": null,
+    "instagram_id": null,
+    "reason": "AI reviewer: visual grounding failed: scene 0: MISMATCH (generic stock footage (pixabay: 'mars planet')). The narration is factually ",
+    "stage_failed": null,
+    "title": "How India Reached Mars on Its First Attempt",
+    "music": "nebula-d.m4a"
+  },
+  {
+    "folder": "2026-11-05_154109_apollo-13s-oxygen-tank-explosion-200000-miles-from",
+    "topic": "Apollo 13's oxygen tank explosion 200,000 miles from Earth and how the crew got home",
+    "status": "failed",
+    "stage": "script",
+    "role": null,
+    "slot": null,
+    "pillar": null,
+    "selection": null,
+    "visual_precheck": null,
+    "created": "2026-11-05T15:41:09+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "reason": "interrupted: the run ended before this video finished (sleep/crash); nothing was uploaded",
+    "stage_failed": "script"
+  },
+  {
+    "folder": "2026-11-05_160651_apollo-13s-oxygen-tank-explosion-200000-miles-from",
+    "topic": "Apollo 13's oxygen tank explosion 200,000 miles from Earth and how the crew got home",
+    "status": "failed",
+    "stage": "script",
+    "role": null,
+    "slot": null,
+    "pillar": null,
+    "selection": null,
+    "visual_precheck": null,
+    "created": "2026-11-05T16:06:51+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "stage_failed": "verify",
+    "reason": "ValueError: independent check still failing after repair: crew huddled in the lunar module lifeboat (no document evidence (5 unresolved claims; at most 3 per video): support it, sof); crew survived by huddling in the lunar module (no document evidence (5 unresolved claims; at most 3 per video): supp"
+  },
+  {
+    "folder": "2026-11-05_200917_saturn-is-the-only-planet-in-the-solar-system-less",
+    "topic": "Saturn is the only planet in the Solar System less dense than water",
+    "status": "failed",
+    "stage": "script",
+    "role": null,
+    "slot": null,
+    "pillar": null,
+    "selection": null,
+    "visual_precheck": null,
+    "created": "2026-11-05T20:09:17+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "reason": "interrupted: the run ended before this video finished (sleep/crash); nothing was uploaded",
+    "stage_failed": "script"
+  },
+  {
+    "folder": "2026-11-05_202611_saturn-is-the-only-planet-in-the-solar-system-less",
+    "topic": "Saturn is the only planet in the Solar System less dense than water",
+    "status": "failed",
+    "stage": "script",
+    "role": null,
+    "slot": null,
+    "pillar": null,
+    "selection": null,
+    "visual_precheck": null,
+    "created": "2026-11-05T20:26:11+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "reason": "interrupted: the run ended before this video finished (sleep/crash); nothing was uploaded",
+    "stage_failed": "script"
+  },
+  {
+    "folder": "2026-11-05_213326_saturn-is-the-only-planet-in-the-solar-system-less",
+    "topic": "Saturn is the only planet in the Solar System less dense than water",
+    "status": "quarantined",
+    "stage": "script",
+    "role": null,
+    "slot": null,
+    "pillar": null,
+    "selection": null,
+    "visual_precheck": null,
+    "created": "2026-11-05T21:33:26+05:30",
+    "stages": {
+      "script": "2026-11-05T21:33:26+05:30",
+      "render": "2026-11-05T21:34:52+05:30",
+      "gates": "2026-11-05T21:35:51+05:30"
+    },
+    "youtube_id": null,
+    "instagram_id": null,
+    "reason": "AI reviewer: Factually accurate but the weak, unrecognizable opening image and fragmented captions mean it fails the bar for release.",
+    "stage_failed": null,
+    "title": "Saturn Is Less Dense Than Water #Shorts",
+    "music": "deepfield-f.m4a"
+  },
+  {
+    "folder": "2026-11-05_214056_saturn-is-the-only-planet-in-the-solar-system-less",
+    "topic": "Saturn is the only planet in the Solar System less dense than water",
+    "status": "published",
+    "stage": "script",
+    "role": null,
+    "slot": "2026-11-05T23:30:00+05:30",
+    "pillar": null,
+    "selection": null,
+    "visual_precheck": null,
+    "created": "2026-11-05T21:40:56+05:30",
+    "stages": {
+      "script": "2026-11-05T22:15:52+05:30",
+      "render": "2026-11-05T22:17:15+05:30",
+      "gates": "2026-11-05T22:18:23+05:30",
+      "upload_started": "2026-11-05T22:18:50+05:30",
+      "upload": "2026-11-05T22:18:56+05:30",
+      "published": "2026-11-06T03:02:10+05:30"
+    },
+    "youtube_id": "vDfC5gQlgUo",
+    "instagram_id": null,
+    "reason": null,
+    "stage_failed": null,
+    "title": "Saturn Is Less Dense Than Water #Shorts",
+    "music": "nebula-d.m4a",
+    "publish_at": "2026-11-05T23:30:00+05:30",
+    "verification": {
+      "ok": true,
+      "problems": [],
+      "privacy": "private",
+      "publish_at": "2026-11-05T18:00:00Z"
+    },
+    "alert": null,
+    "privacy": "public",
+    "commented": true
+  },
+  {
+    "folder": "2026-11-06_035335_moon-distance-from-earth-scale",
+    "topic": "Moon Distance from Earth Scale",
+    "status": "quarantined",
+    "stage": "script",
+    "role": "discovery",
+    "slot": "2026-11-06T05:30:00+05:30",
+    "pillar": "Planets & moons",
+    "selection": {
+      "role": "discovery",
+      "base_score": 47.5,
+      "multiplier": 0.919,
+      "parts": {
+        "pillar_role": 0.92,
+        "question_hook": 1.03,
+        "number_hook": 1.0,
+        "big_number_hook": 0.99,
+        "long_hook": 0.98
+      },
+      "final": 43.65,
+      "runner_up": [
+        {
+          "topic": "The Event Horizon of Sagittarius A Star",
+          "final": 39.86
+        },
+        {
+          "topic": "Halley Comet Nucleus Size",
+          "final": 37.52
+        }
+      ]
+    },
+    "visual_precheck": null,
+    "created": "2026-11-06T03:53:35+05:30",
+    "stages": {
+      "script": "2026-11-06T03:53:35+05:30",
+      "render": "2026-11-06T03:54:43+05:30",
+      "gates": "2026-11-06T03:55:40+05:30"
+    },
+    "youtube_id": null,
+    "instagram_id": null,
+    "reason": "AI reviewer: visual grounding failed: scene 3: MISMATCH (metadata doesn't name the subject (Moon movement)). Fails review: scene 3 co",
+    "stage_failed": null,
+    "title": "30 Earths Fit Between Us and the Moon",
+    "music": "deepfield-f.m4a"
+  },
+  {
+    "folder": "2026-11-06_035540_the-event-horizon-of-sagittarius-a-star",
+    "topic": "The Event Horizon of Sagittarius A Star",
+    "status": "failed",
+    "stage": "script",
+    "role": "discovery",
+    "slot": "2026-11-06T05:30:00+05:30",
+    "pillar": "Stars & black holes",
+    "selection": {
+      "role": "discovery",
+      "base_score": 42.5,
+      "multiplier": 0.938,
+      "parts": {
+        "pillar_role": 0.92,
+        "question_hook": 1.03,
+        "number_hook": 1.0,
+        "big_number_hook": 0.99,
+        "long_hook": 1.0
+      },
+      "final": 39.86,
+      "runner_up": [
+        {
+          "topic": "Halley Comet Nucleus Size",
+          "final": 37.52
+        },
+        {
+          "topic": "Titan Methane Lakes Depth",
+          "final": 29.09
+        }
+      ]
+    },
+    "visual_precheck": null,
+    "created": "2026-11-06T03:55:40+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "stage_failed": "verify",
+    "reason": "ValueError: independent check still failing after repair: That's about eight thousand five hundred times faster than a (unverifiable); Imagine a star whipping past our galaxy's black hole at over (contradicted by https://en.wikipedia.org/wiki/Event_Horizon_Telescope: \"EHT meas); That is the speed of"
+  },
+  {
+    "folder": "2026-11-06_044240_halley-comet-nucleus-size",
+    "topic": "Halley Comet Nucleus Size",
+    "status": "failed",
+    "stage": "script",
+    "role": "discovery",
+    "slot": "2026-11-06T05:30:00+05:30",
+    "pillar": "Famous objects, one impossible fact",
+    "selection": {
+      "role": "discovery",
+      "base_score": 40.0,
+      "multiplier": 0.938,
+      "parts": {
+        "pillar_role": 0.92,
+        "question_hook": 1.03,
+        "number_hook": 1.0,
+        "big_number_hook": 0.99,
+        "long_hook": 1.0
+      },
+      "final": 37.52,
+      "runner_up": [
+        {
+          "topic": "Titan Methane Lakes Depth",
+          "final": 29.09
+        }
+      ]
+    },
+    "visual_precheck": null,
+    "created": "2026-11-06T04:42:40+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "stage_failed": "verify",
+    "reason": "ValueError: independent check still failing after repair: its coma stretched about 60,000 miles across (wrong); mix of equal amounts of ice and dust (disputed); solid rock inside reflects only 4% of the light hitting it (misleading)"
+  },
+  {
+    "folder": "2026-11-06_051655_apollo-11-computer-memory",
+    "topic": "Apollo 11 Computer Memory",
+    "status": "failed",
+    "stage": "script",
+    "role": "authority",
+    "slot": "2026-11-06T23:30:00+05:30",
+    "pillar": "Missions in danger (Apollo, ISS, Voyager, Artemis)",
+    "selection": {
+      "role": "authority",
+      "base_score": 43.5,
+      "multiplier": 0.969,
+      "parts": {
+        "pillar_role": 1.0,
+        "question_hook": 1.03,
+        "number_hook": 0.95,
+        "big_number_hook": 0.99,
+        "long_hook": 1.0
+      },
+      "final": 42.15,
+      "runner_up": [
+        {
+          "topic": "All Earth's Oceans Sphere Scale",
+          "final": 41.18
+        },
+        {
+          "topic": "Sun's Core Mass Loss Rate",
+          "final": 40.8
+        }
+      ]
+    },
+    "visual_precheck": null,
+    "created": "2026-11-06T05:16:55+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "reason": "interrupted: the run ended before this video finished (sleep/crash); nothing was uploaded",
+    "stage_failed": "script"
+  },
+  {
+    "folder": "2026-11-06_064918_all-earths-oceans-sphere-scale",
+    "topic": "All Earth's Oceans Sphere Scale",
+    "status": "failed",
+    "stage": "script",
+    "role": "authority",
+    "slot": "2026-11-06T23:30:00+05:30",
+    "pillar": "Planets & moons",
+    "selection": {
+      "role": "authority",
+      "base_score": 47.5,
+      "multiplier": 0.867,
+      "parts": {
+        "pillar_role": 1.0,
+        "question_hook": 1.03,
+        "number_hook": 1.0,
+        "big_number_hook": 0.99,
+        "long_hook": 1.0,
+        "repeat_pillar": 0.85
+      },
+      "final": 41.18,
+      "runner_up": [
+        {
+          "topic": "Sun's Core Mass Loss Rate",
+          "final": 40.8
+        },
+        {
+          "topic": "Perseverance Rover EDL Time",
+          "final": 40.21
+        }
+      ]
+    },
+    "visual_precheck": null,
+    "created": "2026-11-06T06:49:18+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "reason": "interrupted: the run ended before this video finished (sleep/crash); nothing was uploaded",
+    "stage_failed": "script"
+  },
+  {
+    "folder": "2026-11-06_102835_suns-core-mass-loss-rate",
+    "topic": "Sun's Core Mass Loss Rate",
+    "status": "failed",
+    "stage": "script",
+    "role": "authority",
+    "slot": "2026-11-06T23:30:00+05:30",
+    "pillar": "Stars & black holes",
+    "selection": {
+      "role": "authority",
+      "base_score": 40.0,
+      "multiplier": 1.02,
+      "parts": {
+        "pillar_role": 1.0,
+        "question_hook": 1.03,
+        "number_hook": 1.0,
+        "big_number_hook": 0.99,
+        "long_hook": 1.0
+      },
+      "final": 40.8,
+      "runner_up": [
+        {
+          "topic": "Perseverance Rover EDL Time",
+          "final": 40.21
+        }
+      ]
+    },
+    "visual_precheck": null,
+    "created": "2026-11-06T10:28:35+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "reason": "interrupted: the run ended before this video finished (sleep/crash); nothing was uploaded",
+    "stage_failed": "script"
+  },
+  {
+    "folder": "2026-11-06_142832_perseverance-rover-edl-time",
+    "topic": "Perseverance Rover EDL Time",
+    "status": "failed",
+    "stage": "script",
+    "role": "authority",
+    "slot": "2026-11-06T23:30:00+05:30",
+    "pillar": "Missions in danger (Apollo, ISS, Voyager, Artemis)",
+    "selection": {
+      "role": "authority",
+      "base_score": 41.5,
+      "multiplier": 0.969,
+      "parts": {
+        "pillar_role": 1.0,
+        "question_hook": 1.03,
+        "number_hook": 0.95,
+        "big_number_hook": 0.99,
+        "long_hook": 1.0
+      },
+      "final": 40.21,
+      "runner_up": []
+    },
+    "visual_precheck": null,
+    "created": "2026-11-06T14:28:32+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "stage_failed": "verify",
+    "reason": "ValueError: independent check still failing after repair: It landed roughly one point one miles from the center of its (disputed); It landed roughly one point seven kilometers from the center (disputed); This achieved a smaller landing ellipse than previous Mars m (superlative with no document stati"
+  },
+  {
+    "folder": "2026-11-06_153845_titan-methane-lakes-depth",
+    "topic": "Titan Methane Lakes Depth",
+    "status": "quarantined",
+    "stage": "script",
+    "role": "authority",
+    "slot": "2026-11-06T23:30:00+05:30",
+    "pillar": "Planets & moons",
+    "selection": {
+      "role": "authority",
+      "base_score": 36.5,
+      "multiplier": 0.797,
+      "parts": {
+        "pillar_role": 0.92,
+        "question_hook": 1.03,
+        "number_hook": 1.0,
+        "big_number_hook": 0.99,
+        "long_hook": 1.0,
+        "repeat_pillar": 0.85
+      },
+      "final": 29.09,
+      "runner_up": [
+        {
+          "topic": "Cold Welding in Vacuum",
+          "final": 0.0
+        },
+        {
+          "topic": "Sunlight's Journey to Earth",
+          "final": 0.0
+        }
+      ]
+    },
+    "visual_precheck": null,
+    "created": "2026-11-06T15:38:45+05:30",
+    "stages": {
+      "script": "2026-11-06T15:38:45+05:30",
+      "render": "2026-11-06T15:40:35+05:30",
+      "gates": "2026-11-06T15:41:40+05:30"
+    },
+    "youtube_id": null,
+    "instagram_id": null,
+    "reason": "AI reviewer: visual grounding failed: scene 2: MISMATCH (metadata doesn't name the subject (Cassini probe)). The narration is numeric",
+    "stage_failed": null,
+    "title": "Titan's Ligeia Mare is Deeper Than the Statue of Liberty",
+    "music": "orbit-em.m4a"
+  },
+  {
+    "folder": "2026-11-06_154140_cold-welding-in-vacuum",
+    "topic": "Cold Welding in Vacuum",
+    "status": "failed",
+    "stage": "script",
+    "role": "authority",
+    "slot": "2026-11-06T23:30:00+05:30",
+    "pillar": null,
+    "selection": {
+      "role": "authority",
+      "base_score": null,
+      "multiplier": 0.912,
+      "parts": {
+        "pillar_role": 1.0,
+        "question_hook": 0.99,
+        "number_hook": 0.95,
+        "big_number_hook": 0.99,
+        "long_hook": 0.98
+      },
+      "final": 0.0,
+      "runner_up": [
+        {
+          "topic": "Sunlight's Journey to Earth",
+          "final": 0.0
+        },
+        {
+          "topic": "Voyager 1's Tiny Power Source",
+          "final": 0.0
+        }
+      ]
+    },
+    "visual_precheck": null,
+    "created": "2026-11-06T15:41:40+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "stage_failed": "verify",
+    "reason": "ValueError: independent check still failing after repair: Out there, a simple touch can bind metal forever. (misleading); Human hair 80000 nm (sources disagree (80000, 50000, 100000 nm) but the narration states 80000 as fac); Scientists fused gold wires with just a touch. (no document evidence (5 un"
+  },
+  {
+    "folder": "2026-11-06_160421_sunlights-journey-to-earth",
+    "topic": "Sunlight's Journey to Earth",
+    "status": "failed",
+    "stage": "script",
+    "role": "authority",
+    "slot": "2026-11-06T23:30:00+05:30",
+    "pillar": null,
+    "selection": {
+      "role": "authority",
+      "base_score": null,
+      "multiplier": 0.839,
+      "parts": {
+        "pillar_role": 1.0,
+        "question_hook": 0.99,
+        "number_hook": 0.95,
+        "big_number_hook": 0.91,
+        "long_hook": 0.98
+      },
+      "final": 0.0,
+      "runner_up": [
+        {
+          "topic": "Voyager 1's Tiny Power Source",
+          "final": 0.0
+        },
+        {
+          "topic": "Water Ocean on Europa",
+          "final": 0.0
+        }
+      ]
+    },
+    "visual_precheck": null,
+    "created": "2026-11-06T16:04:21+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "stage_failed": "verify",
+    "reason": "ValueError: independent check still failing after repair: That random walk takes about 10,000 to 200,000 years to reac (narrated 10,000 vs independent 100,000 years); So the light on your face began that slow crawl about 10,000 (narrated 10,000 vs independent 100,000 years); Sunlight Took About 10,0"
+  },
+  {
+    "folder": "2026-11-06_163146_voyager-1s-tiny-power-source",
+    "topic": "Voyager 1's Tiny Power Source",
+    "status": "failed",
+    "stage": "script",
+    "role": "authority",
+    "slot": "2026-11-06T23:30:00+05:30",
+    "pillar": null,
+    "selection": {
+      "role": "authority",
+      "base_score": null,
+      "multiplier": 0.839,
+      "parts": {
+        "pillar_role": 1.0,
+        "question_hook": 0.99,
+        "number_hook": 0.95,
+        "big_number_hook": 0.91,
+        "long_hook": 0.98
+      },
+      "final": 0.0,
+      "runner_up": [
+        {
+          "topic": "Water Ocean on Europa",
+          "final": 0.0
+        },
+        {
+          "topic": "Saturn's Rings are Younger Than Dinosaurs",
+          "final": 0.0
+        }
+      ]
+    },
+    "visual_precheck": null,
+    "created": "2026-11-06T16:31:46+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "stage_failed": "verify",
+    "reason": "ValueError: independent check still failing after repair: the farthest human-made object still calling home (superlative with no document stating it; a model's word isn't enough); It carries enough power to keep operating and collecting vit (misleading); will keep transmitting data until at least 20"
+  },
+  {
+    "folder": "2026-11-06_170627_water-ocean-on-europa",
+    "topic": "Water Ocean on Europa",
+    "status": "failed",
+    "stage": "script",
+    "role": "authority",
+    "slot": "2026-11-06T23:30:00+05:30",
+    "pillar": null,
+    "selection": {
+      "role": "authority",
+      "base_score": null,
+      "multiplier": 0.98,
+      "parts": {
+        "pillar_role": 1.0,
+        "question_hook": 0.99,
+        "number_hook": 1.0,
+        "big_number_hook": 0.99,
+        "long_hook": 1.0
+      },
+      "final": 0.0,
+      "runner_up": [
+        {
+          "topic": "Saturn's Rings are Younger Than Dinosaurs",
+          "final": 0.0
+        },
+        {
+          "topic": "Scale of the Solar System",
+          "final": 0.0
+        }
+      ]
+    },
+    "visual_precheck": null,
+    "created": "2026-11-06T17:06:27+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "stage_failed": "verify",
+    "reason": "ValueError: independent check still failing after repair: 10 in: That frozen shell runs six to twenty miles thick (ten (number not checked (no ledger entry states it)); 30 km in: That frozen shell runs six to twenty miles thick ( (number not checked (no ledger entry states it))"
+  },
+  {
+    "folder": "2026-11-06_172549_saturns-rings-are-younger-than-dinosaurs",
+    "topic": "Saturn's Rings are Younger Than Dinosaurs",
+    "status": "failed",
+    "stage": "script",
+    "role": "authority",
+    "slot": "2026-11-06T23:30:00+05:30",
+    "pillar": null,
+    "selection": {
+      "role": "authority",
+      "base_score": null,
+      "multiplier": 0.96,
+      "parts": {
+        "pillar_role": 1.0,
+        "question_hook": 0.99,
+        "number_hook": 1.0,
+        "big_number_hook": 0.99,
+        "long_hook": 0.98
+      },
+      "final": 0.0,
+      "runner_up": [
+        {
+          "topic": "Scale of the Solar System",
+          "final": 0.0
+        },
+        {
+          "topic": "Silence of Space",
+          "final": 0.0
+        }
+      ]
+    },
+    "visual_precheck": null,
+    "created": "2026-11-06T17:25:49+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "reason": "interrupted: the run ended before this video finished (sleep/crash); nothing was uploaded",
+    "stage_failed": "script"
+  },
+  {
+    "folder": "2026-11-06_172903_europa-may-have-more-than-twice-as-much-liquid-wat",
+    "topic": "Europa may have more than twice as much liquid water as all of Earth's oceans combined",
+    "status": "failed",
+    "stage": "script",
+    "role": null,
+    "slot": null,
+    "pillar": null,
+    "selection": null,
+    "visual_precheck": null,
+    "created": "2026-11-06T17:29:03+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "stage_failed": "verify",
+    "reason": "ValueError: independent check still failing after repair: The best evidence came from NASA's Galileo spacecraft. (attribution with no document stating it (only indirect); a model's word isn't en); NASA's Galileo spacecraft found the best evidence: an induce (attribution with no document stating it; "
+  },
+  {
+    "folder": "2026-11-06_174342_scale-of-the-solar-system",
+    "topic": "Scale of the Solar System",
+    "status": "failed",
+    "stage": "script",
+    "role": "authority",
+    "slot": "2026-11-06T23:30:00+05:30",
+    "pillar": null,
+    "selection": {
+      "role": "authority",
+      "base_score": null,
+      "multiplier": 0.912,
+      "parts": {
+        "pillar_role": 1.0,
+        "question_hook": 0.99,
+        "number_hook": 0.95,
+        "big_number_hook": 0.99,
+        "long_hook": 0.98
+      },
+      "final": 0.0,
+      "runner_up": [
+        {
+          "topic": "Silence of Space",
+          "final": 0.0
+        },
+        {
+          "topic": "Orion Capsule Heat Shield on Artemis Re-entry",
+          "final": 0.0
+        }
+      ]
+    },
+    "visual_precheck": null,
+    "created": "2026-11-06T17:43:42+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "stage_failed": "verify",
+    "reason": "ValueError: independent check still failing after repair: Sources: NASA Solar System Exploration, Boston Museum of Sci (attribution with no document stating it; a model's word isn't enough); If the Sun Was a Basketball, Pluto Is Far Away (no document evidence (6 unresolved claims; at most 3 per vide"
+  },
+  {
+    "folder": "2026-11-06_183317_silence-of-space",
+    "topic": "Silence of Space",
+    "status": "failed",
+    "stage": "script",
+    "role": "authority",
+    "slot": "2026-11-06T23:30:00+05:30",
+    "pillar": null,
+    "selection": {
+      "role": "authority",
+      "base_score": null,
+      "multiplier": 0.912,
+      "parts": {
+        "pillar_role": 1.0,
+        "question_hook": 0.99,
+        "number_hook": 0.95,
+        "big_number_hook": 0.99,
+        "long_hook": 0.98
+      },
+      "final": 0.0,
+      "runner_up": [
+        {
+          "topic": "Orion Capsule Heat Shield on Artemis Re-entry",
+          "final": 0.0
+        },
+        {
+          "topic": "Proxima Centauri Distance",
+          "final": 0.0
+        }
+      ]
+    },
+    "visual_precheck": null,
+    "created": "2026-11-06T18:33:17+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "stage_failed": "verify",
+    "reason": "ValueError: independent check still failing after repair: The event occurred in 1996. (unverifiable); Debris struck a satellite at extreme velocity. (no document evidence (5 unresolved claims; at most 3 per video): support it, sof); In vacuum, there is no air to carry sound waves. (no document evide"
+  },
+  {
+    "folder": "2026-11-06_185021_orion-capsule-heat-shield-on-artemis-re-entry",
+    "topic": "Orion Capsule Heat Shield on Artemis Re-entry",
+    "status": "failed",
+    "stage": "script",
+    "role": "authority",
+    "slot": "2026-11-06T23:30:00+05:30",
+    "pillar": null,
+    "selection": {
+      "role": "authority",
+      "base_score": null,
+      "multiplier": 0.96,
+      "parts": {
+        "pillar_role": 1.0,
+        "question_hook": 0.99,
+        "number_hook": 1.0,
+        "big_number_hook": 0.99,
+        "long_hook": 0.98
+      },
+      "final": 0.0,
+      "runner_up": [
+        {
+          "topic": "Proxima Centauri Distance",
+          "final": 0.0
+        },
+        {
+          "topic": "Time Dilation Near a Black Hole",
+          "final": 0.0
+        }
+      ]
+    },
+    "visual_precheck": null,
+    "created": "2026-11-06T18:50:21+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "stage_failed": "verify",
+    "reason": "ValueError: independent check still failing after repair: In April 2024 NASA formed an independent review team to asse (wrong); The capsule returned scarred after re‑entry. (no document evidence (5 unresolved claims; at most 3 per video): support it, sof); Engineers found unexpected erosion of Orion"
+  },
+  {
+    "folder": "2026-11-06_191711_proxima-centauri-distance",
+    "topic": "Proxima Centauri Distance",
+    "status": "failed",
+    "stage": "script",
+    "role": "authority",
+    "slot": "2026-11-06T23:30:00+05:30",
+    "pillar": null,
+    "selection": {
+      "role": "authority",
+      "base_score": null,
+      "multiplier": 0.839,
+      "parts": {
+        "pillar_role": 1.0,
+        "question_hook": 0.99,
+        "number_hook": 0.95,
+        "big_number_hook": 0.91,
+        "long_hook": 0.98
+      },
+      "final": 0.0,
+      "runner_up": [
+        {
+          "topic": "Time Dilation Near a Black Hole",
+          "final": 0.0
+        },
+        {
+          "topic": "Betelgeuse Monster Star Scale",
+          "final": 0.0
+        }
+      ]
+    },
+    "visual_precheck": null,
+    "created": "2026-11-06T19:17:11+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "stage_failed": "verify",
+    "reason": "ValueError: independent check still failing after repair: Proxima orbits Alpha Centauri AB at a distance of roughly 13 (misleading); At 10% of light speed, the trip takes about 43 years. (narrated 10 vs independent 0.1 c); Voyager 1 Needs 75,000 Years to Reach This Star (misleading)"
+  },
+  {
+    "folder": "2026-11-06_200244_the-james-webb-space-telescopes-primary-mirror-spa",
+    "topic": "The James Webb Space Telescope’s primary mirror spans 21.6 feet—about the length of a school bus",
+    "status": "failed",
+    "stage": "script",
+    "role": "authority",
+    "slot": "2026-11-06T23:30:00+05:30",
+    "pillar": "Famous objects, one impossible fact",
+    "selection": {
+      "role": "authority",
+      "base_score": 45.0,
+      "multiplier": 1.02,
+      "parts": {
+        "pillar_role": 1.0,
+        "question_hook": 1.03,
+        "number_hook": 1.0,
+        "big_number_hook": 0.99,
+        "long_hook": 1.0
+      },
+      "final": 45.9,
+      "runner_up": [
+        {
+          "topic": "A magnetar flare in one second releases as much energy as th",
+          "final": 43.86
+        },
+        {
+          "topic": "Voyager 1’s power source produces only 157 watts—enough to r",
+          "final": 43.6
+        }
+      ]
+    },
+    "visual_precheck": null,
+    "created": "2026-11-06T20:02:44+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "stage_failed": "verify",
+    "reason": "ValueError: independent check still failing after repair: The 21‑foot mirror spans about two‑thirds the length of a st (narrated 21 vs independent 0.6); 2 in: That 21‑foot mirror spans about two‑thirds the length  (number not checked (no ledger entry states it)); 10.7 m in: JWST primary mirror 6.5 m"
+  },
+  {
+    "folder": "2026-11-06_200947_a-magnetar-flare-in-one-second-releases-as-much-en",
+    "topic": "A magnetar flare in one second releases as much energy as the Sun emits in 100,000 years",
+    "status": "failed",
+    "stage": "script",
+    "role": "authority",
+    "slot": "2026-11-06T23:30:00+05:30",
+    "pillar": "Stars & black holes",
+    "selection": {
+      "role": "authority",
+      "base_score": 43.0,
+      "multiplier": 1.02,
+      "parts": {
+        "pillar_role": 1.0,
+        "question_hook": 1.03,
+        "number_hook": 1.0,
+        "big_number_hook": 0.99,
+        "long_hook": 1.0
+      },
+      "final": 43.86,
+      "runner_up": [
+        {
+          "topic": "Voyager 1’s power source produces only 157 watts—enough to r",
+          "final": 43.6
+        },
+        {
+          "topic": "A single teaspoon of a black‑hole’s singularity would be inf",
+          "final": 40.8
+        }
+      ]
+    },
+    "visual_precheck": null,
+    "created": "2026-11-06T20:09:47+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "stage_failed": "verify",
+    "reason": "ValueError: independent check still failing after repair: Power density in the Sun’s core is just 276 watts per cubic  (misleading); 1 s in: Magnetar giant flare dumps about 100,000 years of so (number not checked (no ledger entry states it)); A magnetar flare releases about 100,000 years of solar o"
+  },
+  {
+    "folder": "2026-11-06_201933_voyager-1s-power-source-produces-only-157-wattseno",
+    "topic": "Voyager 1’s power source produces only 157 watts—enough to run a single LED light",
+    "status": "failed",
+    "stage": "script",
+    "role": "authority",
+    "slot": "2026-11-06T23:30:00+05:30",
+    "pillar": "Stars & black holes",
+    "selection": {
+      "role": "authority",
+      "base_score": 45.0,
+      "multiplier": 0.969,
+      "parts": {
+        "pillar_role": 1.0,
+        "question_hook": 1.03,
+        "number_hook": 0.95,
+        "big_number_hook": 0.99,
+        "long_hook": 1.0
+      },
+      "final": 43.6,
+      "runner_up": [
+        {
+          "topic": "A single teaspoon of a black‑hole’s singularity would be inf",
+          "final": 40.8
+        },
+        {
+          "topic": "A single teaspoon of Saturn’s rings ice would melt into a gl",
+          "final": 39.78
+        }
+      ]
+    },
+    "visual_precheck": null,
+    "created": "2026-11-06T20:19:33+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "stage_failed": "verify",
+    "reason": "ValueError: independent check still failing after repair: As of 2024, three instruments—the plasma wave subsystem, mag (wrong); Could you power your phone with Voyager 1's ~220 watts? Yes  (no specific source); Voyager 1 launched Sep 5 1977 (no document evidence (4 unresolved claims; at most 3 per v"
+  },
+  {
+    "folder": "2026-11-06_202828_a-single-teaspoon-of-a-blackholes-singularity-woul",
+    "topic": "A single teaspoon of a black‑hole’s singularity would be infinitely dense—physicists can’t even define its weight",
+    "status": "failed",
+    "stage": "script",
+    "role": "authority",
+    "slot": "2026-11-06T23:30:00+05:30",
+    "pillar": "Stars & black holes",
+    "selection": {
+      "role": "authority",
+      "base_score": 40.0,
+      "multiplier": 1.02,
+      "parts": {
+        "pillar_role": 1.0,
+        "question_hook": 1.03,
+        "number_hook": 1.0,
+        "big_number_hook": 0.99,
+        "long_hook": 1.0
+      },
+      "final": 40.8,
+      "runner_up": [
+        {
+          "topic": "A single teaspoon of Saturn’s rings ice would melt into a gl",
+          "final": 39.78
+        },
+        {
+          "topic": "One breath of Martian air weighs less than a feather",
+          "final": 31.2
+        }
+      ]
+    },
+    "visual_precheck": null,
+    "created": "2026-11-06T20:28:28+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "stage_failed": "verify",
+    "reason": "ValueError: independent check still failing after repair: The resulting density would be astronomically large—far beyo (superlative with no document stating it; a model's word isn't enough); Scientists describe singularities with equations from genera (attribution with no document stating it; a mode"
+  },
+  {
+    "folder": "2026-11-06_203744_water-recycling-on-the-iss",
+    "topic": "Water Recycling on the ISS",
+    "status": "failed",
+    "stage": "script",
+    "role": null,
+    "slot": null,
+    "pillar": null,
+    "selection": null,
+    "visual_precheck": null,
+    "created": "2026-11-06T20:37:44+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "stage_failed": "verify",
+    "reason": "ValueError: independent check still failing after repair: Dehumidifiers capture moisture released by breath and sweat. (no document evidence (5 unresolved claims; at most 3 per video): support it, sof); The Urine Processor Assembly uses vacuum distillation to rec (no document evidence (5 unresolved "
+  },
+  {
+    "folder": "2026-11-06_205047_betelgeuse-monster-star-scale",
+    "topic": "Betelgeuse Monster Star Scale",
+    "status": "failed",
+    "stage": "script",
+    "role": null,
+    "slot": null,
+    "pillar": null,
+    "selection": null,
+    "visual_precheck": null,
+    "created": "2026-11-06T20:50:47+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "stage_failed": "verify",
+    "reason": "ValueError: independent check still failing after repair: At that scale, the star's surface would reach beyond the ast (disputed); extended atmosphere models only approach Jupiter without exc (disputed); Betelgeuse at the Sun: Beyond the Asteroid Belt (misleading)"
+  },
+  {
+    "folder": "2026-11-06_214039_orion-capsule-heat-shield-on-artemis-re-entry",
+    "topic": "Orion Capsule Heat Shield on Artemis Re-entry",
+    "status": "failed",
+    "stage": "script",
+    "role": null,
+    "slot": null,
+    "pillar": null,
+    "selection": null,
+    "visual_precheck": null,
+    "created": "2026-11-06T21:40:39+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "stage_failed": "verify",
+    "reason": "ValueError: independent check still failing after repair: Avcoat is ablative: it burns off in a controlled way, carryi (no document evidence (6 unresolved claims; at most 3 per video): support it, sof); During Artemis I, Orion performed a skip entry: dipping into (no document evidence (6 unresolved "
+  },
+  {
+    "folder": "2026-11-06_215318_europa-may-have-more-than-twice-as-much-liquid-wat",
+    "topic": "Europa may have more than twice as much liquid water as all of Earth's oceans combined",
+    "status": "failed",
+    "stage": "script",
+    "role": null,
+    "slot": null,
+    "pillar": null,
+    "selection": null,
+    "visual_precheck": null,
+    "created": "2026-11-06T21:53:18+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "stage_failed": "verify",
+    "reason": "ValueError: independent check still failing after repair: Jupiter's moon Europa may hold roughly two to three times as (no document evidence (8 unresolved claims; at most 3 per video): support it, sof); NASA's Galileo spacecraft detected a magnetic signature at E (no document evidence (8 unresolved "
+  },
+  {
+    "folder": "2026-11-06_220906_water-recycling-on-the-iss",
+    "topic": "Water Recycling on the ISS",
+    "status": "failed",
+    "stage": "script",
+    "role": null,
+    "slot": null,
+    "pillar": null,
+    "selection": null,
+    "visual_precheck": null,
+    "created": "2026-11-06T22:09:06+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "stage_failed": "verify",
+    "reason": "ValueError: independent check still failing after repair: the Urine Processor Assembly uses vacuum distillation to ext (no document evidence (8 unresolved claims; at most 3 per video): support it, sof); A brine processor uses membranes and warm, dry air to evapor (no document evidence (8 unresolved "
+  },
+  {
+    "folder": "2026-11-06_223724_betelgeuse-monster-star-scale",
+    "topic": "Betelgeuse Monster Star Scale",
+    "status": "quarantined",
+    "stage": "script",
+    "role": null,
+    "slot": null,
+    "pillar": null,
+    "selection": null,
+    "visual_precheck": null,
+    "created": "2026-11-06T22:37:24+05:30",
+    "stages": {
+      "script": "2026-11-06T22:37:26+05:30",
+      "render": "2026-11-06T22:38:40+05:30",
+      "gates": "2026-11-06T22:39:56+05:30"
+    },
+    "youtube_id": null,
+    "instagram_id": null,
+    "reason": "AI reviewer: visual grounding failed: scene 0: MISMATCH (generic stock footage (pixabay: 'betelgeuse and sun size comparison')). The ",
+    "stage_failed": null,
+    "title": "Betelgeuse: An Atmosphere Beyond Jupiter #Shorts",
+    "music": "deepfield-f.m4a"
+  },
+  {
+    "folder": "2026-11-06_224001_orion-capsule-heat-shield-on-artemis-re-entry",
+    "topic": "Orion Capsule Heat Shield on Artemis Re-entry",
+    "status": "failed",
+    "stage": "script",
+    "role": null,
+    "slot": null,
+    "pillar": null,
+    "selection": null,
+    "visual_precheck": null,
+    "created": "2026-11-06T22:40:01+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "stage_failed": "verify",
+    "reason": "ValueError: independent check still failing after repair: Its defense is the largest ablative heat shield ever built a (superlative with no document stating it (only indirect); a model's word isn't en); Navy teams recovered Orion (attribution with no document stating it (only indirect); a model's wo"
+  },
+  {
+    "folder": "2026-11-06_233219_evidence-for-an-ocean-beneath-europas-icy-crust",
+    "topic": "Evidence for an ocean beneath Europa's icy crust",
+    "status": "quarantined",
+    "stage": "script",
+    "role": null,
+    "slot": null,
+    "pillar": null,
+    "selection": null,
+    "visual_precheck": null,
+    "created": "2026-11-06T23:32:19+05:30",
+    "stages": {
+      "script": "2026-11-06T23:32:19+05:30",
+      "render": "2026-11-06T23:33:16+05:30",
+      "gates": "2026-11-06T23:33:21+05:30"
+    },
+    "youtube_id": null,
+    "instagram_id": null,
+    "reason": "quality gate: narration length",
+    "stage_failed": null,
+    "title": "Europa's Hidden Ocean: The Magnetic Clue #Shorts",
+    "music": "drift-am.m4a"
+  },
+  {
+    "folder": "2026-11-06_234206_water-recycling-on-the-iss",
+    "topic": "Water Recycling on the ISS",
+    "status": "quarantined",
+    "stage": "script",
+    "role": null,
+    "slot": null,
+    "pillar": null,
+    "selection": null,
+    "visual_precheck": null,
+    "created": "2026-11-06T23:42:06+05:30",
+    "stages": {
+      "script": "2026-11-06T23:42:06+05:30",
+      "render": "2026-11-06T23:43:43+05:30",
+      "gates": "2026-11-06T23:44:59+05:30"
+    },
+    "youtube_id": null,
+    "instagram_id": null,
+    "reason": "AI reviewer: visual grounding failed: scene 0: MISMATCH (metadata names the subject (international, space, station)). The narration i",
+    "stage_failed": null,
+    "title": "The ISS Recycles Sweat and Urine Into Drinking Water #Shorts",
+    "music": "nebula-d.m4a"
+  },
+  {
+    "folder": "2026-11-06_234505_betelgeuse-monster-star-scale",
+    "topic": "Betelgeuse Monster Star Scale",
+    "status": "failed",
+    "stage": "script",
+    "role": null,
+    "slot": null,
+    "pillar": null,
+    "selection": null,
+    "visual_precheck": null,
+    "created": "2026-11-06T23:45:05+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "stage_failed": "verify",
+    "reason": "ValueError: independent check still failing after repair: NASA estimates Betelgeuse's radius at approximately 724 time (disputed); NASA's comparison goes farther: Betelgeuse's outer atmospher (misleading); NASA estimates Betelgeuse's radius at approximately 724 time (disputed)"
+  },
+  {
+    "folder": "2026-11-07_001343_orion-capsule-heat-shield-on-artemis-re-entry",
+    "topic": "Orion Capsule Heat Shield on Artemis Re-entry",
+    "status": "failed",
+    "stage": "script",
+    "role": null,
+    "slot": null,
+    "pillar": null,
+    "selection": null,
+    "visual_precheck": null,
+    "created": "2026-11-07T00:13:43+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "stage_failed": "verify",
+    "reason": "ValueError: independent check still failing after repair: Ablation carries thermal energy away from the spacecraft as  (no document evidence (4 unresolved claims; at most 3 per video): support it, sof)"
+  },
+  {
+    "folder": "2026-11-07_002723_evidence-for-an-ocean-beneath-europas-icy-crust",
+    "topic": "Evidence for an ocean beneath Europa's icy crust",
+    "status": "failed",
+    "stage": "script",
+    "role": null,
+    "slot": null,
+    "pillar": null,
+    "selection": null,
+    "visual_precheck": null,
+    "created": "2026-11-07T00:27:23+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "stage_failed": "verify",
+    "reason": "ValueError: independent check still failing after repair: Galileo's magnetometer detected a magnetic field within Euro (attribution with no document stating it (only indirect); a model's word isn't en); Galileo's magnetometer detected a magnetic field within Euro (attribution with no document statin"
+  },
+  {
+    "folder": "2026-11-07_004954_water-recycling-on-the-iss",
+    "topic": "Water Recycling on the ISS",
+    "status": "failed",
+    "stage": "script",
+    "role": null,
+    "slot": null,
+    "pillar": null,
+    "selection": null,
+    "visual_precheck": null,
+    "created": "2026-11-07T00:49:54+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null
+  },
+  {
+    "folder": "2026-11-07_005539_olympus-mons-on-mars-is-about-25-times-the-height-",
+    "topic": "Olympus Mons on Mars is about 2.5 times the height of Mount Everest",
+    "status": "failed",
+    "stage": "script",
+    "role": null,
+    "slot": null,
+    "pillar": null,
+    "selection": null,
+    "visual_precheck": null,
+    "created": "2026-11-07T00:55:39+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "stage_failed": "verify",
+    "reason": "ValueError: independent check still failing after repair: There's a volcano on Mars taller than Mount Everest. (superlative with no document stating it (only indirect); a model's word isn't en); the Olympic Snow (quote with no document stating it; a model's word isn't enough); estimates for its last"
+  },
+  {
+    "folder": "2026-11-07_012035_jupiters-great-red-spot-is-the-largest-anticycloni",
+    "topic": "Jupiter's Great Red Spot is the largest anticyclonic storm in the Solar System",
+    "status": "failed",
+    "stage": "script",
+    "role": null,
+    "slot": null,
+    "pillar": null,
+    "selection": null,
+    "visual_precheck": null,
+    "created": "2026-11-07T01:20:35+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "stage_failed": "verify",
+    "reason": "ValueError: independent check still failing after repair: Winds in the Great Red Spot reach up to about 430 km/h (contradicted by https://science.nasa.gov/jupiter/jupiter-facts/: \"Juno previousl); 430 km/h is roughly 270 mph (contradicted by https://science.nasa.gov/jupiter/jupiter-facts/: \"Juno pre"
+  },
+  {
+    "folder": "2026-11-07_035452_olympus-mons-height-and-scale",
+    "topic": "Olympus Mons height and scale",
+    "status": "failed",
+    "stage": "script",
+    "role": null,
+    "slot": null,
+    "pillar": null,
+    "selection": null,
+    "visual_precheck": null,
+    "created": "2026-11-07T03:54:52+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null
+  },
+  {
+    "folder": "2026-11-07_040627_olympus-mons-height-and-scale",
+    "topic": "Olympus Mons height and scale",
+    "status": "failed",
+    "stage": "script",
+    "role": null,
+    "slot": null,
+    "pillar": null,
+    "selection": null,
+    "visual_precheck": null,
+    "created": "2026-11-07T04:06:27+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null
+  },
+  {
+    "folder": "2026-11-07_042207_olympus-mons-height-and-scale",
+    "topic": "Olympus Mons height and scale",
+    "status": "quarantined",
+    "stage": "script",
+    "role": null,
+    "slot": null,
+    "pillar": null,
+    "selection": null,
+    "visual_precheck": null,
+    "created": "2026-11-07T04:22:07+05:30",
+    "stages": {
+      "script": "2026-11-07T04:22:09+05:30",
+      "render": "2026-11-07T04:22:27+05:30",
+      "gates": "2026-11-07T04:22:31+05:30"
+    },
+    "youtube_id": null,
+    "instagram_id": null,
+    "reason": "quality gate: narration length",
+    "stage_failed": null,
+    "title": "Olympus Mons: 21.287 Kilometres High #Shorts",
+    "music": "deepfield-f.m4a"
+  },
+  {
+    "folder": "2026-11-07_042308_great-red-spot-size-and-observation-history",
+    "topic": "Great Red Spot size and observation history",
+    "status": "failed",
+    "stage": "script",
+    "role": null,
+    "slot": null,
+    "pillar": null,
+    "selection": null,
+    "visual_precheck": null,
+    "created": "2026-11-07T04:23:08+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null
+  },
+  {
+    "folder": "2026-11-07_044059_great-red-spot-size-and-observation-history",
+    "topic": "Great Red Spot size and observation history",
+    "status": "failed",
+    "stage": "script",
+    "role": null,
+    "slot": null,
+    "pillar": null,
+    "selection": null,
+    "visual_precheck": null,
+    "created": "2026-11-07T04:40:59+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null
+  },
+  {
+    "folder": "2026-11-07_051451_apollo-11-photographs-from-the-moon",
+    "topic": "Apollo 11 photographs from the Moon",
+    "status": "failed",
+    "stage": "script",
+    "role": null,
+    "slot": null,
+    "pillar": null,
+    "selection": null,
+    "visual_precheck": null,
+    "created": "2026-11-07T05:14:51+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null
+  },
+  {
+    "folder": "2026-11-07_052205_apollo-11-from-earth-to-the-moon",
+    "topic": "Apollo 11 from Earth to the Moon",
+    "status": "failed",
+    "stage": "script",
+    "role": null,
+    "slot": null,
+    "pillar": null,
+    "selection": null,
+    "visual_precheck": null,
+    "created": "2026-11-07T05:22:05+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null
+  },
+  {
+    "folder": "2026-11-07_053129_olympus-mons-height-and-volcanic-terrain",
+    "topic": "Olympus Mons height and volcanic terrain",
+    "status": "failed",
+    "stage": "script",
+    "role": null,
+    "slot": null,
+    "pillar": null,
+    "selection": null,
+    "visual_precheck": null,
+    "created": "2026-11-07T05:31:29+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null
+  },
+  {
+    "folder": "2026-11-07_055220_the-eight-planets-in-order-from-the-sun",
+    "topic": "The eight planets in order from the Sun",
+    "status": "failed",
+    "stage": "script",
+    "role": null,
+    "slot": null,
+    "pillar": null,
+    "selection": null,
+    "visual_precheck": null,
+    "created": "2026-11-07T05:52:20+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null
+  },
+  {
+    "folder": "2026-11-07_060814_the-eight-planets-in-order-from-the-sun",
+    "topic": "The eight planets in order from the Sun",
+    "status": "quarantined",
+    "stage": "script",
+    "role": null,
+    "slot": null,
+    "pillar": null,
+    "selection": null,
+    "visual_precheck": null,
+    "created": "2026-11-07T06:08:14+05:30",
+    "stages": {
+      "script": "2026-11-07T06:08:25+05:30",
+      "render": "2026-11-07T06:09:06+05:30",
+      "gates": "2026-11-07T06:10:07+05:30"
+    },
+    "youtube_id": null,
+    "instagram_id": null,
+    "reason": "AI reviewer: visual grounding failed: scene 2: MISMATCH (generic stock footage (pixabay: 'Earth photographed from space'); narration ",
+    "stage_failed": null,
+    "title": "The Planets in Order from the Sun #Shorts",
+    "music": "nebula-d.m4a"
+  },
+  {
+    "folder": "2026-11-07_061739_the-eight-planets-in-order-from-the-sun",
+    "topic": "The eight planets in order from the Sun",
+    "status": "quarantined",
+    "stage": "script",
+    "role": null,
+    "slot": null,
+    "pillar": null,
+    "selection": null,
+    "visual_precheck": null,
+    "created": "2026-11-07T06:17:39+05:30",
+    "stages": {
+      "script": "2026-11-07T06:19:49+05:30",
+      "render": "2026-11-07T06:20:26+05:30",
+      "gates": "2026-11-07T06:21:08+05:30"
+    },
+    "youtube_id": null,
+    "instagram_id": null,
+    "reason": "release gate: duplicates: same title as 2026-11-07_063600_the-eight-planets-in-order-from-the-sun",
+    "stage_failed": null,
+    "title": "The Planets in Order from the Sun #Shorts",
+    "music": "deepfield-f.m4a"
+  },
+  {
+    "folder": "2026-11-07_063242_the-eight-planets-in-order-from-the-sun",
+    "topic": "The eight planets in order from the Sun",
+    "status": "failed",
+    "stage": "script",
+    "role": null,
+    "slot": null,
+    "pillar": null,
+    "selection": null,
+    "visual_precheck": null,
+    "created": "2026-11-07T06:32:42+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null
+  },
+  {
+    "folder": "2026-11-07_063600_the-eight-planets-in-order-from-the-sun",
+    "topic": "The eight planets in order from the Sun",
+    "status": "published",
+    "stage": "script",
+    "role": null,
+    "slot": "2026-11-07T23:30:00+05:30",
+    "pillar": null,
+    "selection": null,
+    "visual_precheck": null,
+    "created": "2026-11-07T06:36:00+05:30",
+    "stages": {
+      "script": "2026-11-07T06:41:03+05:30",
+      "render": "2026-11-07T06:41:31+05:30",
+      "gates": "2026-11-07T06:42:12+05:30",
+      "upload_started": "2026-11-07T06:44:49+05:30",
+      "upload": "2026-11-07T06:44:55+05:30",
+      "published": "2026-11-08T14:20:09+05:30"
+    },
+    "youtube_id": "ufIw3_OJdmc",
+    "instagram_id": null,
+    "reason": null,
+    "stage_failed": null,
+    "title": "The Planets in Order from the Sun #Shorts",
+    "music": "nebula-d.m4a",
+    "publish_at": "2026-11-07T23:30:00+05:30",
+    "verification": {
+      "ok": true,
+      "problems": [],
+      "privacy": "private",
+      "publish_at": "2026-11-07T18:00:00Z"
+    },
+    "alert": null,
+    "privacy": "public"
+  },
+  {
+    "folder": "2026-11-07_065251_jupiters-four-galilean-moons",
+    "topic": "Jupiter's four Galilean moons",
+    "status": "quarantined",
+    "stage": "script",
+    "role": null,
+    "slot": null,
+    "pillar": null,
+    "selection": null,
+    "visual_precheck": null,
+    "created": "2026-11-07T06:52:51+05:30",
+    "stages": {
+      "script": "2026-11-07T06:59:11+05:30",
+      "render": "2026-11-07T06:59:42+05:30",
+      "gates": "2026-11-07T07:00:41+05:30"
+    },
+    "youtube_id": null,
+    "instagram_id": null,
+    "reason": "AI reviewer: visual grounding failed: scene 4: MISMATCH (generic stock footage (pixabay: 'Callisto global color image')). The video f",
+    "stage_failed": null,
+    "title": "Jupiter's Four Galilean Moons #Shorts",
+    "music": "deepfield-f.m4a"
+  },
+  {
+    "folder": "2026-11-07_070921_jupiters-four-galilean-moons",
+    "topic": "Jupiter's four Galilean moons",
+    "status": "quarantined",
+    "stage": "script",
+    "role": null,
+    "slot": null,
+    "pillar": null,
+    "selection": null,
+    "visual_precheck": null,
+    "created": "2026-11-07T07:09:21+05:30",
+    "stages": {
+      "script": "2026-11-07T07:09:28+05:30",
+      "render": "2026-11-07T07:09:46+05:30",
+      "gates": "2026-11-07T07:09:51+05:30"
+    },
+    "youtube_id": null,
+    "instagram_id": null,
+    "reason": "quality gate: narration length",
+    "stage_failed": null,
+    "title": "Jupiter's Four Galilean Moons #Shorts",
+    "music": "nebula-d.m4a"
+  },
+  {
+    "folder": "2026-11-07_071448_jupiters-four-galilean-moons",
+    "topic": "Jupiter's four Galilean moons",
+    "status": "failed",
+    "stage": "script",
+    "role": null,
+    "slot": null,
+    "pillar": null,
+    "selection": null,
+    "visual_precheck": null,
+    "created": "2026-11-07T07:14:48+05:30",
+    "stages": {
+      "script": "2026-11-07T07:30:12+05:30"
+    },
+    "youtube_id": null,
+    "instagram_id": null
+  },
+  {
+    "folder": "2026-11-07_073909_jupiters-four-galilean-moons",
+    "topic": "Jupiter's four Galilean moons",
+    "status": "published",
+    "stage": "script",
+    "role": null,
+    "slot": "2026-11-08T05:30:00+05:30",
+    "pillar": null,
+    "selection": null,
+    "visual_precheck": null,
+    "created": "2026-11-07T07:39:09+05:30",
+    "stages": {
+      "script": "2026-11-07T07:39:17+05:30",
+      "render": "2026-11-07T07:39:36+05:30",
+      "gates": "2026-11-07T07:40:20+05:30",
+      "upload_started": "2026-11-07T07:56:05+05:30",
+      "upload": "2026-11-07T07:56:11+05:30",
+      "published": "2026-11-08T14:20:09+05:30"
+    },
+    "youtube_id": "xiqHIqurwZE",
+    "instagram_id": null,
+    "reason": null,
+    "stage_failed": null,
+    "title": "Jupiter's Four Galilean Moons #Shorts",
+    "music": "deepfield-f.m4a",
+    "publish_at": "2026-11-08T05:30:00+05:30",
+    "verification": {
+      "ok": true,
+      "problems": [],
+      "privacy": "private",
+      "publish_at": "2026-11-08T00:00:00Z"
+    },
+    "alert": null,
+    "privacy": "public"
+  },
+  {
+    "folder": "2026-11-07_074107_five-nasa-mars-rovers",
+    "topic": "Five NASA Mars rovers",
+    "status": "failed",
+    "stage": "script",
+    "role": null,
+    "slot": null,
+    "pillar": null,
+    "selection": null,
+    "visual_precheck": null,
+    "created": "2026-11-07T07:41:07+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null
+  },
+  {
+    "folder": "2026-11-07_075625_five-nasa-mars-rovers",
+    "topic": "Five NASA Mars rovers",
+    "status": "scheduled",
+    "stage": "script",
+    "role": null,
+    "slot": "2026-11-08T23:30:00+05:30",
+    "pillar": null,
+    "selection": null,
+    "visual_precheck": null,
+    "created": "2026-11-07T07:56:25+05:30",
+    "stages": {
+      "script": "2026-11-07T08:01:18+05:30",
+      "render": "2026-11-07T08:02:16+05:30",
+      "gates": "2026-11-07T08:02:54+05:30",
+      "upload_started": "2026-11-07T08:06:16+05:30",
+      "upload": "2026-11-07T08:06:23+05:30"
+    },
+    "youtube_id": "sKZqA3DVjbk",
+    "instagram_id": null,
+    "reason": null,
+    "stage_failed": null,
+    "title": "NASA Mars Rovers #Shorts",
+    "music": "nebula-d.m4a",
+    "publish_at": "2026-11-08T23:30:00+05:30",
+    "verification": {
+      "ok": true,
+      "problems": [],
+      "privacy": "private",
+      "publish_at": "2026-11-08T18:00:00Z"
+    },
+    "alert": null,
+    "privacy": "private"
+  },
+  {
+    "folder": "2026-11-07_080646_six-space-shuttle-orbiters",
+    "topic": "Six Space Shuttle orbiters",
+    "status": "failed",
+    "stage": "script",
+    "role": null,
+    "slot": null,
+    "pillar": null,
+    "selection": null,
+    "visual_precheck": null,
+    "created": "2026-11-07T08:06:46+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null
+  },
+  {
+    "folder": "2026-11-07_081549_six-space-shuttle-orbiters",
+    "topic": "Six Space Shuttle orbiters",
+    "status": "quarantined",
+    "stage": "script",
+    "role": null,
+    "slot": null,
+    "pillar": null,
+    "selection": null,
+    "visual_precheck": null,
+    "created": "2026-11-07T08:15:49+05:30",
+    "stages": {
+      "script": "2026-11-07T08:15:58+05:30",
+      "render": "2026-11-07T08:16:26+05:30",
+      "gates": "2026-11-07T08:17:18+05:30"
+    },
+    "youtube_id": null,
+    "instagram_id": null,
+    "reason": "AI reviewer: visual grounding failed: scene 3: MISMATCH (metadata names the subject (discovery, shuttle, space)). The narration is fa",
+    "stage_failed": null,
+    "title": "Space Shuttle Orbiters #Shorts",
+    "music": "deepfield-f.m4a"
+  },
+  {
+    "folder": "2026-11-07_082904_six-space-shuttle-orbiters",
+    "topic": "Six Space Shuttle orbiters",
+    "status": "failed",
+    "stage": "script",
+    "role": null,
+    "slot": null,
+    "pillar": null,
+    "selection": null,
+    "visual_precheck": null,
+    "created": "2026-11-07T08:29:04+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null
+  },
+  {
+    "folder": "2026-11-07_083806_six-space-shuttle-orbiters",
+    "topic": "Six Space Shuttle orbiters",
+    "status": "failed",
+    "stage": "script",
+    "role": null,
+    "slot": null,
+    "pillar": null,
+    "selection": null,
+    "visual_precheck": null,
+    "created": "2026-11-07T08:38:06+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "stage_failed": "verify",
+    "reason": "ValueError: independent check still failing after repair: The Space Shuttle orbiters were Enterprise, Columbia, Challe (misleading); 99 in: Challenger was a Space Shuttle orbiter with the desig (number not checked (no ledger entry states it))"
+  },
+  {
+    "folder": "2026-11-07_085218_six-space-shuttle-orbiters",
+    "topic": "Six Space Shuttle orbiters",
+    "status": "quarantined",
+    "stage": "script",
+    "role": null,
+    "slot": null,
+    "pillar": null,
+    "selection": null,
+    "visual_precheck": null,
+    "created": "2026-11-07T08:52:18+05:30",
+    "stages": {
+      "script": "2026-11-07T08:52:26+05:30",
+      "render": "2026-11-07T08:53:41+05:30",
+      "gates": "2026-11-07T08:54:21+05:30"
+    },
+    "youtube_id": null,
+    "instagram_id": null,
+    "reason": "AI reviewer: visual grounding failed: scene 1: MISMATCH (metadata names the subject (columbia, shuttle, space)). The video presents c",
+    "stage_failed": null,
+    "title": "Space Shuttle Orbiters #Shorts",
+    "music": "nebula-d.m4a"
+  },
+  {
+    "folder": "2026-11-07_085556_five-space-telescopes",
+    "topic": "Five space telescopes",
+    "status": "failed",
+    "stage": "script",
+    "role": null,
+    "slot": null,
+    "pillar": null,
+    "selection": null,
+    "visual_precheck": null,
+    "created": "2026-11-07T08:55:56+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null
+  },
+  {
+    "folder": "2026-11-07_090557_five-space-telescopes",
+    "topic": "Five space telescopes",
+    "status": "failed",
+    "stage": "script",
+    "role": null,
+    "slot": null,
+    "pillar": null,
+    "selection": null,
+    "visual_precheck": null,
+    "created": "2026-11-07T09:05:57+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null
+  },
+  {
+    "folder": "2026-11-07_091221_five-space-telescopes",
+    "topic": "Five space telescopes",
+    "status": "failed",
+    "stage": "script",
+    "role": null,
+    "slot": null,
+    "pillar": null,
+    "selection": null,
+    "visual_precheck": null,
+    "created": "2026-11-07T09:12:21+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null
+  },
+  {
+    "folder": "2026-11-07_091915_five-space-telescopes",
+    "topic": "Five space telescopes",
+    "status": "quarantined",
+    "stage": "script",
+    "role": null,
+    "slot": null,
+    "pillar": null,
+    "selection": null,
+    "visual_precheck": null,
+    "created": "2026-11-07T09:19:15+05:30",
+    "stages": {
+      "script": "2026-11-07T09:19:23+05:30",
+      "render": "2026-11-07T09:19:48+05:30",
+      "gates": "2026-11-07T09:20:25+05:30"
+    },
+    "youtube_id": null,
+    "instagram_id": null,
+    "reason": "AI reviewer: Factually accurate and visually on-subject, but the story is a flat, non-chronological list that fails to escalate or lo",
+    "stage_failed": null,
+    "title": "Space Telescopes #Shorts",
+    "music": "deepfield-f.m4a"
+  },
+  {
+    "folder": "2026-11-07_092902_five-space-telescopes",
+    "topic": "Five space telescopes",
+    "status": "quarantined",
+    "stage": "script",
+    "role": null,
+    "slot": null,
+    "pillar": null,
+    "selection": null,
+    "visual_precheck": null,
+    "created": "2026-11-07T09:29:02+05:30",
+    "stages": {
+      "script": "2026-11-07T09:29:10+05:30",
+      "render": "2026-11-07T09:29:37+05:30",
+      "gates": "2026-11-07T09:30:11+05:30"
+    },
+    "youtube_id": null,
+    "instagram_id": null,
+    "reason": "AI reviewer: Accurate and visually on-topic, but the story lacks a payoff or hook return, and center-placed captions obscure the imag",
+    "stage_failed": null,
+    "title": "Space Telescopes #Shorts",
+    "music": "nebula-d.m4a"
+  },
+  {
+    "folder": "2026-11-07_094020_five-space-telescopes",
+    "topic": "Five space telescopes",
+    "status": "quarantined",
+    "stage": "script",
+    "role": null,
+    "slot": null,
+    "pillar": null,
+    "selection": null,
+    "visual_precheck": null,
+    "created": "2026-11-07T09:40:20+05:30",
+    "stages": {
+      "script": "2026-11-07T09:40:28+05:30",
+      "render": "2026-11-07T09:41:02+05:30",
+      "gates": "2026-11-07T09:41:09+05:30"
+    },
+    "youtube_id": null,
+    "instagram_id": null,
+    "reason": "quality gate: no black frames",
+    "stage_failed": null,
+    "title": "Space Telescopes #Shorts",
+    "music": "deepfield-f.m4a"
+  },
+  {
+    "folder": "2026-11-07_094329_five-space-telescopes",
+    "topic": "Five space telescopes",
+    "status": "withdrawn",
+    "stage": "script",
+    "role": null,
+    "slot": "2026-11-09T05:30:00+05:30",
+    "pillar": null,
+    "selection": null,
+    "visual_precheck": null,
+    "created": "2026-11-07T09:43:29+05:30",
+    "stages": {
+      "script": "2026-11-07T09:48:37+05:30",
+      "render": "2026-11-07T09:49:24+05:30",
+      "gates": "2026-11-07T09:50:14+05:30",
+      "upload_started": "2026-11-07T14:20:09+05:30",
+      "upload": "2026-11-07T14:20:16+05:30",
+      "withdrawn": "2026-11-07T14:54:40+05:30"
+    },
+    "youtube_id": "7YrvPy1r_d4",
+    "instagram_id": null,
+    "reason": "withdrawn: Rejected Webb visuals; automatic catch-up upload was not approved",
+    "stage_failed": null,
+    "title": "Space Telescopes #Shorts",
+    "music": "nebula-d.m4a",
+    "publish_at": null,
+    "verification": {
+      "ok": true,
+      "problems": [],
+      "privacy": "private",
+      "publish_at": "2026-11-09T00:00:00Z"
+    },
+    "alert": null
+  },
+  {
+    "folder": "2026-11-07_105320_five-space-telescopes",
+    "topic": "Five space telescopes",
+    "status": "failed",
+    "stage": "script",
+    "role": null,
+    "slot": null,
+    "pillar": null,
+    "selection": null,
+    "visual_precheck": null,
+    "created": "2026-11-07T10:53:20+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null
+  },
+  {
+    "folder": "2026-11-07_110432_five-space-telescopes",
+    "topic": "Five space telescopes",
+    "status": "quarantined",
+    "stage": "script",
+    "role": null,
+    "slot": null,
+    "pillar": null,
+    "selection": null,
+    "visual_precheck": null,
+    "created": "2026-11-07T11:04:32+05:30",
+    "stages": {
+      "script": "2026-11-07T11:04:40+05:30",
+      "render": "2026-11-07T11:05:17+05:30",
+      "gates": "2026-11-07T11:05:47+05:30"
+    },
+    "youtube_id": null,
+    "instagram_id": null,
+    "reason": "AI reviewer: visual grounding failed: scene 1: MISMATCH (metadata doesn't name the subject (Gamma Ray Observatory)). The video fails ",
+    "stage_failed": null,
+    "title": "Space Telescopes #Shorts",
+    "music": "deepfield-f.m4a"
+  },
+  {
+    "folder": "2026-11-07_111356_five-space-telescopes",
+    "topic": "Five space telescopes",
+    "status": "failed",
+    "stage": "script",
+    "role": null,
+    "slot": null,
+    "pillar": null,
+    "selection": null,
+    "visual_precheck": null,
+    "created": "2026-11-07T11:13:56+05:30",
+    "stages": {
+      "script": "2026-11-07T11:14:04+05:30"
+    },
+    "youtube_id": null,
+    "instagram_id": null
+  },
+  {
+    "folder": "2026-11-07_125928_five-major-moons-of-saturn",
+    "topic": "Five major moons of Saturn",
+    "status": "failed",
+    "stage": "script",
+    "role": null,
+    "slot": null,
+    "pillar": null,
+    "selection": null,
+    "visual_precheck": null,
+    "created": "2026-11-07T12:59:28+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null
+  },
+  {
+    "folder": "2026-11-07_130552_five-major-moons-of-saturn",
+    "topic": "Five major moons of Saturn",
+    "status": "failed",
+    "stage": "script",
+    "role": null,
+    "slot": null,
+    "pillar": null,
+    "selection": null,
+    "visual_precheck": null,
+    "created": "2026-11-07T13:05:52+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null
+  },
+  {
+    "folder": "2026-11-07_132431_major-moons-of-saturn",
+    "topic": "major moons of Saturn",
+    "status": "quarantined",
+    "stage": "script",
+    "role": null,
+    "slot": null,
+    "pillar": null,
+    "selection": null,
+    "visual_precheck": null,
+    "created": "2026-11-07T13:24:31+05:30",
+    "stages": {
+      "script": "2026-11-07T13:24:32+05:30",
+      "render": "2026-11-07T13:24:54+05:30",
+      "gates": "2026-11-07T13:24:59+05:30"
+    },
+    "youtube_id": null,
+    "instagram_id": null,
+    "reason": "quality gate: narration length",
+    "stage_failed": null,
+    "title": "Saturn's Major Moons #Shorts",
+    "music": "nebula-d.m4a"
+  },
+  {
+    "folder": "2026-11-07_135451_major-moons-of-saturn",
+    "topic": "major moons of Saturn",
+    "status": "failed",
+    "stage": "script",
+    "role": null,
+    "slot": null,
+    "pillar": null,
+    "selection": null,
+    "visual_precheck": null,
+    "created": "2026-11-07T13:54:51+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null
+  },
+  {
+    "folder": "2026-11-07_142017_one-breath-of-martian-air-weighs-less-than-a-feath",
+    "topic": "One breath of Martian air weighs less than a feather",
+    "status": "failed",
+    "stage": "script",
+    "role": "authority",
+    "slot": "2026-11-09T23:30:00+05:30",
+    "pillar": "Planets & moons",
+    "selection": {
+      "role": "authority",
+      "base_score": 42.5,
+      "multiplier": 0.99,
+      "parts": {
+        "pillar_role": 1.0,
+        "question_hook": 1.01,
+        "number_hook": 0.99,
+        "big_number_hook": 0.99,
+        "long_hook": 1.0
+      },
+      "final": 42.08,
+      "runner_up": [
+        {
+          "topic": "A single teaspoon of Saturn’s rings ice would melt into a gl",
+          "final": 38.61
+        }
+      ]
+    },
+    "visual_precheck": null,
+    "created": "2026-11-07T14:20:17+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "reason": "interrupted: the run ended before this video finished (sleep/crash); nothing was uploaded",
+    "stage_failed": "script"
+  },
+  {
+    "folder": "2026-11-07_145544_major-moons-of-saturn",
+    "topic": "major moons of Saturn",
+    "status": "failed",
+    "stage": "script",
+    "role": null,
+    "slot": null,
+    "pillar": null,
+    "selection": null,
+    "visual_precheck": null,
+    "created": "2026-11-07T14:55:44+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "reason": "interrupted: the run ended before this video finished (sleep/crash); nothing was uploaded",
+    "stage_failed": "script"
+  },
+  {
+    "folder": "2026-11-07_153933_major-moons-of-saturn",
+    "topic": "major moons of Saturn",
+    "status": "failed",
+    "stage": "script",
+    "role": null,
+    "slot": null,
+    "pillar": null,
+    "selection": null,
+    "visual_precheck": null,
+    "created": "2026-11-07T15:39:33+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "reason": "interrupted: the run ended before this video finished (sleep/crash); nothing was uploaded",
+    "stage_failed": "script"
+  },
+  {
+    "folder": "2026-11-07_154819_major-moons-of-saturn",
+    "topic": "major moons of Saturn",
+    "status": "failed",
+    "stage": "script",
+    "role": null,
+    "slot": null,
+    "pillar": null,
+    "selection": null,
+    "visual_precheck": null,
+    "created": "2026-11-07T15:48:19+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "reason": "interrupted: the run ended before this video finished (sleep/crash); nothing was uploaded",
+    "stage_failed": "script"
+  },
+  {
+    "folder": "2026-11-07_160639_major-moons-of-saturn",
+    "topic": "major moons of Saturn",
+    "status": "failed",
+    "stage": "script",
+    "role": null,
+    "slot": null,
+    "pillar": null,
+    "selection": null,
+    "visual_precheck": null,
+    "created": "2026-11-07T16:06:39+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "reason": "interrupted: the run ended before this video finished (sleep/crash); nothing was uploaded",
+    "stage_failed": "script"
+  },
+  {
+    "folder": "2026-11-07_170057_major-moons-of-saturn",
+    "topic": "major moons of Saturn",
+    "status": "scheduled",
+    "stage": "script",
+    "role": null,
+    "slot": "2026-11-12T20:00:00+05:30",
+    "pillar": null,
+    "selection": null,
+    "visual_precheck": null,
+    "created": "2026-11-07T17:00:57+05:30",
+    "stages": {
+      "script": "2026-11-07T17:01:05+05:30",
+      "render": "2026-11-07T17:01:31+05:30",
+      "gates": "2026-11-07T17:02:02+05:30",
+      "upload_started": "2026-11-08T14:20:22+05:30",
+      "upload": "2026-11-08T14:20:29+05:30"
+    },
+    "youtube_id": "6pJOkNeegLk",
+    "instagram_id": null,
+    "reason": null,
+    "stage_failed": null,
+    "title": "Saturn's Major Moons #Shorts",
+    "music": "deepfield-f.m4a",
+    "publish_at": "2026-11-12T20:00:00+05:30",
+    "verification": {
+      "ok": true,
+      "problems": [],
+      "privacy": "private",
+      "publish_at": "2026-11-12T14:30:00Z"
+    },
+    "alert": null,
+    "privacy": "private"
+  },
+  {
+    "folder": "2026-11-07_172120_major-moons-of-saturn",
+    "topic": "major moons of Saturn",
+    "status": "failed",
+    "stage": "script",
+    "role": null,
+    "slot": null,
+    "pillar": null,
+    "selection": null,
+    "visual_precheck": null,
+    "created": "2026-11-07T17:21:20+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "stage_failed": "verify",
+    "reason": "ValueError: independent check still failing after repair: Original procedural motion, depth, lighting and particles il (unverifiable)"
+  },
+  {
+    "folder": "2026-11-07_182723_major-moons-of-saturn",
+    "topic": "major moons of Saturn",
+    "status": "failed",
+    "stage": "script",
+    "role": null,
+    "slot": null,
+    "pillar": null,
+    "selection": null,
+    "visual_precheck": null,
+    "created": "2026-11-07T18:27:23+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "reason": "interrupted: the run ended before this video finished (sleep/crash); nothing was uploaded",
+    "stage_failed": "script"
+  },
+  {
+    "folder": "2026-11-07_183501_remarkable-galaxies",
+    "topic": "remarkable galaxies",
+    "status": "failed",
+    "stage": "script",
+    "role": null,
+    "slot": null,
+    "pillar": null,
+    "selection": null,
+    "visual_precheck": null,
+    "created": "2026-11-07T18:35:01+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "reason": "interrupted: the run ended before this video finished (sleep/crash); nothing was uploaded",
+    "stage_failed": "script"
+  },
+  {
+    "folder": "2026-11-07_185037_remarkable-galaxies",
+    "topic": "remarkable galaxies",
+    "status": "quarantined",
+    "stage": "script",
+    "role": null,
+    "slot": null,
+    "pillar": null,
+    "selection": null,
+    "visual_precheck": null,
+    "created": "2026-11-07T18:50:37+05:30",
+    "stages": {
+      "script": "2026-11-07T18:50:45+05:30",
+      "render": "2026-11-07T18:51:23+05:30",
+      "gates": "2026-11-07T18:51:28+05:30"
+    },
+    "youtube_id": null,
+    "instagram_id": null,
+    "reason": "quality gate: narration length",
+    "stage_failed": null,
+    "title": "When Galaxies Collide #Shorts",
+    "music": "nebula-d.m4a"
+  },
+  {
+    "folder": "2026-11-07_185414_remarkable-galaxies",
+    "topic": "remarkable galaxies",
+    "status": "failed",
+    "stage": "script",
+    "role": null,
+    "slot": null,
+    "pillar": null,
+    "selection": null,
+    "visual_precheck": null,
+    "created": "2026-11-07T18:54:14+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "reason": "interrupted: the run ended before this video finished (sleep/crash); nothing was uploaded",
+    "stage_failed": "script"
+  },
+  {
+    "folder": "2026-11-07_193925_remarkable-galaxies",
+    "topic": "remarkable galaxies",
+    "status": "failed",
+    "stage": "script",
+    "role": null,
+    "slot": null,
+    "pillar": null,
+    "selection": null,
+    "visual_precheck": null,
+    "created": "2026-11-07T19:39:25+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "reason": "interrupted: the run ended before this video finished (sleep/crash); nothing was uploaded",
+    "stage_failed": "script"
+  },
+  {
+    "folder": "2026-11-07_200017_famous-comets",
+    "topic": "famous comets",
+    "status": "quarantined",
+    "stage": "script",
+    "role": null,
+    "slot": null,
+    "pillar": null,
+    "selection": null,
+    "visual_precheck": null,
+    "created": "2026-11-07T20:00:17+05:30",
+    "stages": {
+      "script": "2026-11-07T20:00:25+05:30",
+      "render": "2026-11-07T20:00:52+05:30",
+      "gates": "2026-11-07T20:01:28+05:30"
+    },
+    "youtube_id": null,
+    "instagram_id": null,
+    "reason": "AI reviewer: visual grounding failed: scene 1: MISMATCH (original procedural animation built for this scene's named subject). Accurat",
+    "stage_failed": null,
+    "title": "Comets: From Tails to Samples #Shorts",
+    "music": "deepfield-f.m4a"
+  },
+  {
+    "folder": "2026-11-07_200919_famous-comets",
+    "topic": "famous comets",
+    "status": "failed",
+    "stage": "script",
+    "role": null,
+    "slot": null,
+    "pillar": null,
+    "selection": null,
+    "visual_precheck": null,
+    "created": "2026-11-07T20:09:19+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "reason": "interrupted: the run ended before this video finished (sleep/crash); nothing was uploaded",
+    "stage_failed": "script"
+  },
+  {
+    "folder": "2026-11-07_202350_famous-nebulae",
+    "topic": "famous nebulae",
+    "status": "failed",
+    "stage": "script",
+    "role": null,
+    "slot": null,
+    "pillar": null,
+    "selection": null,
+    "visual_precheck": null,
+    "created": "2026-11-07T20:23:50+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "reason": "interrupted: the run ended before this video finished (sleep/crash); nothing was uploaded",
+    "stage_failed": "script"
+  },
+  {
+    "folder": "2026-11-07_210420_major-moons-of-uranus",
+    "topic": "major moons of Uranus",
+    "status": "failed",
+    "stage": "script",
+    "role": null,
+    "slot": null,
+    "pillar": null,
+    "selection": null,
+    "visual_precheck": null,
+    "created": "2026-11-07T21:04:20+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "reason": "interrupted: the run ended before this video finished (sleep/crash); nothing was uploaded",
+    "stage_failed": "script"
+  },
+  {
+    "folder": "2026-11-07_212704_major-moons-of-uranus",
+    "topic": "major moons of Uranus",
+    "status": "failed",
+    "stage": "script",
+    "role": null,
+    "slot": null,
+    "pillar": null,
+    "selection": null,
+    "visual_precheck": null,
+    "created": "2026-11-07T21:27:04+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "reason": "interrupted: the run ended before this video finished (sleep/crash); nothing was uploaded",
+    "stage_failed": "script"
+  },
+  {
+    "folder": "2026-11-07_222036_pluto-and-ceres-up-close",
+    "topic": "Pluto and Ceres up close",
+    "status": "failed",
+    "stage": "script",
+    "role": null,
+    "slot": null,
+    "pillar": null,
+    "selection": null,
+    "visual_precheck": null,
+    "created": "2026-11-07T22:20:36+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "reason": "interrupted: the run ended before this video finished (sleep/crash); nothing was uploaded",
+    "stage_failed": "script"
+  },
+  {
+    "folder": "2026-11-07_232343_messenger-becomes-the-first-spacecraft-to-orbit-me",
+    "topic": "MESSENGER becomes the first spacecraft to orbit Mercury",
+    "status": "failed",
+    "stage": "script",
+    "role": null,
+    "slot": null,
+    "pillar": null,
+    "selection": null,
+    "visual_precheck": null,
+    "created": "2026-11-07T23:23:43+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "reason": "interrupted: the run ended before this video finished (sleep/crash); nothing was uploaded",
+    "stage_failed": "script"
+  },
+  {
+    "folder": "2026-11-08_000336_messengers-mission-to-mercury",
+    "topic": "MESSENGER's mission to Mercury",
+    "status": "scheduled",
+    "stage": "script",
+    "role": null,
+    "slot": "2026-11-09T05:30:00+05:30",
+    "pillar": null,
+    "selection": null,
+    "visual_precheck": null,
+    "created": "2026-11-08T00:03:36+05:30",
+    "stages": {
+      "script": "2026-11-08T00:26:37+05:30",
+      "render": "2026-11-08T00:27:39+05:30",
+      "gates": "2026-11-08T00:29:36+05:30",
+      "upload_started": "2026-11-08T00:30:37+05:30",
+      "upload": "2026-11-08T00:30:44+05:30"
+    },
+    "youtube_id": "j6rEvff3MFs",
+    "instagram_id": null,
+    "reason": null,
+    "stage_failed": null,
+    "title": "MESSENGER's Journey to Mercury #Shorts",
+    "music": "nebula-d.m4a",
+    "publish_at": "2026-11-09T05:30:00+05:30",
+    "verification": {
+      "ok": true,
+      "problems": [],
+      "privacy": "private",
+      "publish_at": "2026-11-09T00:00:00Z"
+    },
+    "alert": null,
+    "privacy": "private"
+  },
+  {
+    "folder": "2026-11-08_003105_magellan-reveals-the-surface-of-venus-with-radar",
+    "topic": "Magellan reveals the surface of Venus with radar",
+    "status": "failed",
+    "stage": "script",
+    "role": null,
+    "slot": null,
+    "pillar": null,
+    "selection": null,
+    "visual_precheck": null,
+    "created": "2026-11-08T00:31:05+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "stage_failed": "verify",
+    "reason": "ValueError: independent check still failing after repair: Clouds hide its surface (no document evidence (5 unresolved claims; at most 3 per video): support it, sof); Magellan carried radar to map what they concealed (no document evidence (5 unresolved claims; at most 3 per video): support it, sof)"
+  },
+  {
+    "folder": "2026-11-08_005204_magellan-reveals-the-surface-of-venus-with-radar",
+    "topic": "Magellan reveals the surface of Venus with radar",
+    "status": "quarantined",
+    "stage": "script",
+    "role": null,
+    "slot": null,
+    "pillar": null,
+    "selection": null,
+    "visual_precheck": null,
+    "created": "2026-11-08T00:52:04+05:30",
+    "stages": {
+      "script": "2026-11-08T00:52:08+05:30",
+      "render": "2026-11-08T00:53:00+05:30",
+      "gates": "2026-11-08T00:53:46+05:30"
+    },
+    "youtube_id": null,
+    "instagram_id": null,
+    "reason": "release gate: duplicates: same title as 2026-11-08_013905_magellan-reveals-the-surface-of-venus-with-radar",
+    "stage_failed": null,
+    "title": "How Magellan Revealed Venus #Shorts",
+    "music": "deepfield-f.m4a"
+  },
+  {
+    "folder": "2026-11-08_010011_magellan-reveals-the-surface-of-venus-with-radar",
+    "topic": "Magellan reveals the surface of Venus with radar",
+    "status": "failed",
+    "stage": "script",
+    "role": null,
+    "slot": null,
+    "pillar": null,
+    "selection": null,
+    "visual_precheck": null,
+    "created": "2026-11-08T01:00:11+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "reason": "interrupted: the run ended before this video finished (sleep/crash); nothing was uploaded",
+    "stage_failed": "script"
+  },
+  {
+    "folder": "2026-11-08_011204_magellan-reveals-the-surface-of-venus-with-radar",
+    "topic": "Magellan reveals the surface of Venus with radar",
+    "status": "failed",
+    "stage": "script",
+    "role": null,
+    "slot": null,
+    "pillar": null,
+    "selection": null,
+    "visual_precheck": null,
+    "created": "2026-11-08T01:12:04+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "reason": "interrupted: the run ended before this video finished (sleep/crash); nothing was uploaded",
+    "stage_failed": "script"
+  },
+  {
+    "folder": "2026-11-08_012128_magellan-reveals-the-surface-of-venus-with-radar",
+    "topic": "Magellan reveals the surface of Venus with radar",
+    "status": "failed",
+    "stage": "script",
+    "role": null,
+    "slot": null,
+    "pillar": null,
+    "selection": null,
+    "visual_precheck": null,
+    "created": "2026-11-08T01:21:28+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "reason": "interrupted: the run ended before this video finished (sleep/crash); nothing was uploaded",
+    "stage_failed": "script"
+  },
+  {
+    "folder": "2026-11-08_013320_magellan-reveals-the-surface-of-venus-with-radar",
+    "topic": "Magellan reveals the surface of Venus with radar",
+    "status": "failed",
+    "stage": "script",
+    "role": null,
+    "slot": null,
+    "pillar": null,
+    "selection": null,
+    "visual_precheck": null,
+    "created": "2026-11-08T01:33:20+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "reason": "interrupted: the run ended before this video finished (sleep/crash); nothing was uploaded",
+    "stage_failed": "script"
+  },
+  {
+    "folder": "2026-11-08_013905_magellan-reveals-the-surface-of-venus-with-radar",
+    "topic": "Magellan reveals the surface of Venus with radar",
+    "status": "scheduled",
+    "stage": "script",
+    "role": null,
+    "slot": "2026-11-09T23:30:00+05:30",
+    "pillar": null,
+    "selection": null,
+    "visual_precheck": null,
+    "created": "2026-11-08T01:39:05+05:30",
+    "stages": {
+      "script": "2026-11-08T01:42:24+05:30",
+      "render": "2026-11-08T01:43:26+05:30",
+      "gates": "2026-11-08T01:44:19+05:30",
+      "upload_started": "2026-11-08T01:46:16+05:30",
+      "upload": "2026-11-08T01:46:22+05:30"
+    },
+    "youtube_id": "SdiwesW79dM",
+    "instagram_id": null,
+    "reason": null,
+    "stage_failed": null,
+    "title": "How Magellan Revealed Venus #Shorts",
+    "music": "nebula-d.m4a",
+    "publish_at": "2026-11-09T23:30:00+05:30",
+    "verification": {
+      "ok": true,
+      "problems": [],
+      "privacy": "private",
+      "publish_at": "2026-11-09T18:00:00Z"
+    },
+    "alert": null,
+    "privacy": "private"
+  },
+  {
+    "folder": "2026-11-08_014645_galileo-follows-voyagers-discovery-of-active-volca",
+    "topic": "Galileo follows Voyager's discovery of active volcanoes on Io",
+    "status": "failed",
+    "stage": "script",
+    "role": null,
+    "slot": null,
+    "pillar": null,
+    "selection": null,
+    "visual_precheck": null,
+    "created": "2026-11-08T01:46:45+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "reason": "interrupted: the run ended before this video finished (sleep/crash); nothing was uploaded",
+    "stage_failed": "script"
+  },
+  {
+    "folder": "2026-11-08_015657_galileo-follows-voyagers-discovery-of-active-volca",
+    "topic": "Galileo follows Voyager's discovery of active volcanoes on Io",
+    "status": "failed",
+    "stage": "script",
+    "role": null,
+    "slot": null,
+    "pillar": null,
+    "selection": null,
+    "visual_precheck": null,
+    "created": "2026-11-08T01:56:57+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "reason": "interrupted: the run ended before this video finished (sleep/crash); nothing was uploaded",
+    "stage_failed": "script"
+  },
+  {
+    "folder": "2026-11-08_020716_galileo-follows-voyagers-discovery-of-active-volca",
+    "topic": "Galileo follows Voyager's discovery of active volcanoes on Io",
+    "status": "quarantined",
+    "stage": "script",
+    "role": null,
+    "slot": null,
+    "pillar": null,
+    "selection": null,
+    "visual_precheck": null,
+    "created": "2026-11-08T02:07:16+05:30",
+    "stages": {
+      "script": "2026-11-08T02:07:18+05:30",
+      "render": "2026-11-08T02:07:41+05:30",
+      "gates": "2026-11-08T02:07:47+05:30"
+    },
+    "youtube_id": null,
+    "instagram_id": null,
+    "reason": "quality gate: narration length",
+    "stage_failed": null,
+    "title": "Galileo Returned to Io's Volcanoes #Shorts",
+    "music": "deepfield-f.m4a"
+  },
+  {
+    "folder": "2026-11-08_020902_galileo-follows-voyagers-discovery-of-active-volca",
+    "topic": "Galileo follows Voyager's discovery of active volcanoes on Io",
+    "status": "failed",
+    "stage": "script",
+    "role": null,
+    "slot": null,
+    "pillar": null,
+    "selection": null,
+    "visual_precheck": null,
+    "created": "2026-11-08T02:09:02+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "reason": "interrupted: the run ended before this video finished (sleep/crash); nothing was uploaded",
+    "stage_failed": "script"
+  },
+  {
+    "folder": "2026-11-08_021715_galileo-follows-voyagers-discovery-of-active-volca",
+    "topic": "Galileo follows Voyager's discovery of active volcanoes on Io",
+    "status": "failed",
+    "stage": "script",
+    "role": null,
+    "slot": null,
+    "pillar": null,
+    "selection": null,
+    "visual_precheck": null,
+    "created": "2026-11-08T02:17:15+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "reason": "interrupted: the run ended before this video finished (sleep/crash); nothing was uploaded",
+    "stage_failed": "script"
+  },
+  {
+    "folder": "2026-11-08_022625_galileo-follows-voyagers-discovery-of-active-volca",
+    "topic": "Galileo follows Voyager's discovery of active volcanoes on Io",
+    "status": "scheduled",
+    "stage": "script",
+    "role": null,
+    "slot": "2026-11-10T05:30:00+05:30",
+    "pillar": null,
+    "selection": null,
+    "visual_precheck": null,
+    "created": "2026-11-08T02:26:25+05:30",
+    "stages": {
+      "script": "2026-11-08T02:31:07+05:30",
+      "render": "2026-11-08T02:31:40+05:30",
+      "gates": "2026-11-08T02:32:31+05:30",
+      "upload_started": "2026-11-08T02:34:44+05:30",
+      "upload": "2026-11-08T02:34:51+05:30"
+    },
+    "youtube_id": "XXU2T8D0T5A",
+    "instagram_id": null,
+    "reason": null,
+    "stage_failed": null,
+    "title": "Galileo Returned to Io's Volcanoes #Shorts",
+    "music": "nebula-d.m4a",
+    "publish_at": "2026-11-10T05:30:00+05:30",
+    "verification": {
+      "ok": true,
+      "problems": [],
+      "privacy": "private",
+      "publish_at": "2026-11-10T00:00:00Z"
+    },
+    "alert": null,
+    "privacy": "private"
+  },
+  {
+    "folder": "2026-11-08_023453_voyager-2-makes-the-only-close-visit-to-triton",
+    "topic": "Voyager 2 makes the only close visit to Triton",
+    "status": "failed",
+    "stage": "script",
+    "role": null,
+    "slot": null,
+    "pillar": null,
+    "selection": null,
+    "visual_precheck": null,
+    "created": "2026-11-08T02:34:53+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "reason": "interrupted: the run ended before this video finished (sleep/crash); nothing was uploaded",
+    "stage_failed": "script"
+  },
+  {
+    "folder": "2026-11-08_024101_voyager-2-makes-the-only-close-visit-to-triton",
+    "topic": "Voyager 2 makes the only close visit to Triton",
+    "status": "scheduled",
+    "stage": "script",
+    "role": null,
+    "slot": "2026-11-10T23:30:00+05:30",
+    "pillar": null,
+    "selection": null,
+    "visual_precheck": null,
+    "created": "2026-11-08T02:41:01+05:30",
+    "stages": {
+      "script": "2026-11-08T02:45:26+05:30",
+      "render": "2026-11-08T02:46:25+05:30",
+      "gates": "2026-11-08T02:47:10+05:30",
+      "upload_started": "2026-11-08T02:48:15+05:30",
+      "upload": "2026-11-08T02:48:22+05:30"
+    },
+    "youtube_id": "zj5XXTRMSf8",
+    "instagram_id": null,
+    "reason": null,
+    "stage_failed": null,
+    "title": "Voyager 2 at Triton #Shorts",
+    "music": "deepfield-f.m4a",
+    "publish_at": "2026-11-10T23:30:00+05:30",
+    "verification": {
+      "ok": true,
+      "problems": [],
+      "privacy": "private",
+      "publish_at": "2026-11-10T18:00:00Z"
+    },
+    "alert": null,
+    "privacy": "private"
+  },
+  {
+    "folder": "2026-11-08_024824_voyager-2-makes-the-only-close-visit-to-uranus",
+    "topic": "Voyager 2 makes the only close visit to Uranus",
+    "status": "failed",
+    "stage": "script",
+    "role": null,
+    "slot": null,
+    "pillar": null,
+    "selection": null,
+    "visual_precheck": null,
+    "created": "2026-11-08T02:48:24+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "reason": "interrupted: the run ended before this video finished (sleep/crash); nothing was uploaded",
+    "stage_failed": "script"
+  },
+  {
+    "folder": "2026-11-08_031439_voyager-2-makes-the-only-close-visit-to-uranus",
+    "topic": "Voyager 2 makes the only close visit to Uranus",
+    "status": "scheduled",
+    "stage": "script",
+    "role": null,
+    "slot": "2026-11-11T05:30:00+05:30",
+    "pillar": null,
+    "selection": null,
+    "visual_precheck": null,
+    "created": "2026-11-08T03:14:39+05:30",
+    "stages": {
+      "script": "2026-11-08T03:16:21+05:30",
+      "render": "2026-11-08T03:17:01+05:30",
+      "gates": "2026-11-08T03:17:29+05:30",
+      "upload_started": "2026-11-08T03:32:58+05:30",
+      "upload": "2026-11-08T03:38:40+05:30"
+    },
+    "youtube_id": "TYLd6jbm4L4",
+    "instagram_id": null,
+    "reason": null,
+    "stage_failed": null,
+    "title": "Voyager 2 at Uranus #Shorts",
+    "music": "nebula-d.m4a",
+    "alert": null,
+    "publish_at": "2026-11-11T05:30:00+05:30",
+    "verification": {
+      "ok": true,
+      "problems": [],
+      "privacy": "private",
+      "publish_at": "2026-11-11T00:00:00Z"
+    },
+    "privacy": "private"
+  },
+  {
+    "folder": "2026-11-08_031831_voyager-2-makes-the-only-close-visit-to-neptune",
+    "topic": "Voyager 2 makes the only close visit to Neptune",
+    "status": "failed",
+    "stage": "script",
+    "role": null,
+    "slot": null,
+    "pillar": null,
+    "selection": null,
+    "visual_precheck": null,
+    "created": "2026-11-08T03:18:31+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "reason": "interrupted: the run ended before this video finished (sleep/crash); nothing was uploaded",
+    "stage_failed": "script"
+  },
+  {
+    "folder": "2026-11-08_034621_voyager-2-makes-the-only-close-visit-to-neptune",
+    "topic": "Voyager 2 makes the only close visit to Neptune",
+    "status": "failed",
+    "stage": "script",
+    "role": null,
+    "slot": null,
+    "pillar": null,
+    "selection": null,
+    "visual_precheck": null,
+    "created": "2026-11-08T03:46:21+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "reason": "interrupted: the run ended before this video finished (sleep/crash); nothing was uploaded",
+    "stage_failed": "script"
+  },
+  {
+    "folder": "2026-11-08_035812_voyager-2-makes-the-only-close-visit-to-neptune",
+    "topic": "Voyager 2 makes the only close visit to Neptune",
+    "status": "failed",
+    "stage": "script",
+    "role": null,
+    "slot": null,
+    "pillar": null,
+    "selection": null,
+    "visual_precheck": null,
+    "created": "2026-11-08T03:58:12+05:30",
+    "stages": {
+      "script": "2026-11-08T03:58:18+05:30"
+    },
+    "youtube_id": null,
+    "instagram_id": null,
+    "reason": "interrupted: the run ended before this video finished (sleep/crash); nothing was uploaded",
+    "stage_failed": "script"
+  },
+  {
+    "folder": "2026-11-08_035911_voyager-2-makes-the-only-close-visit-to-neptune",
+    "topic": "Voyager 2 makes the only close visit to Neptune",
+    "status": "scheduled",
+    "stage": "script",
+    "role": null,
+    "slot": "2026-11-11T23:30:00+05:30",
+    "pillar": null,
+    "selection": null,
+    "visual_precheck": null,
+    "created": "2026-11-08T03:59:11+05:30",
+    "stages": {
+      "script": "2026-11-08T04:03:53+05:30",
+      "render": "2026-11-08T04:04:41+05:30",
+      "gates": "2026-11-08T04:05:19+05:30",
+      "upload_started": "2026-11-08T04:08:42+05:30",
+      "upload": "2026-11-08T04:08:48+05:30"
+    },
+    "youtube_id": "CLqDnT026js",
+    "instagram_id": null,
+    "reason": null,
+    "stage_failed": null,
+    "title": "Voyager 2 at Neptune #Shorts",
+    "music": "deepfield-f.m4a",
+    "publish_at": "2026-11-11T23:30:00+05:30",
+    "verification": {
+      "ok": true,
+      "problems": [],
+      "privacy": "private",
+      "publish_at": "2026-11-11T18:00:00Z"
+    },
+    "alert": null,
+    "privacy": "private"
+  },
+  {
+    "folder": "docstudio_sgra-doc",
+    "topic": "The Black Hole Hiding at the Centre of Our Galaxy | Sagittarius A*",
+    "status": "withdrawn",
+    "stage": "upload",
+    "role": null,
+    "slot": "2026-11-08T20:00:00+05:30",
+    "created": "2026-11-08T12:03:42+05:30",
+    "youtube_id": "BR1o6wafFio",
+    "reason": "owner 8 Nov: quality not good enough, being remade"
+  },
+  {
+    "folder": "docstudio_sgra-s1",
+    "topic": "Is a Black Hole a Cosmic Vacuum Cleaner? #Shorts",
+    "status": "withdrawn",
+    "stage": "upload",
+    "role": null,
+    "slot": "2026-11-09T20:00:00+05:30",
+    "created": "2026-11-08T12:33:35+05:30",
+    "youtube_id": "f-RrTwh-o_8",
+    "reason": "owner 8 Nov: remaking with better visuals"
+  },
+  {
+    "folder": "docstudio_sgra-s2",
+    "topic": "How Scientists Photographed an Invisible Black Hole #Shorts",
+    "status": "withdrawn",
+    "stage": "upload",
+    "role": null,
+    "slot": "2026-11-10T20:00:00+05:30",
+    "created": "2026-11-08T12:33:47+05:30",
+    "youtube_id": "Wa5-qgJcxVQ",
+    "reason": "owner 8 Nov: remaking with better visuals"
+  },
+  {
+    "folder": "docstudio_sgra-s3",
+    "topic": "Gas Around Our Galaxy's Black Hole Orbits in Minutes #Shorts",
+    "status": "withdrawn",
+    "stage": "upload",
+    "role": null,
+    "slot": "2026-11-11T18:00:00+05:30",
+    "created": "2026-11-08T12:34:06+05:30",
+    "youtube_id": "GArPmYVpjoQ",
+    "reason": "owner 8 Nov: remaking with better visuals"
+  },
+  {
+    "folder": "2026-11-08_142032_a-single-teaspoon-of-saturns-rings-ice-would-melt-",
+    "topic": "A single teaspoon of Saturn’s rings ice would melt into a glass of water the size of a coffee mug",
+    "status": "failed",
+    "stage": "script",
+    "role": "authority",
+    "slot": "2026-11-12T23:30:00+05:30",
+    "pillar": "Famous objects, one impossible fact",
+    "selection": {
+      "role": "authority",
+      "base_score": 39.0,
+      "multiplier": 0.99,
+      "parts": {
+        "pillar_role": 1.0,
+        "question_hook": 1.01,
+        "number_hook": 0.99,
+        "big_number_hook": 0.99,
+        "long_hook": 1.0
+      },
+      "final": 38.61,
+      "runner_up": []
+    },
+    "visual_precheck": null,
+    "created": "2026-11-08T14:20:32+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "stage_failed": "verify",
+    "reason": "ValueError: independent check still failing after repair: The main rings extend about 120,700 kilometers outward (wrong); The main rings average about 66 feet thick (wrong); The main rings extend about 120,700 kilometers outward (wrong)"
+  },
+  {
+    "folder": "2026-11-08_144423_the-parker-solar-probe-will-travel-within-4-millio",
+    "topic": "The Parker Solar Probe will travel within 4 million miles of the Sun’s surface, closer than Mercury’s orbit",
+    "status": "failed",
+    "stage": "script",
+    "role": "authority",
+    "slot": "2026-11-12T23:30:00+05:30",
+    "pillar": "Missions in danger (Apollo, ISS, Voyager, Artemis)",
+    "selection": {
+      "role": "authority",
+      "base_score": 47.5,
+      "multiplier": 0.99,
+      "parts": {
+        "pillar_role": 1.0,
+        "question_hook": 1.01,
+        "number_hook": 0.99,
+        "big_number_hook": 0.99,
+        "long_hook": 1.0
+      },
+      "final": 47.02,
+      "runner_up": [
+        {
+          "topic": "During the 2021 Perseverance rover landing, the heat shield ",
+          "final": 47.02
+        },
+        {
+          "topic": "Apollo 12’s launch was struck by lightning, briefly wiping o",
+          "final": 45.54
+        }
+      ]
+    },
+    "visual_precheck": null,
+    "created": "2026-11-08T14:44:23+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "stage_failed": "verify",
+    "reason": "ValueError: independent check still failing after repair: Parker Solar Probe reached about 430,000 miles per hour (contradicted by https://en.wikipedia.org/wiki/Parker_Solar_Probe: \"It used repea); about 692,000 kilometers per hour (contradicted by https://en.wikipedia.org/wiki/Parker_Solar_Probe: \""
+  },
+  {
+    "folder": "2026-11-08_151818_during-the-2021-perseverance-rover-landing-the-hea",
+    "topic": "During the 2021 Perseverance rover landing, the heat shield survived a 2,000 °C entry—hotter than a pizza oven",
+    "status": "quarantined",
+    "stage": "script",
+    "role": "authority",
+    "slot": "2026-11-12T23:30:00+05:30",
+    "pillar": "Missions in danger (Apollo, ISS, Voyager, Artemis)",
+    "selection": {
+      "role": "authority",
+      "base_score": 47.5,
+      "multiplier": 0.99,
+      "parts": {
+        "pillar_role": 1.0,
+        "question_hook": 1.01,
+        "number_hook": 0.99,
+        "big_number_hook": 0.99,
+        "long_hook": 1.0
+      },
+      "final": 47.02,
+      "runner_up": [
+        {
+          "topic": "Apollo 12’s launch was struck by lightning, briefly wiping o",
+          "final": 45.54
+        },
+        {
+          "topic": "The ESA’s Rosetta probe traveled 640 million miles to rendez",
+          "final": 41.09
+        }
+      ]
+    },
+    "visual_precheck": null,
+    "created": "2026-11-08T15:18:18+05:30",
+    "stages": {
+      "script": "2026-11-08T15:18:18+05:30",
+      "render": "2026-11-08T15:20:52+05:30",
+      "gates": "2026-11-08T15:21:36+05:30"
+    },
+    "youtube_id": null,
+    "instagram_id": null,
+    "reason": "AI reviewer: visual grounding failed: scene 1: MISMATCH (generic stock footage (pixabay: 'spacecraft floating')). The script and audi",
+    "stage_failed": null,
+    "title": "Perseverance Heat Shield Survived 2,400°F",
+    "music": "nebula-d.m4a"
+  },
+  {
+    "folder": "2026-11-08_152136_the-esas-rosetta-probe-traveled-640-million-miles-",
+    "topic": "The ESA’s Rosetta probe traveled 640 million miles to rendezvous with comet 67P—roughly the distance from Earth to the Moon 1,600 times",
+    "status": "failed",
+    "stage": "script",
+    "role": "authority",
+    "slot": "2026-11-12T23:30:00+05:30",
+    "pillar": "Stars & black holes",
+    "selection": {
+      "role": "authority",
+      "base_score": 41.5,
+      "multiplier": 0.99,
+      "parts": {
+        "pillar_role": 1.0,
+        "question_hook": 1.01,
+        "number_hook": 0.99,
+        "big_number_hook": 0.99,
+        "long_hook": 1.0
+      },
+      "final": 41.09,
+      "runner_up": [
+        {
+          "topic": "Chandrayaan‑2’s Vikram lander carried a battery the size of ",
+          "final": 39.6
+        },
+        {
+          "topic": "A single drop of liquid water from Europa’s subsurface ocean",
+          "final": 39.2
+        }
+      ]
+    },
+    "visual_precheck": null,
+    "created": "2026-11-08T15:21:36+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "stage_failed": "verify",
+    "reason": "ValueError: independent check still failing after repair: zooming in at disputed speeds of 2,540 feet per second (disputed); eventually orbiting the comet as close as 6 miles (wrong); about 10 kilometers (wrong)"
+  },
+  {
+    "folder": "docstudio_sgra-doc2",
+    "topic": "The Black Hole Hiding at the Centre of Our Galaxy | Sagittarius A*",
+    "status": "scheduled",
+    "stage": "upload",
+    "role": null,
+    "slot": "2026-11-08T20:00:00+05:30",
+    "created": "2026-11-08T15:34:11+05:30",
+    "youtube_id": "ia7VRZZGXlg",
+    "reason": "docstudio animated documentary upload",
+    "privacy": "private"
+  },
+  {
+    "folder": "2026-11-08_153600_chandrayaan2s-vikram-lander-carried-a-battery-the-",
+    "topic": "Chandrayaan‑2’s Vikram lander carried a battery the size of a toaster to survive the lunar night",
+    "status": "failed",
+    "stage": "script",
+    "role": "authority",
+    "slot": "2026-11-12T23:30:00+05:30",
+    "pillar": "ISRO & India in space",
+    "selection": {
+      "role": "authority",
+      "base_score": 40.0,
+      "multiplier": 0.99,
+      "parts": {
+        "pillar_role": 1.0,
+        "question_hook": 1.01,
+        "number_hook": 0.99,
+        "big_number_hook": 0.99,
+        "long_hook": 1.0
+      },
+      "final": 39.6,
+      "runner_up": [
+        {
+          "topic": "A single drop of liquid water from Europa’s subsurface ocean",
+          "final": 39.2
+        },
+        {
+          "topic": "Apollo 12’s launch was struck by lightning, briefly wiping o",
+          "final": 38.69
+        }
+      ]
+    },
+    "visual_precheck": null,
+    "created": "2026-11-08T15:36:00+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "stage_failed": "verify",
+    "reason": "ValueError: independent check still failing after repair: or about minus 173 degrees Celsius (narrated -173 vs independent -173.3 °C); India designed the Chandrayaan-3 Vikram lander and Pragyan r (attribution with no document stating it (only indirect); a model's word isn't en); India designed the C"
+  },
+  {
+    "folder": "2026-11-08_155031_a-single-drop-of-liquid-water-from-europas-subsurf",
+    "topic": "A single drop of liquid water from Europa’s subsurface ocean would contain enough oxygen for one human breath",
+    "status": "failed",
+    "stage": "script",
+    "role": "authority",
+    "slot": "2026-11-12T23:30:00+05:30",
+    "pillar": "Planets & moons",
+    "selection": {
+      "role": "authority",
+      "base_score": 44.0,
+      "multiplier": 0.891,
+      "parts": {
+        "pillar_role": 0.9,
+        "question_hook": 1.01,
+        "number_hook": 0.99,
+        "big_number_hook": 0.99,
+        "long_hook": 1.0
+      },
+      "final": 39.2,
+      "runner_up": [
+        {
+          "topic": "Apollo 12’s launch was struck by lightning, briefly wiping o",
+          "final": 38.69
+        },
+        {
+          "topic": "A teaspoon of white‑dwarf matter weighs as much as a small c",
+          "final": 36.98
+        }
+      ]
+    },
+    "visual_precheck": null,
+    "created": "2026-11-08T15:50:31+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "stage_failed": "verify",
+    "reason": "ValueError: independent check still failing after repair: Now picture Jupiter's moon Europa, with a water-ice crust, o (no document evidence (6 unresolved claims; at most 3 per video): support it, sof); One name connects a classroom atlas showing Europe to a real (no document evidence (6 unresolved "
+  },
+  {
+    "folder": "2026-11-08_161113_apollo-12s-launch-was-struck-by-lightning-briefly-",
+    "topic": "Apollo 12’s launch was struck by lightning, briefly wiping out telemetry",
+    "status": "failed",
+    "stage": "script",
+    "role": "authority",
+    "slot": "2026-11-12T23:30:00+05:30",
+    "pillar": "Missions in danger (Apollo, ISS, Voyager, Artemis)",
+    "selection": {
+      "role": "authority",
+      "base_score": 46.0,
+      "multiplier": 0.841,
+      "parts": {
+        "pillar_role": 1.0,
+        "question_hook": 1.01,
+        "number_hook": 0.99,
+        "big_number_hook": 0.99,
+        "long_hook": 1.0,
+        "repeat_pillar": 0.85
+      },
+      "final": 38.69,
+      "runner_up": [
+        {
+          "topic": "A teaspoon of white‑dwarf matter weighs as much as a small c",
+          "final": 36.98
+        },
+        {
+          "topic": "A single grain of sand from Titan’s dunes would weigh about ",
+          "final": 36.09
+        }
+      ]
+    },
+    "visual_precheck": null,
+    "created": "2026-11-08T16:11:13+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "reason": "interrupted: the run ended before this video finished (sleep/crash); nothing was uploaded",
+    "stage_failed": "script"
+  },
+  {
+    "folder": "2026-11-08_163839_a-teaspoon-of-whitedwarf-matter-weighs-as-much-as-",
+    "topic": "A teaspoon of white‑dwarf matter weighs as much as a small car",
+    "status": "failed",
+    "stage": "script",
+    "role": "authority",
+    "slot": "2026-11-12T23:30:00+05:30",
+    "pillar": "Famous objects, one impossible fact",
+    "selection": {
+      "role": "authority",
+      "base_score": 41.5,
+      "multiplier": 0.891,
+      "parts": {
+        "pillar_role": 0.9,
+        "question_hook": 1.01,
+        "number_hook": 0.99,
+        "big_number_hook": 0.99,
+        "long_hook": 1.0
+      },
+      "final": 36.98,
+      "runner_up": [
+        {
+          "topic": "A single grain of sand from Titan’s dunes would weigh about ",
+          "final": 36.09
+        },
+        {
+          "topic": "A single cubic meter of Venus’ surface atmosphere would weig",
+          "final": 34.75
+        }
+      ]
+    },
+    "visual_precheck": null,
+    "created": "2026-11-08T16:38:39+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "stage_failed": "verify",
+    "reason": "ValueError: independent check still failing after repair: White dwarfs are the collapsed cores of stars like our Sun. (no document evidence (6 unresolved claims; at most 3 per video): support it, sof); gravity squeezes a Sun-mass star down to Earth-size. (no document evidence (6 unresolved claims; a"
+  },
+  {
+    "folder": "docstudio_sgra-v2-s1",
+    "topic": "Our Galaxy's Black Hole Weighs 4 Million Suns #Shorts",
+    "status": "scheduled",
+    "stage": "upload",
+    "role": null,
+    "slot": "2026-11-09T18:00:00+05:30",
+    "created": "2026-11-08T17:44:05+05:30",
+    "youtube_id": "eHJKCGcEX9Y",
+    "reason": "docstudio animated documentary upload"
+  },
+  {
+    "folder": "docstudio_sgra-v2-s2",
+    "topic": "How Scientists Photographed an Invisible Black Hole #Shorts",
+    "status": "scheduled",
+    "stage": "upload",
+    "role": null,
+    "slot": "2026-11-10T18:00:00+05:30",
+    "created": "2026-11-08T17:44:17+05:30",
+    "youtube_id": "l0mWddywXfo",
+    "reason": "docstudio animated documentary upload"
+  },
+  {
+    "folder": "docstudio_sgra-v2-s3",
+    "topic": "Gas Around Our Black Hole Orbits in Minutes #Shorts",
+    "status": "scheduled",
+    "stage": "upload",
+    "role": null,
+    "slot": "2026-11-11T18:00:00+05:30",
+    "created": "2026-11-08T17:44:26+05:30",
+    "youtube_id": "8imb1TMqFP0",
+    "reason": "docstudio animated documentary upload"
+  },
+  {
+    "folder": "2026-11-08_175038_iss-speed-vs-bullet",
+    "topic": "ISS Speed vs Bullet",
+    "status": "failed",
+    "stage": "script",
+    "role": "authority",
+    "slot": "2026-11-12T23:30:00+05:30",
+    "pillar": "Missions in danger (Apollo, ISS, Voyager, Artemis)",
+    "selection": {
+      "role": "authority",
+      "base_score": 28.5,
+      "multiplier": 0.99,
+      "parts": {
+        "pillar_role": 1.0,
+        "question_hook": 1.01,
+        "number_hook": 0.99,
+        "big_number_hook": 0.99,
+        "long_hook": 1.0
+      },
+      "final": 28.21,
+      "runner_up": [
+        {
+          "topic": "Sagittarius A* Size",
+          "final": 28.21
+        }
+      ]
+    },
+    "visual_precheck": null,
+    "created": "2026-11-08T17:50:38+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "stage_failed": "verify",
+    "reason": "ValueError: independent check still failing after repair: No 2025 ISS mission recorded an 18‑day stay with 11 crew mem (no independent value for a narrated number); No 2025 ISS mission recorded an 18‑day stay with 11 crew mem (no independent value for a narrated number); No documented case shows a b"
+  },
+  {
+    "folder": "docstudio_fall-doc",
+    "topic": "What Would Happen If You Fell Into Sagittarius A*?",
+    "status": "scheduled",
+    "stage": "upload",
+    "role": null,
+    "slot": "2026-11-14T20:00:00+05:30",
+    "created": "2026-11-08T18:41:50+05:30",
+    "youtube_id": "QuhOCyVjWK4",
+    "reason": "docstudio animated documentary upload"
+  },
+  {
+    "folder": "docstudio_fall-s1",
+    "topic": "This Star Moves at 25 Million km/h #Shorts",
+    "status": "scheduled",
+    "stage": "upload",
+    "role": null,
+    "slot": "2026-11-13T18:00:00+05:30",
+    "created": "2026-11-08T18:42:58+05:30",
+    "youtube_id": "4Z-AHpyW7aQ",
+    "reason": "docstudio animated documentary upload"
+  },
+  {
+    "folder": "docstudio_fall-s2",
+    "topic": "Our Black Hole vs TON 618 #Shorts",
+    "status": "scheduled",
+    "stage": "upload",
+    "role": null,
+    "slot": "2026-11-15T18:00:00+05:30",
+    "created": "2026-11-08T18:43:50+05:30",
+    "youtube_id": "DhICPRFDvN8",
+    "reason": "docstudio animated documentary upload"
+  },
+  {
+    "folder": "docstudio_fall-s3",
+    "topic": "Why Isn't Our Galaxy's Black Hole Pulling Us In? #Shorts",
+    "status": "scheduled",
+    "stage": "upload",
+    "role": null,
+    "slot": "2026-11-13T23:30:00+05:30",
+    "created": "2026-11-08T18:44:32+05:30",
+    "youtube_id": "lqN_0tRlAmU",
+    "reason": "docstudio animated documentary upload"
+  },
+  {
+    "folder": "docstudio_fall-s4",
+    "topic": "These Stars Shouldn't Exist Near a Black Hole #Shorts",
+    "status": "scheduled",
+    "stage": "upload",
+    "role": null,
+    "slot": "2026-11-14T18:00:00+05:30",
+    "created": "2026-11-08T18:45:20+05:30",
+    "youtube_id": "qZYZONoeGSI",
+    "reason": "docstudio animated documentary upload"
+  },
+  {
+    "folder": "docstudio_fall-sc-singularity",
+    "topic": "How Long Would You Survive Inside a Black Hole? #Shorts",
+    "status": "scheduled",
+    "stage": "upload",
+    "role": null,
+    "slot": "2026-11-12T18:00:00+05:30",
+    "created": "2026-11-08T18:45:47+05:30",
+    "youtube_id": "OLRpDQ1ndlY",
+    "reason": "docstudio animated documentary upload"
+  },
+  {
+    "folder": "docstudio_fall-s5",
+    "topic": "Our Galaxy's Black Hole Is Starving #Shorts",
+    "status": "scheduled",
+    "stage": "upload",
+    "role": null,
+    "slot": "2026-11-15T20:00:00+05:30",
+    "created": "2026-11-08T18:46:03+05:30",
+    "youtube_id": "fnWcm7RE6Aw",
+    "reason": "docstudio animated documentary upload"
+  },
+  {
+    "folder": "docstudio_sgra-sc-orbits",
+    "topic": "How We Found an Invisible Giant #Shorts",
+    "status": "scheduled",
+    "stage": "upload",
+    "role": null,
+    "slot": "2026-11-12T23:30:00+05:30",
+    "created": "2026-11-08T18:46:32+05:30",
+    "youtube_id": "H13Sb-Rg88w",
+    "reason": "docstudio animated documentary upload"
+  },
+  {
+    "folder": "docstudio_sgra-sc-scale",
+    "topic": "Our Black Hole Looks as Small as a Doughnut on the Moon #Shorts",
+    "status": "scheduled",
+    "stage": "upload",
+    "role": null,
+    "slot": "2026-11-13T20:00:00+05:30",
+    "created": "2026-11-08T18:47:39+05:30",
+    "youtube_id": "DnZWvSa01RA",
+    "reason": "docstudio animated documentary upload"
+  },
+  {
+    "folder": "docstudio_fall-sc-horizon",
+    "topic": "You Wouldn't Feel Crossing This Black Hole's Edge #Shorts",
+    "status": "scheduled",
+    "stage": "upload",
+    "role": null,
+    "slot": "2026-11-14T23:30:00+05:30",
+    "created": "2026-11-08T18:51:03+05:30",
+    "youtube_id": "o0b6oY17q1Q",
+    "reason": "docstudio animated documentary upload"
+  },
+  {
+    "folder": "docstudio_fall-sc-photon",
+    "topic": "Where You Could See the Back of Your Own Head #Shorts",
+    "status": "scheduled",
+    "stage": "upload",
+    "role": null,
+    "slot": "2026-11-15T23:30:00+05:30",
+    "created": "2026-11-08T18:52:56+05:30",
+    "youtube_id": "XGOeTe2m4S4",
+    "reason": "docstudio animated documentary upload"
+  }
+]

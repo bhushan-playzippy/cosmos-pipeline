@@ -1,0 +1,210 @@
+{
+  "date": "2026-11-08",
+  "videos": 20,
+  "median_views_per_day": 63.4,
+  "min_sample": 5,
+  "groups": {
+    "slot": {
+      "17:00": {
+        "n": 3,
+        "median_vpd": 26.9,
+        "conclusive": false
+      },
+      "20:00": {
+        "n": 3,
+        "median_vpd": 50.2,
+        "conclusive": false
+      },
+      "10:00": {
+        "n": 2,
+        "median_vpd": 48.0,
+        "conclusive": false
+      },
+      "13:30": {
+        "n": 2,
+        "median_vpd": 24.8,
+        "conclusive": false
+      },
+      "23:30": {
+        "n": 3,
+        "median_vpd": 184.0,
+        "conclusive": false
+      },
+      "02:30": {
+        "n": 1,
+        "median_vpd": 139.5,
+        "conclusive": false
+      },
+      "05:30": {
+        "n": 5,
+        "median_vpd": 103.5,
+        "conclusive": true
+      },
+      "08:30": {
+        "n": 1,
+        "median_vpd": 0.1,
+        "conclusive": false
+      }
+    },
+    "type": {
+      "discovery": {
+        "n": 5,
+        "median_vpd": 52.1,
+        "conclusive": true
+      },
+      "retention": {
+        "n": 6,
+        "median_vpd": 66.1,
+        "conclusive": true
+      },
+      "authority": {
+        "n": 4,
+        "median_vpd": 18.4,
+        "conclusive": false
+      },
+      "?": {
+        "n": 5,
+        "median_vpd": 216.0,
+        "conclusive": true
+      }
+    },
+    "creator": {}
+  },
+  "type_boost": {
+    "discovery": 0.91,
+    "retention": 1.02
+  },
+  "recommendations": [
+    "hooks with question hook earn 0.83× vs 1.25× without (n=6/14): the topic picker applies it.",
+    "hooks with number hook earn 1.25× vs 0.87× without (n=10/10): the topic picker applies it.",
+    "hooks with big number hook earn 1.25× vs 1.0× without (n=6/14): the topic picker applies it.",
+    "hooks with long hook earn 1.25× vs 0.86× without (n=9/11): the topic picker applies it."
+  ],
+  "feature_boost": {
+    "question_hook": {
+      "with": 0.83,
+      "without": 1.25,
+      "n_with": 6,
+      "n_without": 14,
+      "conclusive": true
+    },
+    "number_hook": {
+      "with": 1.25,
+      "without": 0.87,
+      "n_with": 10,
+      "n_without": 10,
+      "conclusive": true
+    },
+    "big_number_hook": {
+      "with": 1.25,
+      "without": 1.0,
+      "n_with": 6,
+      "n_without": 14,
+      "conclusive": true
+    },
+    "long_hook": {
+      "with": 1.25,
+      "without": 0.86,
+      "n_with": 9,
+      "n_without": 11,
+      "conclusive": true
+    }
+  },
+  "feature_boost_retention": {
+    "question_hook": {
+      "with": 1.0,
+      "without": 0.99,
+      "n_with": 6,
+      "n_without": 10,
+      "conclusive": true
+    },
+    "number_hook": {
+      "with": 1.0,
+      "without": 1.0,
+      "n_with": 7,
+      "n_without": 9,
+      "conclusive": true
+    },
+    "big_number_hook": {
+      "with": 1.0,
+      "without": 1.0,
+      "n_with": 3,
+      "n_without": 13,
+      "conclusive": false
+    },
+    "long_hook": {
+      "with": 1.02,
+      "without": 0.99,
+      "n_with": 5,
+      "n_without": 11,
+      "conclusive": true
+    }
+  },
+  "feature_boost_subs": {
+    "question_hook": {
+      "with": 1.0,
+      "without": 0.88,
+      "n_with": 6,
+      "n_without": 8,
+      "conclusive": true
+    },
+    "number_hook": {
+      "with": 1.03,
+      "without": 0.96,
+      "n_with": 5,
+      "n_without": 9,
+      "conclusive": true
+    },
+    "big_number_hook": {
+      "with": 1.0,
+      "without": 1.0,
+      "n_with": 2,
+      "n_without": 12,
+      "conclusive": false
+    },
+    "long_hook": {
+      "with": 1.0,
+      "without": 1.0,
+      "n_with": 4,
+      "n_without": 10,
+      "conclusive": false
+    }
+  },
+  "metric_samples": {
+    "views": 20,
+    "retention": 16,
+    "subscribers": 14
+  },
+  "playbook": [
+    {
+      "action": "repeat",
+      "what": "a number in the hook",
+      "evidence": "1.09× vs 0.94× across 3 metric(s)",
+      "n": [
+        10,
+        10
+      ],
+      "confidence": "moderate"
+    },
+    {
+      "action": "repeat",
+      "what": "a big abstract number in the hook",
+      "evidence": "1.25× vs 1.0× across 1 metric(s)",
+      "n": [
+        6,
+        14
+      ],
+      "confidence": "low"
+    },
+    {
+      "action": "repeat",
+      "what": "a hook over 12 words",
+      "evidence": "1.13× vs 0.92× across 2 metric(s)",
+      "n": [
+        9,
+        11
+      ],
+      "confidence": "low"
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+-r requirements.txt
+# channel 2 (clips): local transcription of creator footage that has no captions (free, runs offline)
+faster-whisper>=1.0

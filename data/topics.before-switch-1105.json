@@ -1,0 +1,1316 @@
+[
+  {
+    "topic": "The Sound Wave Frequency of a Perseus Galaxy Cluster Black Hole vs. Human Hearing",
+    "pillar": "Stars & black holes",
+    "series": "Cosmic Scale Explained",
+    "role": "authority",
+    "angle": "Translating the pressure waves emitted by a supermassive black hole into pitch comparisons audible to humans",
+    "hook_idea": "NASA recorded actual sound waves rippling through hot gas from a black hole—shifted down fifty octaves below what human ears can hear.",
+    "viewer_benefit": "Learns how astrophysical data from galaxy clusters can be converted into acoustic waves.",
+    "scores": {
+      "audience_relevance": 4,
+      "curiosity": 5,
+      "evidence_quality": 5,
+      "visual_feasibility": 3,
+      "series_potential": 4
+    },
+    "veo_prompt": "Vertical 9:16 cinematic visualization, glowing purple and pink X-ray ripples expanding outward through hot intergalactic gas from a central supermassive black hole.",
+    "score": 32.0,
+    "draft": {
+      "topic": "The Sound Wave Frequency of a Perseus Galaxy Cluster Black Hole vs. Human Hearing",
+      "scenes": [
+        {
+          "text": "This cosmic sound wave vibrates just once every ten million years.",
+          "visual": "grand piano",
+          "nasa": "Perseus galaxy cluster",
+          "subject": "piano keyboard"
+        },
+        {
+          "text": "Deep in the Perseus galaxy cluster, a supermassive black hole is constantly humming into surrounding gas.",
+          "visual": "black hole",
+          "nasa": "Perseus cluster black hole",
+          "subject": "black hole"
+        },
+        {
+          "text": "It pumps out sound ripples stretching three hundred thousand light-years, roughly 1.8 quadrillion miles (2.8 quadrillion km) wide.",
+          "visual": "galaxy cluster",
+          "nasa": "Chandra Perseus soundwaves",
+          "subject": "black hole sound wave",
+          "compare": {
+            "kind": "length",
+            "unit": "light-years",
+            "items": [
+              {
+                "label": "Milky Way Galaxy",
+                "value": 100000
+              },
+              {
+                "label": "Perseus Sound Wavefront",
+                "value": 300000
+              }
+            ]
+          }
+        },
+        {
+          "text": "Human ears can only hear sound vibrating between twenty and twenty thousand times per second.",
+          "visual": "sound wave",
+          "nasa": "audio spectrum space",
+          "subject": "sound wave frequency"
+        },
+        {
+          "text": "But this cosmic sound wave vibrates just once every ten million years, fifty-seven octaves below middle C.",
+          "visual": "audio equalizer",
+          "nasa": "Chandra sound visualization",
+          "subject": "sound pitch"
+        },
+        {
+          "text": "To make human ears hear it, NASA scientists had to scale the pitch up quadrillions of times.",
+          "visual": "astronomer telescope",
+          "nasa": "NASA Chandra data",
+          "subject": "sonification data"
+        },
+        {
+          "text": "Its wavelength is about ten billion light-years, far wider than the Earth to the moon.",
+          "visual": "moon earth distance",
+          "nasa": "Earth and Moon",
+          "subject": "moon distance scale"
+        },
+        {
+          "text": "A supermassive black hole hums that sound wave once every ten million years.",
+          "visual": "deep space",
+          "nasa": "deep space galaxies",
+          "subject": "deep space universe"
+        }
+      ],
+      "youtube": {
+        "title": "Perseus Black Hole: One Note Every 10 Million Years",
+        "hook_text": "ONE VIBRATION IN 10 MILLION YEARS",
+        "description": "Imagine hearing a sound that only happens once every ten million years. NASA scientists took the Perseus galaxy cluster's black hole hum and scaled it up quadrillions of times just for your ears. \n\nDeep in the Perseus galaxy cluster, a supermassive black hole pumps out sound ripples stretching 300,000 light-years (roughly 1.8 quadrillion miles) wide. While human ears hear 20 to 20,000 vibrations per second, this cosmic note vibrates fifty-seven octaves below middle C.\n\nSources: NASA Chandra X-ray Observatory - Sounds of the Perseus Galaxy Cluster Black Hole; ESA - Hubble & Chandra Observations of NGC 1275",
+        "tags": [
+          "Perseus Cluster",
+          "Black Hole Sound",
+          "NASA Chandra",
+          "Supermassive Black Hole",
+          "Cosmic Music",
+          "Astronomy Shorts",
+          "Space Facts",
+          "NGC 1275",
+          "Human Hearing Range",
+          "ESA Hubble",
+          "Artemis Mission",
+          "Universe in a Teaspoon"
+        ],
+        "pinned_comment": "If you could hear this note without scaling it up, would it sound like silence or an absolute hum? 🤔"
+      },
+      "instagram": {
+        "caption": "A single vibration every 10 million years. NASA scaled the Perseus black hole's hum quadrillions of times so we could actually hear it. \n\nHow low does your voice go compared to fifty-seven octaves below middle C?",
+        "hashtags": [
+          "#PerseusCluster",
+          "#BlackHoleSound",
+          "#NASAChandra",
+          "#CosmicMusic",
+          "#Astronomy"
+        ]
+      },
+      "sources": [
+        "NASA Chandra X-ray Observatory - Sounds of the Perseus Galaxy Cluster Black Hole",
+        "ESA - Hubble & Chandra Observations of NGC 1275"
+      ],
+      "ai_visuals_realistic": false,
+      "music_mood": "mysterious",
+      "provenance": {
+        "write": "gemini-3.6-flash",
+        "polish": "ollama:qwen3.5:9b",
+        "fact_check": "nvidia-deepseek:deepseek-ai/deepseek-v4.1-flash",
+        "packaging": "ollama:qwen3.5:9b"
+      },
+      "fact_checks": [
+        {
+          "claim": "This cosmic sound wave vibrates just once every ten million years.",
+          "verdict": "ok",
+          "working": "NASA/Chandra: the Perseus cluster black hole (NGC 1275) pressure wave has a period of about 10 million years, i.e. frequency ~3.17e-15 Hz. Correct."
+        },
+        {
+          "claim": "Deep in the Perseus galaxy cluster, a supermassive black hole is constantly humming into surrounding gas.",
+          "verdict": "ok",
+          "working": "Chandra observations show the SMBH in NGC 1275 drives ripples in the surrounding hot X-ray gas. 'Constantly' is acceptable for a sustained, ongoing process over ~10^8 yr, though the wave period itself is 10^7 yr. No numeric error."
+        },
+        {
+          "claim": "It pumps out sound ripples stretching three hundred thousand light-years, roughly 1.8 trillion miles (2.8 trillion km) wide.",
+          "verdict": "fixed",
+          "working": "1 light-year = 9.4607e12 km = 5.8786e12 miles. 300,000 ly = 300,000 x 9.4607e12 = 2.838e18 km = 2.8 quadrillion km, NOT 2.8 trillion km. In miles: 300,000 x 5.8786e12 = 1.764e18 miles = 1.8 quadrillion miles, NOT 1.8 trillion miles. The script was off by a factor of 1,000,000. Also, the Chandra ripples are typically described as spanning ~300,000 ly across the cluster gas; 'wide' (diameter) is acceptable for the wavefront extent. Fixed to '1.8 quadrillion miles (2.8 quadrillion km)'."
+        },
+        {
+          "claim": "Human ears can only hear sound vibrating between twenty and twenty thousand times per second.",
+          "verdict": "ok",
+          "working": "Standard human audible range is 20 Hz to 20,000 Hz (20 to 20,000 cycles per second). Correct."
+        },
+        {
+          "claim": "But this cosmic sound wave vibrates just once every ten million years, fifty-seven octaves below middle C.",
+          "verdict": "ok",
+          "working": "Period 10^7 yr = 3.156e14 s, frequency = 1/3.156e14 = 3.17e-15 Hz. Middle C (C4) = 261.63 Hz. Octaves = log2(261.63 / 3.17e-15) = log2(8.25e16) = 56.2. NASA/Chandra commonly quote '57 octaves below middle C' (using B-flat or a slightly different reference). Within rounding, 'fifty-seven octaves' matches the official NASA figure. OK."
+        },
+        {
+          "claim": "To make human ears hear it, NASA scientists had to scale the pitch up quadrillions of times.",
+          "verdict": "ok",
+          "working": "To bring 3.17e-15 Hz into the audible range (~20-20,000 Hz), the scale factor is ~6.3e15 to 6.3e18, i.e. quadrillions (10^15) to quintillions (10^18). 'Quadrillions of times' is a reasonable lower-bound description of the sonification scaling. OK."
+        },
+        {
+          "claim": "If a piano keyboard stretched from Earth to the moon, this note still would not fit on it.",
+          "verdict": "fixed",
+          "working": "Earth-Moon distance = 384,400 km. A piano key is ~2.3 cm wide; 88 keys span ~1.4 m. Even a keyboard with keys 2.3 cm wide stretched 384,400 km would hold ~1.67e10 keys, i.e. ~1.67e10 semitones = ~1.39e9 octaves. The note is only 57 octaves below middle C, so it WOULD easily fit on such a keyboard. The claim is false. Rewritten to a verifiable comparison: the note's wavelength is ~9.5e22 km (~10 billion light-years), far larger than the Earth-Moon distance, so the wave itself would not fit between Earth and the Moon."
+        },
+        {
+          "claim": "A supermassive black hole hums that sound wave once every ten million years.",
+          "verdict": "ok",
+          "working": "Same as scene 1: period ~10^7 yr. Correct. Note: the black hole itself is not 'humming' audibly; it drives pressure waves in the surrounding gas. The script's framing is consistent with NASA's sonification description."
+        },
+        {
+          "claim": "YouTube description: 'The note sits 57 octaves below middle C, with a period of ten million years.'",
+          "verdict": "ok",
+          "working": "Matches NASA/Chandra figures. OK."
+        },
+        {
+          "claim": "Instagram caption: 'A supermassive black hole plays a note 57 octaves below middle C.'",
+          "verdict": "ok",
+          "working": "Matches NASA/Chandra figures. OK."
+        },
+        {
+          "claim": "compare: Milky Way Galaxy 100,000 ly vs Perseus Sound Wavefront 300,000 ly",
+          "verdict": "ok",
+          "working": "Milky Way diameter ~100,000 ly (commonly cited 100,000-120,000 ly). Perseus ripple extent ~300,000 ly. Same unit (light-years), correct ratio 3:1. OK."
+        }
+      ],
+      "fact_trail": [
+        {
+          "stage": "fact_check",
+          "added": [
+            1.8,
+            2.8,
+            10000000000.0
+          ],
+          "removed": [
+            1800000000000.0,
+            2800000000000.0
+          ],
+          "words": []
+        }
+      ],
+      "release": {
+        "hour_ist": 19,
+        "day_hint": "Thursday",
+        "reason": "Western US/UK audiences are active late evening IST (their morning commute); Thursday evenings consistently drive high engagement for science education content in this demographic."
+      }
+    },
+    "draft_saved": "2026-11-05"
+  },
+  {
+    "topic": "The Speed of Solar Flares vs. A Commercial Jetliner",
+    "pillar": "Stars & black holes",
+    "series": "",
+    "role": "discovery",
+    "angle": "Comparing coronal mass ejection velocities to fast passenger airplanes.",
+    "hook_idea": "When the Sun burps out a solar storm, it races across the inner solar system at millions of kilometers per hour—thousands of times faster than a jetliner.",
+    "viewer_benefit": "Understands space weather and how it threatens satellites around Earth.",
+    "scores": {
+      "audience_relevance": 4,
+      "curiosity": 4,
+      "evidence_quality": 5,
+      "visual_feasibility": 4,
+      "series_potential": 4
+    },
+    "veo_prompt": "A photorealistic vertical 9:16 shot of a massive wave of solar plasma erupting from the Sun's limb, charging outward into the black vacuum of space.",
+    "score": 32.0,
+    "draft": {
+      "topic": "The Speed of Solar Flares vs. A Commercial Jetliner",
+      "scenes": [
+        {
+          "text": "A 2 million mph storm zips NY to LA in 5 seconds.",
+          "visual": "Boeing 777",
+          "nasa": "solar flare",
+          "subject": "solar flare"
+        },
+        {
+          "text": "Coronal mass ejections reach speeds near 2 million mph.",
+          "visual": "sun surface",
+          "nasa": "coronal mass ejection",
+          "subject": "coronal mass ejection"
+        },
+        {
+          "text": "A typical jet cruises about 560 mph.",
+          "visual": "airplane cockpit",
+          "nasa": "commercial jet",
+          "subject": "commercial jet"
+        },
+        {
+          "text": "That’s roughly 3,600 times faster.",
+          "visual": "speedometer",
+          "nasa": "solar wind",
+          "subject": "solar storm speed"
+        },
+        {
+          "text": "At that speed the storm would zip the 2,800‑mile NY‑to‑LA route in ~5 seconds.",
+          "visual": "highway aerial",
+          "nasa": "sun storm",
+          "subject": "solar storm travel",
+          "compare": {
+            "kind": "length",
+            "unit": "km",
+            "items": [
+              {
+                "label": "NY‑LA drive",
+                "value": 4500
+              },
+              {
+                "label": "Solar flare per hour",
+                "value": 3218680
+              }
+            ]
+          }
+        },
+        {
+          "text": "A jet needs about five hours for the same trip.",
+          "visual": "airplane takeoff",
+          "nasa": "jet speed",
+          "subject": "commercial jet"
+        },
+        {
+          "text": "When the plasma slams Earth, it hits the magnetosphere at the same breakneck pace.",
+          "visual": "aurora",
+          "nasa": "magnetosphere",
+          "subject": "Earth magnetosphere"
+        },
+        {
+          "text": "The impact can knock out satellites and cause brief airline comms blackouts.",
+          "visual": "satellite",
+          "nasa": "satellite outage",
+          "subject": "satellites"
+        },
+        {
+          "text": "That 2 million mph speed proves why your 560 mph jet feels slow.",
+          "visual": "sunrise",
+          "nasa": "sun",
+          "subject": "sun"
+        }
+      ],
+      "youtube": {
+        "title": "Solar Storm: 2 Million MPH vs. Your Jet",
+        "hook_text": "2 MILLION MPH STORM",
+        "description": "5 seconds vs 5 hours. See how fast a solar storm really is.\nCoronal mass ejections hit near 2 million mph, while your jet cruises at 560 mph. That’s why the storm zips NY to LA in seconds while you wait.\nSources: NASA – Solar Dynamics Observatory (SDO) – CME speeds, NASA – Space Weather Prediction Center – Typical CME velocity range, NOAA – Space Weather Tutorial – Jet aircraft cruise speed\n#Shorts #Space #SolarFlare #Astronomy #Science",
+        "tags": [
+          "solar flare speed",
+          "coronal mass ejection",
+          "2 million mph",
+          "space weather",
+          "solar storm",
+          "jet vs solar flare",
+          "nasa sdo",
+          "space science",
+          "astronomy facts",
+          "solar wind",
+          "cme impact",
+          "magnetosphere",
+          "universe in a teaspoon",
+          "physics",
+          "space facts",
+          "solar activity",
+          "satellite interference",
+          "airline comms"
+        ],
+        "pinned_comment": "Would you rather fly in a jet or ride a solar flare? (Don't worry, you can't ride the flare.)"
+      },
+      "instagram": {
+        "caption": "A solar storm hits 2 million mph. Your jet? 560 mph. Which one gets from NY to LA faster? ✈️☀️",
+        "hashtags": [
+          "#solarflare",
+          "#spaceweather",
+          "#astronomy",
+          "#nasa",
+          "#science"
+        ]
+      },
+      "sources": [
+        "NASA – Solar Dynamics Observatory (SDO) – CME speeds",
+        "NASA – Space Weather Prediction Center – Typical CME velocity range",
+        "NOAA – Space Weather Tutorial – Jet aircraft cruise speed"
+      ],
+      "music_mood": "wonder",
+      "provenance": {
+        "write": "groq:openai/gpt-oss-120b",
+        "polish": "groq:qwen/qwen3.8-27b",
+        "fact_check": "groq:openai/gpt-oss-120b",
+        "packaging": "groq:qwen/qwen3.8-27b"
+      },
+      "fact_trail": [
+        {
+          "stage": "polish",
+          "added": [],
+          "removed": [
+            777.0
+          ],
+          "words": []
+        },
+        {
+          "stage": "fact_check",
+          "added": [
+            3600.0
+          ],
+          "removed": [
+            4000.0
+          ],
+          "words": []
+        }
+      ],
+      "fact_checks": [
+        {
+          "claim": "A solar storm hits 2 million mph, outrunning a 560 mph jet.",
+          "verdict": "ok",
+          "working": "2,000,000 mph = 894 km/s, within observed CME speeds (up to ~3000 km/s). 560 mph is typical cruise speed."
+        },
+        {
+          "claim": "A coronal mass ejection can reach about 2 million miles per hour.",
+          "verdict": "ok",
+          "working": "2,000,000 mph ≈ 894 km/s, matching fast CME observations."
+        },
+        {
+          "claim": "A typical commercial jet cruises around 560 miles per hour.",
+          "verdict": "ok",
+          "working": "Boeing 777 cruise ≈ 560 mph (900 km/h)."
+        },
+        {
+          "claim": "That means a solar storm is roughly four thousand times faster.",
+          "verdict": "fixed",
+          "working": "2,000,000 mph ÷ 560 mph = 3,571 ≈ 3,600 times faster."
+        },
+        {
+          "claim": "A solar storm would cross the 2,800‑mile New York‑to‑Los Angeles route in about five seconds.",
+          "verdict": "ok",
+          "working": "2,800 mi = 4,506 km; 4,506 km ÷ 894 km/s = 5.0 s."
+        },
+        {
+          "claim": "compare values (NY‑LA drive 4500 km, Solar flare per hour 3,200,000 km)",
+          "verdict": "fixed",
+          "working": "NY‑LA ≈ 4,506 km (rounded to 4,500 km). 2,000,000 mph = 3,218,680 km/h (2,000,000 × 1.60934)."
+        },
+        {
+          "claim": "A jet takes about five hours to make that coast‑to‑coast trip, a snail's pace compared.",
+          "verdict": "ok",
+          "working": "2,800 mi ÷ 560 mph = 5 h."
+        },
+        {
+          "claim": "When that plasma hits Earth, it can slam our magnetic shield at the same breakneck speed.",
+          "verdict": "ok",
+          "working": "CME speed near Earth remains hundreds‑to‑thousands km/s, comparable to 894 km/s."
+        },
+        {
+          "claim": "That sudden pressure can knock out satellites and cause brief airline communication blackouts.",
+          "verdict": "ok",
+          "working": "Documented effects of geomagnetic storms."
+        },
+        {
+          "claim": "So the next time you board a 560 mph jet, recall a solar storm’s 2 million mph fury.",
+          "verdict": "ok",
+          "working": "Consistent with earlier numbers."
+        },
+        {
+          "claim": "YouTube description: \"roughly 4,000 times faster\"",
+          "verdict": "fixed",
+          "working": "Corrected to \"about 3,600 times faster\" to match ratio."
+        }
+      ],
+      "release": {
+        "hour_ist": 19,
+        "day_hint": "Tuesday or Wednesday",
+        "reason": "Targets US afternoon/evening and UK evening, peak high-energy content consumption times for science topics."
+      }
+    },
+    "draft_saved": "2026-11-04"
+  },
+  {
+    "topic": "How Fast the Space Station Crosses America",
+    "pillar": "Missions (NASA, ESA, SpaceX, Apollo/Artemis)",
+    "role": "retention",
+    "angle": "The ISS orbits at about 28,000 km/h (17,500 mph) and circles Earth about every 90 minutes.",
+    "hook_idea": "How fast would the space station cross America?",
+    "viewer_benefit": "translates orbital speed into a familiar trip",
+    "scores": {
+      "audience_relevance": 5,
+      "curiosity": 5,
+      "evidence_quality": 5,
+      "visual_feasibility": 5,
+      "series_potential": 4,
+      "familiarity": 5
+    },
+    "series": "Mission Files",
+    "score": 46.5,
+    "draft": {
+      "topic": "How Fast the Space Station Crosses America",
+      "scenes": [
+        {
+          "text": "Can the ISS at 17,150 mph cross America in ten minutes?",
+          "visual": "school bus",
+          "nasa": "ISS",
+          "subject": "ISS"
+        },
+        {
+          "text": "The International Space Station circles Earth about every 92 minutes, traveling roughly 17,150 mph (≈27,600 km/h).",
+          "visual": "earth from space",
+          "nasa": "ISS orbit",
+          "subject": "ISS"
+        },
+        {
+          "text": "That’s about 4.8 miles each second—still faster than a commercial jet in a heartbeat.",
+          "visual": "jet flying",
+          "nasa": "aircraft",
+          "subject": "commercial jet"
+        },
+        {
+          "text": "America’s widest point, coast‑to‑coast, spans about 2,800 miles (4,500 km).",
+          "visual": "map USA",
+          "nasa": "USA map",
+          "subject": "United States"
+        },
+        {
+          "text": "A basketball shot at 17,150 mph would zip from one hoop to the other in just a few ten‑thousandths of a second.",
+          "visual": "basketball",
+          "nasa": "basketball",
+          "subject": "basketball"
+        },
+        {
+          "text": "At that speed the ISS would cross the whole country in roughly ten minutes—about the time to watch a short TikTok.",
+          "visual": "space station",
+          "nasa": "International Space Station",
+          "subject": "ISS"
+        },
+        {
+          "text": "Imagine about 49,000 football fields lined up; the ISS would sweep them in the blink of an eye.",
+          "visual": "football field",
+          "nasa": "football field",
+          "subject": "football field",
+          "compare": {
+            "kind": "length",
+            "unit": "km",
+            "items": [
+              {
+                "label": "US width",
+                "value": 4500
+              },
+              {
+                "label": "Football field",
+                "value": 0.09144
+              }
+            ]
+          }
+        },
+        {
+          "text": "That is why crossing America at 17,150 mph takes ten minutes.",
+          "visual": "road trip",
+          "nasa": "earth night lights",
+          "subject": "road trip"
+        }
+      ],
+      "youtube": {
+        "title": "The Space Station Crosses America in Ten Minutes",
+        "hook_text": "CROSS AMERICA IN TEN MINUTES",
+        "description": "Traveling at 17,150 mph, the International Space Station can cross America coast-to-coast in roughly ten minutes. The space station circles Earth about every 92 minutes at 4.8 miles each second.\n\nSources: NASA – International Space Station facts, ESA – ISS speed data, NASA – Earth dimensions\n\n#Shorts #SpaceStation #ISS #Astronomy #Space",
+        "tags": [
+          "ISS",
+          "International Space Station",
+          "Space Station speed",
+          "17150 mph",
+          "NASA space station",
+          "ESA ISS",
+          "Space travel",
+          "Astronomy facts",
+          "Earth dimensions",
+          "Space station orbit",
+          "Orbit speed",
+          "Universe in a Teaspoon",
+          "Space science"
+        ],
+        "pinned_comment": "Could you watch a short TikTok while the space station crosses America?"
+      },
+      "instagram": {
+        "caption": "At 17,150 mph, the space station crosses America in just ten minutes. Would you want to travel 4.8 miles every single second?\n\nSources: NASA, ESA",
+        "hashtags": [
+          "#SpaceStation",
+          "#ISS",
+          "#Astronomy",
+          "#Space",
+          "#Science"
+        ]
+      },
+      "sources": [
+        "NASA – International Space Station facts",
+        "ESA – ISS speed data",
+        "NASA – Earth dimensions"
+      ],
+      "music_mood": "wonder",
+      "provenance": {
+        "write": "groq:openai/gpt-oss-120b",
+        "polish": "gemini-flash-lite-latest",
+        "fact_check": "groq:openai/gpt-oss-120b",
+        "packaging": "gemini-flash-lite-latest"
+      },
+      "fact_checks": [
+        {
+          "claim": "Can the ISS at 17,500 mph cross America in ten minutes?",
+          "verdict": "fixed",
+          "working": "Actual ISS orbital speed ≈7.66 km/s = 27,600 km/h = 17,150 mph. Using 17,150 mph, crossing 2,800 mi takes 2,800 mi ÷ 17,150 mph = 0.163 h = 9.8 min, so ten‑minute claim is fine but speed must be 17,150 mph."
+        },
+        {
+          "claim": "The International Space Station circles Earth every 90 minutes, traveling roughly 17,500 mph (about 28,000 km/h).",
+          "verdict": "fixed",
+          "working": "Orbital period = 92.7 min (≈92 min). Speed = 7.66 km/s = 27,600 km/h = 17,150 mph. 28,000 km/h is ~7.78 km/s, about 2 % high."
+        },
+        {
+          "claim": "That’s 25 miles every second—faster than a commercial jet in a heartbeat.",
+          "verdict": "fixed",
+          "working": "17,150 mph ÷ 3,600 s/h = 4.76 mi/s, not 25 mi/s. Correct value ≈4.8 mi/s."
+        },
+        {
+          "claim": "America’s widest point, coast‑to‑coast, spans about 2,800 miles (4,500 km).",
+          "verdict": "ok",
+          "working": "Continental US coast‑to‑coast distance ≈2,800 mi (≈4,500 km)."
+        },
+        {
+          "claim": "For perspective, a basketball traveling 17,500 mph would zip from one hoop to the other in less than a second.",
+          "verdict": "fixed",
+          "working": "Basketball hoop diameter ≈0.45 m = 0.00028 mi. Time = 0.00028 mi ÷ 17,150 mph = 1.6×10⁻⁸ h = 5.8×10⁻⁵ s (≈0.00006 s). Phrase changed to “a few ten‑thousandths of a second” for accuracy."
+        },
+        {
+          "claim": "At that speed the ISS would cross the whole country in roughly ten minutes—about the time to watch a short TikTok.",
+          "verdict": "ok",
+          "working": "Using corrected speed 17,150 mph, 2,800 mi ÷ 17,150 mph = 9.8 min ≈ ten minutes."
+        },
+        {
+          "claim": "Imagine 46,000 football fields lined up; the ISS would sweep them in the blink of an eye.",
+          "verdict": "fixed",
+          "working": "One football field = 100 yd = 91.44 m = 0.09144 km. US width 4,500 km ÷ 0.09144 km ≈ 49,200 fields. Rounded to ~49,000 fields."
+        },
+        {
+          "claim": "That is why crossing America at 17,500 mph takes ten minutes.",
+          "verdict": "fixed",
+          "working": "Speed corrected to 17,150 mph; time calculation unchanged."
+        }
+      ],
+      "fact_trail": [
+        {
+          "stage": "fact_check",
+          "added": [
+            17150.0,
+            92.0,
+            17150.0,
+            27600.0,
+            4.8,
+            17150.0,
+            49000.0,
+            17150.0
+          ],
+          "removed": [
+            17500.0,
+            90.0,
+            17500.0,
+            28000.0,
+            25.0,
+            17500.0,
+            46000.0,
+            17500.0
+          ],
+          "words": []
+        }
+      ],
+      "release": {
+        "hour_ist": 19,
+        "day_hint": "Thursday",
+        "reason": "Thursday evening in IST aligns well with peak viewing times for Western audiences finishing their day."
+      }
+    },
+    "draft_saved": "2026-11-04"
+  },
+  {
+    "topic": "The Thickness of Saturn's Main Ring System vs. A Standard Highway",
+    "pillar": "Planets & moons",
+    "series": "How Big Is It?",
+    "role": "discovery",
+    "angle": "Comparing the vertical height of Saturn's majestic ice rings to the asphalt thickness of a multi-lane expressway.",
+    "hook_idea": "Saturn's rings span hundreds of thousands of kilometers across, but if you stood them on end vertically, they are thinner than a modern highway.",
+    "viewer_benefit": "Visualizes the extreme flatness and delicate nature of planetary ring systems.",
+    "scores": {
+      "audience_relevance": 5,
+      "curiosity": 5,
+      "evidence_quality": 5,
+      "visual_feasibility": 4,
+      "series_potential": 4
+    },
+    "veo_prompt": "Cinematic vertical 9:16 shot looking edge-on across the breathtaking, wafer-thin ice rings of Saturn against the blackness of space, photoreal.",
+    "score": 35.0,
+    "resumed_draft": true,
+    "draft": {
+      "topic": "Thickness of Saturn's Main Ring System vs. a Standard Highway",
+      "scenes": [
+        {
+          "text": "Saturn's rings are thirty times thicker than your highway asphalt.",
+          "visual": "saturn rings",
+          "nasa": "Saturn rings",
+          "subject": "Saturn's rings"
+        },
+        {
+          "text": "Saturn's A, B and C rings extend from about 67,000 km to 140,000 km from the planet, spanning roughly 280,000 km in diameter, yet lie flat.",
+          "visual": "saturn rings close",
+          "nasa": "Saturn rings thickness",
+          "subject": "Ring thickness"
+        },
+        {
+          "text": "Scientists say they average about 10 meters thick in total—roughly a three‑story house.",
+          "visual": "three story house",
+          "nasa": "Saturn rings thickness",
+          "subject": "Ring thickness"
+        },
+        {
+          "text": "A modern highway pours asphalt about 0.3 m (one foot) thick per lane.",
+          "visual": "highway construction",
+          "nasa": "highway",
+          "subject": "highway pavement"
+        },
+        {
+          "text": "So Saturn's rings are about thirty times thicker than the pavement beneath your wheels today.",
+          "visual": "comparison graphic",
+          "nasa": "Saturn rings",
+          "subject": "thickness comparison",
+          "compare": {
+            "kind": "length",
+            "unit": "m",
+            "items": [
+              {
+                "label": "Saturn rings",
+                "value": 10
+              },
+              {
+                "label": "Highway pavement",
+                "value": 0.3
+              }
+            ]
+          }
+        },
+        {
+          "text": "Yet their vertical size is tiny next to a span larger than Earth’s diameter.",
+          "visual": "earth from space",
+          "nasa": "Earth",
+          "subject": "ring span"
+        },
+        {
+          "text": "If stood upright, they'd rise only a few stories, and even their full 280,000‑km width is still well short of the Moon’s distance.",
+          "visual": "moon distance",
+          "nasa": "Moon",
+          "subject": "ring span"
+        },
+        {
+          "text": "Thirty times the asphalt, yet barely a few stories tall.",
+          "visual": "car driving",
+          "nasa": "Saturn",
+          "subject": "highway vs rings"
+        }
+      ],
+      "youtube": {
+        "title": "Saturn's Rings: 10m Thick vs Your Highway",
+        "hook_text": "30X THICKER THAN ASPHALT",
+        "description": "How can something 280,000 km wide be only 10 meters thick? Saturn's rings span a diameter larger than Earth's, yet they are so flat they'd only rise a few stories if stood upright.\nSources: []\n#Shorts #Saturn #SpaceFacts #Astronomy #NASA",
+        "tags": [
+          "Saturn rings",
+          "Saturn ring thickness",
+          "space facts",
+          "astronomy",
+          "NASA",
+          "universe in a teaspoon",
+          "planets",
+          "solar system",
+          "science shorts",
+          "space education",
+          "galaxy",
+          "cosmos",
+          "space trivia",
+          "saturn a ring",
+          "saturn b ring",
+          "space comparison"
+        ],
+        "pinned_comment": "If you lay the rings flat on the ground, they'd cover a span wider than Earth's diameter. Would you rather be standing on the rings or the highway below?"
+      },
+      "fact_checks": [
+        {
+          "claim": "Saturn's A, B and C rings stretch over 140,000 km across the planet yet lie flat.",
+          "verdict": "fixed",
+          "working": "The main rings extend from ~67,000 km to ~140,000 km from Saturn’s centre, giving a total diameter of about 280,000 km. The original wording implied a 140,000 km width across the planet, which is inaccurate."
+        },
+        {
+          "claim": "Scientists say they average about 10 meters thick in total—roughly a three‑story house.",
+          "verdict": "ok",
+          "working": "NASA states the main rings are ~10 m (≈30 ft) thick. A three‑story house is ~9–12 m tall, so the comparison is correct."
+        },
+        {
+          "claim": "A modern multi‑lane highway pours asphalt about 0.3 meters (one foot) thick for each lane.",
+          "verdict": "ok",
+          "working": "Typical highway asphalt pavement thickness is 0.25–0.30 m (≈1 ft). 0.3 m is a valid representative value."
+        },
+        {
+          "claim": "So Saturn's rings are about thirty times thicker than the pavement beneath your wheels today.",
+          "verdict": "ok",
+          "working": "10 m ÷ 0.3 m = 33.3, which is “about thirty times”."
+        },
+        {
+          "claim": "Yet their vertical size is tiny next to a span larger than Earth’s diameter.",
+          "verdict": "ok",
+          "working": "Earth’s diameter ≈12,742 km. The rings’ radial span (≈73,000 km) is far larger, so the statement is correct."
+        },
+        {
+          "claim": "If stood upright, they'd rise only a few stories, yet stretch farther than the Moon.",
+          "verdict": "fixed",
+          "working": "Ring thickness ≈10 m (a few stories) is correct, but the rings’ total width (≈280,000 km) is **shorter** than the Earth‑Moon distance (≈384,400 km). The claim was false and has been corrected."
+        },
+        {
+          "claim": "So Saturn's rings are about thirty times thicker than the pavement beneath your wheels today.",
+          "verdict": "ok",
+          "working": "10 m / 0.3 m ≈ 33, which justifies “about thirty times”."
+        }
+      ],
+      "provenance": {
+        "write": "groq:openai/gpt-oss-120b",
+        "fact_check": "groq:openai/gpt-oss-120b",
+        "polish": "groq:qwen/qwen3.8-27b",
+        "packaging": "groq:qwen/qwen3.8-27b"
+      },
+      "fact_trail": [
+        {
+          "stage": "fact_check",
+          "added": [
+            67000.0,
+            280000.0,
+            280000.0
+          ],
+          "removed": [],
+          "words": []
+        }
+      ],
+      "instagram": {
+        "caption": "Saturn's rings are 280,000 km wide but only 10 meters thick. That's 30x thicker than your local highway asphalt. 🪐\n\nCould you jump across the gap between the rings and the planet?",
+        "hashtags": [
+          "#SaturnRings",
+          "#SpaceFacts",
+          "#Astronomy",
+          "#NASA",
+          "#UniverseInATeaspoon"
+        ]
+      },
+      "release": {
+        "hour_ist": 17,
+        "day_hint": "Thursday",
+        "reason": "Targets US afternoon/early evening (12:00-16:00 ET) when school leaves for teens and after-work scroll starts for adults, peaking engagement before the late-night drop."
+      }
+    },
+    "draft_saved": "2026-11-02"
+  },
+  {
+    "topic": "The Size of a Supernova Remnant (Crab Nebula) vs. Interstellar Distances",
+    "pillar": "Stars & black holes",
+    "series": "How Big Is It?",
+    "role": "discovery",
+    "angle": "Comparing expanding stellar explosion debris fields to familiar earthly expanses",
+    "hook_idea": "The explosion that created the Crab Nebula happened nearly a thousand years ago, and the debris cloud is now so massive it spans light-years across space.",
+    "viewer_benefit": "Comprehends the scale of stellar death explosions and nebula expansion.",
+    "scores": {
+      "audience_relevance": 4,
+      "curiosity": 4,
+      "evidence_quality": 5,
+      "visual_feasibility": 5,
+      "series_potential": 5
+    },
+    "veo_prompt": "Photorealistic 9:16 vertical cinematic shot of colorful filamentary gas strands inside the expanding Crab Nebula in deep space, no text.",
+    "score": 34.5
+  },
+  {
+    "topic": "The Speed of Earth's Orbit Around the Sun vs. A Commercial Bullet Train",
+    "pillar": "Planets & moons",
+    "series": "How Big Is It?",
+    "role": "discovery",
+    "angle": "Comparing Earth's orbital velocity through space to high-speed rail travel.",
+    "hook_idea": "Right now, you are sitting still, but Earth is hurtling around the Sun at 107,000 kilometers per hour—faster than any bullet train ever built.",
+    "viewer_benefit": "Visualises our planet's invisible motion through the solar system.",
+    "scores": {
+      "audience_relevance": 5,
+      "curiosity": 4,
+      "evidence_quality": 5,
+      "visual_feasibility": 4,
+      "series_potential": 5
+    },
+    "veo_prompt": "A photorealistic vertical 9:16 shot of planet Earth spinning and streaking slightly along its orbital path against a star-dusted cosmic background, cinematic motion blur.",
+    "score": 34.5
+  },
+  {
+    "topic": "The Size of Mars vs. Earth's Pacific Ocean Basin",
+    "pillar": "Planets & moons",
+    "series": "How Big Is It?",
+    "role": "discovery",
+    "angle": "Fitting the terrestrial neighbor Mars into geographical features on Earth.",
+    "hook_idea": "Mars is so much smaller than Earth that its entire landmass could fit comfortably inside the basin of the Pacific Ocean.",
+    "viewer_benefit": "Gains an intuitive sense of planetary sizing between terrestrial siblings.",
+    "scores": {
+      "audience_relevance": 5,
+      "curiosity": 4,
+      "evidence_quality": 5,
+      "visual_feasibility": 4,
+      "series_potential": 5
+    },
+    "veo_prompt": "A photorealistic vertical 9:16 shot of planet Mars floating in space, showing its stark rust deserts, massive canyons, and polar ice caps in sharp focus.",
+    "score": 34.5
+  },
+  {
+    "topic": "The Volume of Jupiter Compared to Earth vs. Marbles in a Bucket",
+    "pillar": "Planets & moons",
+    "series": "How Big Is It?",
+    "role": "discovery",
+    "angle": "Visualizing how many planet Earths fit inside the volume of Jupiter using the everyday imagery of small glass marbles inside a large bucket.",
+    "hook_idea": "You could drop over 1,300 planet Earths inside the giant volume of Jupiter like glass marbles inside a bucket.",
+    "viewer_benefit": "Visualizes gas giant scale using simple household objects.",
+    "scores": {
+      "audience_relevance": 5,
+      "curiosity": 4,
+      "evidence_quality": 5,
+      "visual_feasibility": 4,
+      "series_potential": 5
+    },
+    "veo_prompt": "Cinematic vertical 9:16 shot of massive swirling cloud bands on Jupiter with the Great Red Spot visible in dramatic lighting, photoreal.",
+    "score": 34.5
+  },
+  {
+    "topic": "The Surface Temperature of Venus vs. A Self-Cleaning Kitchen Oven",
+    "pillar": "Planets & moons",
+    "series": "How Big Is It?",
+    "role": "discovery",
+    "angle": "Comparing the runaway greenhouse surface heat of Venus to the maximum heat setting on a household oven.",
+    "hook_idea": "Venus is hot enough to melt solid lead on its surface—hotter than the highest cleaning setting on your kitchen oven.",
+    "viewer_benefit": "Understands the catastrophic power of runaway greenhouse gases on a planetary scale.",
+    "scores": {
+      "audience_relevance": 5,
+      "curiosity": 4,
+      "evidence_quality": 5,
+      "visual_feasibility": 4,
+      "series_potential": 5
+    },
+    "veo_prompt": "Cinematic vertical 9:16 shot of a desolate, glowing-hot volcanic landscape on Venus under a heavy, suffocating yellow-orange cloud canopy, photoreal.",
+    "score": 34.5
+  },
+  {
+    "topic": "The Size of the Oort Cloud vs. The Distance to the Nearest Star",
+    "pillar": "Cosmic scale comparisons",
+    "series": "How Big Is It?",
+    "role": "discovery",
+    "angle": "Comparing the outer boundary of the solar system's icy comet reservoir to interstellar distances",
+    "hook_idea": "Our solar system doesn't end at Neptune; a vast bubble of trillions of icy comets stretches halfway to the next star system.",
+    "viewer_benefit": "Realizes how massive our Sun's gravitational dominion truly is compared to the planets alone.",
+    "scores": {
+      "audience_relevance": 4,
+      "curiosity": 5,
+      "evidence_quality": 5,
+      "visual_feasibility": 4,
+      "series_potential": 5
+    },
+    "veo_prompt": "Vertical 9:16 photorealistic cinematic shot, distant icy comets drifting slowly in a vast, dark spherical shell far beyond Pluto, lit by a tiny, distant Sun.",
+    "score": 34.5
+  },
+  {
+    "topic": "The Energy Output of a Quasar vs. The Entire Milky Way",
+    "pillar": "Stars & black holes",
+    "series": "Cosmic Scale Explained",
+    "role": "authority",
+    "angle": "Comparing the blinding brightness of a single distant quasar to hundreds of billions of stars combined",
+    "hook_idea": "One single supermassive black hole feeding in the distant universe shines brighter than two hundred billion stars put together.",
+    "viewer_benefit": "Comprehends the unimaginable power unleashed when black holes consume matter.",
+    "scores": {
+      "audience_relevance": 4,
+      "curiosity": 5,
+      "evidence_quality": 5,
+      "visual_feasibility": 4,
+      "series_potential": 4
+    },
+    "veo_prompt": "Vertical 9:16 cinematic shot, an intensely bright swirling accretion disk around a supermassive black hole casting blinding blue and white light across the cosmos, photoreal.",
+    "score": 33.5
+  },
+  {
+    "topic": "The Mass of the Asteroid Belt vs. Earth's Moon",
+    "pillar": "Planets & moons",
+    "series": "How Big Is It?",
+    "role": "authority",
+    "angle": "Comparing the total mass of every single rock in the asteroid belt to our Moon",
+    "hook_idea": "Hollywood movies show asteroid fields as crowded rock zones, but if you crushed every asteroid together, it wouldn't even equal four percent of our Moon.",
+    "viewer_benefit": "Debunks science fiction tropes about asteroid belts while revealing their true, sparse nature.",
+    "scores": {
+      "audience_relevance": 4,
+      "curiosity": 4,
+      "evidence_quality": 5,
+      "visual_feasibility": 5,
+      "series_potential": 4
+    },
+    "veo_prompt": "Vertical 9:16 photorealistic shot, a vast, sparse field of tumbling rocky asteroids drifting silently through sunlight between Mars and Jupiter, deep space backdrop.",
+    "score": 33.5
+  },
+  {
+    "topic": "Titan's Methane Lakes vs. Earth's Water Reservoirs",
+    "pillar": "Planets & moons",
+    "series": "",
+    "role": "discovery",
+    "angle": "Comparing liquid hydrocarbon lakes on Saturn's moon Titan to familiar water bodies",
+    "hook_idea": "Titan is the only other world in our solar system with rivers, coastlines, and lakes—except they are filled with liquid natural gas instead of water.",
+    "viewer_benefit": "Learns about exotic liquid cycles on outer solar system moons.",
+    "scores": {
+      "audience_relevance": 4,
+      "curiosity": 5,
+      "evidence_quality": 5,
+      "visual_feasibility": 4,
+      "series_potential": 4
+    },
+    "veo_prompt": "Photorealistic 9:16 vertical cinematic shot of a hazy orange atmosphere over dark hydrocarbon lakes on Saturn's moon Titan, no text.",
+    "score": 33.5
+  },
+  {
+    "topic": "The Temperature of the Sun's Corona vs. A Kitchen Oven",
+    "pillar": "Stars & black holes",
+    "series": "",
+    "role": "discovery",
+    "angle": "Comparing the million-degree outer atmosphere of the Sun to maximum household appliance heat.",
+    "hook_idea": "The surface of the Sun is a cool 5,500 degrees Celsius, but its outer atmosphere—the corona—spikes to a blistering 2 million degrees.",
+    "viewer_benefit": "Learns one of solar physics' greatest unsolved mysteries: the coronal heating problem.",
+    "scores": {
+      "audience_relevance": 4,
+      "curiosity": 5,
+      "evidence_quality": 5,
+      "visual_feasibility": 4,
+      "series_potential": 4
+    },
+    "veo_prompt": "A photorealistic vertical 9:16 cinematic shot of solar prominences leaping millions of miles into space from the fiery yellow-red orb of the Sun.",
+    "score": 33.5
+  },
+  {
+    "topic": "The Temperature Drop Inside a Lunar Crater in Permanent Shadow vs. A Household Deep Freezer",
+    "pillar": "Planets & moons",
+    "series": "How Big Is It?",
+    "role": "discovery",
+    "angle": "Contrasting the extreme cold at the Moon's poles where sunlight never reaches with the temperature inside a standard kitchen frost-free freezer.",
+    "hook_idea": "Some craters at the Moon's south pole are so intensely cold that a standard kitchen freezer would feel like a roaring bonfire by comparison.",
+    "viewer_benefit": "Appreciates the extreme thermal environments our lunar missions (like Chandrayaan-3 and Artemis) must endure.",
+    "scores": {
+      "audience_relevance": 5,
+      "curiosity": 4,
+      "evidence_quality": 5,
+      "visual_feasibility": 4,
+      "series_potential": 4
+    },
+    "veo_prompt": "Cinematic vertical 9:16 shot of a dark, pitch-black lunar crater edge illuminated by harsh, blinding sunlight on the rim, photoreal, no text.",
+    "score": 33.5
+  },
+  {
+    "topic": "The Volume of All Asteroids in the Main Belt Combined vs. A Small Country",
+    "pillar": "Planets & moons",
+    "series": "Cosmic Scale Explained",
+    "role": "authority",
+    "angle": "Compacting every rock in the asteroid belt into a single solid mass and comparing its physical size to a familiar geographic region like Sri Lanka.",
+    "hook_idea": "If you gathered every single asteroid in the asteroid belt and melted them into one solid ball, it would be smaller in volume than the country of Sri Lanka.",
+    "viewer_benefit": "Dispels Hollywood myths about crowded asteroid belts by showing how mostly empty space really is.",
+    "scores": {
+      "audience_relevance": 4,
+      "curiosity": 4,
+      "evidence_quality": 5,
+      "visual_feasibility": 4,
+      "series_potential": 5
+    },
+    "veo_prompt": "Cinematic vertical 9:16 shot drifting through a sparse, wide field of tumbling space rocks with a distant Sun shining brightly, photoreal.",
+    "score": 33.0
+  },
+  {
+    "topic": "The Orbital Speed of Mercury vs. A Commercial Jetliner",
+    "pillar": "Planets & moons",
+    "series": "Cosmic Scale Explained",
+    "role": "authority",
+    "angle": "Comparing Mercury's blistering velocity around the Sun to standard aircraft speed",
+    "hook_idea": "Mercury races around the Sun at nearly 50 kilometers per second—over 100 times faster than a commercial passenger jet.",
+    "viewer_benefit": "Grasps Kepler's laws of planetary motion and gravitational pull near the Sun.",
+    "scores": {
+      "audience_relevance": 4,
+      "curiosity": 4,
+      "evidence_quality": 5,
+      "visual_feasibility": 4,
+      "series_potential": 5
+    },
+    "veo_prompt": "Photorealistic 9:16 vertical cinematic shot of heavily cratered Mercury orbiting against the massive backdrop of the Sun, solar flares visible, no text.",
+    "score": 33.0
+  },
+  {
+    "topic": "The Temperature of the Cosmic Microwave Background vs. An Ice Cube",
+    "pillar": "Cosmic scale comparisons",
+    "series": "How Big Is It?",
+    "role": "discovery",
+    "angle": "Comparing the residual heat of the Big Bang to everyday freezing temperatures",
+    "hook_idea": "Deep space is cold, but the leftover heat from the Big Bang fills the universe at a steady, freezing minus 270 degrees Celsius—just three degrees above absolute zero.",
+    "viewer_benefit": "Learns about the thermal signature left over from the birth of the universe.",
+    "scores": {
+      "audience_relevance": 4,
+      "curiosity": 4,
+      "evidence_quality": 5,
+      "visual_feasibility": 4,
+      "series_potential": 5
+    },
+    "veo_prompt": "Photorealistic 9:16 vertical cinematic shot of abstract thermal radiation waves mapping the early universe in microwave frequencies, deep blue and red tones, no text.",
+    "score": 33.0
+  },
+  {
+    "topic": "The Density of Interstellar Space vs. The Sahara Desert",
+    "pillar": "Cosmic scale comparisons",
+    "series": "How Big Is It?",
+    "role": "discovery",
+    "angle": "Comparing the near-vacuum between stars to a few grains of sand scattered across the Sahara.",
+    "hook_idea": "If you took all the atoms floating in a cubic meter of deep space and spread them out, it would be emptier than the best laboratory vacuum on Earth.",
+    "viewer_benefit": "Understands the true emptiness of interstellar space.",
+    "scores": {
+      "audience_relevance": 4,
+      "curiosity": 4,
+      "evidence_quality": 5,
+      "visual_feasibility": 4,
+      "series_potential": 5
+    },
+    "veo_prompt": "Photorealistic 9:16 vertical cinematic shot of wispy, translucent cosmic gas clouds drifting in an infinite starfield, no text.",
+    "score": 33.0
+  },
+  {
+    "topic": "The Air Pressure on the Surface of Mars vs. Earth's Stratosphere",
+    "pillar": "Planets & moons",
+    "series": "Cosmic Scale Explained",
+    "role": "authority",
+    "angle": "Equating the thin, wispy Martian atmosphere at ground level to the atmospheric altitude where commercial airplanes fly on Earth.",
+    "hook_idea": "Standing on the surface of Mars, the air pressure is so thin that it feels identical to standing thirty kilometers up in Earth's stratosphere.",
+    "viewer_benefit": "Understands why human explorers on Mars would instantly need pressurized suits without complex jargon.",
+    "scores": {
+      "audience_relevance": 4,
+      "curiosity": 4,
+      "evidence_quality": 5,
+      "visual_feasibility": 4,
+      "series_potential": 4
+    },
+    "veo_prompt": "Cinematic vertical 9:16 shot of a rusty, orange Martian desert landscape under a faint butterscotch sky, photoreal, no text.",
+    "score": 32.0
+  },
+  {
+    "topic": "The Rate at Which the Universe is Expanding vs. A Football Field",
+    "pillar": "Cosmic scale comparisons",
+    "series": "Cosmic Scale Explained",
+    "role": "authority",
+    "angle": "The Hubble constant scaled down to a 100-yard football field: far less than a hair's width per year.",
+    "hook_idea": "The universe is stretching the football field you're standing on, but you'll never notice.",
+    "viewer_benefit": "Demystifies cosmic expansion by translating incomprehensible megaparsecs into a tangible sports field.",
+    "scores": {
+      "audience_relevance": 4,
+      "curiosity": 4,
+      "evidence_quality": 5,
+      "visual_feasibility": 3,
+      "series_potential": 5
+    },
+    "veo_prompt": "Cinematic vertical 9:16 shot of a glowing cosmic web of galaxies slowly drifting apart against a deep black void, photoreal, no text.",
+    "score": 31.5
+  },
+  {
+    "topic": "The Number of Trees on Earth vs. Stars in the Milky Way",
+    "pillar": "Cosmic scale comparisons",
+    "series": "Cosmic Scale Explained",
+    "role": "discovery",
+    "angle": "Comparing Earth's total tree count to the estimated star population in our galaxy.",
+    "hook_idea": "There are more trees on Earth than there are stars in the entire Milky Way galaxy.",
+    "viewer_benefit": "Blindsides the viewer with a counter-intuitive scale fact about our own planet versus space.",
+    "scores": {
+      "audience_relevance": 4,
+      "curiosity": 5,
+      "evidence_quality": 4,
+      "visual_feasibility": 4,
+      "series_potential": 4
+    },
+    "veo_prompt": "A photorealistic vertical 9:16 shot transitioning from a dense green forest canopy on Earth directly upwards into a glittering, star-packed Milky Way galaxy, seamless cosmic zoom.",
+    "score": 31.5
+  },
+  {
+    "topic": "Uranus's Extreme Axial Tilt vs. A Rolling Bowling Ball",
+    "pillar": "Planets & moons",
+    "series": "",
+    "role": "discovery",
+    "angle": "Uranus rolls around the Sun on its side like a bowling ball down a lane instead of spinning like a top.",
+    "hook_idea": "Every planet spins like a top, except one that rolls.",
+    "viewer_benefit": "Visualizes planetary orbital mechanics and axial anomalies.",
+    "scores": {
+      "audience_relevance": 4,
+      "curiosity": 4,
+      "evidence_quality": 5,
+      "visual_feasibility": 4,
+      "series_potential": 3
+    },
+    "veo_prompt": "Photorealistic 9:16 vertical cinematic shot of the pale cyan ice giant Uranus rolling horizontally through deep space, subtle ring system visible, no text.",
+    "score": 31.0
+  },
+  {
+    "topic": "The Atmospheric Pressure on Venus vs. A Deep-Sea Submarine Dive",
+    "pillar": "Planets & moons",
+    "series": "",
+    "role": "discovery",
+    "angle": "Comparing surface pressure on Venus to crushing depths in Earth's oceans",
+    "hook_idea": "Stepping onto the surface of Venus is like being nearly a kilometer underwater on Earth—the air pressure will crush you instantly.",
+    "viewer_benefit": "Learns why surface exploration of Venus is technologically extreme.",
+    "scores": {
+      "audience_relevance": 4,
+      "curiosity": 4,
+      "evidence_quality": 5,
+      "visual_feasibility": 4,
+      "series_potential": 3
+    },
+    "veo_prompt": "Photorealistic 9:16 vertical cinematic shot of the yellowish, volcanic, high-pressure surface of Venus under heavy acidic clouds, no text.",
+    "score": 31.0
+  },
+  {
+    "topic": "The Speed of Cosmic Expansion vs. A Running Athlete",
+    "pillar": "Weird physics & light",
+    "series": "Cosmic Scale Explained",
+    "role": "authority",
+    "angle": "Comparing the rate at which space stretches per megaparsec to everyday motion",
+    "hook_idea": "Space is stretching everywhere at once, but between two nearby stars, the movement is slower than a fingernail growing.",
+    "viewer_benefit": "Understands how cosmological expansion only becomes noticeable across vast intergalactic distances.",
+    "scores": {
+      "audience_relevance": 3,
+      "curiosity": 4,
+      "evidence_quality": 5,
+      "visual_feasibility": 3,
+      "series_potential": 4
+    },
+    "veo_prompt": "Vertical 9:16 cinematic CGI, a vast web of glowing galaxies slowly drifting apart from one another against a deep purple and black cosmic background, smooth parallax motion.",
+    "score": 29.0
+  },
+  {
+    "topic": "The Decay Rate of Radioactive Isotopes on the Moon vs. A Stopwatch",
+    "pillar": "Weird physics & light",
+    "series": "Cosmic Scale Explained",
+    "role": "authority",
+    "angle": "Explaining radioactive half-lives using precise clockwork analogies on unshielded lunar rocks",
+    "hook_idea": "Moon rocks brought back by Apollo and Luna missions prove the lunar surface has been geologically quiet for billions of years, ticking down like an ancient atomic clock.",
+    "viewer_benefit": "Understands how scientists use radioactive decay to date the exact age of solar system bodies.",
+    "scores": {
+      "audience_relevance": 3,
+      "curiosity": 4,
+      "evidence_quality": 5,
+      "visual_feasibility": 3,
+      "series_potential": 4
+    },
+    "veo_prompt": "Vertical 9:16 macro shot of a dark gray, glassy lunar basalt rock sample resting inside a sterile cleanroom facility, illuminated by stark laboratory lights.",
+    "score": 29.0
+  },
+  {
+    "topic": "The Mass of All Insects on Earth vs. Human Population",
+    "pillar": "Planets & moons",
+    "series": "",
+    "role": "discovery",
+    "angle": "Comparing the combined weight of all crawling bugs to humanity.",
+    "hook_idea": "The total weight of all ants on Earth roughly equals the total weight of all humans.",
+    "viewer_benefit": "Puts Earth's biological scale into a startling perspective before exploring other worlds.",
+    "scores": {
+      "audience_relevance": 4,
+      "curiosity": 4,
+      "evidence_quality": 4,
+      "visual_feasibility": 3,
+      "series_potential": 3
+    },
+    "veo_prompt": "A macro cinematic vertical 9:16 shot of a teeming forest floor under golden sunlight, ultra-detailed textures, highly realistic nature documentary style.",
+    "score": 27.5
+  },
+  {
+    "topic": "Cold Welding in Vacuum",
+    "angle": "Two bare metals touching and welding instantly like wet clay",
+    "hook_idea": "If two polished pieces of identical metal touch each other in deep space, they instantly fuse into one single solid piece forever.",
+    "veo_prompt": "Vertical 9:16 shot. Macro side-view shot of two polished silver cylindrical metal rods floating toward each other in a vacuum. The moment their surfaces make contact, a subtle micro-shockwave ripples across the seam as the boundary vanishes into a seamless mirror finish."
+  },
+  {
+    "topic": "Sunlight's Journey to Earth",
+    "angle": "A photon born during the Ice Age hitting your eye after an 8-minute sprint",
+    "hook_idea": "The sunlight warming your face right now spent over 100,000 years crawling out of the Sun's core, but only 8 minutes reaching your balcony.",
+    "veo_prompt": "Vertical 9:16 shot. Dynamic fast push-in through a dense, boiling, golden-white plasma ocean inside the stellar core. Blinding filaments of golden light bounce chaotically between plasma waves before bursting violently outward into the clean, dark vacuum of space."
+  },
+  {
+    "topic": "Voyager 1's Tiny Power Source",
+    "angle": "Operating beyond the Solar System on less power than a refrigerator bulb",
+    "hook_idea": "Humanity's farthest spacecraft, Voyager 1, is transmitting data from 24 billion kilometers away using less electricity than your refrigerator bulb.",
+    "veo_prompt": "Vertical 9:16 shot. Cinematic slow orbit around a weathered, dust-pitted spacecraft antenna floating in cold interstellar space. A faint, solitary amber indicator lamp pulses weakly on its fuselage, set against a backdrop of distant, faint starry nebulae."
+  },
+  {
+    "topic": "Water Ocean on Europa",
+    "angle": "An ice shell roughly 10 to 15 miles thick, deeper than two Mount Everests stacked, hiding a global ocean.",
+    "hook_idea": "Jupiter's moon Europa hides more water than all of Earth's oceans combined.",
+    "veo_prompt": "Vertical 9:16 shot. Vertical cross-section camera pan descending from Europa's fractured, blue-tinted ice surface down through massive glowing crevasses into a pitch-black, bioluminescent deep alien ocean lit by subtle hydrothermal vent glows."
+  },
+  {
+    "topic": "Saturn's Rings are Younger Than Dinosaurs",
+    "angle": "While T-Rex walked Earth, Saturn had completely naked skies",
+    "hook_idea": "Dinosaurs never saw Saturn's iconic rings—because the rings are younger than the average T-Rex fossil.",
+    "veo_prompt": "Vertical 9:16 shot. Slow cinematic fly-through right above Saturn's ring plane, revealing billions of glittering ice boulders reflecting golden sunlight. The golden cloud belts of Saturn loom majestically in the background beneath deep ring shadows."
+  },
+  {
+    "topic": "Scale of the Solar System",
+    "angle": "If the Sun were a basketball, Earth would be a peppercorn about 85 feet (26 m) away.",
+    "hook_idea": "If the Sun were a basketball, Earth would be a peppercorn 85 feet away.",
+    "veo_prompt": "Vertical 9:16 shot. Slow-motion macro shot of a weathered red leather cricket ball resting on dry grass under stadium floodlights. A tiny, glowing speck of sand floats weightlessly inches above the seam, glistening like a jewel in the crisp night air."
+  },
+  {
+    "topic": "Silence of Space",
+    "angle": "A volcanic eruption louder than a thousand bombs, completely on mute",
+    "hook_idea": "If two massive stars collided right next to you in space, it would be dead silent—quieter than a muted television.",
+    "veo_prompt": "Vertical 9:16 shot. Spectacular silent cosmic explosion of a dying blue giant star erupting into radiant shockwaves of violet and gold plasma. The camera floats completely undisturbed in motionless black space, capturing the visual violence with zero ambient vibration."
+  },
+  {
+    "topic": "Orion Capsule Heat Shield on Artemis Re-entry",
+    "angle": "NASA's Orion heat shield faces about 5,000 °F (2,760 °C), roughly half as hot as the surface of the Sun.",
+    "hook_idea": "Coming home from the Moon, this capsule faces half the heat of the Sun's surface.",
+    "veo_prompt": "Vertical 9:16 shot. Cinematic exterior shot of a conical space capsule nose diving through Earth's upper atmosphere. A blinding plasma sheath of orange and electric-violet fire wraps violently around the black carbon heat shield, leaving a fiery ionization wake behind."
+  },
+  {
+    "topic": "Proxima Centauri Distance",
+    "angle": "A 70,000-year commute even on our fastest rocket",
+    "hook_idea": "If you boarded humanity's fastest space probe today to visit our nearest neighbouring star, your descendants would arrive 70,000 years later.",
+    "veo_prompt": "Vertical 9:16 shot. Ultra-wide tracking shot behind a tiny robotic probe vanishing into an endlessly deep starfield. The distant reddish glow of three orbiting dwarf stars twinkles like distant lighthouses against an infinite, pitch-black cosmic abyss."
+  },
+  {
+    "topic": "Empty Space in an Atom vs the Universe",
+    "angle": "Spread evenly, visible matter is about one atom per cubic meter, like one grain of rice in a football stadium.",
+    "hook_idea": "If you spread out all the visible matter in our universe evenly, there would only be one single atom per cubic meter—like a grain of rice in a stadium.",
+    "veo_prompt": "Vertical 9:16 shot. Atmospheric wide shot looking up from the center pitch of a massive, empty, dark cricket stadium. A single luminescent crystal grain hovers suspended mid-air in a sharp vertical ray of overhead stadium spotlight."
+  },
+  {
+    "topic": "Time Dilation Near a Black Hole",
+    "angle": "Eating one plate of biryani near the horizon while 50 years pass on Earth",
+    "hook_idea": "If you sat and had lunch right outside a supermassive black hole for just one hour, an entire human lifetime would pass back on Earth.",
+    "veo_prompt": "Vertical 9:16 shot. Mesmerizing gravitational lensing shot of a black hole's event horizon, glowing with a razor-thin photon ring. The surrounding stars streak and blur rapidly in circular light trails, demonstrating the extreme warping of spacetime."
+  },
+  {
+    "topic": "Betelgeuse Monster Star Scale",
+    "angle": "A star so big it would gulp down Mercury, Venus, Earth, and Mars",
+    "hook_idea": "If you placed the red supergiant star Betelgeuse where our Sun is, its boiling surface would swallow Earth, Mars, and stretch all the way to Jupiter.",
+    "veo_prompt": "Vertical 9:16 shot. Terrifyingly massive slow tilt up the undulating, boiling red plasma surface of Betelgeuse. The horizon curves subtly into the black void, with gargantuan convection cells erupting like fiery continents under moody deep-orange rim lighting."
+  },
+  {
+    "topic": "Water Recycling on the ISS",
+    "angle": "Yesterday's sweat and shower water becomes tomorrow's morning chai",
+    "hook_idea": "Aboard the space station, the technology is so pure that yesterday's astronaut sweat and workout moisture becomes today's morning cup of chai.",
+    "veo_prompt": "Vertical 9:16 shot. Macro shot of a crystal-clear sphere of drinking water floating weightlessly inside a metallic space station corridor. The Earth's bright blue ocean reflects pristinely through the translucent water drop as it slowly rotates under soft cabin LED lights."
+  },
+  {
+    "topic": "Fast Radio Bursts (FRBs)",
+    "angle": "Three days of the Sun's total energy released in the blink of an eye",
+    "hook_idea": "In less than a millisecond, a Fast Radio Burst from deep space unleashes as much energy as our entire Sun generates in three full days.",
+    "veo_prompt": "Vertical 9:16 shot. Extreme-macro shot of a highly magnetized magnetar neutron star, its crust cracking. A razor-sharp, blinding cyan beam of electromagnetic radiation erupts from the magnetic pole, tearing across the dark fabric of space in an instant flash."
+  },
+  {
+    "topic": "Rogue Planets Wandering the Galaxy",
+    "angle": "Orphaned dark worlds roaming like lone sleeper trains with no tracks",
+    "hook_idea": "Billions of nomad planets with no sun to orbit are quietly wandering through our pitch-black galaxy, completely frozen in the dark.",
+    "veo_prompt": "Vertical 9:16 shot. Chilling cinematic glide past an abandoned, dark gas giant planet drifting through the interstellar void. Faint aurora ribbons of deep emerald and violet shimmer across its cloud tops, lit only by distant, razor-sharp starlight."
+  }
+]

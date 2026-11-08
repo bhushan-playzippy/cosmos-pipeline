@@ -1,0 +1,157 @@
+[
+  {
+    "topic": "A single grain of sand from Titan’s dunes would weigh about 1.5 g, similar to a paperclip",
+    "pillar": "Planets & moons",
+    "series": "How Big Is It?",
+    "role": "discovery",
+    "angle": "Titan sand grain compared to a paperclip",
+    "hook_idea": "?How heavy is a grain of sand on Titan?",
+    "viewer_benefit": "Feel the low gravity and dense atmosphere of Saturn’s moon",
+    "scores": {
+      "audience_relevance": 4,
+      "curiosity": 5,
+      "evidence_quality": 5,
+      "visual_feasibility": 4,
+      "series_potential": 3,
+      "familiarity": 4
+    },
+    "veo_prompt": "Close‑up of a single sand grain floating in Titan’s orange haze, a paperclip beside it for scale",
+    "score": 40.5
+  },
+  {
+    "topic": "A single cubic meter of Venus’ surface atmosphere would weigh about 65 kg, like a heavy sack of potatoes",
+    "pillar": "Famous objects, one impossible fact",
+    "series": "How Big Is It?",
+    "role": "discovery",
+    "angle": "dense atmosphere compared to everyday sack of potatoes",
+    "hook_idea": "?What does a cubic meter of Venus air feel like on Earth?",
+    "viewer_benefit": "Feel the crushing pressure of a runaway greenhouse",
+    "scores": {
+      "audience_relevance": 4,
+      "curiosity": 4,
+      "evidence_quality": 5,
+      "visual_feasibility": 4,
+      "series_potential": 3,
+      "familiarity": 4
+    },
+    "veo_prompt": "A transparent cube filled with swirling orange gas, sitting next to a sack of potatoes on a table",
+    "score": 39.0
+  },
+  {
+    "topic": "Apollo 13 Powered by a Shoebox",
+    "pillar": "Missions in danger (Apollo, ISS, Voyager, Artemis)",
+    "series": "Mission Files",
+    "role": "retention",
+    "angle": "The lunar module's descent engine controller was the size and weight of a typewriter, yet it guided the damaged ship home.",
+    "hook_idea": "Why did a shoebox computer save three lives?",
+    "viewer_benefit": "Understands the fragility of Apollo tech vs modern reliability.",
+    "veo_prompt": "A dusty 1970s NASA mission control room, close-up on a beige control panel with large buttons and a small screen, cinematic lighting, vertical 9:16.",
+    "score": 28.5
+  },
+  {
+    "topic": "Venus Raines Acid",
+    "pillar": "Planets & moons",
+    "series": "",
+    "role": "discovery",
+    "angle": "Clouds on Venus are made of sulfuric acid drops, not water, dangerous to any unprotected suit.",
+    "hook_idea": "What falls from the sky on Venus?",
+    "viewer_benefit": "Grasps the hostile chemistry of our neighbor planet.",
+    "veo_prompt": "A dark, swirling orange cloud layer, thick liquid droplets falling in slow motion against a hazy background, photorealistic, vertical 9:16.",
+    "score": 28.5
+  },
+  {
+    "topic": "Jupiter Swallows 1,000 Earths",
+    "pillar": "Famous objects, one impossible fact",
+    "series": "How Big Is It?",
+    "role": "discovery",
+    "angle": "Jupiter's volume is so vast it could contain 1,300 copies of our planet inside it.",
+    "hook_idea": "How many Earths fit inside Jupiter?",
+    "viewer_benefit": "Instantly understands the scale gap between gas giants and rocky planets.",
+    "veo_prompt": "A giant, striped gas sphere (Jupiter) with a smaller blue marble (Earth) floating in front, scale comparison, cosmic background, vertical 9:16.",
+    "score": 28.5
+  },
+  {
+    "topic": "Europa's Icy Shell",
+    "pillar": "Planets & moons",
+    "series": "",
+    "role": "discovery",
+    "angle": "Beneath Europa's frozen surface hides a liquid ocean deeper than Earth's Pacific.",
+    "hook_idea": "Where is the water on Jupiter's moon?",
+    "viewer_benefit": "Understands why Europa is a prime target for life search.",
+    "veo_prompt": "A cracked icy white surface with a deep blue glow emanating from the fissures, representing an ocean below, vertical 9:16.",
+    "score": 28.5
+  },
+  {
+    "topic": "Perseverance's Helicopter",
+    "pillar": "Missions in danger (Apollo, ISS, Voyager, Artemis)",
+    "series": "",
+    "role": "discovery",
+    "angle": "Ingenuity is the first aircraft to achieve powered flight on another planet, beating the thin air.",
+    "hook_idea": "How does a helicopter fly on Mars?",
+    "viewer_benefit": "Appreciates the engineering challenge of low-atmosphere flight.",
+    "veo_prompt": "A small quadcopter helicopter hovering above reddish Martian rocks, dust kicking up slightly, bright sunlight, vertical 9:16.",
+    "score": 28.5
+  },
+  {
+    "topic": "Sagittarius A* Size",
+    "pillar": "Stars & black holes",
+    "series": "Scale Explained",
+    "role": "authority",
+    "angle": "The black hole at our galaxy's center is 4 million times the mass of the Sun.",
+    "hook_idea": "How big is the hole in our galaxy?",
+    "viewer_benefit": "Places the galactic center in perspective relative to our Sun.",
+    "veo_prompt": "A massive, glowing accretion disk swirling around a central black sphere, with a small yellow star (Sun) shown for scale, vertical 9:16.",
+    "score": 28.5
+  },
+  {
+    "topic": "Voyager's Cruise",
+    "pillar": "Missions in danger (Apollo, ISS, Voyager, Artemis)",
+    "series": "Mission Files",
+    "role": "retention",
+    "angle": "Voyager 1 has been sending data from interstellar space for over 45 years, powered by radioactive fuel.",
+    "hook_idea": "Is this probe still alive in deep space?",
+    "viewer_benefit": "Feels the longevity and endurance of early space exploration.",
+    "veo_prompt": "A golden record and dish antenna in the foreground, a vast, dark starfield with no planets in the background, vertical 9:16.",
+    "score": 28.5
+  },
+  {
+    "topic": "Hubble's Discovery",
+    "pillar": "Missions in danger (Apollo, ISS, Voyager, Artemis)",
+    "series": "",
+    "role": "retention",
+    "angle": "Hubble revealed that the universe is expanding faster than expected, changing our view of time.",
+    "hook_idea": "Did a telescope break cosmology?",
+    "viewer_benefit": "Connects a tool to a fundamental shift in scientific understanding.",
+    "veo_prompt": "A long, white cylindrical telescope in orbit, with a faint, distorted galaxy in the background, vertical 9:16.",
+    "score": 28.5
+  },
+  {
+    "topic": "Solar Flare Power",
+    "pillar": "Stars & black holes",
+    "series": "",
+    "role": "discovery",
+    "angle": "A single solar flare can release energy equal to millions of hydrogen bombs exploding at once.",
+    "hook_idea": "How powerful is the Sun's anger?",
+    "viewer_benefit": "Grasps the danger of space weather to technology.",
+    "veo_prompt": "A massive loop of orange plasma erupting from the surface of a star, bright white core, vertical 9:16.",
+    "score": 28.5
+  },
+  {
+    "topic": "Time Dilation Near a Black Hole",
+    "angle": "Eating one plate of biryani near the horizon while 50 years pass on Earth",
+    "hook_idea": "If you sat and had lunch right outside a supermassive black hole for just one hour, an entire human lifetime would pass back on Earth.",
+    "veo_prompt": "Vertical 9:16 shot. Mesmerizing gravitational lensing shot of a black hole's event horizon, glowing with a razor-thin photon ring. The surrounding stars streak and blur rapidly in circular light trails, demonstrating the extreme warping of spacetime."
+  },
+  {
+    "topic": "Fast Radio Bursts (FRBs)",
+    "angle": "Three days of the Sun's total energy released in the blink of an eye",
+    "hook_idea": "In less than a millisecond, a Fast Radio Burst from deep space unleashes as much energy as our entire Sun generates in three full days.",
+    "veo_prompt": "Vertical 9:16 shot. Extreme-macro shot of a highly magnetized magnetar neutron star, its crust cracking. A razor-sharp, blinding cyan beam of electromagnetic radiation erupts from the magnetic pole, tearing across the dark fabric of space in an instant flash."
+  },
+  {
+    "topic": "Rogue Planets Wandering the Galaxy",
+    "angle": "Orphaned dark worlds roaming like lone sleeper trains with no tracks",
+    "hook_idea": "Billions of nomad planets with no sun to orbit are quietly wandering through our pitch-black galaxy, completely frozen in the dark.",
+    "veo_prompt": "Vertical 9:16 shot. Chilling cinematic glide past an abandoned, dark gas giant planet drifting through the interstellar void. Faint aurora ribbons of deep emerald and violet shimmer across its cloud tops, lit only by distant, razor-sharp starlight."
+  }
+]

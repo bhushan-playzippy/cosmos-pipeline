@@ -1,0 +1,13 @@
+# Same run times as autopilot/com.cosmicscale.clips.plist (IST).
+# Persistent=true runs a time missed while the VM was down once at boot (launchd's wake behaviour).
+[Unit]
+Description=Shorts pipeline schedule (clips)
+
+[Timer]
+OnCalendar=*-*-* 15:05:00 Asia/Kolkata
+OnCalendar=*-*-* 21:40:00 Asia/Kolkata
+Persistent=true
+Unit=cosmos-pipeline@clips.service
+
+[Install]
+WantedBy=timers.target

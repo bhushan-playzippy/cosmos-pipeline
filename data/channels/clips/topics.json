@@ -1,0 +1,211 @@
+[
+  {
+    "topic": "The 1937 Hindenburg disaster where the massive airship was painted with rocket fuel ingredients that accelerated the fire",
+    "pillar": "Disasters that hinged on one detail",
+    "series": "The Detail Nobody Remembers",
+    "role": "discovery",
+    "angle": "reveal how the outer skin's chemical composition turned the ship into a giant torch",
+    "hook_idea": "Why did the Hindenburg burn so violently in seconds?",
+    "viewer_benefit": "Discovers the little-known chemical catalyst behind one of history's most famous disasters",
+    "scores": {
+      "audience_relevance": 5,
+      "curiosity": 5,
+      "evidence_quality": 5,
+      "visual_feasibility": 5,
+      "series_potential": 4,
+      "familiarity": 5
+    },
+    "veo_prompt": "Vertical 9:16 high contrast black and white archive style shot of a massive metallic airship framework glowing against a dark stormy sky, cinematic historical tension, no text.",
+    "score": 54.0
+  },
+  {
+    "topic": "The 1865 assassination of Abraham Lincoln where his bodyguard left his post to get a drink at the Star Saloon next door",
+    "pillar": "Strange but true history",
+    "series": "The Detail Nobody Remembers",
+    "role": "discovery",
+    "angle": "highlight the single negligent choice that altered American history forever",
+    "hook_idea": "Where was Abraham Lincoln's bodyguard when the shot was fired?",
+    "viewer_benefit": "Discovers the astonishing human error that left the President completely undefended",
+    "scores": {
+      "audience_relevance": 5,
+      "curiosity": 5,
+      "evidence_quality": 5,
+      "visual_feasibility": 4,
+      "series_potential": 5,
+      "familiarity": 5
+    },
+    "veo_prompt": "Vertical 9:16 vintage nineteenth century gaslit wooden hallway, dark shadows, heavy velvet curtains, eerie historical atmosphere, cinematic documentary, no text.",
+    "score": 52.5
+  },
+  {
+    "topic": "The 1937 Amelia Earhart disappearance where her final radio transmissions revealed she was hopelessly lost searching for a tiny Pacific island",
+    "pillar": "Mysteries finally solved",
+    "series": "Unbelievably True",
+    "role": "discovery",
+    "angle": "focus on the desperate static-filled voices echoing across the ocean before the signal cut forever",
+    "hook_idea": "What did Amelia Earhart say in her final radio messages before vanishing?",
+    "viewer_benefit": "Examines the authenticated audio record behind aviation's greatest unsolved mystery",
+    "scores": {
+      "audience_relevance": 5,
+      "curiosity": 5,
+      "evidence_quality": 5,
+      "visual_feasibility": 4,
+      "series_potential": 5,
+      "familiarity": 5
+    },
+    "veo_prompt": "Vertical 9:16 vintage bakelite radio dial glowing softly in a dark room, audio frequency wave lines flickering on an oscilloscope screen, cinematic documentary, no text.",
+    "score": 52.5
+  },
+  {
+    "topic": "The 1906 San Francisco earthquake and the massive firestorm that burned the city because broken water mains left firefighters powerless",
+    "pillar": "Disasters that hinged on one detail",
+    "series": "The Detail Nobody Remembers",
+    "role": "discovery",
+    "angle": "contrast the initial tremor damage with the catastrophic secondary fires sparked across the ruined streets",
+    "hook_idea": "Why did fire destroy most of San Francisco after the 1906 earthquake?",
+    "viewer_benefit": "Understands how infrastructure failure turned a natural disaster into an urban inferno",
+    "scores": {
+      "audience_relevance": 5,
+      "curiosity": 4,
+      "evidence_quality": 5,
+      "visual_feasibility": 5,
+      "series_potential": 4,
+      "familiarity": 5
+    },
+    "veo_prompt": "Vertical 9:16 vintage sepia archive style photo of ruined brick building facades lining a hazy, smoky city street, cinematic historical documentary, no text.",
+    "score": 52.0
+  },
+  {
+    "topic": "The 1911 Mona Lisa theft from the Louvre where the thief kept the painting hidden inside his Paris apartment for two years",
+    "pillar": "Strange but true history",
+    "series": "Unbelievably True",
+    "role": "discovery",
+    "angle": "contrast the global police manhunt with the ordinary boarding house where the masterpiece rested under a bed",
+    "hook_idea": "Where was the Mona Lisa hidden during the two years it vanished?",
+    "viewer_benefit": "Learns the bizarre reality behind art history's most famous heist",
+    "scores": {
+      "audience_relevance": 5,
+      "curiosity": 5,
+      "evidence_quality": 5,
+      "visual_feasibility": 4,
+      "series_potential": 4,
+      "familiarity": 5
+    },
+    "veo_prompt": "Vertical 9:16 moody 1910s Parisian apartment interior, peeling wallpaper, sloped wooden ceiling beams, dim natural window light, cinematic historical documentary, no text.",
+    "score": 51.5
+  },
+  {
+    "topic": "The 1915 sinking of the RMS Lusitania where a mysterious second explosion tore through the ship after a single German torpedo hit",
+    "pillar": "Mysteries finally solved",
+    "series": "The Detail Nobody Remembers",
+    "role": "authority",
+    "angle": "explore the historical debate and physical evidence behind the catastrophic secondary blast",
+    "hook_idea": "Why did the Lusitania sink in just eighteen minutes?",
+    "viewer_benefit": "Learns the hidden cargo factor that turned a torpedo strike into an instant catastrophe",
+    "scores": {
+      "audience_relevance": 4,
+      "curiosity": 5,
+      "evidence_quality": 5,
+      "visual_feasibility": 4,
+      "series_potential": 4,
+      "familiarity": 4
+    },
+    "veo_prompt": "Vertical 9:16 dark sepia archive photo aesthetic of deep ocean water surface rippling under grey skies, ominous cinematic lighting, historical documentary style, no text.",
+    "score": 48.0
+  },
+  {
+    "topic": "The 1915 sinking of the SS Arabic where a passenger took a photograph of the torpedo seconds before impact",
+    "pillar": "Strange but true history",
+    "series": "Unbelievably True",
+    "role": "discovery",
+    "angle": "Compare capturing a torpedo on film to filming a lightning strike right before it hits",
+    "hook_idea": "How did a casual holiday snapshot capture the exact moment a German torpedo struck?",
+    "viewer_benefit": "Sees the rare historical photograph taken at the exact second of a torpedo attack.",
+    "scores": {
+      "audience_relevance": 4,
+      "curiosity": 5,
+      "evidence_quality": 5,
+      "visual_feasibility": 4,
+      "series_potential": 4,
+      "familiarity": 3
+    },
+    "veo_prompt": "A vintage sepia-toned photograph of a calm ocean liner wake suddenly ruptured by a white boiling foam trail, vertical 9:16, grainy archival look.",
+    "score": 46.0
+  },
+  {
+    "topic": "The 1953 eruption of Mount Spurr where volcanic ash completely grounded flights across Anchorage",
+    "pillar": "Disasters that hinged on one detail",
+    "series": "Unbelievably True",
+    "role": "discovery",
+    "angle": "Compare sudden volcanic darkness to day turning into midnight during a solar eclipse",
+    "hook_idea": "How did a sleeping Alaskan volcano turn midday into pitch black darkness in mere minutes?",
+    "viewer_benefit": "Explores the sudden atmospheric chaos caused by an unexpected volcanic blast.",
+    "scores": {
+      "audience_relevance": 4,
+      "curiosity": 4,
+      "evidence_quality": 5,
+      "visual_feasibility": 4,
+      "series_potential": 4,
+      "familiarity": 3
+    },
+    "veo_prompt": "A street in Alaska under a thick, swirling cloud of gray volcanic ash with car headlights glowing eerily in daylight, vertical 9:16, historical archive style.",
+    "score": 44.0
+  },
+  {
+    "topic": "The Clock that Beat the Tsar",
+    "pillar": "Strange but true history",
+    "series": "The Detail Nobody Remembers",
+    "role": "authority",
+    "angle": "Time as a weapon of revolution",
+    "hook_idea": "Why did a public clock stop right before the revolution?",
+    "viewer_benefit": "Sees how small details signal big changes",
+    "scores": {
+      "audience_relevance": 4,
+      "curiosity": 4,
+      "evidence_quality": 4,
+      "visual_feasibility": 5,
+      "series_potential": 3,
+      "familiarity": 3
+    },
+    "veo_prompt": "A large, ornate public clock tower in a European square, hands stopped at 4:00, crowds gathering below, snow falling, vertical 9:16, photorealistic, cold tones.",
+    "score": 43.5
+  },
+  {
+    "topic": "The 1961 Bay of Pigs invasion failure where the US planned a Cuban overthrow",
+    "pillar": "Forgotten heroes",
+    "series": "The Detail Nobody Remembers",
+    "role": "authority",
+    "angle": "The intelligence miscalculation that led to a rapid and embarrassing defeat.",
+    "hook_idea": "Why did the US fail to overthrow Cuba in just three days?",
+    "viewer_benefit": "Understanding the political and military errors of the Cold War.",
+    "scores": {
+      "audience_relevance": 3,
+      "curiosity": 3,
+      "evidence_quality": 5,
+      "visual_feasibility": 4,
+      "series_potential": 2,
+      "familiarity": 4
+    },
+    "veo_prompt": "Vertical 9:16 cinematic shot of a tropical beach at dawn, abandoned landing craft in the sand, bullet holes in a wooden shack, humid atmosphere, no people, photorealistic.",
+    "score": 40.5
+  },
+  {
+    "topic": "The 1970 USS Scorpion submarine disappearance in the Atlantic",
+    "pillar": "Mysteries finally solved",
+    "series": "The Detail Nobody Remembers",
+    "role": "authority",
+    "angle": "The 5,500-foot deep discovery that revealed the cause of the crash.",
+    "hook_idea": "What sank a nuclear submarine to the deepest ocean trench?",
+    "viewer_benefit": "Learning how modern sonar technology solved a cold case.",
+    "scores": {
+      "audience_relevance": 3,
+      "curiosity": 4,
+      "evidence_quality": 5,
+      "visual_feasibility": 3,
+      "series_potential": 3,
+      "familiarity": 3
+    },
+    "veo_prompt": "Vertical 9:16 cinematic shot of the deep ocean floor, dark water filtering down, scattered debris of a submarine hull resting on the sediment, murky greenish-black water, no people, photorealistic.",
+    "score": 39.0
+  }
+]
