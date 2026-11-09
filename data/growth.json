@@ -1,165 +1,211 @@
 {
-  "date": "2026-11-08",
-  "videos": 19,
-  "median_views_per_day": 30.2,
+  "date": "2026-11-10",
+  "videos": 24,
+  "median_views_per_day": 26.5,
   "min_sample": 5,
   "groups": {
     "slot": {
       "18:00": {
         "n": 2,
-        "median_vpd": 59.7,
+        "median_vpd": 52.6,
         "conclusive": false
       },
       "15:00": {
         "n": 4,
-        "median_vpd": 29.6,
+        "median_vpd": 25.5,
         "conclusive": false
       },
       "09:00": {
         "n": 5,
-        "median_vpd": 28.1,
+        "median_vpd": 24.1,
         "conclusive": true
       },
       "20:00": {
         "n": 2,
-        "median_vpd": 66.0,
+        "median_vpd": 56.9,
         "conclusive": false
       },
       "23:30": {
-        "n": 3,
-        "median_vpd": 433.3,
-        "conclusive": false
+        "n": 5,
+        "median_vpd": 60.0,
+        "conclusive": true
       },
       "05:30": {
-        "n": 3,
-        "median_vpd": 22.1,
+        "n": 4,
+        "median_vpd": 25.5,
+        "conclusive": false
+      },
+      "?": {
+        "n": 2,
+        "median_vpd": 111.5,
         "conclusive": false
       }
     },
     "type": {
       "?": {
-        "n": 8,
-        "median_vpd": 39.6,
+        "n": 13,
+        "median_vpd": 35.2,
         "conclusive": true
       },
       "discovery": {
         "n": 6,
-        "median_vpd": 25.1,
+        "median_vpd": 21.3,
         "conclusive": true
       },
       "retention": {
         "n": 4,
-        "median_vpd": 27.5,
+        "median_vpd": 23.3,
         "conclusive": false
       },
       "authority": {
         "n": 1,
-        "median_vpd": 33.4,
+        "median_vpd": 28.6,
         "conclusive": false
       }
     },
     "creator": {}
   },
   "type_boost": {
-    "discovery": 0.91
+    "discovery": 0.89
   },
   "recommendations": [
-    "hooks with big number hook earn 0.8× vs 1.04× without (n=5/14): the topic picker applies it."
+    "Slot 09:00 earns 24.1 views/day vs 60.0 at 23:30: try moving 09:00 to an hour near 23:30 (edit schedule.slots), then re-check in 2 weeks."
   ],
   "feature_boost": {
     "question_hook": {
-      "with": 0.99,
+      "with": 1.0,
       "without": 1.0,
-      "n_with": 7,
-      "n_without": 12,
-      "conclusive": true
+      "n_with": 0,
+      "n_without": 0,
+      "conclusive": false
     },
     "number_hook": {
-      "with": 0.9,
+      "with": 1.0,
       "without": 1.0,
-      "n_with": 8,
-      "n_without": 11,
-      "conclusive": true
+      "n_with": 0,
+      "n_without": 0,
+      "conclusive": false
     },
     "big_number_hook": {
-      "with": 0.8,
-      "without": 1.04,
-      "n_with": 5,
-      "n_without": 14,
-      "conclusive": true
+      "with": 1.0,
+      "without": 1.0,
+      "n_with": 0,
+      "n_without": 0,
+      "conclusive": false
     },
     "long_hook": {
-      "with": 1.08,
-      "without": 0.99,
-      "n_with": 8,
-      "n_without": 11,
-      "conclusive": true
+      "with": 1.0,
+      "without": 1.0,
+      "n_with": 0,
+      "n_without": 0,
+      "conclusive": false
     }
   },
   "feature_boost_retention": {
     "question_hook": {
-      "with": 1.01,
-      "without": 0.99,
-      "n_with": 7,
-      "n_without": 10,
-      "conclusive": true
+      "with": 1.0,
+      "without": 1.0,
+      "n_with": 0,
+      "n_without": 0,
+      "conclusive": false
     },
     "number_hook": {
-      "with": 1.03,
-      "without": 0.96,
-      "n_with": 7,
-      "n_without": 10,
-      "conclusive": true
+      "with": 1.0,
+      "without": 1.0,
+      "n_with": 0,
+      "n_without": 0,
+      "conclusive": false
     },
     "big_number_hook": {
-      "with": 1.03,
-      "without": 0.96,
-      "n_with": 5,
-      "n_without": 12,
-      "conclusive": true
+      "with": 1.0,
+      "without": 1.0,
+      "n_with": 0,
+      "n_without": 0,
+      "conclusive": false
     },
     "long_hook": {
-      "with": 0.97,
-      "without": 1.01,
-      "n_with": 6,
-      "n_without": 11,
-      "conclusive": true
+      "with": 1.0,
+      "without": 1.0,
+      "n_with": 0,
+      "n_without": 0,
+      "conclusive": false
     }
   },
   "feature_boost_subs": {
     "question_hook": {
       "with": 1.0,
       "without": 1.0,
-      "n_with": 6,
-      "n_without": 9,
+      "n_with": 0,
+      "n_without": 0,
       "conclusive": false
     },
     "number_hook": {
       "with": 1.0,
       "without": 1.0,
-      "n_with": 5,
-      "n_without": 10,
+      "n_with": 0,
+      "n_without": 0,
       "conclusive": false
     },
     "big_number_hook": {
       "with": 1.0,
       "without": 1.0,
-      "n_with": 3,
-      "n_without": 12,
+      "n_with": 0,
+      "n_without": 0,
       "conclusive": false
     },
     "long_hook": {
       "with": 1.0,
       "without": 1.0,
-      "n_with": 5,
-      "n_without": 10,
+      "n_with": 0,
+      "n_without": 0,
       "conclusive": false
     }
   },
   "metric_samples": {
-    "views": 19,
-    "retention": 17,
-    "subscribers": 15
+    "views": 0,
+    "retention": 0,
+    "subscribers": 0
   },
-  "playbook": []
+  "playbook": [
+    {
+      "action": "test",
+      "what": "a question as the hook",
+      "evidence": "not enough videos on each side (need 5)",
+      "n": [
+        0,
+        0
+      ],
+      "confidence": "insufficient"
+    },
+    {
+      "action": "test",
+      "what": "a number in the hook",
+      "evidence": "not enough videos on each side (need 5)",
+      "n": [
+        0,
+        0
+      ],
+      "confidence": "insufficient"
+    },
+    {
+      "action": "test",
+      "what": "a big abstract number in the hook",
+      "evidence": "not enough videos on each side (need 5)",
+      "n": [
+        0,
+        0
+      ],
+      "confidence": "insufficient"
+    },
+    {
+      "action": "test",
+      "what": "a hook over 12 words",
+      "evidence": "not enough videos on each side (need 5)",
+      "n": [
+        0,
+        0
+      ],
+      "confidence": "insufficient"
+    }
+  ]
 }

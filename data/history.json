@@ -3489,7 +3489,7 @@
   {
     "folder": "2026-11-07_075625_five-nasa-mars-rovers",
     "topic": "Five NASA Mars rovers",
-    "status": "scheduled",
+    "status": "published",
     "stage": "script",
     "role": null,
     "slot": "2026-11-08T23:30:00+05:30",
@@ -3502,7 +3502,8 @@
       "render": "2026-11-07T08:02:16+05:30",
       "gates": "2026-11-07T08:02:54+05:30",
       "upload_started": "2026-11-07T08:06:16+05:30",
-      "upload": "2026-11-07T08:06:23+05:30"
+      "upload": "2026-11-07T08:06:23+05:30",
+      "published": "2026-11-10T00:43:40+05:30"
     },
     "youtube_id": "sKZqA3DVjbk",
     "instagram_id": null,
@@ -3518,7 +3519,7 @@
       "publish_at": "2026-11-08T18:00:00Z"
     },
     "alert": null,
-    "privacy": "private"
+    "privacy": "public"
   },
   {
     "folder": "2026-11-07_080646_six-space-shuttle-orbiters",
@@ -4257,7 +4258,7 @@
   {
     "folder": "2026-11-08_000336_messengers-mission-to-mercury",
     "topic": "MESSENGER's mission to Mercury",
-    "status": "scheduled",
+    "status": "published",
     "stage": "script",
     "role": null,
     "slot": "2026-11-09T05:30:00+05:30",
@@ -4270,7 +4271,8 @@
       "render": "2026-11-08T00:27:39+05:30",
       "gates": "2026-11-08T00:29:36+05:30",
       "upload_started": "2026-11-08T00:30:37+05:30",
-      "upload": "2026-11-08T00:30:44+05:30"
+      "upload": "2026-11-08T00:30:44+05:30",
+      "published": "2026-11-10T00:43:40+05:30"
     },
     "youtube_id": "j6rEvff3MFs",
     "instagram_id": null,
@@ -4286,7 +4288,7 @@
       "publish_at": "2026-11-09T00:00:00Z"
     },
     "alert": null,
-    "privacy": "private"
+    "privacy": "public"
   },
   {
     "folder": "2026-11-08_003105_magellan-reveals-the-surface-of-venus-with-radar",
@@ -4399,7 +4401,7 @@
   {
     "folder": "2026-11-08_013905_magellan-reveals-the-surface-of-venus-with-radar",
     "topic": "Magellan reveals the surface of Venus with radar",
-    "status": "scheduled",
+    "status": "published",
     "stage": "script",
     "role": null,
     "slot": "2026-11-09T23:30:00+05:30",
@@ -4412,7 +4414,8 @@
       "render": "2026-11-08T01:43:26+05:30",
       "gates": "2026-11-08T01:44:19+05:30",
       "upload_started": "2026-11-08T01:46:16+05:30",
-      "upload": "2026-11-08T01:46:22+05:30"
+      "upload": "2026-11-08T01:46:22+05:30",
+      "published": "2026-11-10T00:43:40+05:30"
     },
     "youtube_id": "SdiwesW79dM",
     "instagram_id": null,
@@ -4428,7 +4431,7 @@
       "publish_at": "2026-11-09T18:00:00Z"
     },
     "alert": null,
-    "privacy": "private"
+    "privacy": "public"
   },
   {
     "folder": "2026-11-08_014645_galileo-follows-voyagers-discovery-of-active-volca",
@@ -4944,14 +4947,17 @@
   {
     "folder": "docstudio_sgra-doc2",
     "topic": "The Black Hole Hiding at the Centre of Our Galaxy | Sagittarius A*",
-    "status": "scheduled",
+    "status": "published",
     "stage": "upload",
     "role": null,
     "slot": "2026-11-08T20:00:00+05:30",
     "created": "2026-11-08T15:34:11+05:30",
     "youtube_id": "ia7VRZZGXlg",
     "reason": "docstudio animated documentary upload",
-    "privacy": "private"
+    "privacy": "public",
+    "stages": {
+      "published": "2026-11-10T00:43:40+05:30"
+    }
   },
   {
     "folder": "2026-11-08_153600_chandrayaan2s-vikram-lander-carried-a-battery-the-",
@@ -5113,13 +5119,17 @@
   {
     "folder": "docstudio_sgra-v2-s1",
     "topic": "Our Galaxy's Black Hole Weighs 4 Million Suns #Shorts",
-    "status": "scheduled",
+    "status": "published",
     "stage": "upload",
     "role": null,
     "slot": "2026-11-09T18:00:00+05:30",
     "created": "2026-11-08T17:44:05+05:30",
     "youtube_id": "eHJKCGcEX9Y",
-    "reason": "docstudio animated documentary upload"
+    "reason": "docstudio animated documentary upload",
+    "privacy": "public",
+    "stages": {
+      "published": "2026-11-10T00:43:40+05:30"
+    }
   },
   {
     "folder": "docstudio_sgra-v2-s2",
@@ -5130,7 +5140,8 @@
     "slot": "2026-11-10T18:00:00+05:30",
     "created": "2026-11-08T17:44:17+05:30",
     "youtube_id": "l0mWddywXfo",
-    "reason": "docstudio animated documentary upload"
+    "reason": "docstudio animated documentary upload",
+    "privacy": "private"
   },
   {
     "folder": "docstudio_sgra-v2-s3",
@@ -5141,7 +5152,8 @@
     "slot": "2026-11-11T18:00:00+05:30",
     "created": "2026-11-08T17:44:26+05:30",
     "youtube_id": "8imb1TMqFP0",
-    "reason": "docstudio animated documentary upload"
+    "reason": "docstudio animated documentary upload",
+    "privacy": "private"
   },
   {
     "folder": "2026-11-08_175038_iss-speed-vs-bullet",
@@ -5187,7 +5199,8 @@
     "slot": "2026-11-14T20:00:00+05:30",
     "created": "2026-11-08T18:41:50+05:30",
     "youtube_id": "QuhOCyVjWK4",
-    "reason": "docstudio animated documentary upload"
+    "reason": "docstudio animated documentary upload",
+    "privacy": "private"
   },
   {
     "folder": "docstudio_fall-s1",
@@ -5198,7 +5211,8 @@
     "slot": "2026-11-13T18:00:00+05:30",
     "created": "2026-11-08T18:42:58+05:30",
     "youtube_id": "4Z-AHpyW7aQ",
-    "reason": "docstudio animated documentary upload"
+    "reason": "docstudio animated documentary upload",
+    "privacy": "private"
   },
   {
     "folder": "docstudio_fall-s2",
@@ -5209,7 +5223,8 @@
     "slot": "2026-11-15T18:00:00+05:30",
     "created": "2026-11-08T18:43:50+05:30",
     "youtube_id": "DhICPRFDvN8",
-    "reason": "docstudio animated documentary upload"
+    "reason": "docstudio animated documentary upload",
+    "privacy": "private"
   },
   {
     "folder": "docstudio_fall-s3",
@@ -5220,7 +5235,8 @@
     "slot": "2026-11-13T23:30:00+05:30",
     "created": "2026-11-08T18:44:32+05:30",
     "youtube_id": "lqN_0tRlAmU",
-    "reason": "docstudio animated documentary upload"
+    "reason": "docstudio animated documentary upload",
+    "privacy": "private"
   },
   {
     "folder": "docstudio_fall-s4",
@@ -5231,7 +5247,8 @@
     "slot": "2026-11-14T18:00:00+05:30",
     "created": "2026-11-08T18:45:20+05:30",
     "youtube_id": "qZYZONoeGSI",
-    "reason": "docstudio animated documentary upload"
+    "reason": "docstudio animated documentary upload",
+    "privacy": "private"
   },
   {
     "folder": "docstudio_fall-sc-singularity",
@@ -5242,7 +5259,8 @@
     "slot": "2026-11-12T18:00:00+05:30",
     "created": "2026-11-08T18:45:47+05:30",
     "youtube_id": "OLRpDQ1ndlY",
-    "reason": "docstudio animated documentary upload"
+    "reason": "docstudio animated documentary upload",
+    "privacy": "private"
   },
   {
     "folder": "docstudio_fall-s5",
@@ -5253,7 +5271,8 @@
     "slot": "2026-11-15T20:00:00+05:30",
     "created": "2026-11-08T18:46:03+05:30",
     "youtube_id": "fnWcm7RE6Aw",
-    "reason": "docstudio animated documentary upload"
+    "reason": "docstudio animated documentary upload",
+    "privacy": "private"
   },
   {
     "folder": "docstudio_sgra-sc-orbits",
@@ -5264,7 +5283,8 @@
     "slot": "2026-11-12T23:30:00+05:30",
     "created": "2026-11-08T18:46:32+05:30",
     "youtube_id": "H13Sb-Rg88w",
-    "reason": "docstudio animated documentary upload"
+    "reason": "docstudio animated documentary upload",
+    "privacy": "private"
   },
   {
     "folder": "docstudio_sgra-sc-scale",
@@ -5275,7 +5295,8 @@
     "slot": "2026-11-13T20:00:00+05:30",
     "created": "2026-11-08T18:47:39+05:30",
     "youtube_id": "DnZWvSa01RA",
-    "reason": "docstudio animated documentary upload"
+    "reason": "docstudio animated documentary upload",
+    "privacy": "private"
   },
   {
     "folder": "docstudio_fall-sc-horizon",
@@ -5286,7 +5307,8 @@
     "slot": "2026-11-14T23:30:00+05:30",
     "created": "2026-11-08T18:51:03+05:30",
     "youtube_id": "o0b6oY17q1Q",
-    "reason": "docstudio animated documentary upload"
+    "reason": "docstudio animated documentary upload",
+    "privacy": "private"
   },
   {
     "folder": "docstudio_fall-sc-photon",
@@ -5297,6 +5319,324 @@
     "slot": "2026-11-15T23:30:00+05:30",
     "created": "2026-11-08T18:52:56+05:30",
     "youtube_id": "XGOeTe2m4S4",
-    "reason": "docstudio animated documentary upload"
+    "reason": "docstudio animated documentary upload",
+    "privacy": "private"
+  },
+  {
+    "folder": "2026-11-10_014223_sagittarius-a-size",
+    "topic": "Sagittarius A* Size",
+    "status": "quarantined",
+    "stage": "script",
+    "role": "authority",
+    "slot": "2026-11-12T23:30:00+05:30",
+    "pillar": "Stars & black holes",
+    "selection": {
+      "role": "authority",
+      "base_score": 28.5,
+      "multiplier": 0.98,
+      "parts": {
+        "pillar_role": 1.0,
+        "question_hook": 1.0,
+        "number_hook": 0.98,
+        "big_number_hook": 1.0,
+        "long_hook": 1.0
+      },
+      "final": 27.93,
+      "runner_up": []
+    },
+    "visual_precheck": null,
+    "created": "2026-11-10T01:42:23+05:30",
+    "stages": {
+      "script": "2026-11-10T01:42:23+05:30",
+      "render": "2026-11-10T01:44:10+05:30",
+      "gates": "2026-11-10T01:47:03+05:30"
+    },
+    "youtube_id": null,
+    "instagram_id": null,
+    "reason": "AI reviewer: visual grounding failed: scene 2: MISMATCH (generic stock footage (pixabay: 'star orbit')). Accurate narration undermine",
+    "stage_failed": null,
+    "title": "Sagittarius A* Fits Inside a Day of Light",
+    "music": "orbit-em.m4a"
+  },
+  {
+    "folder": "2026-11-10_014703_a-single-grain-of-sand-from-titans-dunes-would-wei",
+    "topic": "A single grain of sand from Titan’s dunes would weigh about 1.5 g, similar to a paperclip",
+    "status": "failed",
+    "stage": "script",
+    "role": "authority",
+    "slot": "2026-11-12T23:30:00+05:30",
+    "pillar": "Planets & moons",
+    "selection": {
+      "role": "authority",
+      "base_score": 40.5,
+      "multiplier": 0.872,
+      "parts": {
+        "pillar_role": 0.89,
+        "question_hook": 1.0,
+        "number_hook": 0.98,
+        "big_number_hook": 1.0,
+        "long_hook": 1.0
+      },
+      "final": 35.32,
+      "runner_up": [
+        {
+          "topic": "A single cubic meter of Venus’ surface atmosphere would weig",
+          "final": 34.01
+        },
+        {
+          "topic": "Voyager's Cruise",
+          "final": 27.93
+        }
+      ]
+    },
+    "visual_precheck": null,
+    "created": "2026-11-10T01:47:03+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "stage_failed": "verify",
+    "reason": "ValueError: independent check still failing after repair: Titan sand dunes rise about 100 meters tall. (narrated 100 vs independent 150 m); Individual dunes stretch over 150 km long. (narrated 150 vs independent 200 km); Titan Dunes Rival Empire State (misleading)"
+  },
+  {
+    "folder": "2026-11-10_022238_a-single-cubic-meter-of-venus-surface-atmosphere-w",
+    "topic": "A single cubic meter of Venus’ surface atmosphere would weigh about 65 kg, like a heavy sack of potatoes",
+    "status": "failed",
+    "stage": "script",
+    "role": "authority",
+    "slot": "2026-11-12T23:30:00+05:30",
+    "pillar": "Famous objects, one impossible fact",
+    "selection": {
+      "role": "authority",
+      "base_score": 39.0,
+      "multiplier": 0.872,
+      "parts": {
+        "pillar_role": 0.89,
+        "question_hook": 1.0,
+        "number_hook": 0.98,
+        "big_number_hook": 1.0,
+        "long_hook": 1.0
+      },
+      "final": 34.01,
+      "runner_up": [
+        {
+          "topic": "Voyager's Cruise",
+          "final": 27.93
+        },
+        {
+          "topic": "Hubble's Discovery",
+          "final": 27.93
+        }
+      ]
+    },
+    "visual_precheck": null,
+    "created": "2026-11-10T02:22:38+05:30",
+    "stages": {
+      "script": "2026-11-10T02:41:30+05:30"
+    },
+    "youtube_id": null,
+    "instagram_id": null,
+    "stage_failed": "voice",
+    "reason": "RuntimeError: Edge TTS failed 3 times",
+    "resumable": true
+  },
+  {
+    "folder": "2026-11-10_024223_a-single-cubic-meter-of-venus-surface-atmosphere-w",
+    "topic": "A single cubic meter of Venus’ surface atmosphere would weigh about 65 kg, like a heavy sack of potatoes",
+    "status": "failed",
+    "stage": "script",
+    "role": "authority",
+    "slot": "2026-11-12T23:30:00+05:30",
+    "pillar": "Famous objects, one impossible fact",
+    "selection": {
+      "role": "authority",
+      "base_score": 39.0,
+      "multiplier": 0.872,
+      "parts": {
+        "pillar_role": 0.89,
+        "question_hook": 1.0,
+        "number_hook": 0.98,
+        "big_number_hook": 1.0,
+        "long_hook": 1.0
+      },
+      "final": 34.01,
+      "runner_up": [
+        {
+          "topic": "Voyager's Cruise",
+          "final": 27.93
+        },
+        {
+          "topic": "Hubble's Discovery",
+          "final": 27.93
+        }
+      ]
+    },
+    "visual_precheck": null,
+    "created": "2026-11-10T02:42:23+05:30",
+    "stages": {
+      "script": "2026-11-10T02:42:23+05:30"
+    },
+    "youtube_id": null,
+    "instagram_id": null,
+    "stage_failed": "voice",
+    "reason": "RuntimeError: Edge TTS failed 3 times",
+    "resumable": true
+  },
+  {
+    "folder": "2026-11-10_024244_a-single-cubic-meter-of-venus-surface-atmosphere-w",
+    "topic": "A single cubic meter of Venus’ surface atmosphere would weigh about 65 kg, like a heavy sack of potatoes",
+    "status": "failed",
+    "stage": "script",
+    "role": "authority",
+    "slot": "2026-11-12T23:30:00+05:30",
+    "pillar": "Famous objects, one impossible fact",
+    "selection": {
+      "role": "authority",
+      "base_score": 39.0,
+      "multiplier": 0.872,
+      "parts": {
+        "pillar_role": 0.89,
+        "question_hook": 1.0,
+        "number_hook": 0.98,
+        "big_number_hook": 1.0,
+        "long_hook": 1.0
+      },
+      "final": 34.01,
+      "runner_up": [
+        {
+          "topic": "Voyager's Cruise",
+          "final": 27.93
+        },
+        {
+          "topic": "Hubble's Discovery",
+          "final": 27.93
+        }
+      ]
+    },
+    "visual_precheck": null,
+    "created": "2026-11-10T02:42:44+05:30",
+    "stages": {
+      "script": "2026-11-10T02:42:44+05:30"
+    },
+    "youtube_id": null,
+    "instagram_id": null,
+    "stage_failed": "voice",
+    "reason": "RuntimeError: Edge TTS failed 3 times"
+  },
+  {
+    "folder": "2026-11-10_024313_voyagers-cruise",
+    "topic": "Voyager's Cruise",
+    "status": "failed",
+    "stage": "script",
+    "role": "authority",
+    "slot": "2026-11-12T23:30:00+05:30",
+    "pillar": "Missions in danger (Apollo, ISS, Voyager, Artemis)",
+    "selection": {
+      "role": "authority",
+      "base_score": 28.5,
+      "multiplier": 0.98,
+      "parts": {
+        "pillar_role": 1.0,
+        "question_hook": 1.0,
+        "number_hook": 0.98,
+        "big_number_hook": 1.0,
+        "long_hook": 1.0
+      },
+      "final": 27.93,
+      "runner_up": [
+        {
+          "topic": "Hubble's Discovery",
+          "final": 27.93
+        },
+        {
+          "topic": "Apollo 13 Powered by a Shoebox",
+          "final": 27.36
+        }
+      ]
+    },
+    "visual_precheck": null,
+    "created": "2026-11-10T02:43:13+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "stage_failed": "verify",
+    "reason": "ValueError: independent check still failing after repair: 0.311 km in: Voyager of the Seas 0.311 km; Football field 0. (number not checked (no ledger entry states it)); 0.11 km in: Voyager of the Seas 0.311 km; Football field 0.1 (number not checked (no ledger entry states it)); 0.443 km in: Voyager"
+  },
+  {
+    "folder": "2026-11-10_030207_hubbles-discovery",
+    "topic": "Hubble's Discovery",
+    "status": "failed",
+    "stage": "script",
+    "role": "authority",
+    "slot": "2026-11-12T23:30:00+05:30",
+    "pillar": "Missions in danger (Apollo, ISS, Voyager, Artemis)",
+    "selection": {
+      "role": "authority",
+      "base_score": 28.5,
+      "multiplier": 0.98,
+      "parts": {
+        "pillar_role": 1.0,
+        "question_hook": 1.0,
+        "number_hook": 0.98,
+        "big_number_hook": 1.0,
+        "long_hook": 1.0
+      },
+      "final": 27.93,
+      "runner_up": [
+        {
+          "topic": "Apollo 13 Powered by a Shoebox",
+          "final": 27.36
+        },
+        {
+          "topic": "Venus Raines Acid",
+          "final": 24.85
+        }
+      ]
+    },
+    "visual_precheck": null,
+    "created": "2026-11-10T03:02:07+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "stage_failed": "verify",
+    "reason": "ValueError: independent check still failing after repair: The telescope confirmed the discovery that galaxies recede,  (misleading); It confirmed the 1929 discovery that galaxies recede, provin (misleading); About eight feet wide (contradicted by https://en.wikipedia.org/wiki/Hubble_Space_Telescope:"
+  },
+  {
+    "folder": "2026-11-10_032619_apollo-13-powered-by-a-shoebox",
+    "topic": "Apollo 13 Powered by a Shoebox",
+    "status": "failed",
+    "stage": "script",
+    "role": "authority",
+    "slot": "2026-11-12T23:30:00+05:30",
+    "pillar": "Missions in danger (Apollo, ISS, Voyager, Artemis)",
+    "selection": {
+      "role": "authority",
+      "base_score": 28.5,
+      "multiplier": 0.96,
+      "parts": {
+        "pillar_role": 1.0,
+        "question_hook": 1.0,
+        "number_hook": 0.96,
+        "big_number_hook": 1.0,
+        "long_hook": 1.0
+      },
+      "final": 27.36,
+      "runner_up": [
+        {
+          "topic": "Venus Raines Acid",
+          "final": 24.85
+        },
+        {
+          "topic": "Jupiter Swallows 1,000 Earths",
+          "final": 24.85
+        }
+      ]
+    },
+    "visual_precheck": null,
+    "created": "2026-11-10T03:26:19+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "stage_failed": "verify",
+    "reason": "ValueError: independent check still failing after repair: Peregrine Mission One launched January 8, 2024 (wrong); first flight of the Vulcan Centaur rocket (wrong); first U.S. commercial lunar lander to attempt a Moon landing (superlative with no document stating it (only indirect); a model's word i"
   }
 ]

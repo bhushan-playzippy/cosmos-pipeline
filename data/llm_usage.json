@@ -1,64 +1,59 @@
 {
-  "2026-11-08": {
+  "2026-11-09": {
     "gemini-flash-latest": {
-      "calls": 4,
-      "failed": 4,
+      "calls": 1,
+      "failed": 1,
       "tokens": 0
     },
     "gemini-3.8-flash": {
-      "calls": 8,
-      "failed": 4,
-      "tokens": 25384
-    },
-    "gemini-flash-lite-latest": {
-      "calls": 28,
-      "failed": 0,
-      "tokens": 117101
-    },
-    "nvidia-meta:meta/muse-glimmer-30b": {
-      "calls": 29,
-      "failed": 0,
-      "tokens": 244976
+      "calls": 1,
+      "failed": 1,
+      "tokens": 0
     },
     "gemini-3.6-flash": {
-      "calls": 22,
-      "failed": 2,
-      "tokens": 145061
+      "calls": 1,
+      "failed": 1,
+      "tokens": 0
     },
     "gemini-3.5-flash": {
-      "calls": 4,
-      "failed": 2,
-      "tokens": 10627
-    },
-    "nvidia:mistralai/mistral-large-4-1t-a52b": {
-      "calls": 7,
-      "failed": 0,
+      "calls": 1,
+      "failed": 1,
       "tokens": 0
     },
-    "ollama:qwen3.5:9b": {
-      "calls": 13,
+    "nvidia-meta:meta/muse-glimmer-30b": {
+      "calls": 20,
       "failed": 0,
-      "tokens": 11649
-    },
-    "nvidia-2:mistralai/mistral-large-4-1t-a52b": {
-      "calls": 2,
-      "failed": 0,
-      "tokens": 0
+      "tokens": 150460
     },
     "groq:openai/gpt-oss-120b": {
-      "calls": 21,
-      "failed": 5,
-      "tokens": 61468
+      "calls": 23,
+      "failed": 7,
+      "tokens": 77012
     },
-    "openrouter-text:nvidia/nemotron-3-ultra-550b-a55b:free": {
-      "calls": 7,
+    "nvidia-vision:nvidia/nemotron-3.5-super-vl-120b-a12b": {
+      "calls": 6,
       "failed": 0,
-      "tokens": 65656
+      "tokens": 57773
+    },
+    "openrouter:nvidia/nemotron-3.5-super-vl:free": {
+      "calls": 2,
+      "failed": 0,
+      "tokens": 15740
     },
     "groq:qwen/qwen3.8-27b": {
+      "calls": 2,
+      "failed": 1,
+      "tokens": 495
+    },
+    "nvidia-deepseek:deepseek-ai/deepseek-v4.1-flash": {
+      "calls": 7,
+      "failed": 0,
+      "tokens": 26282
+    },
+    "openrouter-text:nvidia/nemotron-3-ultra-550b-a55b:free": {
       "calls": 1,
       "failed": 0,
-      "tokens": 6314
+      "tokens": 5459
     }
   }
 }

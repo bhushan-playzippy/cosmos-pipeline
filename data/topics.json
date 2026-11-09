@@ -1,54 +1,5 @@
 [
   {
-    "topic": "A single grain of sand from Titan’s dunes would weigh about 1.5 g, similar to a paperclip",
-    "pillar": "Planets & moons",
-    "series": "How Big Is It?",
-    "role": "discovery",
-    "angle": "Titan sand grain compared to a paperclip",
-    "hook_idea": "?How heavy is a grain of sand on Titan?",
-    "viewer_benefit": "Feel the low gravity and dense atmosphere of Saturn’s moon",
-    "scores": {
-      "audience_relevance": 4,
-      "curiosity": 5,
-      "evidence_quality": 5,
-      "visual_feasibility": 4,
-      "series_potential": 3,
-      "familiarity": 4
-    },
-    "veo_prompt": "Close‑up of a single sand grain floating in Titan’s orange haze, a paperclip beside it for scale",
-    "score": 40.5
-  },
-  {
-    "topic": "A single cubic meter of Venus’ surface atmosphere would weigh about 65 kg, like a heavy sack of potatoes",
-    "pillar": "Famous objects, one impossible fact",
-    "series": "How Big Is It?",
-    "role": "discovery",
-    "angle": "dense atmosphere compared to everyday sack of potatoes",
-    "hook_idea": "?What does a cubic meter of Venus air feel like on Earth?",
-    "viewer_benefit": "Feel the crushing pressure of a runaway greenhouse",
-    "scores": {
-      "audience_relevance": 4,
-      "curiosity": 4,
-      "evidence_quality": 5,
-      "visual_feasibility": 4,
-      "series_potential": 3,
-      "familiarity": 4
-    },
-    "veo_prompt": "A transparent cube filled with swirling orange gas, sitting next to a sack of potatoes on a table",
-    "score": 39.0
-  },
-  {
-    "topic": "Apollo 13 Powered by a Shoebox",
-    "pillar": "Missions in danger (Apollo, ISS, Voyager, Artemis)",
-    "series": "Mission Files",
-    "role": "retention",
-    "angle": "The lunar module's descent engine controller was the size and weight of a typewriter, yet it guided the damaged ship home.",
-    "hook_idea": "Why did a shoebox computer save three lives?",
-    "viewer_benefit": "Understands the fragility of Apollo tech vs modern reliability.",
-    "veo_prompt": "A dusty 1970s NASA mission control room, close-up on a beige control panel with large buttons and a small screen, cinematic lighting, vertical 9:16.",
-    "score": 28.5
-  },
-  {
     "topic": "Venus Raines Acid",
     "pillar": "Planets & moons",
     "series": "",
@@ -93,39 +44,6 @@
     "score": 28.5
   },
   {
-    "topic": "Sagittarius A* Size",
-    "pillar": "Stars & black holes",
-    "series": "Scale Explained",
-    "role": "authority",
-    "angle": "The black hole at our galaxy's center is 4 million times the mass of the Sun.",
-    "hook_idea": "How big is the hole in our galaxy?",
-    "viewer_benefit": "Places the galactic center in perspective relative to our Sun.",
-    "veo_prompt": "A massive, glowing accretion disk swirling around a central black sphere, with a small yellow star (Sun) shown for scale, vertical 9:16.",
-    "score": 28.5
-  },
-  {
-    "topic": "Voyager's Cruise",
-    "pillar": "Missions in danger (Apollo, ISS, Voyager, Artemis)",
-    "series": "Mission Files",
-    "role": "retention",
-    "angle": "Voyager 1 has been sending data from interstellar space for over 45 years, powered by radioactive fuel.",
-    "hook_idea": "Is this probe still alive in deep space?",
-    "viewer_benefit": "Feels the longevity and endurance of early space exploration.",
-    "veo_prompt": "A golden record and dish antenna in the foreground, a vast, dark starfield with no planets in the background, vertical 9:16.",
-    "score": 28.5
-  },
-  {
-    "topic": "Hubble's Discovery",
-    "pillar": "Missions in danger (Apollo, ISS, Voyager, Artemis)",
-    "series": "",
-    "role": "retention",
-    "angle": "Hubble revealed that the universe is expanding faster than expected, changing our view of time.",
-    "hook_idea": "Did a telescope break cosmology?",
-    "viewer_benefit": "Connects a tool to a fundamental shift in scientific understanding.",
-    "veo_prompt": "A long, white cylindrical telescope in orbit, with a faint, distorted galaxy in the background, vertical 9:16.",
-    "score": 28.5
-  },
-  {
     "topic": "Solar Flare Power",
     "pillar": "Stars & black holes",
     "series": "",
@@ -135,12 +53,6 @@
     "viewer_benefit": "Grasps the danger of space weather to technology.",
     "veo_prompt": "A massive loop of orange plasma erupting from the surface of a star, bright white core, vertical 9:16.",
     "score": 28.5
-  },
-  {
-    "topic": "Time Dilation Near a Black Hole",
-    "angle": "Eating one plate of biryani near the horizon while 50 years pass on Earth",
-    "hook_idea": "If you sat and had lunch right outside a supermassive black hole for just one hour, an entire human lifetime would pass back on Earth.",
-    "veo_prompt": "Vertical 9:16 shot. Mesmerizing gravitational lensing shot of a black hole's event horizon, glowing with a razor-thin photon ring. The surrounding stars streak and blur rapidly in circular light trails, demonstrating the extreme warping of spacetime."
   },
   {
     "topic": "Fast Radio Bursts (FRBs)",
