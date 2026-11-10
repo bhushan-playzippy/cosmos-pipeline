@@ -5730,7 +5730,7 @@
   {
     "folder": "2026-11-07_060638_marie-curie-physics-chemistry-and-nobel-prizes",
     "topic": "Marie Curie physics chemistry and Nobel Prizes",
-    "status": "scheduled",
+    "status": "published",
     "stage": "script",
     "role": null,
     "slot": "2026-11-08T23:30:00+05:30",
@@ -5743,7 +5743,8 @@
       "render": "2026-11-07T06:12:59+05:30",
       "gates": "2026-11-07T06:13:40+05:30",
       "upload_started": "2026-11-07T06:16:02+05:30",
-      "upload": "2026-11-07T06:16:09+05:30"
+      "upload": "2026-11-07T06:16:09+05:30",
+      "published": "2026-11-11T00:17:10+05:30"
     },
     "youtube_id": "FEdEDarb7kA",
     "instagram_id": null,
@@ -5759,7 +5760,7 @@
       "publish_at": "2026-11-08T18:00:00Z"
     },
     "alert": null,
-    "privacy": "private"
+    "privacy": "public"
   },
   {
     "folder": "2026-11-07_064410_eiffel-tower-construction-and-early-years",
@@ -5804,7 +5805,7 @@
   {
     "folder": "2026-11-07_071006_eiffel-tower-construction-and-early-years",
     "topic": "Eiffel Tower construction and early years",
-    "status": "scheduled",
+    "status": "published",
     "stage": "script",
     "role": null,
     "slot": "2026-11-09T05:30:00+05:30",
@@ -5817,7 +5818,8 @@
       "render": "2026-11-07T07:47:50+05:30",
       "gates": "2026-11-07T07:48:37+05:30",
       "upload_started": "2026-11-07T08:00:55+05:30",
-      "upload": "2026-11-07T08:01:03+05:30"
+      "upload": "2026-11-07T08:01:03+05:30",
+      "published": "2026-11-11T00:17:10+05:30"
     },
     "youtube_id": "19dtuEVXf44",
     "instagram_id": null,
@@ -5833,7 +5835,7 @@
       "publish_at": "2026-11-09T00:00:00Z"
     },
     "alert": null,
-    "privacy": "private"
+    "privacy": "public"
   },
   {
     "folder": "2026-11-07_074838_wright-brothers-gliders-and-first-powered-flight",
@@ -5855,7 +5857,7 @@
   {
     "folder": "2026-11-07_080125_wright-brothers-gliders-and-first-powered-flight",
     "topic": "Wright brothers gliders and first powered flight",
-    "status": "scheduled",
+    "status": "published",
     "stage": "script",
     "role": null,
     "slot": "2026-11-09T23:30:00+05:30",
@@ -5868,7 +5870,8 @@
       "render": "2026-11-07T08:07:38+05:30",
       "gates": "2026-11-07T08:08:08+05:30",
       "upload_started": "2026-11-07T08:13:24+05:30",
-      "upload": "2026-11-07T08:13:31+05:30"
+      "upload": "2026-11-07T08:13:31+05:30",
+      "published": "2026-11-11T00:17:10+05:30"
     },
     "youtube_id": "cQXuPWlHK5c",
     "instagram_id": null,
@@ -5884,7 +5887,7 @@
       "publish_at": "2026-11-09T18:00:00Z"
     },
     "alert": null,
-    "privacy": "private"
+    "privacy": "public"
   },
   {
     "folder": "2026-11-07_150510_the-1912-titanic-wireless-operators-ordered-to-ign",
@@ -7109,7 +7112,7 @@
   {
     "folder": "2026-11-08_011742_the-mary-celeste-was-found-adrift-and-deserted",
     "topic": "The Mary Celeste was found adrift and deserted",
-    "status": "scheduled",
+    "status": "published",
     "stage": "script",
     "role": null,
     "slot": "2026-11-10T05:30:00+05:30",
@@ -7122,7 +7125,8 @@
       "render": "2026-11-08T01:25:56+05:30",
       "gates": "2026-11-08T01:28:52+05:30",
       "upload_started": "2026-11-08T01:30:27+05:30",
-      "upload": "2026-11-08T01:30:35+05:30"
+      "upload": "2026-11-08T01:30:35+05:30",
+      "published": "2026-11-11T00:17:10+05:30"
     },
     "youtube_id": "RnOQDSjN9z0",
     "instagram_id": null,
@@ -7138,7 +7142,7 @@
       "publish_at": "2026-11-10T00:00:00Z"
     },
     "alert": null,
-    "privacy": "private"
+    "privacy": "public"
   },
   {
     "folder": "2026-11-08_013059_the-great-molasses-flood-in-boston",
@@ -7158,7 +7162,7 @@
   {
     "folder": "2026-11-08_013548_the-great-molasses-flood-in-boston",
     "topic": "The Great Molasses Flood in Boston",
-    "status": "scheduled",
+    "status": "published",
     "stage": "script",
     "role": null,
     "slot": "2026-11-10T23:30:00+05:30",
@@ -7171,7 +7175,8 @@
       "render": "2026-11-08T01:36:57+05:30",
       "gates": "2026-11-08T01:37:19+05:30",
       "upload_started": "2026-11-08T01:38:55+05:30",
-      "upload": "2026-11-08T01:39:02+05:30"
+      "upload": "2026-11-08T01:39:02+05:30",
+      "published": "2026-11-11T00:17:10+05:30"
     },
     "youtube_id": "_mWIPUQnKsE",
     "instagram_id": null,
@@ -7187,7 +7192,7 @@
       "publish_at": "2026-11-10T18:00:00Z"
     },
     "alert": null,
-    "privacy": "private"
+    "privacy": "public"
   },
   {
     "folder": "2026-11-08_013942_the-tunguska-explosion-left-no-impact-crater",
@@ -8479,35 +8484,47 @@
   {
     "folder": "docstudio_pompeii-doc2",
     "topic": "Pompeii: The City That Disappeared Beneath a Volcano | True Story",
-    "status": "scheduled",
+    "status": "published",
     "stage": "upload",
     "role": null,
     "slot": "2026-11-08T21:30:00+05:30",
     "created": "2026-11-08T18:12:32+05:30",
     "youtube_id": "xzoRQaBUuz0",
-    "reason": "docstudio animated documentary upload"
+    "reason": "docstudio animated documentary upload",
+    "privacy": "public",
+    "stages": {
+      "published": "2026-11-11T00:17:10+05:30"
+    }
   },
   {
     "folder": "docstudio_pompeii-v2-s1",
     "topic": "What Really Destroyed Pompeii? (Not Lava) #Shorts",
-    "status": "scheduled",
+    "status": "published",
     "stage": "upload",
     "role": null,
     "slot": "2026-11-09T18:00:00+05:30",
     "created": "2026-11-08T18:13:21+05:30",
     "youtube_id": "EPpjzpmKYGI",
-    "reason": "docstudio animated documentary upload"
+    "reason": "docstudio animated documentary upload",
+    "privacy": "public",
+    "stages": {
+      "published": "2026-11-11T00:17:10+05:30"
+    }
   },
   {
     "folder": "docstudio_pompeii-v2-s2",
     "topic": "The Truth About Pompeii's Plaster Casts #Shorts",
-    "status": "scheduled",
+    "status": "published",
     "stage": "upload",
     "role": null,
     "slot": "2026-11-10T18:00:00+05:30",
     "created": "2026-11-08T18:14:05+05:30",
     "youtube_id": "BLvs07WgWsQ",
-    "reason": "docstudio animated documentary upload"
+    "reason": "docstudio animated documentary upload",
+    "privacy": "public",
+    "stages": {
+      "published": "2026-11-11T00:17:10+05:30"
+    }
   },
   {
     "folder": "docstudio_pompeii-v2-s3",
@@ -8518,7 +8535,8 @@
     "slot": "2026-11-11T18:00:00+05:30",
     "created": "2026-11-08T18:14:59+05:30",
     "youtube_id": "z1yPi7n0a78",
-    "reason": "docstudio animated documentary upload"
+    "reason": "docstudio animated documentary upload",
+    "privacy": "private"
   },
   {
     "folder": "docstudio_hist-pyramids",
@@ -8529,7 +8547,8 @@
     "slot": "2026-11-12T18:00:00+05:30",
     "created": "2026-11-08T18:34:08+05:30",
     "youtube_id": "r3WnnRppcGM",
-    "reason": "docstudio animated documentary upload"
+    "reason": "docstudio animated documentary upload",
+    "privacy": "private"
   },
   {
     "folder": "docstudio_hist-tajmahal",
@@ -8540,7 +8559,8 @@
     "slot": "2026-11-12T20:00:00+05:30",
     "created": "2026-11-08T18:35:16+05:30",
     "youtube_id": "gUxD2HE42B4",
-    "reason": "docstudio animated documentary upload"
+    "reason": "docstudio animated documentary upload",
+    "privacy": "private"
   },
   {
     "folder": "docstudio_hist-colosseum",
@@ -8551,7 +8571,8 @@
     "slot": "2026-11-12T23:30:00+05:30",
     "created": "2026-11-08T18:36:35+05:30",
     "youtube_id": "7Q0u9REHRIg",
-    "reason": "docstudio animated documentary upload"
+    "reason": "docstudio animated documentary upload",
+    "privacy": "private"
   },
   {
     "folder": "docstudio_hist-greatwall",
@@ -8562,7 +8583,8 @@
     "slot": "2026-11-13T20:00:00+05:30",
     "created": "2026-11-08T18:37:48+05:30",
     "youtube_id": "JwLbUa_kWNI",
-    "reason": "docstudio animated documentary upload"
+    "reason": "docstudio animated documentary upload",
+    "privacy": "private"
   },
   {
     "folder": "docstudio_hist-pripyat",
@@ -8573,7 +8595,8 @@
     "slot": "2026-11-13T23:30:00+05:30",
     "created": "2026-11-08T18:39:13+05:30",
     "youtube_id": "I4rOTbuuf58",
-    "reason": "docstudio animated documentary upload"
+    "reason": "docstudio animated documentary upload",
+    "privacy": "private"
   },
   {
     "folder": "docstudio_hist-stonehenge",
@@ -8584,7 +8607,8 @@
     "slot": "2026-11-14T18:00:00+05:30",
     "created": "2026-11-08T18:40:15+05:30",
     "youtube_id": "P6nMjCGhxII",
-    "reason": "docstudio animated documentary upload"
+    "reason": "docstudio animated documentary upload",
+    "privacy": "private"
   },
   {
     "folder": "docstudio_hist-pisa",
@@ -8595,7 +8619,8 @@
     "slot": "2026-11-14T23:30:00+05:30",
     "created": "2026-11-08T18:41:34+05:30",
     "youtube_id": "Cf2pmx9aIDc",
-    "reason": "docstudio animated documentary upload"
+    "reason": "docstudio animated documentary upload",
+    "privacy": "private"
   },
   {
     "folder": "docstudio_hist-angkor",
@@ -8606,7 +8631,8 @@
     "slot": "2026-11-15T18:00:00+05:30",
     "created": "2026-11-08T18:42:55+05:30",
     "youtube_id": "Vk-14qy2XQg",
-    "reason": "docstudio animated documentary upload"
+    "reason": "docstudio animated documentary upload",
+    "privacy": "private"
   },
   {
     "folder": "docstudio_pompeii-sc-eruption",
@@ -8617,7 +8643,8 @@
     "slot": "2026-11-13T18:00:00+05:30",
     "created": "2026-11-08T18:48:03+05:30",
     "youtube_id": "-QSFUFyMJ4M",
-    "reason": "docstudio animated documentary upload"
+    "reason": "docstudio animated documentary upload",
+    "privacy": "private"
   },
   {
     "folder": "docstudio_pompeii-sc-life",
@@ -8628,7 +8655,8 @@
     "slot": "2026-11-14T20:00:00+05:30",
     "created": "2026-11-08T18:49:14+05:30",
     "youtube_id": "_oLaTRt5F3o",
-    "reason": "docstudio animated documentary upload"
+    "reason": "docstudio animated documentary upload",
+    "privacy": "private"
   },
   {
     "folder": "docstudio_pompeii-sc-today",
@@ -8639,7 +8667,8 @@
     "slot": "2026-11-15T20:00:00+05:30",
     "created": "2026-11-08T18:51:43+05:30",
     "youtube_id": "yOx1wFs41yg",
-    "reason": "docstudio animated documentary upload"
+    "reason": "docstudio animated documentary upload",
+    "privacy": "private"
   },
   {
     "folder": "docstudio_pompeii-sc-hook",
@@ -8650,6 +8679,558 @@
     "slot": "2026-11-15T23:30:00+05:30",
     "created": "2026-11-08T18:54:03+05:30",
     "youtube_id": "ML5N49bk5Qg",
-    "reason": "docstudio animated documentary upload"
+    "reason": "docstudio animated documentary upload",
+    "privacy": "private"
+  },
+  {
+    "folder": "2026-11-11_001715_the-1906-san-francisco-earthquake-and-the-massive-",
+    "topic": "The 1906 San Francisco earthquake and the massive firestorm that burned the city because broken water mains left firefighters powerless",
+    "status": "failed",
+    "stage": "script",
+    "role": "retention",
+    "slot": "2026-11-12T20:00:00+05:30",
+    "pillar": "Disasters that hinged on one detail",
+    "selection": {
+      "role": "retention",
+      "base_score": 52.0,
+      "multiplier": 1.131,
+      "parts": {
+        "pillar_role": 0.96,
+        "question_hook": 0.94,
+        "number_hook": 1.09,
+        "big_number_hook": 1.25,
+        "long_hook": 0.92
+      },
+      "final": 58.81,
+      "runner_up": [
+        {
+          "topic": "The 1911 Mona Lisa theft from the Louvre where the thief kep",
+          "final": 46.61
+        },
+        {
+          "topic": "The 1915 sinking of the RMS Lusitania where a mysterious sec",
+          "final": 45.26
+        }
+      ]
+    },
+    "visual_precheck": {
+      "at": "2026-11-11T00:17:15+05:30",
+      "need": 2,
+      "assets": [
+        {
+          "source": "wikimedia_commons",
+          "query": "san francisco earthquake",
+          "title": "File:San Francisco in ruin edit2.jpg",
+          "page": "https://commons.wikimedia.org/wiki/File:San_Francisco_in_ruin_edit2.jpg",
+          "license": "Public domain",
+          "license_evidence": "Commons file metadata (extmetadata.LicenseShortName)",
+          "date": "Taken on 28 May 1906",
+          "downloaded": true,
+          "bytes": 496843,
+          "relevance": "file title shares the query's distinctive words",
+          "asset_id": "commons:2646303"
+        },
+        {
+          "source": "wikimedia_commons",
+          "query": "san francisco earthquake",
+          "title": "File:San Francisco City Hall 1906-04-20.jpg",
+          "page": "https://commons.wikimedia.org/wiki/File:San_Francisco_City_Hall_1906-04-20.jpg",
+          "license": "Public domain",
+          "license_evidence": "Commons file metadata (extmetadata.LicenseShortName)",
+          "date": "Taken on 20 April 1906",
+          "downloaded": true,
+          "bytes": 380707,
+          "relevance": "file title shares the query's distinctive words",
+          "asset_id": "commons:69879"
+        }
+      ]
+    },
+    "created": "2026-11-11T00:17:15+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "stage_failed": "research",
+    "reason": "Unsupported: research: the sources don't support this story (The research notes do not state that broken water mains left firefighters powerless during the 1906 San Francisco earthquake.)"
+  },
+  {
+    "folder": "2026-11-11_001747_the-1911-mona-lisa-theft-from-the-louvre-where-the",
+    "topic": "The 1911 Mona Lisa theft from the Louvre where the thief kept the painting hidden inside his Paris apartment for two years",
+    "status": "failed",
+    "stage": "script",
+    "role": "retention",
+    "slot": "2026-11-12T20:00:00+05:30",
+    "pillar": "Strange but true history",
+    "selection": {
+      "role": "retention",
+      "base_score": 51.5,
+      "multiplier": 0.905,
+      "parts": {
+        "pillar_role": 0.96,
+        "question_hook": 0.94,
+        "number_hook": 1.09,
+        "big_number_hook": 1.0,
+        "long_hook": 0.92
+      },
+      "final": 46.61,
+      "runner_up": [
+        {
+          "topic": "The 1915 sinking of the RMS Lusitania where a mysterious sec",
+          "final": 45.26
+        },
+        {
+          "topic": "The 1915 sinking of the SS Arabic where a passenger took a p",
+          "final": 44.11
+        }
+      ]
+    },
+    "visual_precheck": {
+      "at": "2026-11-11T00:17:47+05:30",
+      "need": 2,
+      "assets": [
+        {
+          "source": "wikimedia_commons",
+          "query": "Mona Lisa Louvre",
+          "title": "File:Mona Lisa, by Leonardo da Vinci, from C2RMF retouched.jpg",
+          "page": "https://commons.wikimedia.org/wiki/File:Mona_Lisa,_by_Leonardo_da_Vinci,_from_C2RMF_retouched.jpg",
+          "license": "Public domain",
+          "license_evidence": "Commons file metadata (extmetadata.LicenseShortName)",
+          "date": "between 1503 and 1506 date QS:P,+1503-00-00T00:00:00Z/8,P131",
+          "downloaded": true,
+          "bytes": 2974815,
+          "relevance": "file title shares the query's distinctive words",
+          "asset_id": "commons:15442524"
+        },
+        {
+          "source": "wikimedia_commons",
+          "query": "Mona Lisa Louvre",
+          "title": "File:Mona Lisa.jpg",
+          "page": "https://commons.wikimedia.org/wiki/File:Mona_Lisa.jpg",
+          "license": "Public domain",
+          "license_evidence": "Commons file metadata (extmetadata.LicenseShortName)",
+          "date": "between 1503 and 1506 date QS:P,+1503-00-00T00:00:00Z/8,P131",
+          "downloaded": true,
+          "bytes": 1897919,
+          "relevance": "file title shares the query's distinctive words",
+          "asset_id": "commons:51033"
+        }
+      ]
+    },
+    "created": "2026-11-11T00:17:47+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "stage_failed": "verify",
+    "reason": "ValueError: independent check still failing after repair: Peruggia's motives remain disputed. (motive with no document stating it; a model's word isn't enough); Thief or patriot? Peruggia stole the Mona Lisa, with motives (quote with no document stating it; a model's word isn't enough)"
+  },
+  {
+    "folder": "2026-11-11_010713_the-1915-sinking-of-the-rms-lusitania-where-a-myst",
+    "topic": "The 1915 sinking of the RMS Lusitania where a mysterious second explosion tore through the ship after a single German torpedo hit",
+    "status": "failed",
+    "stage": "script",
+    "role": "retention",
+    "slot": "2026-11-12T20:00:00+05:30",
+    "pillar": "Mysteries finally solved",
+    "selection": {
+      "role": "retention",
+      "base_score": 48.0,
+      "multiplier": 0.943,
+      "parts": {
+        "pillar_role": 1.0,
+        "question_hook": 0.94,
+        "number_hook": 1.09,
+        "big_number_hook": 1.0,
+        "long_hook": 0.92
+      },
+      "final": 45.26,
+      "runner_up": [
+        {
+          "topic": "The 1915 sinking of the SS Arabic where a passenger took a p",
+          "final": 44.11
+        },
+        {
+          "topic": "The 1953 eruption of Mount Spurr where volcanic ash complete",
+          "final": 42.2
+        }
+      ]
+    },
+    "visual_precheck": {
+      "at": "2026-11-11T01:07:13+05:30",
+      "need": 2,
+      "assets": [
+        {
+          "source": "wikimedia_commons",
+          "query": "RMS Lusitania German",
+          "title": "File:RMS Lusitania coming into port, possibly in New York, 1907-13-crop.jpg",
+          "page": "https://commons.wikimedia.org/wiki/File:RMS_Lusitania_coming_into_port,_possibly_in_New_York,_1907-13-crop.jpg",
+          "license": "Public domain",
+          "license_evidence": "Commons file metadata (extmetadata.LicenseShortName)",
+          "date": "between 1907 and 1913 date QS:P,+1950-00-00T00:00:00Z/7,P131",
+          "downloaded": true,
+          "bytes": 547313,
+          "relevance": "file title shares the query's distinctive words",
+          "asset_id": "commons:9587232"
+        },
+        {
+          "source": "wikimedia_commons",
+          "query": "RMS Lusitania German",
+          "title": "File:RMS Lusitania Wireless Room.jpg",
+          "page": "https://commons.wikimedia.org/wiki/File:RMS_Lusitania_Wireless_Room.jpg",
+          "license": "Public domain",
+          "license_evidence": "Commons file metadata (extmetadata.LicenseShortName)",
+          "date": "Between 1907 and circa 1913",
+          "downloaded": true,
+          "bytes": 566093,
+          "relevance": "file title shares the query's distinctive words",
+          "asset_id": "commons:98588103"
+        }
+      ]
+    },
+    "created": "2026-11-11T01:07:13+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "stage_failed": "verify",
+    "reason": "ValueError: independent check still failing after repair: U-20's diary confirms only one torpedo was fired and a secon (attribution with no document stating it; a model's word isn't enough); Lusitania: One Torpedo, Two Explosions, 18 Minutes SANK IN 1 (title/headline states more than the narration: "
+  },
+  {
+    "folder": "2026-11-11_013017_the-1915-sinking-of-the-ss-arabic-where-a-passenge",
+    "topic": "The 1915 sinking of the SS Arabic where a passenger took a photograph of the torpedo seconds before impact",
+    "status": "failed",
+    "stage": "script",
+    "role": "retention",
+    "slot": "2026-11-12T20:00:00+05:30",
+    "pillar": "Strange but true history",
+    "selection": {
+      "role": "retention",
+      "base_score": 46.0,
+      "multiplier": 0.959,
+      "parts": {
+        "pillar_role": 0.96,
+        "question_hook": 0.94,
+        "number_hook": 0.94,
+        "big_number_hook": 1.0,
+        "long_hook": 1.13
+      },
+      "final": 44.11,
+      "runner_up": [
+        {
+          "topic": "The 1953 eruption of Mount Spurr where volcanic ash complete",
+          "final": 42.2
+        },
+        {
+          "topic": "The 1937 Hindenburg disaster where the massive airship was p",
+          "final": 42.12
+        }
+      ]
+    },
+    "visual_precheck": {
+      "at": "2026-11-11T01:30:17+05:30",
+      "need": 2,
+      "assets": [
+        {
+          "source": "wikimedia_commons",
+          "query": "SS Arabic",
+          "title": "File:Arabic (ship) LOC det.4a15792.jpg",
+          "page": "https://commons.wikimedia.org/wiki/File:Arabic_(ship)_LOC_det.4a15792.jpg",
+          "license": "Public domain",
+          "license_evidence": "Commons file metadata (extmetadata.LicenseShortName)",
+          "date": "1905",
+          "downloaded": true,
+          "bytes": 306283,
+          "relevance": "file title shares the query's distinctive words",
+          "asset_id": "commons:23280796"
+        },
+        {
+          "source": "wikimedia_commons",
+          "query": "SS Arabic",
+          "title": "File:SS Arabic.jpg",
+          "page": "https://commons.wikimedia.org/wiki/File:SS_Arabic.jpg",
+          "license": "Public domain",
+          "license_evidence": "Commons file metadata (extmetadata.LicenseShortName)",
+          "date": "between 1881 and 1890 date QS:P,+1850-00-00T00:00:00Z/7,P131",
+          "downloaded": true,
+          "bytes": 711843,
+          "relevance": "file title shares the query's distinctive words",
+          "asset_id": "commons:146046847"
+        }
+      ]
+    },
+    "created": "2026-11-11T01:30:17+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "stage_failed": "research",
+    "reason": "Unsupported: research: the sources don't support this story (No note mentions a passenger photographing the torpedo, a photograph of the torpedo seconds before impact, or any photograph taken at the sinking.)"
+  },
+  {
+    "folder": "2026-11-11_014737_the-1942-silent-crew-of-the-uss-indianapolis",
+    "topic": "The 1942 'Silent' Crew of the USS Indianapolis",
+    "status": "failed",
+    "stage": "script",
+    "role": "retention",
+    "slot": "2026-11-12T20:00:00+05:30",
+    "pillar": "Impossible survivals",
+    "selection": {
+      "role": "retention",
+      "base_score": 51.0,
+      "multiplier": 0.943,
+      "parts": {
+        "pillar_role": 1.16,
+        "question_hook": 0.94,
+        "number_hook": 0.94,
+        "big_number_hook": 1.0,
+        "long_hook": 0.92
+      },
+      "final": 48.09,
+      "runner_up": []
+    },
+    "visual_precheck": {
+      "at": "2026-11-11T01:47:37+05:30",
+      "need": 2,
+      "assets": [
+        {
+          "source": "wikimedia_commons",
+          "query": "silent",
+          "title": "File:Poster for Quo Vadis (1913 silent film).jpg",
+          "page": "https://commons.wikimedia.org/wiki/File:Poster_for_Quo_Vadis_(1913_silent_film).jpg",
+          "license": "Public domain",
+          "license_evidence": "Commons file metadata (extmetadata.LicenseShortName)",
+          "date": "1913",
+          "downloaded": true,
+          "bytes": 2765231,
+          "relevance": "file title shares the query's distinctive words",
+          "asset_id": "commons:6308225"
+        },
+        {
+          "source": "wikimedia_commons",
+          "query": "silent",
+          "title": "File:Poster for Quo Vadis (1913 silent film) - Lygia Bound to the Wild Bull.jpg",
+          "page": "https://commons.wikimedia.org/wiki/File:Poster_for_Quo_Vadis_(1913_silent_film)_-_Lygia_Bound_to_the_Wild_Bull.jpg",
+          "license": "Public domain",
+          "license_evidence": "Commons file metadata (extmetadata.LicenseShortName)",
+          "date": "1913",
+          "downloaded": true,
+          "bytes": 2940432,
+          "relevance": "file title shares the query's distinctive words",
+          "asset_id": "commons:92678093"
+        }
+      ]
+    },
+    "created": "2026-11-11T01:47:37+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "stage_failed": "research",
+    "reason": "Unsupported: research: the sources don't support this story (The research notes are exclusively about the films 'Run Silent, Run Deep' (1958) and 'Silent Running' (1972). They contain no facts about the USS Indianapolis, )"
+  },
+  {
+    "folder": "2026-11-11_014747_the-1953-eruption-of-mount-spurr-where-volcanic-as",
+    "topic": "The 1953 eruption of Mount Spurr where volcanic ash completely grounded flights across Anchorage",
+    "status": "failed",
+    "stage": "script",
+    "role": "retention",
+    "slot": "2026-11-12T20:00:00+05:30",
+    "pillar": "Disasters that hinged on one detail",
+    "selection": {
+      "role": "retention",
+      "base_score": 44.0,
+      "multiplier": 0.959,
+      "parts": {
+        "pillar_role": 0.96,
+        "question_hook": 0.94,
+        "number_hook": 0.94,
+        "big_number_hook": 1.0,
+        "long_hook": 1.13
+      },
+      "final": 42.2,
+      "runner_up": [
+        {
+          "topic": "The 1937 Hindenburg disaster where the massive airship was p",
+          "final": 42.12
+        },
+        {
+          "topic": "The 1865 assassination of Abraham Lincoln where his bodyguar",
+          "final": 40.95
+        }
+      ]
+    },
+    "visual_precheck": {
+      "at": "2026-11-11T01:47:47+05:30",
+      "need": 2,
+      "assets": [
+        {
+          "source": "wikimedia_commons",
+          "query": "Mount Spurr Anchorage",
+          "title": "File:Stirrings at Mount Spurr (154190 - mountspurr pho avo 20240623 lrg).jpg",
+          "page": "https://commons.wikimedia.org/wiki/File:Stirrings_at_Mount_Spurr_(154190_-_mountspurr_pho_avo_20240623_lrg).jpg",
+          "license": "Public domain",
+          "license_evidence": "Commons file metadata (extmetadata.LicenseShortName)",
+          "date": "Taken on 23 June 2024",
+          "downloaded": true,
+          "bytes": 601501,
+          "relevance": "file title shares the query's distinctive words",
+          "asset_id": "commons:177358414"
+        },
+        {
+          "source": "wikimedia_commons",
+          "query": "Mount Spurr Anchorage",
+          "title": "File:Stirrings at Mount Spurr (154190 - mountspurr oli2 20240615 lrg).jpg",
+          "page": "https://commons.wikimedia.org/wiki/File:Stirrings_at_Mount_Spurr_(154190_-_mountspurr_oli2_20240615_lrg).jpg",
+          "license": "Public domain",
+          "license_evidence": "Commons file metadata (extmetadata.LicenseShortName)",
+          "date": "Taken on 15 June 2024",
+          "downloaded": true,
+          "bytes": 1253667,
+          "relevance": "file title shares the query's distinctive words",
+          "asset_id": "commons:177358421"
+        }
+      ]
+    },
+    "created": "2026-11-11T01:47:47+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "stage_failed": "verify",
+    "reason": "ValueError: independent check still failing after repair: The Dena'ina Athabascan name for it is K'idazq'eni — 'that w (attribution with no document stating it; a model's word isn't enough); The Dena'ina Athabascan name for it is K'idazq'eni — 'that w (attribution with no document stating it; a mode"
+  },
+  {
+    "folder": "2026-11-11_015420_the-1937-hindenburg-disaster-where-the-massive-air",
+    "topic": "The 1937 Hindenburg disaster where the massive airship was painted with rocket fuel ingredients that accelerated the fire",
+    "status": "failed",
+    "stage": "script",
+    "role": "retention",
+    "slot": "2026-11-12T20:00:00+05:30",
+    "pillar": "Disasters that hinged on one detail",
+    "selection": {
+      "role": "retention",
+      "base_score": 54.0,
+      "multiplier": 0.78,
+      "parts": {
+        "pillar_role": 0.96,
+        "question_hook": 0.94,
+        "number_hook": 0.94,
+        "big_number_hook": 1.0,
+        "long_hook": 0.92
+      },
+      "final": 42.12,
+      "runner_up": [
+        {
+          "topic": "The 1865 assassination of Abraham Lincoln where his bodyguar",
+          "final": 40.95
+        },
+        {
+          "topic": "The 1937 Amelia Earhart disappearance where her final radio ",
+          "final": 40.95
+        }
+      ]
+    },
+    "visual_precheck": {
+      "at": "2026-11-11T01:54:20+05:30",
+      "need": 2,
+      "assets": [
+        {
+          "source": "wikimedia_commons",
+          "query": "Hindenburg",
+          "title": "File:Hindenburg disaster, 1937.jpg",
+          "page": "https://commons.wikimedia.org/wiki/File:Hindenburg_disaster,_1937.jpg",
+          "license": "Public domain",
+          "license_evidence": "Commons file metadata (extmetadata.LicenseShortName)",
+          "date": " Original:   6 May 1937;   This version:   24 December 1956",
+          "downloaded": true,
+          "bytes": 1167745,
+          "relevance": "file title shares the query's distinctive words",
+          "asset_id": "commons:27765273"
+        },
+        {
+          "source": "wikimedia_commons",
+          "query": "Hindenburg",
+          "title": "File:Paul von Hindenburg (1914) von Nicola Perscheid.jpg",
+          "page": "https://commons.wikimedia.org/wiki/File:Paul_von_Hindenburg_(1914)_von_Nicola_Perscheid.jpg",
+          "license": "Public domain",
+          "license_evidence": "Commons file metadata (extmetadata.LicenseShortName)",
+          "date": "1914",
+          "downloaded": true,
+          "bytes": 1722155,
+          "relevance": "file title shares the query's distinctive words",
+          "asset_id": "commons:48026107"
+        }
+      ]
+    },
+    "created": "2026-11-11T01:54:20+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "stage_failed": "verify",
+    "reason": "ValueError: independent check still failing after repair: Thirty-five people on board died, plus one on the ground. (contradicted by https://en.wikipedia.org/wiki/Hindenburg_disaster: \"Three of the); 30 people in: Thirty-five people on board died, plus one on  (number not checked (no ledger entry st"
+  },
+  {
+    "folder": "2026-11-11_020303_the-1865-assassination-of-abraham-lincoln-where-hi",
+    "topic": "The 1865 assassination of Abraham Lincoln where his bodyguard left his post to get a drink at the Star Saloon next door",
+    "status": "failed",
+    "stage": "script",
+    "role": "retention",
+    "slot": "2026-11-12T20:00:00+05:30",
+    "pillar": "Strange but true history",
+    "selection": {
+      "role": "retention",
+      "base_score": 52.5,
+      "multiplier": 0.78,
+      "parts": {
+        "pillar_role": 0.96,
+        "question_hook": 0.94,
+        "number_hook": 0.94,
+        "big_number_hook": 1.0,
+        "long_hook": 0.92
+      },
+      "final": 40.95,
+      "runner_up": [
+        {
+          "topic": "The 1937 Amelia Earhart disappearance where her final radio ",
+          "final": 40.95
+        },
+        {
+          "topic": "The 1919 'Wrong Turn' of Archduke Ferdinand's Driver",
+          "final": 39.43
+        }
+      ]
+    },
+    "visual_precheck": {
+      "at": "2026-11-11T02:03:03+05:30",
+      "need": 2,
+      "assets": [
+        {
+          "source": "wikimedia_commons",
+          "query": "Abraham Lincoln Star",
+          "title": "File:Abraham Lincoln presidency campaign banner.jpg",
+          "page": "https://commons.wikimedia.org/wiki/File:Abraham_Lincoln_presidency_campaign_banner.jpg",
+          "license": "Public domain",
+          "license_evidence": "Commons file metadata (extmetadata.LicenseShortName)",
+          "date": "1860-06-17",
+          "downloaded": true,
+          "bytes": 785864,
+          "relevance": "file title shares the query's distinctive words",
+          "asset_id": "commons:11087084"
+        },
+        {
+          "source": "wikimedia_commons",
+          "query": "Abraham Lincoln Star",
+          "title": "File:Abraham Lincoln head on shoulders photo portrait.jpg",
+          "page": "https://commons.wikimedia.org/wiki/File:Abraham_Lincoln_head_on_shoulders_photo_portrait.jpg",
+          "license": "Public domain",
+          "license_evidence": "Commons file metadata (extmetadata.LicenseShortName)",
+          "date": "1863-11-08",
+          "downloaded": true,
+          "bytes": 1110033,
+          "relevance": "file title shares the query's distinctive words",
+          "asset_id": "commons:611162"
+        }
+      ]
+    },
+    "created": "2026-11-11T02:03:03+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "stage_failed": "research",
+    "reason": "Unsupported: research: the sources don't support this story (The research notes contain no facts about Lincoln's assassination itself, his bodyguard, the Star Saloon, or any guard leaving his post. The only Lincoln-relate)"
   }
 ]
