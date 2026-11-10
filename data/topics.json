@@ -1,60 +1,224 @@
 [
   {
-    "topic": "The Voyager 1 spacecraft is over 15 billion miles away from Earth, about 24 billion km, taking over 22 hours for a radio signal to reach it",
+    "topic": "Mars rover Curiosity wheel wear and tear on sharp rocks",
     "pillar": "Missions in danger (Apollo, ISS, Voyager, Artemis)",
     "series": "Mission Files",
-    "role": "discovery",
-    "angle": "The staggering radio signal delay when talking to humanity's farthest machine",
-    "hook_idea": "Why does it take a full day to send a message to Voyager 1?",
-    "viewer_benefit": "Grasps interstellar distances through communication time lags",
+    "role": "retention",
+    "angle": "Curiosity's aluminum wheels shredding on jagged Martian terrain like soft cheese",
+    "hook_idea": "Why are Mars rover wheels shredding like tin foil?",
+    "viewer_benefit": "Learns the harsh mechanical realities of driving across alien terrain",
     "scores": {
-      "audience_relevance": 5,
-      "curiosity": 5,
+      "audience_relevance": 4,
+      "curiosity": 4,
       "evidence_quality": 5,
       "visual_feasibility": 5,
-      "series_potential": 5,
-      "familiarity": 5
+      "series_potential": 4,
+      "familiarity": 4
     },
-    "veo_prompt": "Vertical 9:16 photoreal rendering of the Voyager spacecraft flying through dark interstellar space with its golden record gleaming in distant starlight.",
-    "score": 47.5
-  },
-  {
-    "topic": "The distance from Earth to the Moon is about 238,855 miles, roughly 384,400 km, enough room to fit all the other planets in the solar system side by side",
-    "pillar": "Famous objects, one impossible fact",
-    "series": "Scale Explained",
-    "role": "discovery",
-    "angle": "Lining up every planet in the solar system in the gap between Earth and the Moon",
-    "hook_idea": "Can every planet in the solar system fit between Earth and the Moon?",
-    "viewer_benefit": "Visualizes planetary spacing using the familiar Earth-Moon orbital gap",
-    "scores": {
-      "audience_relevance": 5,
-      "curiosity": 5,
-      "evidence_quality": 5,
-      "visual_feasibility": 5,
-      "series_potential": 5,
-      "familiarity": 5
+    "veo_prompt": "Vertical 9:16 photoreal close-up of a NASA rover metal wheel crushing sharp red Martian rocks, dust kicking up, golden hour lighting.",
+    "score": 41.5,
+    "draft": {
+      "topic": "Mars rover Curiosity wheel wear and tear on sharp rocks",
+      "scenes": [
+        {
+          "text": "Why are Mars rover wheels shredding like tin foil?",
+          "visual": "tin foil closeup",
+          "nasa": "Curiosity wheel",
+          "subject": "Curiosity wheel"
+        },
+        {
+          "text": "Curiosity blasted off from Cape Canaveral in November 2011.",
+          "visual": "rocket launch",
+          "nasa": "Curiosity launch",
+          "subject": "Curiosity"
+        },
+        {
+          "text": "It touched down on Aeolis Palus inside Gale crater on Aug 6 2012, after a 350‑million‑mile trek.",
+          "visual": "mars landing",
+          "nasa": "Curiosity landing",
+          "subject": "Aeolis Palus"
+        },
+        {
+          "text": "Since then it has driven over 20 miles of rocky terrain, sending back hundreds of thousands of images.",
+          "visual": "rover driving",
+          "nasa": "Curiosity trek",
+          "subject": "rocky terrain"
+        },
+        {
+          "text": "Wheel wear from jagged rocks forces the team to drive more carefully toward Mount Sharp, where science awaits.",
+          "visual": "wheel damage",
+          "nasa": "Curiosity wheel wear",
+          "subject": "wheel wear"
+        },
+        {
+          "text": "In February 2014 the rover crossed the sand‑filled Dingo Gap to spare its wheels.",
+          "visual": "sand dune",
+          "nasa": "Dingo Gap",
+          "subject": "sand dune"
+        },
+        {
+          "text": "Now the shredded wheels look like a block of soft cheese being torn apart.",
+          "visual": "cheese tearing",
+          "nasa": "",
+          "subject": "shredded wheel",
+          "compare": {
+            "kind": "length",
+            "unit": "km",
+            "items": [
+              {
+                "label": "Curiosity mile",
+                "value": 1.6
+              },
+              {
+                "label": "Football field",
+                "value": 0.09
+              }
+            ]
+          }
+        },
+        {
+          "text": "If they keep shredding, future Mars rovers may need steel tires instead of aluminum.",
+          "visual": "future rover",
+          "nasa": "Mars rover concept",
+          "subject": "future rover"
+        }
+      ],
+      "youtube": {
+        "title": "Curiosity's Wheels Are Shredding",
+        "hook_text": "WHEELS SHREDDING LIKE TIN FOIL",
+        "description": "Look closely at these rover wheels. They look like a block of soft cheese being torn apart. Curiosity has driven over 20 miles of rocky terrain since landing in 2012. The jagged rocks are forcing the team to drive carefully toward Mount Sharp.\n\nSources: NASA – Curiosity Rover Fact Sheet, Wikipedia – Curiosity (rover)\n\n#Shorts #Mars #NASA #Curiosity #Space",
+        "tags": [
+          "Mars rover Curiosity",
+          "Curiosity wheel damage",
+          "NASA Mars",
+          "Mars rocks",
+          "Curiosity rover status",
+          "space shorts",
+          "astronomy",
+          "Mars exploration",
+          "Curiosity rover",
+          "Gale crater",
+          "Mount Sharp",
+          "space facts",
+          "NASA news",
+          "Mars terrain",
+          "rover wheels",
+          "space science",
+          "Curiosity update",
+          "Mars 2020"
+        ],
+        "pinned_comment": "Should future Mars rovers use steel tires instead of aluminum?"
+      },
+      "instagram": {
+        "caption": "Curiosity's wheels are shredding like soft cheese. 🧀🚗\n\nWould you trust a rover with steel tires?",
+        "hashtags": [
+          "#CuriosityRover",
+          "#MarsExploration",
+          "#NASA",
+          "#Space",
+          "#Astronomy"
+        ]
+      },
+      "sources": [
+        "NASA – Curiosity Rover Fact Sheet",
+        "Wikipedia – Curiosity (rover)"
+      ],
+      "music_mood": "mysterious",
+      "provenance": {
+        "write": "groq:openai/gpt-oss-120b",
+        "fact_check": "openrouter-text:nvidia/nemotron-3-ultra-550b-a55b:free",
+        "packaging": "groq:qwen/qwen3.8-27b"
+      },
+      "fact_checks": [
+        {
+          "claim": "Curiosity blasted off from Cape Canaveral in November 2011",
+          "verdict": "ok",
+          "working": "Launch date: 26 Nov 2011 from Cape Canaveral Air Force Station (now Space Force Station)."
+        },
+        {
+          "claim": "Touched down on Aeolis Palus inside Gale crater on Aug 6 2012 after a 350‑million‑mile trek",
+          "verdict": "ok",
+          "working": "Landing: 6 Aug 2012 UTC. Cruise distance ~352 million miles (567 million km); 350 million is a valid round figure."
+        },
+        {
+          "claim": "Since then it has driven over one mile of rocky terrain, sending back 70,000 images",
+          "verdict": "fixed",
+          "working": "As of late 2024 Curiosity has driven >32 km (~20 miles) and returned >1 million raw images. 'Over one mile' and '70,000' are severely outdated and misleading."
+        },
+        {
+          "claim": "In February 2014 the rover skirted the sand‑filled Dingo Gap to spare its wheels",
+          "verdict": "fixed",
+          "working": "On Sol 538 (9 Feb 2014) Curiosity drove *across* Dingo Gap (a sand dune) to avoid rougher rock; 'skirted' implies going around, which is incorrect."
+        },
+        {
+          "claim": "Compare: Curiosity mile = 1.6 km, Football field = 0.09 km",
+          "verdict": "ok",
+          "working": "1 mile = 1.609 km ≈ 1.6 km. American football field (100 yd) = 91.44 m = 0.09144 km ≈ 0.09 km. Units consistent (km), arithmetic correct."
+        },
+        {
+          "claim": "YouTube description: 'driven over one mile of rough terrain'",
+          "verdict": "fixed",
+          "working": "Same outdated distance as scene 4; must be updated to ~20 miles."
+        }
+      ],
+      "fact_trail": [
+        {
+          "stage": "fact_check",
+          "added": [
+            20.0
+          ],
+          "removed": [
+            1.0,
+            70000.0
+          ],
+          "words": [
+            "hundreds",
+            "thousands"
+          ]
+        }
+      ],
+      "research": {
+        "sources": [
+          {
+            "title": "Curiosity (rover)",
+            "url": "https://en.wikipedia.org/wiki/Curiosity_(rover)"
+          },
+          {
+            "title": "Timeline of Mars Science Laboratory",
+            "url": "https://en.wikipedia.org/wiki/Timeline_of_Mars_Science_Laboratory"
+          }
+        ],
+        "notes": [
+          "Curiosity is a Mars rover that is exploring Gale crater and Mount Sharp on Mars as part of NASA's Mars Science Laboratory (MSL) mission.",
+          "Launched in 2011 and landed the following year, the car-sized rover continues to operate more than a decade after its original two-year mission.",
+          "Curiosity was launched from Cape Canaveral, Florida, on November 26, 2011, at 15:02:00 UTC and landed on Aeolis Palus inside Gale crater on Mars on August 6, 2012, 05:17:57 UTC.",
+          "The Bradbury Landing site was less than 2.4 km (1.5 mi) from the center of the rover's touchdown target after a 560 million km (350 million mi) journey.",
+          "Mission goals include an investigation of the Martian climate and geology, an assessment of whether the selected field site inside Gale has ever offered environmental conditions favorable for microbial life (including investigation of the role of water), and planetary habitability studies in preparation for human exploration.",
+          "In December 2012, Curiosity's two-year mission was extended indefinitely.",
+          "Collier Trophy by the National Aeronautic Association \"In recognition of the extraordinary achievements of successfully landing Curiosity on Mars, advancing the nation's technological and engineering capabilities, and significantly improving humanity's understanding of ancient Martian habitable environments.\" Curiosity's rover design served as the basis for NASA's 2021 Perseverance mission, which carries different scientific instruments.",
+          "Power source: Curiosity is powered by a radioisotope thermoelectric generator (RTG), like the successful Viking 1 and Viking 2 Mars landers in 1976.",
+          "Curiosity transformed from its stowed flight configuration to a landing configuration while the MSL spacecraft simultaneously lowered it beneath the spacecraft descent stage with a 20 m (66 ft) tether from the \"sky crane\" system to a soft landing – wheels down – on the surface of Mars.",
+          "The cameras have a 120° field of view and map the terrain at up to 3 m (9.8 ft) in front of the rover.",
+          "The rover drove over one-mile across the Martian terrain, transmitted more than 190 gigabits of data to Earth, including 70,000 images (36,700 full images and 35,000 thumbnails), and the rover's laser fired more than 75,000 times at 2,000 targets.",
+          "On 9 December 2013, NASA reported that the planet Mars had a large freshwater lake (which could have been a hospitable environment for microbial life) based on evidence from the Curiosity rover studying Aeolis Palus near Mount Sharp in Gale Crater.",
+          "Due to wheel wear, a concern to drive more carefully over the rough terrain the rover is currently traveling on to Mount Sharp, was also reported.",
+          "On 11 September 2014 (Sol 746), Curiosity reached the slopes of Aeolis Mons (or Mount Sharp), the rover mission's long-term prime destination and where the rover is expected to learn more about the history of Mars.",
+          "On 6 February 2014, the Curiosity rover, in order to reduce wear on its wheels by avoiding rougher terrain, successfully crossed (image) the \"Dingo Gap\" sand dune and is now expected to travel a smoother route to Mount Sharp.",
+          "On 4 April 2015, NASA reported studies, based on measurements by the Sample Analysis at Mars (SAM) instrument on the Curiosity rover, of the Martian atmosphere using xenon and argon isotopes.",
+          "Results provided support for a \"vigorous\" loss of atmosphere early in the history of Mars and were consistent with an atmospheric signature found in bits of atmosphere captured in some Martian meteorites found on Earth.On 19 August 2015, NASA scientists reported that the Dynamic Albedo of Neutrons (DAN) instrument on the Curiosity rover detected an unusual hydrogen-rich area, at \"Marias Pass,\" on Mars.",
+          "On 13 December 2016, NASA reported further evidence supporting habitability on Mars as the Curiosity rover climbed higher, studying younger layers, on Mount Sharp.",
+          "On 1 February 2019, NASA scientists reported that the Mars Curiosity rover determined, for the first time, the density of Mount Sharp in Gale crater, thereby establishing a clearer understanding of how the mountain was formed.",
+          "On 11 April 2019, NASA announced that the Curiosity rover on the planet Mars drilled into, and closely studied, a \"clay-bearing unit\" which, according to the rover Project Manager, is a \"major milestone\" in Curiosity's journey up Mount Sharp.",
+          "On 29 August 2020, NASA released several videos taken by the Curiosity rover, including those involving dust devils, as well as very high resolution images of the related local martian terrain."
+        ]
+      },
+      "release": {
+        "hour_ist": 12,
+        "day_hint": "Monday",
+        "reason": "Targets US weekday lunch break (12:00 IST = 12:00 EDT/18:00 BST), maximizing reach across US and UK audiences simultaneously."
+      }
     },
-    "veo_prompt": "Vertical 9:16 photoreal shot of Earth and the Moon separated by the vast black expanse of space, scale-accurate depiction.",
-    "score": 47.5
-  },
-  {
-    "topic": "Light from the Sun takes 8 minutes and 20 seconds to travel across space and reach Earth's surface",
-    "pillar": "Famous objects, one impossible fact",
-    "series": "Scale Explained",
-    "role": "discovery",
-    "angle": "Sunlight traveling across the solar vacuum like a delayed broadcast",
-    "hook_idea": "What would happen if the Sun suddenly blinked out of existence right now?",
-    "viewer_benefit": "Understands the finite speed of light using the Earth-Sun distance",
-    "scores": {
-      "audience_relevance": 5,
-      "curiosity": 5,
-      "evidence_quality": 5,
-      "visual_feasibility": 5,
-      "series_potential": 5,
-      "familiarity": 5
-    },
-    "veo_prompt": "Vertical 9:16 photoreal beam of golden sunlight piercing through the black vacuum of space toward the blue curve of Earth.",
-    "score": 47.5
+    "draft_saved": "2026-11-11"
   },
   {
     "topic": "The Apollo 11 lunar module computer had only 74 kilobytes of memory, less than a modern digital watch",
@@ -114,63 +278,6 @@
     "score": 45.0
   },
   {
-    "topic": "The black hole at the center of our galaxy, Sagittarius A*, has a mass equal to 4 million suns packed into a region smaller than Mercury's orbit",
-    "pillar": "Stars & black holes",
-    "series": "Scale Explained",
-    "role": "authority",
-    "angle": "Packing millions of stars into the space of the inner solar system",
-    "hook_idea": "How do four million suns fit into such a tiny space?",
-    "viewer_benefit": "Comprehends supermassive black hole density and central galactic scale",
-    "scores": {
-      "audience_relevance": 4,
-      "curiosity": 5,
-      "evidence_quality": 5,
-      "visual_feasibility": 5,
-      "series_potential": 5,
-      "familiarity": 4
-    },
-    "veo_prompt": "Vertical 9:16 photoreal cinematic shot of a glowing accretion disk swirling around a dark supermassive black hole in the galactic core.",
-    "score": 44.0
-  },
-  {
-    "topic": "Mars rover Curiosity wheel wear and tear on sharp rocks",
-    "pillar": "Missions in danger (Apollo, ISS, Voyager, Artemis)",
-    "series": "Mission Files",
-    "role": "retention",
-    "angle": "Curiosity's aluminum wheels shredding on jagged Martian terrain like soft cheese",
-    "hook_idea": "Why are Mars rover wheels shredding like tin foil?",
-    "viewer_benefit": "Learns the harsh mechanical realities of driving across alien terrain",
-    "scores": {
-      "audience_relevance": 4,
-      "curiosity": 4,
-      "evidence_quality": 5,
-      "visual_feasibility": 5,
-      "series_potential": 4,
-      "familiarity": 4
-    },
-    "veo_prompt": "Vertical 9:16 photoreal close-up of a NASA rover metal wheel crushing sharp red Martian rocks, dust kicking up, golden hour lighting.",
-    "score": 41.5
-  },
-  {
-    "topic": "The Pillars of Creation in the Eagle Nebula span about 4 to 5 light-years in length",
-    "pillar": "Stars & black holes",
-    "series": "How Big Is It?",
-    "role": "authority",
-    "angle": "Towering columns of cosmic dust compared to interstellar distances",
-    "hook_idea": "How massive are the cosmic pillars where new stars are born?",
-    "viewer_benefit": "Grasps the gargantuan scale of stellar nurseries photographed by space telescopes",
-    "scores": {
-      "audience_relevance": 4,
-      "curiosity": 4,
-      "evidence_quality": 5,
-      "visual_feasibility": 5,
-      "series_potential": 4,
-      "familiarity": 4
-    },
-    "veo_prompt": "Vertical 9:16 photoreal majestic shot of glowing gas pillars in the Eagle Nebula, vibrant cosmic dust clouds, sparkling stars.",
-    "score": 41.5
-  },
-  {
     "topic": "The International Space Station completes 15.5 orbits around Earth every single day",
     "pillar": "Missions in danger (Apollo, ISS, Voyager, Artemis)",
     "series": "Mission Files",
@@ -228,25 +335,6 @@
     "score": 40.0
   },
   {
-    "topic": "The temperature in deep space is minus 454 °F, about minus 270 °C, just a fraction above absolute zero",
-    "pillar": "Famous objects, one impossible fact",
-    "series": "Scale Explained",
-    "role": "authority",
-    "angle": "The bone-chilling cold of the cosmic vacuum compared to household freezers",
-    "hook_idea": "How cold is the empty space between the stars?",
-    "viewer_benefit": "Grasps cosmic temperatures near absolute zero using extreme chill scales",
-    "scores": {
-      "audience_relevance": 4,
-      "curiosity": 4,
-      "evidence_quality": 5,
-      "visual_feasibility": 4,
-      "series_potential": 4,
-      "familiarity": 4
-    },
-    "veo_prompt": "Vertical 9:16 photoreal cinematic shot of frost crystals forming on a metallic spacecraft hull floating in deep space under cold starlight.",
-    "score": 40.0
-  },
-  {
     "topic": "Chandrayaan-3 landing site near the lunar south pole in shadowed craters",
     "pillar": "ISRO & India in space",
     "series": "Mission Files",
@@ -264,25 +352,6 @@
     },
     "veo_prompt": "Vertical 9:16 cinematic shot of a lunar lander touching down on the dusty gray Moon surface near deep black craters, lens flare, photoreal.",
     "score": 39.0
-  },
-  {
-    "topic": "Neutron star magnetic fields in magnetars can generate forces strong enough to distort the electron clouds of atoms",
-    "pillar": "Stars & black holes",
-    "series": "Scale Explained",
-    "role": "authority",
-    "angle": "Magnetar magnetic strength tearing apart the atomic structure of ordinary matter",
-    "hook_idea": "What happens when a magnetic field is strong enough to rip atoms apart?",
-    "viewer_benefit": "Explores the bizarre physics of extreme magnetic fields in dead stars",
-    "scores": {
-      "audience_relevance": 3,
-      "curiosity": 5,
-      "evidence_quality": 5,
-      "visual_feasibility": 4,
-      "series_potential": 4,
-      "familiarity": 3
-    },
-    "veo_prompt": "Vertical 9:16 photoreal cinematic shot of a magnetar emitting intense flashing pulses of blue light and magnetic energy across deep space.",
-    "score": 38.0
   },
   {
     "topic": "The Chandrayaan-1 mission discovered definitive signatures of water molecules distributed across the lunar surface",

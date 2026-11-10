@@ -5135,14 +5135,17 @@
   {
     "folder": "docstudio_sgra-v2-s2",
     "topic": "How Scientists Photographed an Invisible Black Hole #Shorts",
-    "status": "scheduled",
+    "status": "published",
     "stage": "upload",
     "role": null,
     "slot": "2026-11-10T18:00:00+05:30",
     "created": "2026-11-08T17:44:17+05:30",
     "youtube_id": "l0mWddywXfo",
     "reason": "docstudio animated documentary upload",
-    "privacy": "private"
+    "privacy": "public",
+    "stages": {
+      "published": "2026-11-10T22:09:11+05:30"
+    }
   },
   {
     "folder": "docstudio_sgra-v2-s3",
@@ -5916,6 +5919,243 @@
     "created": "2026-11-10T08:13:47+05:30",
     "stages": {},
     "youtube_id": null,
-    "instagram_id": null
+    "instagram_id": null,
+    "reason": "interrupted: the run ended before this video finished (sleep/crash); nothing was uploaded",
+    "stage_failed": "script"
+  },
+  {
+    "folder": "2026-11-10_220911_the-temperature-in-deep-space-is-minus-454-f-about",
+    "topic": "The temperature in deep space is minus 454 °F, about minus 270 °C, just a fraction above absolute zero",
+    "status": "failed",
+    "stage": "script",
+    "role": "authority",
+    "slot": "2026-11-12T23:30:00+05:30",
+    "pillar": "Famous objects, one impossible fact",
+    "selection": {
+      "role": "authority",
+      "base_score": 40.0,
+      "multiplier": 1.0,
+      "parts": {
+        "pillar_role": 1.0
+      },
+      "final": 40.0,
+      "runner_up": [
+        {
+          "topic": "The black hole at the center of our galaxy, Sagittarius A*, ",
+          "final": 37.4
+        },
+        {
+          "topic": "The Pillars of Creation in the Eagle Nebula span about 4 to ",
+          "final": 35.27
+        }
+      ]
+    },
+    "visual_precheck": null,
+    "created": "2026-11-10T22:09:11+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "stage_failed": "verify",
+    "reason": "ValueError: independent check still failing after repair: The coldest natural spot on Earth plunged to nearly minus on (narrated -129 vs independent -128.6 °F); Deep space reaches about minus 455 °F. (narrated -455 vs independent -454.8 °F); Deep space reaches about minus 270 °C. (narrated -270 vs i"
+  },
+  {
+    "folder": "2026-11-10_225339_the-black-hole-at-the-center-of-our-galaxy-sagitta",
+    "topic": "The black hole at the center of our galaxy, Sagittarius A*, has a mass equal to 4 million suns packed into a region smaller than Mercury's orbit",
+    "status": "failed",
+    "stage": "script",
+    "role": "authority",
+    "slot": "2026-11-12T23:30:00+05:30",
+    "pillar": "Stars & black holes",
+    "selection": {
+      "role": "authority",
+      "base_score": 44.0,
+      "multiplier": 0.85,
+      "parts": {
+        "pillar_role": 1.0,
+        "repeat_pillar": 0.85
+      },
+      "final": 37.4,
+      "runner_up": [
+        {
+          "topic": "The Pillars of Creation in the Eagle Nebula span about 4 to ",
+          "final": 35.27
+        },
+        {
+          "topic": "Neutron star magnetic fields in magnetars can generate force",
+          "final": 32.3
+        }
+      ]
+    },
+    "visual_precheck": null,
+    "created": "2026-11-10T22:53:39+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "stage_failed": "verify",
+    "reason": "ValueError: independent check still failing after repair: Sagittarius A*: 4.3M‑Sun Black Hole Inside Mercury Orbit (superlative with no document stating it; a model's word isn't enough); 16 MILLION MILE EVENT HORIZON (superlative with no document stating it (only indirect); a model's word isn't en);"
+  },
+  {
+    "folder": "2026-11-10_232647_the-pillars-of-creation-in-the-eagle-nebula-span-a",
+    "topic": "The Pillars of Creation in the Eagle Nebula span about 4 to 5 light-years in length",
+    "status": "failed",
+    "stage": "script",
+    "role": "authority",
+    "slot": "2026-11-12T23:30:00+05:30",
+    "pillar": "Stars & black holes",
+    "selection": {
+      "role": "authority",
+      "base_score": 41.5,
+      "multiplier": 0.85,
+      "parts": {
+        "pillar_role": 1.0,
+        "repeat_pillar": 0.85
+      },
+      "final": 35.27,
+      "runner_up": [
+        {
+          "topic": "Neutron star magnetic fields in magnetars can generate force",
+          "final": 32.3
+        }
+      ]
+    },
+    "visual_precheck": null,
+    "created": "2026-11-10T23:26:47+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "stage_failed": "verify",
+    "reason": "ValueError: independent check still failing after repair: The Eagle Nebula lies about 6,500 light‑years away (misleading); Located 6,500 light‑years away in Serpens (misleading); Nearby massive stars emit ultraviolet radiation that photo‑e (no document evidence (4 unresolved claims; at most 3 per vi"
+  },
+  {
+    "folder": "2026-11-10_234007_neutron-star-magnetic-fields-in-magnetars-can-gene",
+    "topic": "Neutron star magnetic fields in magnetars can generate forces strong enough to distort the electron clouds of atoms",
+    "status": "failed",
+    "stage": "script",
+    "role": "authority",
+    "slot": "2026-11-12T23:30:00+05:30",
+    "pillar": "Stars & black holes",
+    "selection": {
+      "role": "authority",
+      "base_score": 38.0,
+      "multiplier": 0.85,
+      "parts": {
+        "pillar_role": 1.0,
+        "repeat_pillar": 0.85
+      },
+      "final": 32.3,
+      "runner_up": []
+    },
+    "visual_precheck": null,
+    "created": "2026-11-10T23:40:07+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "stage_failed": "verify",
+    "reason": "ValueError: independent check still failing after repair: 10¹¹ teslas is far beyond any magnetic field humanity can ge (narrated 100,000,000,000 vs independent 1,200 teslas); Pinned comment asks: 'Could life exist near a magnetar, or w (unverifiable); Crust fractures are thought to trigger giant fla"
+  },
+  {
+    "folder": "2026-11-10_234701_the-voyager-1-spacecraft-is-over-15-billion-miles-",
+    "topic": "The Voyager 1 spacecraft is over 15 billion miles away from Earth, about 24 billion km, taking over 22 hours for a radio signal to reach it",
+    "status": "failed",
+    "stage": "script",
+    "role": "authority",
+    "slot": "2026-11-12T23:30:00+05:30",
+    "pillar": "Missions in danger (Apollo, ISS, Voyager, Artemis)",
+    "selection": {
+      "role": "authority",
+      "base_score": 47.5,
+      "multiplier": 0.89,
+      "parts": {
+        "pillar_role": 0.89
+      },
+      "final": 42.27,
+      "runner_up": [
+        {
+          "topic": "The distance from Earth to the Moon is about 238,855 miles, ",
+          "final": 42.27
+        },
+        {
+          "topic": "Light from the Sun takes 8 minutes and 20 seconds to travel ",
+          "final": 42.27
+        }
+      ]
+    },
+    "visual_precheck": null,
+    "created": "2026-11-10T23:47:01+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "stage_failed": "verify",
+    "reason": "ValueError: independent check still failing after repair: Voyager 1 drifts 16 billion miles away (misleading); It now sits about 16 billion miles away (misleading); ≈ 25.8 billion km (misleading)"
+  },
+  {
+    "folder": "2026-11-10_235347_the-distance-from-earth-to-the-moon-is-about-23885",
+    "topic": "The distance from Earth to the Moon is about 238,855 miles, roughly 384,400 km, enough room to fit all the other planets in the solar system side by side",
+    "status": "failed",
+    "stage": "script",
+    "role": "authority",
+    "slot": "2026-11-12T23:30:00+05:30",
+    "pillar": "Famous objects, one impossible fact",
+    "selection": {
+      "role": "authority",
+      "base_score": 47.5,
+      "multiplier": 0.89,
+      "parts": {
+        "pillar_role": 0.89
+      },
+      "final": 42.27,
+      "runner_up": [
+        {
+          "topic": "Light from the Sun takes 8 minutes and 20 seconds to travel ",
+          "final": 42.27
+        },
+        {
+          "topic": "Mars rover Curiosity wheel wear and tear on sharp rocks",
+          "final": 41.5
+        }
+      ]
+    },
+    "visual_precheck": null,
+    "created": "2026-11-10T23:53:47+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "stage_failed": "verify",
+    "reason": "ValueError: independent check still failing after repair: There are seven planets (Mercury through Neptune, excluding  (misleading); 225700 mi in: That swings from about 225,700 miles at perige (number not checked (no ledger entry states it)); 251900 mi in: That swings from about 225,700 miles at pe"
+  },
+  {
+    "folder": "2026-11-11_000051_light-from-the-sun-takes-8-minutes-and-20-seconds-",
+    "topic": "Light from the Sun takes 8 minutes and 20 seconds to travel across space and reach Earth's surface",
+    "status": "failed",
+    "stage": "script",
+    "role": "authority",
+    "slot": "2026-11-12T23:30:00+05:30",
+    "pillar": "Famous objects, one impossible fact",
+    "selection": {
+      "role": "authority",
+      "base_score": 47.5,
+      "multiplier": 0.89,
+      "parts": {
+        "pillar_role": 0.89
+      },
+      "final": 42.27,
+      "runner_up": [
+        {
+          "topic": "Mars rover Curiosity wheel wear and tear on sharp rocks",
+          "final": 41.5
+        },
+        {
+          "topic": "The International Space Station completes 15.5 orbits around",
+          "final": 41.5
+        }
+      ]
+    },
+    "visual_precheck": null,
+    "created": "2026-11-11T00:00:51+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "stage_failed": "verify",
+    "reason": "ValueError: independent check still failing after repair: Gravitational effects would also reach us after the same int (no document evidence (7 unresolved claims; at most 3 per video): support it, sof); Light speed is far faster than any jet (no document evidence (7 unresolved claims; at most 3 per "
   }
 ]

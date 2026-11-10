@@ -1,6 +1,6 @@
 {
   "bqO7avYWuRk": {
-    "date": "2026-11-10",
+    "date": "2026-11-11",
     "curve": [
       [
         0.01,
@@ -507,7 +507,7 @@
     "start_ratio": 1.1
   },
   "4rTETbscT-o": {
-    "date": "2026-11-10",
+    "date": "2026-11-11",
     "curve": [
       [
         0.01,
@@ -1014,7 +1014,7 @@
     "start_ratio": 2.2913
   },
   "e6Uz9tsxTE0": {
-    "date": "2026-11-10",
+    "date": "2026-11-11",
     "curve": [
       [
         0.01,
@@ -1521,7 +1521,7 @@
     "start_ratio": 1.0232999999999999
   },
   "wCbgGDBM2lY": {
-    "date": "2026-11-10",
+    "date": "2026-11-11",
     "curve": [
       [
         0.01,
@@ -2028,7 +2028,7 @@
     "start_ratio": 1.1217
   },
   "yylP_CNZL4g": {
-    "date": "2026-11-10",
+    "date": "2026-11-11",
     "curve": [
       [
         0.01,
@@ -2535,7 +2535,7 @@
     "start_ratio": 1.4118000000000002
   },
   "8wUMlZ-J0sw": {
-    "date": "2026-11-10",
+    "date": "2026-11-11",
     "curve": [
       [
         0.01,
@@ -3042,7 +3042,7 @@
     "start_ratio": 1.25
   },
   "06KQPbsd9aU": {
-    "date": "2026-11-10",
+    "date": "2026-11-11",
     "curve": [
       [
         0.01,
@@ -3549,7 +3549,7 @@
     "start_ratio": 1.2229
   },
   "pLD9VYe3l5Q": {
-    "date": "2026-11-10",
+    "date": "2026-11-11",
     "curve": [
       [
         0.01,
@@ -4056,7 +4056,7 @@
     "start_ratio": 1.3832
   },
   "uuT6oc7akQE": {
-    "date": "2026-11-10",
+    "date": "2026-11-11",
     "curve": [
       [
         0.01,
@@ -4563,7 +4563,7 @@
     "start_ratio": 1.3251
   },
   "Qvk_c-27d4c": {
-    "date": "2026-11-10",
+    "date": "2026-11-11",
     "curve": [
       [
         0.01,
@@ -5070,7 +5070,7 @@
     "start_ratio": 1.25
   },
   "5i4v_-f-K9A": {
-    "date": "2026-11-08",
+    "date": "2026-11-11",
     "curve": [
       [
         0.01,
@@ -5577,7 +5577,7 @@
     "start_ratio": 1.2518
   },
   "kwI_Atb1430": {
-    "date": "2026-11-10",
+    "date": "2026-11-11",
     "curve": [
       [
         0.01,
@@ -7605,7 +7605,7 @@
     "start_ratio": 1.2832
   },
   "EALndKHYuyk": {
-    "date": "2026-11-10",
+    "date": "2026-11-11",
     "curve": [
       [
         0.01,
@@ -8112,7 +8112,7 @@
     "start_ratio": 1.1044
   },
   "vDfC5gQlgUo": {
-    "date": "2026-11-10",
+    "date": "2026-11-11",
     "curve": [
       [
         0.01,
@@ -8619,13 +8619,13 @@
     "start_ratio": 1.1059999999999999
   },
   "xiqHIqurwZE": {
-    "date": "2026-11-10",
+    "date": "2026-11-11",
     "curve": [],
     "below_half_at": null,
     "start_ratio": null
   },
   "ufIw3_OJdmc": {
-    "date": "2026-11-10",
+    "date": "2026-11-11",
     "curve": [
       [
         0.01,
@@ -9132,19 +9132,25 @@
     "start_ratio": 1.5825
   },
   "SdiwesW79dM": {
-    "date": "2026-11-10",
+    "date": "2026-11-11",
     "curve": [],
     "below_half_at": null,
     "start_ratio": null
   },
   "j6rEvff3MFs": {
-    "date": "2026-11-10",
+    "date": "2026-11-11",
     "curve": [],
     "below_half_at": null,
     "start_ratio": null
   },
   "sKZqA3DVjbk": {
-    "date": "2026-11-10",
+    "date": "2026-11-11",
+    "curve": [],
+    "below_half_at": null,
+    "start_ratio": null
+  },
+  "XXU2T8D0T5A": {
+    "date": "2026-11-11",
     "curve": [],
     "below_half_at": null,
     "start_ratio": null

@@ -1,65 +1,65 @@
 {
-  "date": "2026-11-10",
-  "videos": 24,
-  "median_views_per_day": 26.5,
+  "date": "2026-11-11",
+  "videos": 27,
+  "median_views_per_day": 24.9,
   "min_sample": 5,
   "groups": {
     "slot": {
       "18:00": {
         "n": 2,
-        "median_vpd": 52.6,
+        "median_vpd": 49.7,
         "conclusive": false
       },
       "15:00": {
         "n": 4,
-        "median_vpd": 25.5,
+        "median_vpd": 23.8,
         "conclusive": false
       },
       "09:00": {
         "n": 5,
-        "median_vpd": 24.1,
+        "median_vpd": 22.5,
         "conclusive": true
       },
       "20:00": {
         "n": 2,
-        "median_vpd": 56.9,
+        "median_vpd": 53.2,
         "conclusive": false
       },
       "23:30": {
-        "n": 5,
-        "median_vpd": 60.0,
+        "n": 6,
+        "median_vpd": 130.5,
         "conclusive": true
       },
       "05:30": {
-        "n": 4,
-        "median_vpd": 25.5,
-        "conclusive": false
+        "n": 5,
+        "median_vpd": 17.2,
+        "conclusive": true
       },
       "?": {
-        "n": 2,
-        "median_vpd": 111.5,
+        "n": 3,
+        "median_vpd": 150.0,
         "conclusive": false
       }
     },
     "type": {
       "?": {
-        "n": 13,
-        "median_vpd": 35.2,
+        "n": 16,
+        "median_vpd": 30.8,
         "conclusive": true
       },
       "discovery": {
         "n": 6,
-        "median_vpd": 21.3,
+        "median_vpd": 19.8,
         "conclusive": true
       },
       "retention": {
         "n": 4,
-        "median_vpd": 23.3,
+        "median_vpd": 21.6,
         "conclusive": false
       },
       "authority": {
         "n": 1,
-        "median_vpd": 28.6,
+        "median_vpd": 26.7,
         "conclusive": false
       }
     },
@@ -69,7 +69,7 @@
     "discovery": 0.89
   },
   "recommendations": [
-    "Slot 09:00 earns 24.1 views/day vs 60.0 at 23:30: try moving 09:00 to an hour near 23:30 (edit schedule.slots), then re-check in 2 weeks."
+    "Slot 05:30 earns 17.2 views/day vs 130.5 at 23:30: try moving 05:30 to an hour near 23:30 (edit schedule.slots), then re-check in 2 weeks."
   ],
   "feature_boost": {
     "question_hook": {
