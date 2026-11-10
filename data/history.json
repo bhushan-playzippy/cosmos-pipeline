@@ -4633,7 +4633,7 @@
     "status": "scheduled",
     "stage": "script",
     "role": null,
-    "slot": "2026-11-11T05:30:00+05:30",
+    "slot": "2026-11-11T20:00:00+05:30",
     "pillar": null,
     "selection": null,
     "visual_precheck": null,
@@ -4652,12 +4652,12 @@
     "title": "Voyager 2 at Uranus #Shorts",
     "music": "nebula-d.m4a",
     "alert": null,
-    "publish_at": "2026-11-11T05:30:00+05:30",
+    "publish_at": "2026-11-11T20:00:00+05:30",
     "verification": {
       "ok": true,
       "problems": [],
       "privacy": "private",
-      "publish_at": "2026-11-11T00:00:00Z"
+      "publish_at": "2026-11-11T14:30:00Z"
     },
     "privacy": "private"
   },
