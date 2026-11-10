@@ -4527,7 +4527,7 @@
   {
     "folder": "2026-11-08_022625_galileo-follows-voyagers-discovery-of-active-volca",
     "topic": "Galileo follows Voyager's discovery of active volcanoes on Io",
-    "status": "scheduled",
+    "status": "published",
     "stage": "script",
     "role": null,
     "slot": "2026-11-10T05:30:00+05:30",
@@ -4540,7 +4540,8 @@
       "render": "2026-11-08T02:31:40+05:30",
       "gates": "2026-11-08T02:32:31+05:30",
       "upload_started": "2026-11-08T02:34:44+05:30",
-      "upload": "2026-11-08T02:34:51+05:30"
+      "upload": "2026-11-08T02:34:51+05:30",
+      "published": "2026-11-10T05:40:09+05:30"
     },
     "youtube_id": "XXU2T8D0T5A",
     "instagram_id": null,
@@ -4556,7 +4557,7 @@
       "publish_at": "2026-11-10T00:00:00Z"
     },
     "alert": null,
-    "privacy": "private"
+    "privacy": "public"
   },
   {
     "folder": "2026-11-08_023453_voyager-2-makes-the-only-close-visit-to-triton",
@@ -5638,5 +5639,283 @@
     "instagram_id": null,
     "stage_failed": "verify",
     "reason": "ValueError: independent check still failing after repair: Peregrine Mission One launched January 8, 2024 (wrong); first flight of the Vulcan Centaur rocket (wrong); first U.S. commercial lunar lander to attempt a Moon landing (superlative with no document stating it (only indirect); a model's word i"
+  },
+  {
+    "folder": "2026-11-10_054009_venus-raines-acid",
+    "topic": "Venus Raines Acid",
+    "status": "failed",
+    "stage": "script",
+    "role": "authority",
+    "slot": "2026-11-12T23:30:00+05:30",
+    "pillar": "Planets & moons",
+    "selection": {
+      "role": "authority",
+      "base_score": 28.5,
+      "multiplier": 0.89,
+      "parts": {
+        "pillar_role": 0.89
+      },
+      "final": 25.37,
+      "runner_up": [
+        {
+          "topic": "Jupiter Swallows 1,000 Earths",
+          "final": 25.37
+        },
+        {
+          "topic": "Europa's Icy Shell",
+          "final": 25.37
+        }
+      ]
+    },
+    "visual_precheck": null,
+    "created": "2026-11-10T05:40:09+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "stage_failed": "verify",
+    "reason": "ValueError: independent check still failing after repair: temperatures drop to a mild 68 °F in the clouds (sources disagree (68, 68, 32 °F) but the narration states 68 as fact); temperatures drop to a mild 20 °C in the clouds (sources disagree (20, 0, 20, 50 °C) but the narration states 20 as fact);"
+  },
+  {
+    "folder": "2026-11-10_055317_jupiter-swallows-1000-earths",
+    "topic": "Jupiter Swallows 1,000 Earths",
+    "status": "failed",
+    "stage": "script",
+    "role": "authority",
+    "slot": "2026-11-12T23:30:00+05:30",
+    "pillar": "Famous objects, one impossible fact",
+    "selection": {
+      "role": "authority",
+      "base_score": 28.5,
+      "multiplier": 0.89,
+      "parts": {
+        "pillar_role": 0.89
+      },
+      "final": 25.37,
+      "runner_up": [
+        {
+          "topic": "Europa's Icy Shell",
+          "final": 25.37
+        },
+        {
+          "topic": "Perseverance's Helicopter",
+          "final": 25.37
+        }
+      ]
+    },
+    "visual_precheck": null,
+    "created": "2026-11-10T05:53:17+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "stage_failed": "verify",
+    "reason": "ValueError: independent check still failing after repair: Out of those, about 40 billion lie right in the habitable zo (misleading); leaving thousands of hidden alien worlds full of secrets (narrated 1,000 vs independent 5,500 count); with about 40 billion in the habitable zone (misleading)"
+  },
+  {
+    "folder": "2026-11-10_060636_the-parker-solar-probe-reaches-speeds-up-to-430000",
+    "topic": "The Parker Solar Probe reaches speeds up to 430,000 mph, about 700,000 km/h, as it dives through the solar corona",
+    "status": "failed",
+    "stage": "script",
+    "role": "authority",
+    "slot": "2026-11-12T23:30:00+05:30",
+    "pillar": "Missions in danger (Apollo, ISS, Voyager, Artemis)",
+    "selection": {
+      "role": "authority",
+      "base_score": 44.0,
+      "multiplier": 1.0,
+      "parts": {
+        "pillar_role": 1.0
+      },
+      "final": 44.0,
+      "runner_up": [
+        {
+          "topic": "White dwarf star matter density where a single teaspoon weig",
+          "final": 42.5
+        },
+        {
+          "topic": "The Orion spacecraft heat shield on Artemis missions endures",
+          "final": 42.5
+        }
+      ]
+    },
+    "visual_precheck": null,
+    "created": "2026-11-10T06:06:36+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "stage_failed": "verify",
+    "reason": "ValueError: independent check still failing after repair: The Parker Solar Probe is the fastest human-made object ever (superlative with no document stating it (only indirect); a model's word isn't en); The solar shield is hexagonal, designed to withstand tempera (narrated 2,500 vs independent 1,377"
+  },
+  {
+    "folder": "2026-11-10_065555_white-dwarf-star-matter-density-where-a-single-tea",
+    "topic": "White dwarf star matter density where a single teaspoon weighs about 15 tons",
+    "status": "failed",
+    "stage": "script",
+    "role": "authority",
+    "slot": "2026-11-12T23:30:00+05:30",
+    "pillar": "Famous objects, one impossible fact",
+    "selection": {
+      "role": "authority",
+      "base_score": 42.5,
+      "multiplier": 1.0,
+      "parts": {
+        "pillar_role": 1.0
+      },
+      "final": 42.5,
+      "runner_up": [
+        {
+          "topic": "The Orion spacecraft heat shield on Artemis missions endures",
+          "final": 42.5
+        },
+        {
+          "topic": "The atmosphere of Venus exerts a surface pressure 92 times g",
+          "final": 41.5
+        }
+      ]
+    },
+    "visual_precheck": null,
+    "created": "2026-11-10T06:55:55+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "stage_failed": "verify",
+    "reason": "ValueError: independent check still failing after repair: Their white glow comes from heat, not scattering, and fades  (superlative not checked (no ledger entry for this scene))"
+  },
+  {
+    "folder": "2026-11-10_072342_the-orion-spacecraft-heat-shield-on-artemis-missio",
+    "topic": "The Orion spacecraft heat shield on Artemis missions endures temperatures near 5,000 °F, about 2,760 °C during re-entry",
+    "status": "failed",
+    "stage": "script",
+    "role": "authority",
+    "slot": "2026-11-12T23:30:00+05:30",
+    "pillar": "Missions in danger (Apollo, ISS, Voyager, Artemis)",
+    "selection": {
+      "role": "authority",
+      "base_score": 42.5,
+      "multiplier": 1.0,
+      "parts": {
+        "pillar_role": 1.0
+      },
+      "final": 42.5,
+      "runner_up": [
+        {
+          "topic": "The atmosphere of Venus exerts a surface pressure 92 times g",
+          "final": 41.5
+        },
+        {
+          "topic": "Jupiter's magnetic field is 20,000 times stronger than Earth",
+          "final": 40.0
+        }
+      ]
+    },
+    "visual_precheck": null,
+    "created": "2026-11-10T07:23:42+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "stage_failed": "verify",
+    "reason": "ValueError: independent check still failing after repair: It has a mass of about 9.5 metric tons (misleading); It has a mass of about 21,000 lb (misleading); 4.5 m in: Orion crew module 3.3 meters; Compact car 4.5 mete (number not checked (no ledger entry states it))"
+  },
+  {
+    "folder": "2026-11-10_074054_the-atmosphere-of-venus-exerts-a-surface-pressure-",
+    "topic": "The atmosphere of Venus exerts a surface pressure 92 times greater than Earth's, equal to being 3,000 feet deep in the ocean",
+    "status": "failed",
+    "stage": "script",
+    "role": "authority",
+    "slot": "2026-11-12T23:30:00+05:30",
+    "pillar": "Planets & moons",
+    "selection": {
+      "role": "authority",
+      "base_score": 41.5,
+      "multiplier": 1.0,
+      "parts": {
+        "pillar_role": 1.0
+      },
+      "final": 41.5,
+      "runner_up": [
+        {
+          "topic": "Jupiter's magnetic field is 20,000 times stronger than Earth",
+          "final": 40.0
+        },
+        {
+          "topic": "The total mass of the asteroid belt is only about 4 percent ",
+          "final": 40.0
+        }
+      ]
+    },
+    "visual_precheck": null,
+    "created": "2026-11-10T07:40:54+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "stage_failed": "verify",
+    "reason": "ValueError: independent check still failing after repair: 900 m in: Imagine standing on Venus with air as heavy as a 9 (number not checked (no ledger entry states it)); 0.9 km in: Venus pressure equivalent depth 0.9 km; Burj Khal (number not checked (no ledger entry states it)); 0.828 km in: Venus p"
+  },
+  {
+    "folder": "2026-11-10_075514_jupiters-magnetic-field-is-20000-times-stronger-th",
+    "topic": "Jupiter's magnetic field is 20,000 times stronger than Earth's, large enough to appear bigger than the full Moon in the night sky if visible",
+    "status": "failed",
+    "stage": "script",
+    "role": "authority",
+    "slot": "2026-11-12T23:30:00+05:30",
+    "pillar": "Planets & moons",
+    "selection": {
+      "role": "authority",
+      "base_score": 40.0,
+      "multiplier": 1.0,
+      "parts": {
+        "pillar_role": 1.0
+      },
+      "final": 40.0,
+      "runner_up": [
+        {
+          "topic": "The total mass of the asteroid belt is only about 4 percent ",
+          "final": 40.0
+        },
+        {
+          "topic": "The temperature in deep space is minus 454 °F, about minus 2",
+          "final": 40.0
+        }
+      ]
+    },
+    "visual_precheck": null,
+    "created": "2026-11-10T07:55:14+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "stage_failed": "verify",
+    "reason": "ValueError: independent check still failing after repair: Ganymede is the largest natural satellite in the Solar Syste (superlative with no document stating it; a model's word isn't enough); 5268 km in: Ganymede 5268 km; Callisto 4821 km; Io 3642 km (number not checked (no ledger entry states it)); "
+  },
+  {
+    "folder": "2026-11-10_081347_the-total-mass-of-the-asteroid-belt-is-only-about-",
+    "topic": "The total mass of the asteroid belt is only about 4 percent of the mass of Earth's Moon",
+    "status": "failed",
+    "stage": "script",
+    "role": "authority",
+    "slot": "2026-11-12T23:30:00+05:30",
+    "pillar": "Famous objects, one impossible fact",
+    "selection": {
+      "role": "authority",
+      "base_score": 40.0,
+      "multiplier": 1.0,
+      "parts": {
+        "pillar_role": 1.0
+      },
+      "final": 40.0,
+      "runner_up": [
+        {
+          "topic": "The temperature in deep space is minus 454 °F, about minus 2",
+          "final": 40.0
+        },
+        {
+          "topic": "The black hole at the center of our galaxy, Sagittarius A*, ",
+          "final": 37.4
+        }
+      ]
+    },
+    "visual_precheck": null,
+    "created": "2026-11-10T08:13:47+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null
   }
 ]

@@ -1,25 +1,307 @@
 [
   {
-    "topic": "Venus Raines Acid",
-    "pillar": "Planets & moons",
-    "series": "",
+    "topic": "The Voyager 1 spacecraft is over 15 billion miles away from Earth, about 24 billion km, taking over 22 hours for a radio signal to reach it",
+    "pillar": "Missions in danger (Apollo, ISS, Voyager, Artemis)",
+    "series": "Mission Files",
     "role": "discovery",
-    "angle": "Clouds on Venus are made of sulfuric acid drops, not water, dangerous to any unprotected suit.",
-    "hook_idea": "What falls from the sky on Venus?",
-    "viewer_benefit": "Grasps the hostile chemistry of our neighbor planet.",
-    "veo_prompt": "A dark, swirling orange cloud layer, thick liquid droplets falling in slow motion against a hazy background, photorealistic, vertical 9:16.",
-    "score": 28.5
+    "angle": "The staggering radio signal delay when talking to humanity's farthest machine",
+    "hook_idea": "Why does it take a full day to send a message to Voyager 1?",
+    "viewer_benefit": "Grasps interstellar distances through communication time lags",
+    "scores": {
+      "audience_relevance": 5,
+      "curiosity": 5,
+      "evidence_quality": 5,
+      "visual_feasibility": 5,
+      "series_potential": 5,
+      "familiarity": 5
+    },
+    "veo_prompt": "Vertical 9:16 photoreal rendering of the Voyager spacecraft flying through dark interstellar space with its golden record gleaming in distant starlight.",
+    "score": 47.5
   },
   {
-    "topic": "Jupiter Swallows 1,000 Earths",
+    "topic": "The distance from Earth to the Moon is about 238,855 miles, roughly 384,400 km, enough room to fit all the other planets in the solar system side by side",
     "pillar": "Famous objects, one impossible fact",
+    "series": "Scale Explained",
+    "role": "discovery",
+    "angle": "Lining up every planet in the solar system in the gap between Earth and the Moon",
+    "hook_idea": "Can every planet in the solar system fit between Earth and the Moon?",
+    "viewer_benefit": "Visualizes planetary spacing using the familiar Earth-Moon orbital gap",
+    "scores": {
+      "audience_relevance": 5,
+      "curiosity": 5,
+      "evidence_quality": 5,
+      "visual_feasibility": 5,
+      "series_potential": 5,
+      "familiarity": 5
+    },
+    "veo_prompt": "Vertical 9:16 photoreal shot of Earth and the Moon separated by the vast black expanse of space, scale-accurate depiction.",
+    "score": 47.5
+  },
+  {
+    "topic": "Light from the Sun takes 8 minutes and 20 seconds to travel across space and reach Earth's surface",
+    "pillar": "Famous objects, one impossible fact",
+    "series": "Scale Explained",
+    "role": "discovery",
+    "angle": "Sunlight traveling across the solar vacuum like a delayed broadcast",
+    "hook_idea": "What would happen if the Sun suddenly blinked out of existence right now?",
+    "viewer_benefit": "Understands the finite speed of light using the Earth-Sun distance",
+    "scores": {
+      "audience_relevance": 5,
+      "curiosity": 5,
+      "evidence_quality": 5,
+      "visual_feasibility": 5,
+      "series_potential": 5,
+      "familiarity": 5
+    },
+    "veo_prompt": "Vertical 9:16 photoreal beam of golden sunlight piercing through the black vacuum of space toward the blue curve of Earth.",
+    "score": 47.5
+  },
+  {
+    "topic": "The Apollo 11 lunar module computer had only 74 kilobytes of memory, less than a modern digital watch",
+    "pillar": "Missions in danger (Apollo, ISS, Voyager, Artemis)",
+    "series": "Mission Files",
+    "role": "discovery",
+    "angle": "Comparing the computing power of the Apollo Guidance Computer to a basic modern gadget",
+    "hook_idea": "How did Apollo land on the Moon with less computing power than a car key?",
+    "viewer_benefit": "Realizes the incredible engineering triumph behind early space flight software",
+    "scores": {
+      "audience_relevance": 5,
+      "curiosity": 5,
+      "evidence_quality": 5,
+      "visual_feasibility": 4,
+      "series_potential": 5,
+      "familiarity": 5
+    },
+    "veo_prompt": "Vertical 9:16 photoreal close-up of vintage Apollo computer circuitry and glowing amber display screens inside a dark spacecraft cockpit.",
+    "score": 46.0
+  },
+  {
+    "topic": "The ISS travels at 17,500 miles per hour, about 28,000 km/h, orbiting Earth every 90 minutes",
+    "pillar": "Missions in danger (Apollo, ISS, Voyager, Artemis)",
+    "series": "Mission Files",
+    "role": "discovery",
+    "angle": "Comparing the speed of the International Space Station to a high-powered rifle bullet",
+    "hook_idea": "How does a space station outrun a speeding bullet?",
+    "viewer_benefit": "Understands orbital velocity through a familiar weapon comparison",
+    "scores": {
+      "audience_relevance": 5,
+      "curiosity": 4,
+      "evidence_quality": 5,
+      "visual_feasibility": 5,
+      "series_potential": 4,
+      "familiarity": 5
+    },
+    "veo_prompt": "Cinematic vertical 9:16 shot of the International Space Station orbiting Earth at sunset, photoreal, highly detailed solar panels, deep black space background, 4k resolution.",
+    "score": 45.0
+  },
+  {
+    "topic": "The Sun's core temperature reaches 27 million °F, about 15 million °C",
+    "pillar": "Famous objects, one impossible fact",
+    "series": "Scale Explained",
+    "role": "discovery",
+    "angle": "The immense heat of the solar core compared to a kitchen oven",
+    "hook_idea": "How hot is the blazing center of our Sun?",
+    "viewer_benefit": "Visualizes stellar core temperatures using household heat scales",
+    "scores": {
+      "audience_relevance": 5,
+      "curiosity": 4,
+      "evidence_quality": 5,
+      "visual_feasibility": 5,
+      "series_potential": 4,
+      "familiarity": 5
+    },
+    "veo_prompt": "Vertical 9:16 cinematic macro shot of violent solar plasma loops bursting from the Sun's surface, intense orange and yellow hues, photoreal.",
+    "score": 45.0
+  },
+  {
+    "topic": "The black hole at the center of our galaxy, Sagittarius A*, has a mass equal to 4 million suns packed into a region smaller than Mercury's orbit",
+    "pillar": "Stars & black holes",
+    "series": "Scale Explained",
+    "role": "authority",
+    "angle": "Packing millions of stars into the space of the inner solar system",
+    "hook_idea": "How do four million suns fit into such a tiny space?",
+    "viewer_benefit": "Comprehends supermassive black hole density and central galactic scale",
+    "scores": {
+      "audience_relevance": 4,
+      "curiosity": 5,
+      "evidence_quality": 5,
+      "visual_feasibility": 5,
+      "series_potential": 5,
+      "familiarity": 4
+    },
+    "veo_prompt": "Vertical 9:16 photoreal cinematic shot of a glowing accretion disk swirling around a dark supermassive black hole in the galactic core.",
+    "score": 44.0
+  },
+  {
+    "topic": "Mars rover Curiosity wheel wear and tear on sharp rocks",
+    "pillar": "Missions in danger (Apollo, ISS, Voyager, Artemis)",
+    "series": "Mission Files",
+    "role": "retention",
+    "angle": "Curiosity's aluminum wheels shredding on jagged Martian terrain like soft cheese",
+    "hook_idea": "Why are Mars rover wheels shredding like tin foil?",
+    "viewer_benefit": "Learns the harsh mechanical realities of driving across alien terrain",
+    "scores": {
+      "audience_relevance": 4,
+      "curiosity": 4,
+      "evidence_quality": 5,
+      "visual_feasibility": 5,
+      "series_potential": 4,
+      "familiarity": 4
+    },
+    "veo_prompt": "Vertical 9:16 photoreal close-up of a NASA rover metal wheel crushing sharp red Martian rocks, dust kicking up, golden hour lighting.",
+    "score": 41.5
+  },
+  {
+    "topic": "The Pillars of Creation in the Eagle Nebula span about 4 to 5 light-years in length",
+    "pillar": "Stars & black holes",
+    "series": "How Big Is It?",
+    "role": "authority",
+    "angle": "Towering columns of cosmic dust compared to interstellar distances",
+    "hook_idea": "How massive are the cosmic pillars where new stars are born?",
+    "viewer_benefit": "Grasps the gargantuan scale of stellar nurseries photographed by space telescopes",
+    "scores": {
+      "audience_relevance": 4,
+      "curiosity": 4,
+      "evidence_quality": 5,
+      "visual_feasibility": 5,
+      "series_potential": 4,
+      "familiarity": 4
+    },
+    "veo_prompt": "Vertical 9:16 photoreal majestic shot of glowing gas pillars in the Eagle Nebula, vibrant cosmic dust clouds, sparkling stars.",
+    "score": 41.5
+  },
+  {
+    "topic": "The International Space Station completes 15.5 orbits around Earth every single day",
+    "pillar": "Missions in danger (Apollo, ISS, Voyager, Artemis)",
+    "series": "Mission Files",
+    "role": "retention",
+    "angle": "Experiencing multiple sunrises and sunsets every 24 hours aboard the ISS",
+    "hook_idea": "How do astronauts experience sixteen sunrises in one single day?",
+    "viewer_benefit": "Visualizes low-earth orbit frequency through daily sunrise counts",
+    "scores": {
+      "audience_relevance": 4,
+      "curiosity": 4,
+      "evidence_quality": 5,
+      "visual_feasibility": 5,
+      "series_potential": 4,
+      "familiarity": 4
+    },
+    "veo_prompt": "Vertical 9:16 photoreal time-lapse of Earth's horizon glowing bright orange as the Sun rises rapidly from the darkness of space.",
+    "score": 41.5
+  },
+  {
+    "topic": "Titan's atmosphere is 1.45 times thicker than Earth's surface pressure, allowing a human to walk around without a pressure suit if wearing an oxygen mask and heavy coat",
+    "pillar": "Planets & moons",
+    "series": "Scale Explained",
+    "role": "discovery",
+    "angle": "Walking on Saturn's largest moon without crushing pressure",
+    "hook_idea": "Could you walk on Saturn's moon Titan without a spacesuit?",
+    "viewer_benefit": "Learns unusual atmospheric conditions on distant moons",
+    "scores": {
+      "audience_relevance": 4,
+      "curiosity": 5,
+      "evidence_quality": 5,
+      "visual_feasibility": 4,
+      "series_potential": 4,
+      "familiarity": 4
+    },
+    "veo_prompt": "Vertical 9:16 photoreal landscape of Titan's hazy orange atmosphere, dark methane riverbeds, and wet icy terrain under a dim distant Sun.",
+    "score": 41.5
+  },
+  {
+    "topic": "Saturn's moon Enceladus shoots water ice geysers hundreds of miles into space from a subsurface global ocean",
+    "pillar": "Planets & moons",
     "series": "How Big Is It?",
     "role": "discovery",
-    "angle": "Jupiter's volume is so vast it could contain 1,300 copies of our planet inside it.",
-    "hook_idea": "How many Earths fit inside Jupiter?",
-    "viewer_benefit": "Instantly understands the scale gap between gas giants and rocky planets.",
-    "veo_prompt": "A giant, striped gas sphere (Jupiter) with a smaller blue marble (Earth) floating in front, scale comparison, cosmic background, vertical 9:16.",
-    "score": 28.5
+    "angle": "Towering ice plumes erupting from a tiny frozen world like an interstellar geyser",
+    "hook_idea": "What powers the giant ice geysers erupting on a tiny moon?",
+    "viewer_benefit": "Discovers active cryovolcanism on icy outer solar system bodies",
+    "scores": {
+      "audience_relevance": 4,
+      "curiosity": 4,
+      "evidence_quality": 5,
+      "visual_feasibility": 4,
+      "series_potential": 4,
+      "familiarity": 4
+    },
+    "veo_prompt": "Vertical 9:16 photoreal view of Saturn's icy moon Enceladus spraying massive geysers of water vapor into space against the backdrop of Saturn's rings.",
+    "score": 40.0
+  },
+  {
+    "topic": "The temperature in deep space is minus 454 °F, about minus 270 °C, just a fraction above absolute zero",
+    "pillar": "Famous objects, one impossible fact",
+    "series": "Scale Explained",
+    "role": "authority",
+    "angle": "The bone-chilling cold of the cosmic vacuum compared to household freezers",
+    "hook_idea": "How cold is the empty space between the stars?",
+    "viewer_benefit": "Grasps cosmic temperatures near absolute zero using extreme chill scales",
+    "scores": {
+      "audience_relevance": 4,
+      "curiosity": 4,
+      "evidence_quality": 5,
+      "visual_feasibility": 4,
+      "series_potential": 4,
+      "familiarity": 4
+    },
+    "veo_prompt": "Vertical 9:16 photoreal cinematic shot of frost crystals forming on a metallic spacecraft hull floating in deep space under cold starlight.",
+    "score": 40.0
+  },
+  {
+    "topic": "Chandrayaan-3 landing site near the lunar south pole in shadowed craters",
+    "pillar": "ISRO & India in space",
+    "series": "Mission Files",
+    "role": "retention",
+    "angle": "Landing in permanent lunar shadows where sunlight has not touched in billions of years",
+    "hook_idea": "Why did India land in the darkest craters on the Moon?",
+    "viewer_benefit": "Discover the strategic importance of polar lunar exploration",
+    "scores": {
+      "audience_relevance": 4,
+      "curiosity": 4,
+      "evidence_quality": 5,
+      "visual_feasibility": 4,
+      "series_potential": 5,
+      "familiarity": 3
+    },
+    "veo_prompt": "Vertical 9:16 cinematic shot of a lunar lander touching down on the dusty gray Moon surface near deep black craters, lens flare, photoreal.",
+    "score": 39.0
+  },
+  {
+    "topic": "Neutron star magnetic fields in magnetars can generate forces strong enough to distort the electron clouds of atoms",
+    "pillar": "Stars & black holes",
+    "series": "Scale Explained",
+    "role": "authority",
+    "angle": "Magnetar magnetic strength tearing apart the atomic structure of ordinary matter",
+    "hook_idea": "What happens when a magnetic field is strong enough to rip atoms apart?",
+    "viewer_benefit": "Explores the bizarre physics of extreme magnetic fields in dead stars",
+    "scores": {
+      "audience_relevance": 3,
+      "curiosity": 5,
+      "evidence_quality": 5,
+      "visual_feasibility": 4,
+      "series_potential": 4,
+      "familiarity": 3
+    },
+    "veo_prompt": "Vertical 9:16 photoreal cinematic shot of a magnetar emitting intense flashing pulses of blue light and magnetic energy across deep space.",
+    "score": 38.0
+  },
+  {
+    "topic": "The Chandrayaan-1 mission discovered definitive signatures of water molecules distributed across the lunar surface",
+    "pillar": "ISRO & India in space",
+    "series": "Mission Files",
+    "role": "discovery",
+    "angle": "Finding trapped water molecules baked into lunar dust across the Moon",
+    "hook_idea": "Where is water actually hiding across the dusty lunar surface?",
+    "viewer_benefit": "Discovers modern lunar resource discoveries made by space probes",
+    "scores": {
+      "audience_relevance": 4,
+      "curiosity": 4,
+      "evidence_quality": 5,
+      "visual_feasibility": 4,
+      "series_potential": 4,
+      "familiarity": 3
+    },
+    "veo_prompt": "Vertical 9:16 photoreal shot of a scientific probe orbiting above the cratered gray surface of the Moon with a digital mineral overlay.",
+    "score": 38.0
   },
   {
     "topic": "Europa's Icy Shell",
