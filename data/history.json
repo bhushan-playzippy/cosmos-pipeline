@@ -4645,7 +4645,7 @@
       "gates": "2026-11-08T03:17:29+05:30",
       "upload_started": "2026-11-08T03:32:58+05:30",
       "upload": "2026-11-08T03:38:40+05:30",
-      "published": "2026-11-11T21:28:21+05:30"
+      "published": "2026-11-11T22:54:08+05:30"
     },
     "youtube_id": "TYLd6jbm4L4",
     "instagram_id": null,
@@ -5161,7 +5161,7 @@
     "reason": "docstudio animated documentary upload",
     "privacy": "public",
     "stages": {
-      "published": "2026-11-11T21:28:21+05:30"
+      "published": "2026-11-11T22:54:08+05:30"
     }
   },
   {
@@ -6669,7 +6669,7 @@
     "privacy": "private"
   },
   {
-    "folder": "2026-11-11_212821_the-apollo-11-lunar-module-computer-had-only-74-ki",
+    "folder": "2026-11-11_225408_the-apollo-11-lunar-module-computer-had-only-74-ki",
     "topic": "The Apollo 11 lunar module computer had only 74 kilobytes of memory, less than a modern digital watch",
     "status": "failed",
     "stage": "script",
@@ -6696,21 +6696,78 @@
       ]
     },
     "visual_precheck": null,
-    "created": "2026-11-11T21:28:21+05:30",
+    "created": "2026-11-11T22:54:08+05:30",
     "stages": {},
     "youtube_id": null,
     "instagram_id": null,
     "stage_failed": "verify",
-    "reason": "ValueError: independent check still failing after repair: The Apollo 11 computer had memory in a watch-sized case. (wrong); The Apollo computer fit in a case about the size of a large  (wrong);  (Low count) The Apollo Guidance Computer contained between  (narrated 36 vs independent 72 KB)"
+    "reason": "ValueError: independent check still failing after repair: The alarms sounded five minutes into the descent burn. (wrong); The alarms occurred at an altitude of 6,000 feet (about 1,80 (wrong); 828 m in: Burj Khalifa 828 m; Alarm Altitude 1800 m (number not checked (no ledger entry states it))"
   },
   {
-    "folder": "2026-11-11_221700_shuttle-tile-touch-test",
-    "topic": "Shuttle Tile Touch Test",
+    "folder": "2026-11-11_235521_iss-solar-array-equals-football-field",
+    "topic": "ISS Solar Array Equals Football Field",
     "status": "failed",
     "stage": "script",
     "role": "authority",
     "slot": "2026-11-12T23:30:00+05:30",
     "pillar": "Famous objects, one impossible fact",
+    "selection": {
+      "role": "authority",
+      "base_score": 44.0,
+      "multiplier": 1.0,
+      "parts": {
+        "pillar_role": 1.0
+      },
+      "final": 44.0,
+      "runner_up": [
+        {
+          "topic": "Voyager 2’s Triton Flyby Speed",
+          "final": 40.5
+        }
+      ]
+    },
+    "visual_precheck": null,
+    "created": "2026-11-11T23:55:21+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "stage_failed": "verify",
+    "reason": "ValueError: independent check still failing after repair: Two iROSA panels were installed on the station's P6 truss in (wrong); The headline “ENORMOUS SOLAR WINGS” accurately reflects the  (superlative with no document stating it; a model's word isn't enough); The ISS turns sunlight into a stadium‑s"
+  },
+  {
+    "folder": "2026-11-12_000705_voyager-2s-triton-flyby-speed",
+    "topic": "Voyager 2’s Triton Flyby Speed",
+    "status": "failed",
+    "stage": "script",
+    "role": "authority",
+    "slot": "2026-11-12T23:30:00+05:30",
+    "pillar": "Missions in danger (Apollo, ISS, Voyager, Artemis)",
+    "selection": {
+      "role": "authority",
+      "base_score": 40.5,
+      "multiplier": 1.0,
+      "parts": {
+        "pillar_role": 1.0
+      },
+      "final": 40.5,
+      "runner_up": []
+    },
+    "visual_precheck": null,
+    "created": "2026-11-12T00:07:05+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "stage_failed": "verify",
+    "reason": "ValueError: independent check still failing after repair: Voyager 2 crossed New York to Los Angeles in about five minu (misleading); Voyager 2 shot past Neptune's moon Triton at over 12 kilomet (wrong); That's roughly 34,500 miles per hour — about 16 times faster (misleading)"
+  },
+  {
+    "folder": "2026-11-12_001532_apollo-12-lightning-strike",
+    "topic": "Apollo 12 Lightning Strike",
+    "status": "failed",
+    "stage": "script",
+    "role": "authority",
+    "slot": "2026-11-12T23:30:00+05:30",
+    "pillar": "Missions in danger (Apollo, ISS, Voyager, Artemis)",
     "selection": {
       "role": "authority",
       "base_score": 46.5,
@@ -6721,26 +6778,96 @@
       "final": 46.5,
       "runner_up": [
         {
-          "topic": "Titan's Heavy Air Flying",
-          "final": 43.0
+          "topic": "The ISS travels at 17,500 miles per hour, about 28,000 km/h,",
+          "final": 40.05
         },
         {
-          "topic": "Io's 300-Mile Lava Fountains",
-          "final": 39.5
+          "topic": "Mangalyaan Reached Mars on First Try",
+          "final": 39.61
         }
       ]
     },
     "visual_precheck": null,
-    "created": "2026-11-11T22:17:00+05:30",
+    "created": "2026-11-12T00:15:32+05:30",
     "stages": {},
     "youtube_id": null,
     "instagram_id": null,
     "stage_failed": "verify",
-    "reason": "ValueError: independent check still failing after repair: NASA offered about 7,000 tiles to schools for $23.40 each. (wrong); In 1999, Discovery also flew a shuttle mission to dock with  (wrong); NASA Sold Shuttle Tiles for $23.40 (wrong)"
+    "reason": "ValueError: independent check still failing after repair: Earth experiences over eight million lightning flashes per d (disputed)"
   },
   {
-    "folder": "2026-11-11_221841_titans-heavy-air-flying",
-    "topic": "Titan's Heavy Air Flying",
+    "folder": "2026-11-12_002217_the-iss-travels-at-17500-miles-per-hour-about-2800",
+    "topic": "The ISS travels at 17,500 miles per hour, about 28,000 km/h, orbiting Earth every 90 minutes",
+    "status": "failed",
+    "stage": "script",
+    "role": "authority",
+    "slot": "2026-11-12T23:30:00+05:30",
+    "pillar": "Missions in danger (Apollo, ISS, Voyager, Artemis)",
+    "selection": {
+      "role": "authority",
+      "base_score": 45.0,
+      "multiplier": 0.89,
+      "parts": {
+        "pillar_role": 0.89
+      },
+      "final": 40.05,
+      "runner_up": [
+        {
+          "topic": "Mangalyaan Reached Mars on First Try",
+          "final": 39.61
+        },
+        {
+          "topic": "Falcon Heavy Lifts 64,000 kg",
+          "final": 39.16
+        }
+      ]
+    },
+    "visual_precheck": null,
+    "created": "2026-11-12T00:22:17+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "stage_failed": "verify",
+    "reason": "ValueError: independent check still failing after repair: The ISS is the largest modular structure ever assembled in s (superlative with no document stating it (only indirect); a model's word isn't en); 2600 mph in: A rifle bullet exits the barrel in a flash, wit (number not checked (no ledger entry"
+  },
+  {
+    "folder": "2026-11-12_003323_mangalyaan-reached-mars-on-first-try",
+    "topic": "Mangalyaan Reached Mars on First Try",
+    "status": "failed",
+    "stage": "script",
+    "role": "authority",
+    "slot": "2026-11-12T23:30:00+05:30",
+    "pillar": "ISRO & India in space",
+    "selection": {
+      "role": "authority",
+      "base_score": 44.5,
+      "multiplier": 0.89,
+      "parts": {
+        "pillar_role": 0.89
+      },
+      "final": 39.61,
+      "runner_up": [
+        {
+          "topic": "Falcon Heavy Lifts 64,000 kg",
+          "final": 39.16
+        },
+        {
+          "topic": "The Chandrayaan-1 mission discovered definitive signatures o",
+          "final": 33.82
+        }
+      ]
+    },
+    "visual_precheck": null,
+    "created": "2026-11-12T00:33:23+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "stage_failed": "verify",
+    "reason": "ValueError: independent check still failing after repair: joining the list of successful Mars orbiters (superlative with no document stating it; a model's word isn't enough); Mangalyaan travel 480000000 mi (wrong); aboard a PSLV-C25 (no document evidence (4 unresolved claims; at most 3 per video): s"
+  },
+  {
+    "folder": "2026-11-12_003927_jupiter-contains-all-other-planets",
+    "topic": "Jupiter Contains All Other Planets",
     "status": "failed",
     "stage": "script",
     "role": "authority",
@@ -6748,29 +6875,20 @@
     "pillar": "Planets & moons",
     "selection": {
       "role": "authority",
-      "base_score": 43.0,
+      "base_score": 44.0,
       "multiplier": 1.0,
       "parts": {
         "pillar_role": 1.0
       },
-      "final": 43.0,
-      "runner_up": [
-        {
-          "topic": "Io's 300-Mile Lava Fountains",
-          "final": 39.5
-        },
-        {
-          "topic": "Saturn Orbit Inside a Star",
-          "final": 39.5
-        }
-      ]
+      "final": 44.0,
+      "runner_up": []
     },
     "visual_precheck": null,
-    "created": "2026-11-11T22:18:41+05:30",
+    "created": "2026-11-12T00:39:27+05:30",
     "stages": {},
     "youtube_id": null,
     "instagram_id": null,
     "stage_failed": "verify",
-    "reason": "ValueError: independent check still failing after repair: The Titan IV could lift about half the payload of the Mack h (low confidence); Imagine flapping your arms and soaring on a world where the  (description states more than the narration: 150)"
+    "reason": "ValueError: independent check still failing after repair: Jupiter is 2.5 times the mass of every other planet combined (instagram states more than the narration: first)"
   }
 ]

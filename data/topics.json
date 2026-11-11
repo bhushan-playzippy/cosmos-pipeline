@@ -1,193 +1,290 @@
 [
   {
-    "topic": "A day on Venus is longer than its year: it takes 243 Earth days to rotate once and 225 to orbit the Sun",
-    "pillar": "Planets & moons",
-    "series": "Universe in a Teaspoon",
-    "role": "discovery",
-    "angle": "A planet where one day outlasts the year",
-    "hook_idea": "On Venus, a day is longer than a year.",
-    "viewer_benefit": "Why Venus has the strangest calendar in the solar system.",
-    "scores": {
-      "audience_relevance": 5,
-      "curiosity": 5,
-      "evidence_quality": 5,
-      "visual_feasibility": 5,
-      "series_potential": 4,
-      "familiarity": 5
-    },
-    "veo_prompt": "",
-    "score": 50.0
-  },
-  {
-    "topic": "The Sun contains about 99.8 percent of all the mass in the solar system",
-    "pillar": "Stars & black holes",
-    "series": "Universe in a Teaspoon",
-    "role": "discovery",
-    "angle": "Everything else is leftovers",
-    "hook_idea": "Every planet combined is a rounding error next to the Sun.",
-    "viewer_benefit": "How much of the solar system is just the Sun.",
-    "scores": {
-      "audience_relevance": 5,
-      "curiosity": 5,
-      "evidence_quality": 5,
-      "visual_feasibility": 5,
-      "series_potential": 4,
-      "familiarity": 5
-    },
-    "veo_prompt": "",
-    "score": 50.0
-  },
-  {
-    "topic": "Jupiter's Great Red Spot is a storm larger than Earth that has been observed for more than 150 years",
-    "pillar": "Famous objects, one impossible fact",
-    "series": "Universe in a Teaspoon",
-    "role": "discovery",
-    "angle": "A storm older than anyone alive and bigger than our planet",
-    "hook_idea": "This storm is bigger than Earth and has not stopped.",
-    "viewer_benefit": "What the Great Red Spot is and how long we have watched it.",
-    "scores": {
-      "audience_relevance": 5,
-      "curiosity": 5,
-      "evidence_quality": 5,
-      "visual_feasibility": 5,
-      "series_potential": 4,
-      "familiarity": 5
-    },
-    "veo_prompt": "",
-    "score": 50.0
-  },
-  {
-    "topic": "Chandrayaan-3 made India the first country to land near the Moon's south pole on 23 August 2023",
-    "pillar": "ISRO & India in space",
-    "series": "Universe in a Teaspoon",
-    "role": "authority",
-    "angle": "The landing no other country had made",
-    "hook_idea": "India landed where no one had landed before.",
-    "viewer_benefit": "What Chandrayaan-3 achieved near the lunar south pole.",
-    "scores": {
-      "audience_relevance": 5,
-      "curiosity": 5,
-      "evidence_quality": 5,
-      "visual_feasibility": 5,
-      "series_potential": 4,
-      "familiarity": 5
-    },
-    "veo_prompt": "",
-    "score": 50.0
-  },
-  {
-    "topic": "Apollo 13: an oxygen tank exploded on the way to the Moon and the crew used the lunar module as a lifeboat",
+    "topic": "ISS Crew Sleeps in 8 Hours of Day/Light",
     "pillar": "Missions in danger (Apollo, ISS, Voyager, Artemis)",
-    "series": "Universe in a Teaspoon",
+    "series": "Mission Files",
     "role": "retention",
-    "angle": "A Moon landing became a rescue",
-    "hook_idea": "Their spacecraft broke on the way to the Moon.",
-    "viewer_benefit": "How three astronauts got home after the Apollo 13 explosion.",
-    "scores": {
-      "audience_relevance": 5,
-      "curiosity": 5,
-      "evidence_quality": 5,
-      "visual_feasibility": 5,
-      "series_potential": 4,
-      "familiarity": 5
-    },
-    "veo_prompt": "",
-    "score": 50.0
-  },
-  {
-    "topic": "Voyager 1 is the most distant human-made object and has entered interstellar space",
-    "pillar": "Missions in danger (Apollo, ISS, Voyager, Artemis)",
-    "series": "Universe in a Teaspoon",
-    "role": "authority",
-    "angle": "Launched in 1977 and still going",
-    "hook_idea": "The farthest thing humans have ever made is still flying.",
-    "viewer_benefit": "Where Voyager 1 is and what it means to leave the Sun's bubble.",
-    "scores": {
-      "audience_relevance": 5,
-      "curiosity": 5,
-      "evidence_quality": 5,
-      "visual_feasibility": 5,
-      "series_potential": 4,
-      "familiarity": 5
-    },
-    "veo_prompt": "",
-    "score": 50.0
-  },
-  {
-    "topic": "Aditya-L1, India's first space-based solar observatory, watches the Sun from the L1 point 1.5 million km from Earth",
-    "pillar": "ISRO & India in space",
-    "series": "Universe in a Teaspoon",
-    "role": "authority",
-    "angle": "India's eye on the Sun",
-    "hook_idea": "India parked a spacecraft 1.5 million km away to stare at the Sun.",
-    "viewer_benefit": "What Aditya-L1 studies and why L1 is the place to do it.",
-    "scores": {
-      "audience_relevance": 5,
-      "curiosity": 5,
-      "evidence_quality": 5,
-      "visual_feasibility": 5,
-      "series_potential": 4,
-      "familiarity": 5
-    },
-    "veo_prompt": "",
-    "score": 50.0
-  },
-  {
-    "topic": "Io's 300-Mile Lava Fountains",
-    "pillar": "Planets & moons",
-    "series": "Scale Explained",
-    "role": "authority",
-    "angle": "Volcanic plumes shooting sulfur gas 300 miles (480 km) high, higher than orbit",
-    "hook_idea": "What moon shoots lava higher than the Space Station orbits?",
-    "viewer_benefit": "Visualizes Jupiter's extreme tidal forces driving the most volcanic world in our solar system.",
+    "angle": "Astronauts see sunrise 16 times a day, disrupting their sleep cycles",
+    "hook_idea": "How do you sleep when you see 16 sunrises a day?",
+    "viewer_benefit": "Insight into the human challenges of orbital life",
     "scores": {
       "audience_relevance": 4,
-      "curiosity": 5,
+      "curiosity": 4,
       "evidence_quality": 5,
-      "visual_feasibility": 4,
-      "series_potential": 4,
-      "familiarity": 3
+      "visual_feasibility": 5,
+      "series_potential": 5,
+      "familiarity": 5
     },
-    "veo_prompt": "Cinematic vertical 9:16 shot of a massive volcanic plume erupting off the yellow-green surface of Jupiter's moon Io into dark space.",
-    "score": 39.5
+    "veo_prompt": "Interior view from the ISS cupola. Earth passes by in rapid succession, casting alternating bright sunlight and deep shadow across the module. Time-lapse effect of light flickering. Cinematic, vertical 9:16.",
+    "score": 44.5,
+    "draft": {
+      "topic": "ISS Crew Sleeps in 8 Hours of Day/Light",
+      "scenes": [
+        {
+          "text": "Six sunrises occur during a single 8.5‑hour ISS sleep",
+          "visual": "sunrise from space",
+          "nasa": "sunrise ISS",
+          "subject": "sunrise from space station"
+        },
+        {
+          "text": "The International Space Station orbits Earth every 93 minutes, at 17,000 mph.",
+          "visual": "earth from space",
+          "nasa": "ISS orbit Earth",
+          "subject": "International Space Station"
+        },
+        {
+          "text": "That's 15.5 trips around our planet daily, so the sun rises and sets 16 times.",
+          "visual": "planet earth rotating",
+          "nasa": "Earth from orbit",
+          "subject": "Earth from orbit"
+        },
+        {
+          "text": "Your body clock never gets a break. To simulate night, the station's windows are covered during sleep periods.",
+          "visual": "astronaut sleeping",
+          "nasa": "astronaut sleep ISS",
+          "subject": "astronaut sleeping"
+        },
+        {
+          "text": "A typical day starts at 06:00 with wake-up and morning inspection.",
+          "visual": "astronaut working",
+          "nasa": "astronaut morning ISS",
+          "subject": "astronaut working"
+        },
+        {
+          "text": "After a one-hour lunch at 13:05, it's back to work and exercise.",
+          "visual": "astronaut exercise",
+          "nasa": "astronaut exercise ISS",
+          "subject": "astronaut exercising"
+        },
+        {
+          "text": "Pre-sleep activities begin at 19:30, with sleep scheduled at 21:30.",
+          "visual": "astronaut relaxing",
+          "nasa": "astronaut pre-sleep ISS",
+          "subject": "astronaut relaxing"
+        },
+        {
+          "text": "That's a sunrise about every 90 minutes—roughly 5 or 6 during an 8.5-hour sleep shift.",
+          "visual": "sunrise from space",
+          "nasa": "sunrise ISS",
+          "subject": "sunrise from space station"
+        },
+        {
+          "text": "That's why ISS sleep cycles are bathed in six relentless sunrises.",
+          "visual": "sunrise earth",
+          "nasa": "Earth sunrise",
+          "subject": "sunrise from space"
+        }
+      ],
+      "youtube": {
+        "title": "ISS Crew Sleeps Through Six Sunrises",
+        "hook_text": "Six Sunrises in One Sleep",
+        "description": "Six sunrises flash by while the ISS crew naps.\nThe station circles Earth every 93 minutes (about 1.55 hours) at 17,000 mph (≈27,400 km/h), completing 15.5 orbits per day. A typical day starts at 06:00, lunch at 13:05, and lights out at 21:30, so an 8.5‑hour sleep (≈13.6 hours) sees a sunrise roughly every 90 minutes—six in total. Windows are covered to simulate night.\nSources: International Space Station - Wikipedia, SpaceX Crew-9 - Wikipedia\n#Shorts #ISS #SpaceStation #Astronomy #Space",
+        "tags": [
+          "ISS",
+          "International Space Station",
+          "space sleep",
+          "space sunrise",
+          "NASA",
+          "ESA",
+          "SpaceX",
+          "orbit",
+          "low Earth orbit",
+          "space station day",
+          "space schedule",
+          "astronomy",
+          "space facts",
+          "space science",
+          "orbit time",
+          "space crew",
+          "space life",
+          "ISS schedule"
+        ],
+        "pinned_comment": "Can you imagine trying to sleep while the sun rises six times in 8.5 hours? How would your body clock cope?"
+      },
+      "instagram": {
+        "caption": "A sunrise every 90 minutes—six while the crew sleeps.\nWould you handle that?",
+        "hashtags": [
+          "#ISS",
+          "#SpaceStation",
+          "#Astronomy",
+          "#Space",
+          "#Sunrise"
+        ]
+      },
+      "sources": [
+        "International Space Station - Wikipedia",
+        "SpaceX Crew-9 - Wikipedia"
+      ],
+      "music_mood": "mysterious",
+      "provenance": {
+        "write": "nvidia-deepseek:deepseek-ai/deepseek-v4.1-flash",
+        "fact_check": "nvidia-deepseek:deepseek-ai/deepseek-v4.1-flash",
+        "polish": "groq:openai/gpt-oss-120b",
+        "packaging": "groq:openai/gpt-oss-120b"
+      },
+      "fact_checks": [
+        {
+          "claim": "How do you sleep when you see 16 sunrises a day?",
+          "verdict": "ok",
+          "working": "ISS orbital period ~92.9 min → 1440/92.9 = 15.5 orbits/day → 15.5 sunrises + 15.5 sunsets ≈ 16 of each. '16 sunrises a day' is the standard NASA figure."
+        },
+        {
+          "claim": "The International Space Station orbits Earth every 93 minutes, at 17,000 mph.",
+          "verdict": "ok",
+          "working": "Orbital period ≈ 92.9 min ≈ 93 min. Orbital speed ≈ 7.66 km/s = 27,600 km/h = 17,150 mph ≈ 17,000 mph. Both correct."
+        },
+        {
+          "claim": "That's 15.5 trips around our planet daily, so the sun rises and sets 16 times.",
+          "verdict": "ok",
+          "working": "1440 min / 92.9 min = 15.5 orbits per day. Each orbit gives one sunrise and one sunset → ~15.5 of each, rounded to 16. Correct."
+        },
+        {
+          "claim": "Your body clock never gets a break. To simulate night, the station's windows are covered during sleep periods.",
+          "verdict": "ok",
+          "working": "ISS crews do cover windows/shades to darken the sleep station; circadian disruption from 16 light/dark cycles is real. No numeric error."
+        },
+        {
+          "claim": "A typical day starts at 06:00 with wake-up and morning inspection.",
+          "verdict": "ok",
+          "working": "NASA ISS crew timeline uses GMT; wake ~06:00, morning inspection/post-sleep ~06:00–07:00. Acceptable."
+        },
+        {
+          "claim": "After a one-hour lunch at 13:05, it's back to work and exercise.",
+          "verdict": "ok",
+          "working": "NASA ISS daily plan: lunch ~13:05–14:05 (1 hour), then afternoon work/exercise. Correct."
+        },
+        {
+          "claim": "Pre-sleep activities begin at 19:30, with sleep scheduled at 21:30.",
+          "verdict": "ok",
+          "working": "NASA ISS timeline: pre-sleep ~19:30–21:30, sleep 21:30–06:00 (8.5 h). Correct."
+        },
+        {
+          "claim": "That's 16 sunrises—about one every 90 minutes—while you're trying to sleep.",
+          "verdict": "fixed",
+          "working": "Original implies 16 sunrises occur during the sleep period. Sleep is 21:30–06:00 = 8.5 h = 510 min. 510/92.9 = 5.5 orbits → ~5–6 sunrises during sleep, not 16. 16 is per full day. Rewrote to 'about one every 90 minutes' for the orbit rate and removed the false implication that all 16 happen while sleeping."
+        },
+        {
+          "claim": "So next time you see a sunrise, remember: the ISS crew sees it 16 times a day.",
+          "verdict": "ok",
+          "working": "16 sunrises per day is correct (15.5 rounded). No change needed."
+        }
+      ],
+      "fact_trail": [
+        {
+          "stage": "fact_check",
+          "added": [
+            8.5
+          ],
+          "removed": [],
+          "words": []
+        }
+      ],
+      "research": {
+        "sources": [
+          {
+            "title": "International Space Station",
+            "url": "https://en.wikipedia.org/wiki/International_Space_Station"
+          },
+          {
+            "title": "SpaceX Crew-9",
+            "url": "https://en.wikipedia.org/wiki/SpaceX_Crew-9"
+          }
+        ],
+        "notes": [
+          "The International Space Station (ISS) is a space station in low Earth orbit (LEO).",
+          "It is the product of the International Space Station program and is operated by five partner space agencies: NASA (United States), Roscosmos (Russia), ESA (Europe), JAXA (Japan), and CSA (Canada).",
+          "It is the first space station built, maintained and crewed through international cooperation and the largest human spacecraft ever constructed.",
+          "It is an orbital research station, where scientific experiments in microgravity are conducted and the space environment is studied.",
+          "Since 2 November 2000, it has hosted the longest continuous human presence in space.",
+          "Alongside China's Tiangong, it is one of two currently operational space stations.",
+          "Its orbit takes it at 7.67 km/s (27,600 km/h; 17,200 mph) roughly every 93 minutes around Earth, 15.5 times a day.",
+          "Crews fly expeditions of several months' duration, providing approximately 160 man-hours per week of labour with a crew of six.",
+          "By matching the orbit of the ISS to that of Vostok 1 as closely as possible, in terms of ground path and time of day, documentary filmmaker Christopher Riley and ESA astronaut Paolo Nespoli were able to film the view that Yuri Gagarin saw on his pioneering orbital space flight.",
+          "By 5 June 2011 astronauts had made over 159 EVAs to add components to the station, totaling more than 1,000 hours in space.",
+          "'first light'), also known as the Mini-Research Module 1 (Russian: Малый исследовательский модуль 1) and formerly known as the Docking Cargo Module is primarily used for cargo storage and as a docking port for visiting spacecraft on the Russian segment of the ISS.",
+          "The 1 kW (1.3 hp) system uses approximately one litre of water per crew member per day.",
+          "On 5 September 2012, in a second six-hour EVA, astronauts Sunita Williams and Akihiko Hoshide successfully replaced MBSU-1 and restored the ISS to 100% power.",
+          "The ISS travels prograde (with Earth's rotation, west to east) at an average speed of 28,000 kilometres per hour (17,000 mph), and completes 15.5 orbits per day (93 minutes per orbit).",
+          "It then returns around every 90 minutes, with the time of the day that it crosses the sky shifting over the course of some weeks, and therefore before returning to twilight and visible illumination.",
+          "Radiation levels on the ISS are between 12 and 28.8 milli rads per day, about five times greater than those experienced by airline passengers and crew, as Earth's electromagnetic field provides almost the same level of protection against solar and other types of radiation in low Earth orbit as in the stratosphere.",
+          "For example, on a 12-hour flight, an airline passenger would experience 0.1 millisieverts of radiation, or a rate of 0.2 millisieverts per day; this is one fifth the rate experienced by an astronaut in LEO.",
+          "But crew members are exposed to these levels 24 hours a day, seven days a week, with current missions averaging six months in duration.",
+          "Each astronaut spends at least two hours per day exercising on the equipment.",
+          "A typical day aboard the ISS begins at 06:00 with wake-up, post-sleep routines, and a morning inspection of the station.",
+          "Following a one-hour lunch break at 13:05, the crew resumes their afternoon schedule of work and exercise.",
+          "Pre-sleep activities, including dinner and a crew conference, begin at 19:30, with the scheduled sleep period starting at 21:30.",
+          "The crew works approximately 10 hours on weekdays and 5 hours on Saturdays, with the remaining time allocated for relaxation or catching up on tasks.",
+          "To simulate night conditions, the station's windows are covered during designated sleep periods, as the ISS experiences 16 sunrises and sunsets daily due to its orbital speed.",
+          "Assuming 20,000 man-days of use from 2000 to 2015 by two- to six-person crews, each man-day would cost $7.5 million, less than half the inflation-adjusted $19.6 million ($5.5 million before inflation) per man-day of Skylab.",
+          "The flight was originally planned to deliver four crew members to the ISS for Expedition 72, a six-month science mission: NASA astronauts Zena Cardman (commander), Nick Hague (pilot), and Stephanie Wilson (mission specialist), along with Roscosmos cosmonaut Aleksandr Gorbunov (mission specialist).",
+          "When Crew-9's launch was rescheduled to September 24, it was brought close to the launch NASA's Europa Clipper mission, which needed to launch from LC-39A on a Falcon Heavy during a 21-day window in early October.",
+          "SpaceX Crew-10, carrying four astronauts to replace Crew-9, arrived at the ISS on March 16, 2025."
+        ]
+      },
+      "release": {
+        "hour_ist": 18,
+        "day_hint": "Tuesday or Wednesday",
+        "reason": "Evening IST hits morning commute in the US and early afternoon in Europe, the peak window for Shorts engagement."
+      }
+    },
+    "draft_saved": "2026-11-12"
   },
   {
-    "topic": "Voyager Golden Record Needle",
+    "topic": "Voyager Golden Record Message",
     "pillar": "Missions in danger (Apollo, ISS, Voyager, Artemis)",
     "series": "Mission Files",
-    "role": "retention",
-    "angle": "A phonograph record and needle mounted to a spacecraft leaving the Solar System",
-    "hook_idea": "What secret message did NASA attach to a probe leaving Earth?",
-    "viewer_benefit": "Learns how NASA packaged humanity's history into a physical record player.",
+    "role": "discovery",
+    "angle": "Voyager carries a gold record with sounds of Earth, meant for aliens",
+    "hook_idea": "What secret message is drifting through the galaxy right now?",
+    "viewer_benefit": "Connects with the probe's humanistic mission",
     "scores": {
       "audience_relevance": 5,
       "curiosity": 5,
       "evidence_quality": 5,
       "visual_feasibility": 5,
       "series_potential": 4,
-      "familiarity": 5
+      "familiarity": 4
     },
-    "veo_prompt": "Cinematic vertical 9:16 shot of the gold-plated copper phonograph record mounted on the side of Voyager 1 in deep space, glinting against distant stars.",
-    "score": 46.5
+    "veo_prompt": "Macro shot of the shiny, etched surface of the Golden Record attached to the Voyager spacecraft. Starlight reflects off the gold. Slow, majestic pan across the grooves. Photorealistic, vertical 9:16.",
+    "score": 44.5
   },
   {
-    "topic": "The ISS travels at 17,500 miles per hour, about 28,000 km/h, orbiting Earth every 90 minutes",
-    "pillar": "Missions in danger (Apollo, ISS, Voyager, Artemis)",
-    "series": "Mission Files",
+    "topic": "Falcon Heavy Lifts 64,000 kg",
+    "pillar": "Famous objects, one impossible fact",
+    "series": "discovery",
     "role": "discovery",
-    "angle": "Comparing the speed of the International Space Station to a high-powered rifle bullet",
-    "hook_idea": "How does a space station outrun a speeding bullet?",
-    "viewer_benefit": "Understands orbital velocity through a familiar weapon comparison",
+    "angle": "a payload the weight of 7,000 average cars",
+    "hook_idea": "Why does a single rocket lift as much as a small town's cars?",
+    "viewer_benefit": "Grasps the sheer power of modern heavy‑lift rockets",
     "scores": {
       "audience_relevance": 5,
       "curiosity": 4,
       "evidence_quality": 5,
       "visual_feasibility": 5,
-      "series_potential": 4,
+      "series_potential": 3,
       "familiarity": 5
     },
-    "veo_prompt": "Cinematic vertical 9:16 shot of the International Space Station orbiting Earth at sunset, photoreal, highly detailed solar panels, deep black space background, 4k resolution.",
-    "score": 45.0
+    "veo_prompt": "Vertical 9:16 shot of a Falcon Heavy launch, the plume rising while a translucent overlay shows a line of cars stretching from the launch pad to the rocket, ending in a burst of light",
+    "score": 44.0
+  },
+  {
+    "topic": "Saturn Floats in Water",
+    "pillar": "Famous objects, one impossible fact",
+    "series": "Scale Explained",
+    "role": "discovery",
+    "angle": "Saturn is less dense than water, so it would float in a bathtub",
+    "hook_idea": "Why would the second-largest planet float in your bath?",
+    "viewer_benefit": "Learns about density via a relatable household scenario",
+    "scores": {
+      "audience_relevance": 5,
+      "curiosity": 5,
+      "evidence_quality": 5,
+      "visual_feasibility": 4,
+      "series_potential": 2,
+      "familiarity": 5
+    },
+    "veo_prompt": "A miniature, detailed model of Saturn with rings slowly bobbing in a clear glass of water. Ripples spread out. Water droplets splash gently. Bright, clean studio lighting. Vertical 9:16.",
+    "score": 43.0
   },
   {
     "topic": "Webb Tennis Court Shield",
