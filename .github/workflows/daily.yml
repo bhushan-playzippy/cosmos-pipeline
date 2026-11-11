@@ -60,8 +60,19 @@ jobs:
           cache: pip
           cache-dependency-path: requirements.lock.txt
 
+      # 11 Nov: one run sat in this step for 12+ minutes (package mirror hang) and blocked the queue; each try is
+      # now capped, and a slow mirror gets two more tries.
       - name: Install FFmpeg
-        run: sudo apt-get update -y -qq && sudo apt-get install -y -qq ffmpeg
+        timeout-minutes: 12
+        run: |
+          for i in 1 2 3; do
+            if timeout 200 sudo apt-get -o Acquire::Retries=3 -o Acquire::http::Timeout=20 update -y -qq \
+               && timeout 200 sudo apt-get -o Acquire::http::Timeout=20 install -y -qq --no-install-recommends ffmpeg; then
+              ffmpeg -version | head -1; exit 0
+            fi
+            echo "try $i failed or timed out"; sudo killall -q apt-get dpkg 2>/dev/null || true; sudo dpkg --configure -a || true; sleep 10
+          done
+          exit 1
 
       - name: Install Python packages
         run: pip install -q -r requirements.lock.txt
