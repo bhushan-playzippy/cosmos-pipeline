@@ -48,8 +48,8 @@ channel_profile:
 gemini:
   # Free API key from https://aistudio.google.com/apikey  (put it in .env)
   # Models are tried in order; the first one that works is used.
-  api_key_env: "GEMINI_API_KEY_2"  # second spare owner key; used when other configured keys reach daily quota
-  models: ["gemini-flash-latest", "gemini-3.8-flash", "gemini-3.6-flash", "gemini-3.5-flash", "gemini-flash-lite-latest"]
+  api_key_env: "GEMINI_API_KEY_3"  # 11 Nov: its own key; both channels were sharing KEY_2 and its free quota (falls back to KEY_2 if unset)
+  models: ["gemini-3.6-flash", "gemini-3.5-flash", "gemini-3.8-flash", "gemini-flash-latest", "gemini-flash-lite-latest"]   # 11 Nov: 3.6/3.5 answer in 2 s while flash-latest is 503; the models that work go first
   # 3.6/3.5-flash added 3 Nov: same free key and family (each has its own free daily bucket); 3.6 answered while the
   # first two were 503 all day. 3.7-flash returns 429 (no free quota on this key), 2.5-flash is retired (404).
   # Strong tier (writer, fact-check, verify, review) never falls back to these: it defers to the next run.
@@ -57,7 +57,7 @@ gemini:
   # The reviewer (frames + audio) has no fallback provider: wait out overload spikes before deferring.
   overload_retries: 3
   overload_wait_seconds: 120
-  reopen_after_minutes: 30        # a benched Gemini model gets another try after this long without a failure
+  reopen_after_minutes: 15        # a benched Gemini model gets another try after this long without a failure
   temperature: 0.9
 
 # Other free LLM providers (OpenAI-compatible), text-only. Off until the key env var is set in .env.

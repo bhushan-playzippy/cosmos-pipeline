@@ -1,5 +1,138 @@
 [
   {
+    "topic": "A day on Venus is longer than its year: it takes 243 Earth days to rotate once and 225 to orbit the Sun",
+    "pillar": "Planets & moons",
+    "series": "Universe in a Teaspoon",
+    "role": "discovery",
+    "angle": "A planet where one day outlasts the year",
+    "hook_idea": "On Venus, a day is longer than a year.",
+    "viewer_benefit": "Why Venus has the strangest calendar in the solar system.",
+    "scores": {
+      "audience_relevance": 5,
+      "curiosity": 5,
+      "evidence_quality": 5,
+      "visual_feasibility": 5,
+      "series_potential": 4,
+      "familiarity": 5
+    },
+    "veo_prompt": "",
+    "score": 50.0
+  },
+  {
+    "topic": "The Sun contains about 99.8 percent of all the mass in the solar system",
+    "pillar": "Stars & black holes",
+    "series": "Universe in a Teaspoon",
+    "role": "discovery",
+    "angle": "Everything else is leftovers",
+    "hook_idea": "Every planet combined is a rounding error next to the Sun.",
+    "viewer_benefit": "How much of the solar system is just the Sun.",
+    "scores": {
+      "audience_relevance": 5,
+      "curiosity": 5,
+      "evidence_quality": 5,
+      "visual_feasibility": 5,
+      "series_potential": 4,
+      "familiarity": 5
+    },
+    "veo_prompt": "",
+    "score": 50.0
+  },
+  {
+    "topic": "Jupiter's Great Red Spot is a storm larger than Earth that has been observed for more than 150 years",
+    "pillar": "Famous objects, one impossible fact",
+    "series": "Universe in a Teaspoon",
+    "role": "discovery",
+    "angle": "A storm older than anyone alive and bigger than our planet",
+    "hook_idea": "This storm is bigger than Earth and has not stopped.",
+    "viewer_benefit": "What the Great Red Spot is and how long we have watched it.",
+    "scores": {
+      "audience_relevance": 5,
+      "curiosity": 5,
+      "evidence_quality": 5,
+      "visual_feasibility": 5,
+      "series_potential": 4,
+      "familiarity": 5
+    },
+    "veo_prompt": "",
+    "score": 50.0
+  },
+  {
+    "topic": "Chandrayaan-3 made India the first country to land near the Moon's south pole on 23 August 2023",
+    "pillar": "ISRO & India in space",
+    "series": "Universe in a Teaspoon",
+    "role": "authority",
+    "angle": "The landing no other country had made",
+    "hook_idea": "India landed where no one had landed before.",
+    "viewer_benefit": "What Chandrayaan-3 achieved near the lunar south pole.",
+    "scores": {
+      "audience_relevance": 5,
+      "curiosity": 5,
+      "evidence_quality": 5,
+      "visual_feasibility": 5,
+      "series_potential": 4,
+      "familiarity": 5
+    },
+    "veo_prompt": "",
+    "score": 50.0
+  },
+  {
+    "topic": "Apollo 13: an oxygen tank exploded on the way to the Moon and the crew used the lunar module as a lifeboat",
+    "pillar": "Missions in danger (Apollo, ISS, Voyager, Artemis)",
+    "series": "Universe in a Teaspoon",
+    "role": "retention",
+    "angle": "A Moon landing became a rescue",
+    "hook_idea": "Their spacecraft broke on the way to the Moon.",
+    "viewer_benefit": "How three astronauts got home after the Apollo 13 explosion.",
+    "scores": {
+      "audience_relevance": 5,
+      "curiosity": 5,
+      "evidence_quality": 5,
+      "visual_feasibility": 5,
+      "series_potential": 4,
+      "familiarity": 5
+    },
+    "veo_prompt": "",
+    "score": 50.0
+  },
+  {
+    "topic": "Voyager 1 is the most distant human-made object and has entered interstellar space",
+    "pillar": "Missions in danger (Apollo, ISS, Voyager, Artemis)",
+    "series": "Universe in a Teaspoon",
+    "role": "authority",
+    "angle": "Launched in 1977 and still going",
+    "hook_idea": "The farthest thing humans have ever made is still flying.",
+    "viewer_benefit": "Where Voyager 1 is and what it means to leave the Sun's bubble.",
+    "scores": {
+      "audience_relevance": 5,
+      "curiosity": 5,
+      "evidence_quality": 5,
+      "visual_feasibility": 5,
+      "series_potential": 4,
+      "familiarity": 5
+    },
+    "veo_prompt": "",
+    "score": 50.0
+  },
+  {
+    "topic": "Aditya-L1, India's first space-based solar observatory, watches the Sun from the L1 point 1.5 million km from Earth",
+    "pillar": "ISRO & India in space",
+    "series": "Universe in a Teaspoon",
+    "role": "authority",
+    "angle": "India's eye on the Sun",
+    "hook_idea": "India parked a spacecraft 1.5 million km away to stare at the Sun.",
+    "viewer_benefit": "What Aditya-L1 studies and why L1 is the place to do it.",
+    "scores": {
+      "audience_relevance": 5,
+      "curiosity": 5,
+      "evidence_quality": 5,
+      "visual_feasibility": 5,
+      "series_potential": 4,
+      "familiarity": 5
+    },
+    "veo_prompt": "",
+    "score": 50.0
+  },
+  {
     "topic": "Io's 300-Mile Lava Fountains",
     "pillar": "Planets & moons",
     "series": "Scale Explained",

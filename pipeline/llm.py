@@ -249,7 +249,10 @@ def _escape_inner_quotes(s):
 
 def api_key(cfg):
     """Each channel can use its own Gemini key (gemini.api_key_env), so one channel can't eat the other's free quota."""
-    return os.environ.get(cfg["gemini"].get("api_key_env", "GEMINI_API_KEY"))
+    for name in (cfg["gemini"].get("api_key_env", "GEMINI_API_KEY"), "GEMINI_API_KEY_2", "GEMINI_API_KEY"):
+        if os.environ.get(name):  # the configured key, else another of the owner's keys rather than no run at all
+            return os.environ[name]
+    return None
 
 
 def image_has_text(path, cfg):
@@ -437,7 +440,8 @@ def _ask_gemini(prompt, cfg, system, temperature, images, strong, purpose, prefe
                 transient = (any(c in msg for c in ("500 INTERNAL", "502", "503", "504"))
                              or "timed out" in msg.lower() or "disconnected" in msg.lower())
                 if transient:  # overloaded/slow: these failures still count against the 20/day quota (31 Oct: both
-                    log(f"model {model} overloaded or timing out, trying next")  # models "used up" with 0 successes)
+                    log(f"model {model} overloaded or timing out, trying next "  # models "used up" with 0 successes)
+                        f"({type(e).__name__}: {' '.join(msg.split())[:70]})")
                     _gemini_outage(cfg, model, allowed)
                     break
                 wait = _jitter(20 * (attempt + 1) if "429" in msg else 3)
