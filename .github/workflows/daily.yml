@@ -60,19 +60,54 @@ jobs:
           cache: pip
           cache-dependency-path: requirements.lock.txt
 
-      # 11 Nov: one run sat in this step for 12+ minutes (package mirror hang) and blocked the queue; each try is
-      # now capped, and a slow mirror gets two more tries.
+      # 11 Nov: Ubuntu's package mirror hung for 12+ minutes on two runs in a row and no video could be made.
+      # apt gets one capped try; if it is slow, a static FFmpeg 9.0 build (the version the Mac renders with) is
+      # downloaded from GitHub itself, checksum-verified, and cached for later runs.
+      - name: Restore static FFmpeg (fallback)
+        id: ffcache
+        uses: actions/cache/restore@v4
+        with:
+          path: ~/ffmpeg-static
+          key: ffmpeg-static-n9.0-v1
+
       - name: Install FFmpeg
-        timeout-minutes: 12
+        id: ff
+        timeout-minutes: 15
         run: |
-          for i in 1 2 3; do
-            if timeout 200 sudo apt-get -o Acquire::Retries=3 -o Acquire::http::Timeout=20 update -y -qq \
-               && timeout 200 sudo apt-get -o Acquire::http::Timeout=20 install -y -qq --no-install-recommends ffmpeg; then
-              ffmpeg -version | head -1; exit 0
+          have() { command -v ffmpeg >/dev/null && command -v ffprobe >/dev/null; }
+          if ! have; then
+            if timeout 150 sudo apt-get -o Acquire::http::Timeout=20 update -y -q > /tmp/apt.log 2>&1 \
+               && timeout 150 sudo apt-get -o Acquire::http::Timeout=20 install -y -q --no-install-recommends ffmpeg >> /tmp/apt.log 2>&1; then
+              echo "installed with apt"
+            else
+              echo "apt failed or timed out; last lines:"; tail -5 /tmp/apt.log || true
+              sudo killall -q apt-get dpkg 2>/dev/null || true
             fi
-            echo "try $i failed or timed out"; sudo killall -q apt-get dpkg 2>/dev/null || true; sudo dpkg --configure -a || true; sleep 10
-          done
-          exit 1
+          fi
+          if ! have; then
+            if [ ! -x "$HOME/ffmpeg-static/ffmpeg" ]; then
+              f=ffmpeg-n9.0-latest-linux64-gpl-9.0.tar.xz
+              base=https://github.com/BtbN/FFmpeg-Builds/releases/download/latest
+              cd "$RUNNER_TEMP"
+              curl -fsSL --retry 3 --max-time 300 -o "$f" "$base/$f"
+              curl -fsSL --retry 3 --max-time 60 -o checksums.sha256 "$base/checksums.sha256"
+              grep " $f\$" checksums.sha256 | sha256sum -c -
+              mkdir -p "$HOME/ffmpeg-static"
+              tar -xJf "$f" --strip-components=2 -C "$HOME/ffmpeg-static" --wildcards '*/bin/ffmpeg' '*/bin/ffprobe'
+              echo "downloaded=1" >> "$GITHUB_OUTPUT"
+            fi
+            sudo ln -sf "$HOME/ffmpeg-static/ffmpeg" "$HOME/ffmpeg-static/ffprobe" /usr/local/bin/
+            echo "using the static build"
+          fi
+          ffmpeg -version | head -1
+          ffprobe -version | head -1
+
+      - name: Save static FFmpeg
+        if: steps.ff.outputs.downloaded == '1'
+        uses: actions/cache/save@v4
+        with:
+          path: ~/ffmpeg-static
+          key: ffmpeg-static-n9.0-v1
 
       - name: Install Python packages
         run: pip install -q -r requirements.lock.txt
