@@ -1,7 +1,7 @@
 {
   "date": "2026-11-11",
-  "videos": 28,
-  "median_views_per_day": 35.5,
+  "videos": 29,
+  "median_views_per_day": 36.0,
   "min_sample": 5,
   "groups": {
     "slot": {
@@ -32,12 +32,12 @@
       },
       "02:30": {
         "n": 1,
-        "median_vpd": 107.4,
+        "median_vpd": 107.5,
         "conclusive": false
       },
       "05:30": {
-        "n": 7,
-        "median_vpd": 41.4,
+        "n": 8,
+        "median_vpd": 40.2,
         "conclusive": true
       },
       "08:30": {
@@ -47,7 +47,7 @@
       },
       "?": {
         "n": 3,
-        "median_vpd": 31.0,
+        "median_vpd": 36.0,
         "conclusive": false
       }
     },
@@ -68,19 +68,19 @@
         "conclusive": false
       },
       "?": {
-        "n": 13,
-        "median_vpd": 41.4,
+        "n": 14,
+        "median_vpd": 38.7,
         "conclusive": true
       }
     },
     "creator": {}
   },
   "type_boost": {
-    "discovery": 1.05,
-    "retention": 1.26
+    "discovery": 1.04,
+    "retention": 1.25
   },
   "recommendations": [
-    "'retention' moments outperform (1.26×): the picker now prefers them."
+    "'retention' moments outperform (1.25×): the picker now prefers them."
   ],
   "feature_boost": {
     "question_hook": {

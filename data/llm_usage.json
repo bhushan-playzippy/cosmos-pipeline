@@ -17,18 +17,18 @@
     },
     "gemini-flash-lite-latest": {
       "calls": 2,
-      "failed": 0,
-      "tokens": 933
+      "failed": 1,
+      "tokens": 451
     },
     "gemini-3.5-flash": {
-      "calls": 3,
+      "calls": 4,
       "failed": 2,
-      "tokens": 6709
+      "tokens": 21814
     },
     "nvidia-meta:meta/muse-glimmer-30b": {
-      "calls": 34,
-      "failed": 2,
-      "tokens": 217208
+      "calls": 32,
+      "failed": 0,
+      "tokens": 199027
     },
     "groq:openai/gpt-oss-120b": {
       "calls": 11,
@@ -48,22 +48,22 @@
     "openrouter-text:nvidia/nemotron-3-ultra-550b-a55b:free": {
       "calls": 5,
       "failed": 0,
-      "tokens": 35056
+      "tokens": 26770
     },
     "nvidia:mistralai/mistral-large-4-1t-a52b": {
-      "calls": 1,
+      "calls": 5,
       "failed": 0,
       "tokens": 0
+    },
+    "openrouter:nvidia/nemotron-3.5-super-vl:free": {
+      "calls": 2,
+      "failed": 0,
+      "tokens": 21833
     },
     "nvidia-2:mistralai/mistral-large-4-1t-a52b": {
       "calls": 1,
       "failed": 0,
       "tokens": 0
-    },
-    "nvidia-vision:nvidia/nemotron-3.5-super-vl-120b-a12b": {
-      "calls": 2,
-      "failed": 0,
-      "tokens": 15572
     }
   }
 }

@@ -1,5 +1,43 @@
 [
   {
+    "topic": "Robert Lincoln Saved by Edwin Booth",
+    "pillar": "Eerie true coincidences",
+    "series": "Unbelievably True",
+    "role": "discovery",
+    "angle": "The assassin's brother saving the president's son",
+    "hook_idea": "What saved Lincoln's son months before his father was assassinated?",
+    "viewer_benefit": "Uncover the impossible coincidence connecting two famous American families.",
+    "scores": {
+      "audience_relevance": 5,
+      "curiosity": 5,
+      "evidence_quality": 5,
+      "visual_feasibility": 5,
+      "series_potential": 4,
+      "familiarity": 5
+    },
+    "veo_prompt": "Vertical 9:16 Victorian-era train station platform, steam rising around 19th-century passenger cars, dramatic lighting capturing a near-fall onto tracks.",
+    "score": 54.0
+  },
+  {
+    "topic": "Golden Gate Bridge Opening Pedestrian Congestion",
+    "pillar": "Disasters that hinged on one detail",
+    "series": "Unbelievably True",
+    "role": "discovery",
+    "angle": "200,000 people flattening a steel arch bridges deck under weight",
+    "hook_idea": "Why did 200,000 people nearly collapse the Golden Gate Bridge?",
+    "viewer_benefit": "Learn how opening day excitement almost caused an engineering catastrophe.",
+    "scores": {
+      "audience_relevance": 5,
+      "curiosity": 5,
+      "evidence_quality": 5,
+      "visual_feasibility": 5,
+      "series_potential": 4,
+      "familiarity": 5
+    },
+    "veo_prompt": "Vertical 9:16 high-angle arch view of foggy San Francisco harbor with long red suspension bridge cables stretching into bright morning clouds.",
+    "score": 54.0
+  },
+  {
     "topic": "The 1937 Amelia Earhart disappearance where her final radio transmissions revealed she was hopelessly lost searching for a tiny Pacific island",
     "pillar": "Mysteries finally solved",
     "series": "Unbelievably True",
@@ -19,6 +57,158 @@
     "score": 52.5
   },
   {
+    "topic": "Apollo 11 Pen Repair",
+    "pillar": "Disasters that hinged on one detail",
+    "series": "The Detail Nobody Remembers",
+    "role": "authority",
+    "angle": "A plastic writing pen saving a multi-billion dollar space mission",
+    "hook_idea": "How did a simple ballpoint pen save the Apollo 11 crew?",
+    "viewer_benefit": "Discover the ingenious micro-fix that brought Neil Armstrong home.",
+    "scores": {
+      "audience_relevance": 5,
+      "curiosity": 5,
+      "evidence_quality": 5,
+      "visual_feasibility": 4,
+      "series_potential": 4,
+      "familiarity": 5
+    },
+    "veo_prompt": "Vertical 9:16 macro shot of a vintage 1960s plastic felt-tip pen pressing into a broken electronic circuit switch inside a lunar module cockpit.",
+    "score": 51.5
+  },
+  {
+    "topic": "George Washington Spared by British Sniper",
+    "pillar": "Forgotten heroes",
+    "series": "The Detail Nobody Remembers",
+    "role": "authority",
+    "angle": "A sniper's honor code changing the outcome of the American Revolution",
+    "hook_idea": "Why did a British sniper spare George Washington's life?",
+    "viewer_benefit": "Understand how a single act of chivalry allowed the US to be born.",
+    "scores": {
+      "audience_relevance": 5,
+      "curiosity": 4,
+      "evidence_quality": 5,
+      "visual_feasibility": 5,
+      "series_potential": 3,
+      "familiarity": 5
+    },
+    "veo_prompt": "Vertical 9:16 cinematic view through early rifle iron sights aimed at a colonial officer on horseback in a hazy 1777 forest.",
+    "score": 51.0
+  },
+  {
+    "topic": "Statue of Liberty Arm Exhibited in Madison Square",
+    "pillar": "Strange but true history",
+    "series": "Unbelievably True",
+    "role": "discovery",
+    "angle": "Charging entry fees for a torch tower years before building the base",
+    "hook_idea": "Why was Lady Liberty's arm exhibited in a park for six years?",
+    "viewer_benefit": "Discover how American fundraising saved the Statue of Liberty project.",
+    "scores": {
+      "audience_relevance": 5,
+      "curiosity": 4,
+      "evidence_quality": 5,
+      "visual_feasibility": 5,
+      "series_potential": 3,
+      "familiarity": 5
+    },
+    "veo_prompt": "Vertical 9:16 sepia Victorian city park setting showing a massive copper arm holding a torch high above top-hatted crowds in 1876.",
+    "score": 51.0
+  },
+  {
+    "topic": "Buckingham Palace Intruder Michael Fagan",
+    "pillar": "Strange but true history",
+    "series": "Unbelievably True",
+    "role": "discovery",
+    "angle": "Breaching royal security simply by walking past turned-off alarms",
+    "hook_idea": "How did an intruder sit on the Queen's bed unnoticed?",
+    "viewer_benefit": "Find out how the world's most guarded palace suffered a historic breach.",
+    "scores": {
+      "audience_relevance": 5,
+      "curiosity": 5,
+      "evidence_quality": 5,
+      "visual_feasibility": 4,
+      "series_potential": 3,
+      "familiarity": 5
+    },
+    "veo_prompt": "Vertical 9:16 moody shot of a massive 19th-century royal palace hallway at dawn, silent curtains blowing past empty security posts.",
+    "score": 50.5
+  },
+  {
+    "topic": "Mark Twain and Halley's Comet Birth and Death",
+    "pillar": "Eerie true coincidences",
+    "series": "Unbelievably True",
+    "role": "discovery",
+    "angle": "Arriving and departing Earth on the exact transit days of a comet",
+    "hook_idea": "Why did Mark Twain's birth and death match a rare cosmic event?",
+    "viewer_benefit": "Uncover the strange cosmic coincidence linking a famous author to the stars.",
+    "scores": {
+      "audience_relevance": 5,
+      "curiosity": 5,
+      "evidence_quality": 5,
+      "visual_feasibility": 4,
+      "series_potential": 3,
+      "familiarity": 5
+    },
+    "veo_prompt": "Vertical 9:16 dark night sky featuring a glowing green comet tail streaking past high atmospheric clouds over a 19th-century riverboat.",
+    "score": 50.5
+  },
+  {
+    "topic": "First Flight Photo Captured by Lifesaver",
+    "pillar": "Forgotten heroes",
+    "series": "The Detail Nobody Remembers",
+    "role": "authority",
+    "angle": "A coastal rescue worker taking history's most famous aviation photo",
+    "hook_idea": "Who actually captured the only photo of history's first flight?",
+    "viewer_benefit": "Learn the unknown story behind the iconic 1903 Kitty Hawk photograph.",
+    "scores": {
+      "audience_relevance": 4,
+      "curiosity": 4,
+      "evidence_quality": 5,
+      "visual_feasibility": 5,
+      "series_potential": 3,
+      "familiarity": 5
+    },
+    "veo_prompt": "Vertical 9:16 sepia-toned vintage camera sitting on a wooden tripod in windy sand dunes facing an early biplane gliding in the sky.",
+    "score": 49.5
+  },
+  {
+    "topic": "Butch Cassidy Tracked by Stolen Mule",
+    "pillar": "Mysteries finally solved",
+    "series": "The Detail Nobody Remembers",
+    "role": "authority",
+    "angle": "A high-profile outlaw gang brought down by a branded pack animal",
+    "hook_idea": "What tiny mistake caught Butch Cassidy after years on the run?",
+    "viewer_benefit": "See how America's most famous bank robbers were exposed by a single mule.",
+    "scores": {
+      "audience_relevance": 4,
+      "curiosity": 4,
+      "evidence_quality": 5,
+      "visual_feasibility": 5,
+      "series_potential": 3,
+      "familiarity": 5
+    },
+    "veo_prompt": "Vertical 9:16 dusty South American mountain village trail with a pack mule carrying leather saddlebags marked with military stamps.",
+    "score": 49.5
+  },
+  {
+    "topic": "WWII Exploding Chocolate Plot against Churchill",
+    "pillar": "Strange but true history",
+    "series": "Unbelievably True",
+    "role": "discovery",
+    "angle": "Steel-lined dark chocolate turned into a delayed bomb",
+    "hook_idea": "How did Nazi spies attempt to assassinate Churchill with dark chocolate?",
+    "viewer_benefit": "Learn about the bizarre covert weapons engineered during WWII.",
+    "scores": {
+      "audience_relevance": 4,
+      "curiosity": 5,
+      "evidence_quality": 5,
+      "visual_feasibility": 4,
+      "series_potential": 3,
+      "familiarity": 5
+    },
+    "veo_prompt": "Vertical 9:16 close-up of a luxurious 1940s dark chocolate bar breaking open to reveal a hidden steel mechanical spring trigger inside.",
+    "score": 49.0
+  },
+  {
     "topic": "The 1919 'Wrong Turn' of Archduke Ferdinand's Driver",
     "pillar": "Eerie true coincidences",
     "series": "The Detail Nobody Remembers",
@@ -36,6 +226,25 @@
     },
     "veo_prompt": "Cinematic 9:16 shot. A narrow, cobblestone street in early 20th century Europe. A vintage black car is stopped at a fork in the road. The driver's side window is open, but no one is visible inside. Autumn leaves fall softly. No people. Hyper-realistic, historical texture.",
     "score": 48.5
+  },
+  {
+    "topic": "Project Corona Satellite Film Catch in Mid-Air",
+    "pillar": "Strange but true history",
+    "series": "Unbelievably True",
+    "role": "discovery",
+    "angle": "Using airplane hooks to catch space capsules falling from orbit",
+    "hook_idea": "How did US spy planes catch falling satellite film in mid-air?",
+    "viewer_benefit": "Discover the wild mid-air retrieval technique used during the Cold War.",
+    "scores": {
+      "audience_relevance": 4,
+      "curiosity": 5,
+      "evidence_quality": 5,
+      "visual_feasibility": 4,
+      "series_potential": 4,
+      "familiarity": 4
+    },
+    "veo_prompt": "Vertical 9:16 vintage military aircraft flying high above ocean clouds extending a mechanical winch hook toward a parachute descent capsule.",
+    "score": 48.0
   },
   {
     "topic": "The 1980s 'Ghost' of the USS Liberty",

@@ -7197,7 +7197,7 @@
   {
     "folder": "2026-11-08_013942_the-tunguska-explosion-left-no-impact-crater",
     "topic": "The Tunguska explosion left no impact crater",
-    "status": "scheduled",
+    "status": "published",
     "stage": "script",
     "role": null,
     "slot": "2026-11-11T05:30:00+05:30",
@@ -7210,7 +7210,8 @@
       "render": "2026-11-08T01:40:52+05:30",
       "gates": "2026-11-08T01:41:09+05:30",
       "upload_started": "2026-11-08T01:42:55+05:30",
-      "upload": "2026-11-08T01:43:02+05:30"
+      "upload": "2026-11-08T01:43:02+05:30",
+      "published": "2026-11-11T05:54:07+05:30"
     },
     "youtube_id": "3z-gxcboO3A",
     "instagram_id": null,
@@ -7226,7 +7227,7 @@
       "publish_at": "2026-11-11T00:00:00Z"
     },
     "alert": null,
-    "privacy": "private"
+    "privacy": "public"
   },
   {
     "folder": "2026-11-08_014551_the-1900-galveston-hurricane-and-the-citys-recover",
@@ -9232,5 +9233,539 @@
     "instagram_id": null,
     "stage_failed": "research",
     "reason": "Unsupported: research: the sources don't support this story (The research notes contain no facts about Lincoln's assassination itself, his bodyguard, the Star Saloon, or any guard leaving his post. The only Lincoln-relate)"
+  },
+  {
+    "folder": "2026-11-11_055708_rms-carpathia-pushing-maximum-speed-for-titanic",
+    "topic": "RMS Carpathia Pushing Maximum Speed for Titanic",
+    "status": "failed",
+    "stage": "script",
+    "role": "retention",
+    "slot": "2026-11-12T20:00:00+05:30",
+    "pillar": "Forgotten heroes",
+    "selection": {
+      "role": "retention",
+      "base_score": 55.0,
+      "multiplier": 1.16,
+      "parts": {
+        "pillar_role": 1.16
+      },
+      "final": 63.8,
+      "runner_up": [
+        {
+          "topic": "Teddy Roosevelt Saved by 50-Page Speech",
+          "final": 62.64
+        },
+        {
+          "topic": "Apollo 17 Duct Tape Fender Repair",
+          "final": 60.9
+        }
+      ]
+    },
+    "visual_precheck": {
+      "at": "2026-11-11T05:57:08+05:30",
+      "need": 2,
+      "assets": [
+        {
+          "source": "wikimedia_commons",
+          "query": "RMS Carpathia Pushing",
+          "title": "File:RMS Carpathia.jpg",
+          "page": "https://commons.wikimedia.org/wiki/File:RMS_Carpathia.jpg",
+          "license": "Public domain",
+          "license_evidence": "Commons file metadata (extmetadata.LicenseShortName)",
+          "date": "Unknown date",
+          "downloaded": true,
+          "bytes": 422685,
+          "relevance": "file title shares the query's distinctive words",
+          "asset_id": "commons:18976829"
+        },
+        {
+          "source": "wikimedia_commons",
+          "query": "RMS Carpathia Pushing",
+          "title": "File:RMS-Carpathia (2).jpg",
+          "page": "https://commons.wikimedia.org/wiki/File:RMS-Carpathia_(2).jpg",
+          "license": "Public domain",
+          "license_evidence": "Commons file metadata (extmetadata.LicenseShortName)",
+          "date": "Desconocida",
+          "downloaded": true,
+          "bytes": 134972,
+          "relevance": "file title shares the query's distinctive words",
+          "asset_id": "commons:52336537"
+        }
+      ]
+    },
+    "created": "2026-11-11T05:57:08+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "stage_failed": "verify",
+    "reason": "ValueError: independent check still failing after repair: Carpathia had a maximum speed of 20 mph (wrong); about 32 km/h (wrong); Carpathia dodged ice field hazards, including 20 bergs (unverifiable)"
+  },
+  {
+    "folder": "2026-11-11_073150_teddy-roosevelt-saved-by-50-page-speech",
+    "topic": "Teddy Roosevelt Saved by 50-Page Speech",
+    "status": "quarantined",
+    "stage": "script",
+    "role": "retention",
+    "slot": "2026-11-12T20:00:00+05:30",
+    "pillar": "Impossible survivals",
+    "selection": {
+      "role": "retention",
+      "base_score": 54.0,
+      "multiplier": 1.16,
+      "parts": {
+        "pillar_role": 1.16
+      },
+      "final": 62.64,
+      "runner_up": [
+        {
+          "topic": "Apollo 17 Duct Tape Fender Repair",
+          "final": 60.9
+        },
+        {
+          "topic": "Tsutomu Yamaguchi Surviving Both Atomic Bombs",
+          "final": 58.58
+        }
+      ]
+    },
+    "visual_precheck": {
+      "at": "2026-11-11T06:37:26+05:30",
+      "need": 2,
+      "assets": [
+        {
+          "source": "wikimedia_commons",
+          "query": "Teddy Roosevelt Saved",
+          "title": "File:Don't be afraid Uncle - We'll get there all right! - Teddy Roosevelt and Uncle Sam postcard.tif",
+          "page": "https://commons.wikimedia.org/wiki/File:Don%27t_be_afraid_Uncle_-_We%27ll_get_there_all_right!_-_Teddy_Roosevelt_and_Uncle_Sam_postcard.tif",
+          "license": "Public domain",
+          "license_evidence": "Commons file metadata (extmetadata.LicenseShortName)",
+          "date": "1907",
+          "downloaded": true,
+          "bytes": 1027877,
+          "relevance": "file title shares the query's distinctive words",
+          "asset_id": "commons:149984714"
+        },
+        {
+          "source": "wikimedia_commons",
+          "query": "Teddy Roosevelt Saved",
+          "title": "File:Don't be afraid Uncle - We'll get there all right! - Teddy Roosevelt and Uncle Sam postcard crop.jpg",
+          "page": "https://commons.wikimedia.org/wiki/File:Don%27t_be_afraid_Uncle_-_We%27ll_get_there_all_right!_-_Teddy_Roosevelt_and_Uncle_Sam_postcard_crop.jpg",
+          "license": "Public domain",
+          "license_evidence": "Commons file metadata (extmetadata.LicenseShortName)",
+          "date": "1907",
+          "downloaded": true,
+          "bytes": 1291317,
+          "relevance": "file title shares the query's distinctive words",
+          "asset_id": "commons:149984712"
+        }
+      ]
+    },
+    "created": "2026-11-11T07:31:50+05:30",
+    "stages": {
+      "script": "2026-11-11T07:31:50+05:30",
+      "render": "2026-11-11T07:32:42+05:30",
+      "gates": "2026-11-11T07:33:55+05:30"
+    },
+    "youtube_id": null,
+    "instagram_id": null,
+    "reason": "AI reviewer: visual grounding failed: scene 5: MISMATCH (metadata names the subject (roosevelt, theodore)). Factually accurate and we",
+    "stage_failed": null,
+    "title": "Teddy Roosevelt Gave 90-Minute Speech With Blood Seeping",
+    "music": "tension-em.m4a"
+  },
+  {
+    "folder": "2026-11-11_073406_apollo-17-duct-tape-fender-repair",
+    "topic": "Apollo 17 Duct Tape Fender Repair",
+    "status": "failed",
+    "stage": "script",
+    "role": "retention",
+    "slot": "2026-11-12T20:00:00+05:30",
+    "pillar": "Strange but true history",
+    "selection": {
+      "role": "retention",
+      "base_score": 52.5,
+      "multiplier": 1.16,
+      "parts": {
+        "pillar_role": 1.16
+      },
+      "final": 60.9,
+      "runner_up": [
+        {
+          "topic": "Tsutomu Yamaguchi Surviving Both Atomic Bombs",
+          "final": 49.79
+        },
+        {
+          "topic": "Roy Sullivan Struck by Lightning Seven Times",
+          "final": 49.79
+        }
+      ]
+    },
+    "visual_precheck": {
+      "at": "2026-11-11T07:34:06+05:30",
+      "need": 2,
+      "assets": [
+        {
+          "source": "wikimedia_commons",
+          "query": "apollo",
+          "title": "File:Apollo 11 Launch2.jpg",
+          "page": "https://commons.wikimedia.org/wiki/File:Apollo_11_Launch2.jpg",
+          "license": "Public domain",
+          "license_evidence": "Commons file metadata (extmetadata.LicenseShortName)",
+          "date": "Taken on 16 July 1969",
+          "downloaded": true,
+          "bytes": 1659194,
+          "relevance": "file title shares the query's distinctive words",
+          "asset_id": "commons:6739626"
+        },
+        {
+          "source": "wikimedia_commons",
+          "query": "apollo",
+          "title": "File:NASA Apollo 17 Lunar Roving Vehicle.jpg",
+          "page": "https://commons.wikimedia.org/wiki/File:NASA_Apollo_17_Lunar_Roving_Vehicle.jpg",
+          "license": "Public domain",
+          "license_evidence": "Commons file metadata (extmetadata.LicenseShortName)",
+          "date": "12 December 1972",
+          "downloaded": true,
+          "bytes": 1243104,
+          "relevance": "file title shares the query's distinctive words",
+          "asset_id": "commons:12872"
+        }
+      ]
+    },
+    "created": "2026-11-11T07:34:06+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "stage_failed": "verify",
+    "reason": "ValueError: independent check still failing after repair: final crewed mission of the Apollo program (superlative with no document stating it (only indirect); a model's word isn't en); Duct tape, called good old-fashioned American gray tape (misleading); relayed by Commander John Young (attribution "
+  },
+  {
+    "folder": "2026-11-11_082520_titanic-emergency-flares-ignored-due-to-color",
+    "topic": "Titanic Emergency Flares Ignored Due to Color",
+    "status": "failed",
+    "stage": "script",
+    "role": "retention",
+    "slot": "2026-11-12T20:00:00+05:30",
+    "pillar": "Disasters that hinged on one detail",
+    "selection": {
+      "role": "retention",
+      "base_score": 55.0,
+      "multiplier": 1.0,
+      "parts": {
+        "pillar_role": 1.0
+      },
+      "final": 55.0,
+      "runner_up": [
+        {
+          "topic": "Pearl Harbor Warning Telegram Delay",
+          "final": 54.0
+        },
+        {
+          "topic": "D-Day Weather Forecast by James Stagg",
+          "final": 54.0
+        }
+      ]
+    },
+    "visual_precheck": {
+      "at": "2026-11-11T08:25:20+05:30",
+      "need": 2,
+      "assets": [
+        {
+          "source": "wikimedia_commons",
+          "query": "titanic",
+          "title": "File:RMS Titanic ready for launch, 1911.jpg",
+          "page": "https://commons.wikimedia.org/wiki/File:RMS_Titanic_ready_for_launch,_1911.jpg",
+          "license": "Public domain",
+          "license_evidence": "Commons file metadata (extmetadata.LicenseShortName)",
+          "date": "Taken in May 1911",
+          "downloaded": true,
+          "bytes": 873299,
+          "relevance": "file title shares the query's distinctive words",
+          "asset_id": "commons:4458573"
+        },
+        {
+          "source": "wikimedia_commons",
+          "query": "titanic",
+          "title": "File:RMS Titanic 3.jpg",
+          "page": "https://commons.wikimedia.org/wiki/File:RMS_Titanic_3.jpg",
+          "license": "Public domain",
+          "license_evidence": "Commons file metadata (extmetadata.LicenseShortName)",
+          "date": "10 April 1912 date QS:P571,+1912-04-10T00:00:00Z/11 ",
+          "downloaded": true,
+          "bytes": 893884,
+          "relevance": "file title shares the query's distinctive words",
+          "asset_id": "commons:2990792"
+        }
+      ]
+    },
+    "created": "2026-11-11T08:25:20+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "stage_failed": "research",
+    "reason": "Unsupported: research: the sources don't support this story (The notes do not support the premise that Titanic emergency flares were ignored due to color or confused with party fireworks. Notes mention distress rockets ex)"
+  },
+  {
+    "folder": "2026-11-11_082634_pearl-harbor-warning-telegram-delay",
+    "topic": "Pearl Harbor Warning Telegram Delay",
+    "status": "failed",
+    "stage": "script",
+    "role": "retention",
+    "slot": "2026-11-12T20:00:00+05:30",
+    "pillar": "Disasters that hinged on one detail",
+    "selection": {
+      "role": "retention",
+      "base_score": 54.0,
+      "multiplier": 1.0,
+      "parts": {
+        "pillar_role": 1.0
+      },
+      "final": 54.0,
+      "runner_up": [
+        {
+          "topic": "D-Day Weather Forecast by James Stagg",
+          "final": 54.0
+        },
+        {
+          "topic": "Hoover Dam Built-in Cooling Ice Pipes",
+          "final": 54.0
+        }
+      ]
+    },
+    "visual_precheck": {
+      "at": "2026-11-11T08:26:34+05:30",
+      "need": 2,
+      "assets": [
+        {
+          "source": "wikimedia_commons",
+          "query": "Pearl Harbor Warning",
+          "title": "File:Pearl Harbor, Hawaii (4645).jpg",
+          "page": "https://commons.wikimedia.org/wiki/File:Pearl_Harbor,_Hawaii_(4645).jpg",
+          "license": "Public domain",
+          "license_evidence": "Commons file metadata (extmetadata.LicenseShortName)",
+          "date": "Taken on 13 March 2003",
+          "downloaded": true,
+          "bytes": 322493,
+          "relevance": "file title shares the query's distinctive words",
+          "asset_id": "commons:190576299"
+        },
+        {
+          "source": "wikimedia_commons",
+          "query": "Pearl Harbor Warning",
+          "title": "File:ISS021-E-15710 Pearl Harbor, Hawaii.jpg",
+          "page": "https://commons.wikimedia.org/wiki/File:ISS021-E-15710_Pearl_Harbor,_Hawaii.jpg",
+          "license": "Public domain",
+          "license_evidence": "Commons file metadata (extmetadata.LicenseShortName)",
+          "date": "2009-10-27 17:57:32",
+          "downloaded": true,
+          "bytes": 1170979,
+          "relevance": "file title shares the query's distinctive words",
+          "asset_id": "commons:25233950"
+        }
+      ]
+    },
+    "created": "2026-11-11T08:26:34+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "stage_failed": "research",
+    "reason": "Unsupported: research: the sources don't support this story (The research notes contain no mention of a telegram sent via commercial messenger boy arriving too late. The notes only cover the SCR-270 radar detection on the)"
+  },
+  {
+    "folder": "2026-11-11_082758_great-fire-of-london-gunpowder-demolitions",
+    "topic": "Great Fire of London Gunpowder Demolitions",
+    "status": "failed",
+    "stage": "script",
+    "role": "retention",
+    "slot": "2026-11-12T20:00:00+05:30",
+    "pillar": "Disasters that hinged on one detail",
+    "selection": {
+      "role": "retention",
+      "base_score": 52.5,
+      "multiplier": 1.0,
+      "parts": {
+        "pillar_role": 1.0
+      },
+      "final": 52.5,
+      "runner_up": [
+        {
+          "topic": "Bismarck Torpedoed by Wooden Biplane",
+          "final": 52.0
+        },
+        {
+          "topic": "Thomas Edison's Bamboo Lightbulb Filament",
+          "final": 52.0
+        }
+      ]
+    },
+    "visual_precheck": {
+      "at": "2026-11-11T08:27:58+05:30",
+      "need": 2,
+      "assets": [
+        {
+          "source": "wikimedia_commons",
+          "query": "Great Fire London",
+          "title": "File:Great Fire London.jpg",
+          "page": "https://commons.wikimedia.org/wiki/File:Great_Fire_London.jpg",
+          "license": "Public domain",
+          "license_evidence": "Commons file metadata (extmetadata.LicenseShortName)",
+          "date": "1675 date QS:P571,+1675-00-00T00:00:00Z/9 ",
+          "downloaded": true,
+          "bytes": 764519,
+          "relevance": "file title shares the query's distinctive words",
+          "asset_id": "commons:1303944"
+        },
+        {
+          "source": "wikimedia_commons",
+          "query": "Great Fire London",
+          "title": "File:DV307 no.50 The great fire, London June 23 1861 at 2.30am from Billingsgate.png",
+          "page": "https://commons.wikimedia.org/wiki/File:DV307_no.50_The_great_fire,_London_June_23_1861_at_2.30am_from_Billingsgate.png",
+          "license": "CC0",
+          "license_evidence": "Commons file metadata (extmetadata.LicenseShortName)",
+          "date": "between 1854 and 1864 date QS:P571,+1850-00-00T00:00:00Z/7,P",
+          "downloaded": true,
+          "bytes": 374733,
+          "relevance": "file title shares the query's distinctive words",
+          "asset_id": "commons:47186412"
+        }
+      ]
+    },
+    "created": "2026-11-11T08:27:58+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "stage_failed": "research",
+    "reason": "Unsupported: research: the sources don't support this story (The notes mention firebreaks by removing structures in the fire's path and large-scale demolitions ordered on Sunday night, but they do not mention gunpowder, e)"
+  },
+  {
+    "folder": "2026-11-11_082855_bismarck-torpedoed-by-wooden-biplane",
+    "topic": "Bismarck Torpedoed by Wooden Biplane",
+    "status": "failed",
+    "stage": "script",
+    "role": "retention",
+    "slot": "2026-11-12T20:00:00+05:30",
+    "pillar": "Disasters that hinged on one detail",
+    "selection": {
+      "role": "retention",
+      "base_score": 52.0,
+      "multiplier": 1.0,
+      "parts": {
+        "pillar_role": 1.0
+      },
+      "final": 52.0,
+      "runner_up": [
+        {
+          "topic": "Thomas Edison's Bamboo Lightbulb Filament",
+          "final": 52.0
+        },
+        {
+          "topic": "Robert Lincoln Saved by Edwin Booth",
+          "final": 51.84
+        }
+      ]
+    },
+    "visual_precheck": {
+      "at": "2026-11-11T08:28:55+05:30",
+      "need": 2,
+      "assets": [
+        {
+          "source": "wikimedia_commons",
+          "query": "bismarck",
+          "title": "File:Bismarck, North Dakota. 1883.png",
+          "page": "https://commons.wikimedia.org/wiki/File:Bismarck,_North_Dakota._1883.png",
+          "license": "Public domain",
+          "license_evidence": "Commons file metadata (extmetadata.LicenseShortName)",
+          "date": "1883",
+          "downloaded": true,
+          "bytes": 935119,
+          "relevance": "file title shares the query's distinctive words",
+          "asset_id": "commons:152650695"
+        },
+        {
+          "source": "wikimedia_commons",
+          "query": "bismarck",
+          "title": "File:Signals to Bismarck.jpg",
+          "page": "https://commons.wikimedia.org/wiki/File:Signals_to_Bismarck.jpg",
+          "license": "Public domain",
+          "license_evidence": "Commons file metadata (extmetadata.LicenseShortName)",
+          "date": "1941-05",
+          "downloaded": true,
+          "bytes": 129904,
+          "relevance": "file title shares the query's distinctive words",
+          "asset_id": "commons:124335300"
+        }
+      ]
+    },
+    "created": "2026-11-11T08:28:55+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "stage_failed": "research",
+    "reason": "Unsupported: research: the sources don't support this story (The notes do not confirm the Fairey Swordfish is an obsolete wooden/cloth-winged biplane, nor that it torpedoed or crippled/paralyzed the Bismarck. Note 19 only)"
+  },
+  {
+    "folder": "2026-11-11_083112_thomas-edisons-bamboo-lightbulb-filament",
+    "topic": "Thomas Edison's Bamboo Lightbulb Filament",
+    "status": "failed",
+    "stage": "script",
+    "role": "retention",
+    "slot": "2026-11-12T20:00:00+05:30",
+    "pillar": "Forgotten heroes",
+    "selection": {
+      "role": "retention",
+      "base_score": 52.0,
+      "multiplier": 1.0,
+      "parts": {
+        "pillar_role": 1.0
+      },
+      "final": 52.0,
+      "runner_up": [
+        {
+          "topic": "Robert Lincoln Saved by Edwin Booth",
+          "final": 51.84
+        },
+        {
+          "topic": "Golden Gate Bridge Opening Pedestrian Congestion",
+          "final": 51.84
+        }
+      ]
+    },
+    "visual_precheck": {
+      "at": "2026-11-11T08:31:12+05:30",
+      "need": 2,
+      "assets": [
+        {
+          "source": "wikimedia_commons",
+          "query": "Thomas Edison Bamboo",
+          "title": "File:Thomas Edison2.jpg",
+          "page": "https://commons.wikimedia.org/wiki/File:Thomas_Edison2.jpg",
+          "license": "Public domain",
+          "license_evidence": "Commons file metadata (extmetadata.LicenseShortName)",
+          "date": "circa 1922 date QS:P,+1922-00-00T00:00:00Z/9,P1480,Q5727902 ",
+          "downloaded": true,
+          "bytes": 753159,
+          "relevance": "file title shares the query's distinctive words",
+          "asset_id": "commons:6582301"
+        },
+        {
+          "source": "wikimedia_commons",
+          "query": "Thomas Edison Bamboo",
+          "title": "File:Thomas Edison2-crop.jpg",
+          "page": "https://commons.wikimedia.org/wiki/File:Thomas_Edison2-crop.jpg",
+          "license": "Public domain",
+          "license_evidence": "Commons file metadata (extmetadata.LicenseShortName)",
+          "date": "circa 1922 date QS:P,+1922-00-00T00:00:00Z/9,P1480,Q5727902 ",
+          "downloaded": true,
+          "bytes": 325032,
+          "relevance": "file title shares the query's distinctive words",
+          "asset_id": "commons:9505005"
+        }
+      ]
+    },
+    "created": "2026-11-11T08:31:12+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "stage_failed": "research",
+    "reason": "Unsupported: research: the sources don't support this story (The requested angle requires testing 6,000 plant species before finding Japanese bamboo carbon for Edison’s filament. The provided notes do not state a 6,000 sp)"
   }
 ]
