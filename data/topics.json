@@ -88,17 +88,5 @@
     "viewer_benefit": "Grasps the danger of space weather to technology.",
     "veo_prompt": "A massive loop of orange plasma erupting from the surface of a star, bright white core, vertical 9:16.",
     "score": 28.5
-  },
-  {
-    "topic": "Fast Radio Bursts (FRBs)",
-    "angle": "Three days of the Sun's total energy released in the blink of an eye",
-    "hook_idea": "In less than a millisecond, a Fast Radio Burst from deep space unleashes as much energy as our entire Sun generates in three full days.",
-    "veo_prompt": "Vertical 9:16 shot. Extreme-macro shot of a highly magnetized magnetar neutron star, its crust cracking. A razor-sharp, blinding cyan beam of electromagnetic radiation erupts from the magnetic pole, tearing across the dark fabric of space in an instant flash."
-  },
-  {
-    "topic": "Rogue Planets Wandering the Galaxy",
-    "angle": "Orphaned dark worlds roaming like lone sleeper trains with no tracks",
-    "hook_idea": "Billions of nomad planets with no sun to orbit are quietly wandering through our pitch-black galaxy, completely frozen in the dark.",
-    "veo_prompt": "Vertical 9:16 shot. Chilling cinematic glide past an abandoned, dark gas giant planet drifting through the interstellar void. Faint aurora ribbons of deep emerald and violet shimmer across its cloud tops, lit only by distant, razor-sharp starlight."
   }
 ]

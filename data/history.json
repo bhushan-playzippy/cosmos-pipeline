@@ -6416,5 +6416,230 @@
     "stages": {},
     "youtube_id": null,
     "instagram_id": null
+  },
+  {
+    "folder": "campaign_COSMIC_SHORT_2026_11_16_02",
+    "topic": "Where Gold Comes From (It's Not Earth) #Shorts",
+    "status": "scheduled",
+    "stage": "upload",
+    "role": null,
+    "slot": "2026-11-16T20:00:00+05:30",
+    "created": "2026-11-09T07:56:21+05:30",
+    "reason": "campaign 2026-11-15..12-15",
+    "youtube_id": "W-73SaFk9iY"
+  },
+  {
+    "folder": "campaign_COSMIC_SHORT_2026_11_17_03",
+    "topic": "Mars Is Slowly Pulling Its Moon Apart #Shorts",
+    "status": "scheduled",
+    "stage": "upload",
+    "role": null,
+    "slot": "2026-11-17T23:30:00+05:30",
+    "created": "2026-11-09T12:11:09+05:30",
+    "reason": "campaign 2026-11-15..12-15",
+    "youtube_id": "D7ALLLUW-Wo"
+  },
+  {
+    "folder": "campaign_COSMIC_SHORT_2026_11_18_01",
+    "topic": "How Do You See a Planet With No Sun? #Shorts",
+    "status": "scheduled",
+    "stage": "upload",
+    "role": null,
+    "slot": "2026-11-18T18:00:00+05:30",
+    "created": "2026-11-09T12:11:20+05:30",
+    "reason": "campaign 2026-11-15..12-15",
+    "youtube_id": "gWZLdlsiY9o"
+  },
+  {
+    "folder": "campaign_COSMIC_SHORT_2026_11_18_02",
+    "topic": "Webb Found Planet-Like Pairs With No Star (Maybe) #Shorts",
+    "status": "scheduled",
+    "stage": "upload",
+    "role": null,
+    "slot": "2026-11-18T20:00:00+05:30",
+    "created": "2026-11-09T12:11:26+05:30",
+    "reason": "campaign 2026-11-15..12-15",
+    "youtube_id": "fSzCS-YpNuU"
+  },
+  {
+    "folder": "campaign_COSMIC_SHORT_2026_11_19_02",
+    "topic": "Why Apollo Footprints Could Last Millions of Years #Shorts",
+    "status": "scheduled",
+    "stage": "upload",
+    "role": null,
+    "slot": "2026-11-19T20:00:00+05:30",
+    "created": "2026-11-09T12:11:56+05:30",
+    "reason": "campaign 2026-11-15..12-15",
+    "youtube_id": "SBuCRcDuN_4"
+  },
+  {
+    "folder": "campaign_COSMIC_SHORT_2026_11_19_03",
+    "topic": "Neptune Has Finished Only One Lap Since We Found It #Shorts",
+    "status": "scheduled",
+    "stage": "upload",
+    "role": null,
+    "slot": "2026-11-19T23:30:00+05:30",
+    "created": "2026-11-09T12:12:01+05:30",
+    "reason": "campaign 2026-11-15..12-15",
+    "youtube_id": "8w3iuo6zcrk"
+  },
+  {
+    "folder": "campaign_COSMIC_SHORT_2026_11_21_02",
+    "topic": "Could Life Survive on a Planet With No Sun? #Shorts",
+    "status": "scheduled",
+    "stage": "upload",
+    "role": null,
+    "slot": "2026-11-21T20:00:00+05:30",
+    "created": "2026-11-09T12:12:33+05:30",
+    "reason": "campaign 2026-11-15..12-15",
+    "youtube_id": "gTWmgepAXmI"
+  },
+  {
+    "folder": "campaign_COSMIC_SHORT_2026_11_21_03",
+    "topic": "Earth's Quasi-Moon Might Be a Piece of the Moon #Shorts",
+    "status": "scheduled",
+    "stage": "upload",
+    "role": null,
+    "slot": "2026-11-21T23:30:00+05:30",
+    "created": "2026-11-09T12:12:38+05:30",
+    "reason": "campaign 2026-11-15..12-15",
+    "youtube_id": "LukzXxa4M4o"
+  },
+  {
+    "folder": "campaign_COSMIC_LF_01",
+    "topic": "Neutron Stars: The Dead Stars That Forge Gold",
+    "status": "scheduled",
+    "stage": "upload",
+    "role": null,
+    "slot": "2026-11-17T21:30:00+05:30",
+    "created": "2026-11-09T14:09:30+05:30",
+    "reason": "campaign 2026-11-15..12-15",
+    "youtube_id": "rUozQYcb6uI",
+    "stages": {
+      "withdrawn": "2026-11-09T14:09:10+05:30"
+    },
+    "publish_at": null,
+    "alert": null
+  },
+  {
+    "folder": "campaign_COSMIC_SHORT_2026_11_16_01",
+    "topic": "The 2004 Starquake That Reached Earth #Shorts",
+    "status": "scheduled",
+    "stage": "upload",
+    "role": null,
+    "slot": "2026-11-16T18:00:00+05:30",
+    "created": "2026-11-09T12:26:09+05:30",
+    "reason": "campaign 2026-11-15..12-15",
+    "youtube_id": "-zrJ2RX8xgA"
+  },
+  {
+    "folder": "campaign_COSMIC_SHORT_2026_11_16_03",
+    "topic": "Venus Spins Backwards and Slowly #Shorts",
+    "status": "scheduled",
+    "stage": "upload",
+    "role": null,
+    "slot": "2026-11-16T23:30:00+05:30",
+    "created": "2026-11-09T12:26:14+05:30",
+    "reason": "campaign 2026-11-15..12-15",
+    "youtube_id": "BLP84wi9_lc"
+  },
+  {
+    "folder": "campaign_COSMIC_SHORT_2026_11_17_01",
+    "topic": "The Tallest Mountains on a Neutron Star #Shorts",
+    "status": "scheduled",
+    "stage": "upload",
+    "role": null,
+    "slot": "2026-11-17T18:00:00+05:30",
+    "created": "2026-11-09T12:26:19+05:30",
+    "reason": "campaign 2026-11-15..12-15",
+    "youtube_id": "GKNGuO0xBog"
+  },
+  {
+    "folder": "campaign_COSMIC_SHORT_2026_11_17_02",
+    "topic": "NASA Measured a Dead Star's Size From the ISS #Shorts",
+    "status": "scheduled",
+    "stage": "upload",
+    "role": null,
+    "slot": "2026-11-17T20:00:00+05:30",
+    "created": "2026-11-09T12:26:24+05:30",
+    "reason": "campaign 2026-11-15..12-15",
+    "youtube_id": "wGGNBOlWMrc"
+  },
+  {
+    "folder": "campaign_COSMIC_SHORT_2026_11_18_03",
+    "topic": "You're Moving at 1,670 km/h Right Now #Shorts",
+    "status": "scheduled",
+    "stage": "upload",
+    "role": null,
+    "slot": "2026-11-18T23:30:00+05:30",
+    "created": "2026-11-09T12:26:44+05:30",
+    "reason": "campaign 2026-11-15..12-15",
+    "youtube_id": "MAPZ5BSb2Ts"
+  },
+  {
+    "folder": "campaign_COSMIC_SHORT_2026_11_19_01",
+    "topic": "The Blue Planet Where It Rains Glass Sideways #Shorts",
+    "status": "scheduled",
+    "stage": "upload",
+    "role": null,
+    "slot": "2026-11-19T18:00:00+05:30",
+    "created": "2026-11-09T12:37:49+05:30",
+    "reason": "campaign 2026-11-15..12-15",
+    "youtube_id": "avda2XYNirg"
+  },
+  {
+    "folder": "campaign_COSMIC_SHORT_2026_11_20_01",
+    "topic": "A Rogue Planet Caught in a Growth Spurt #Shorts",
+    "status": "scheduled",
+    "stage": "upload",
+    "role": null,
+    "slot": "2026-11-20T18:00:00+05:30",
+    "created": "2026-11-09T12:37:54+05:30",
+    "reason": "campaign 2026-11-15..12-15",
+    "youtube_id": "v79dyWl7X9Q"
+  },
+  {
+    "folder": "campaign_COSMIC_SHORT_2026_11_20_02",
+    "topic": "Astronomers Turned a Black Hole's Pressure Waves Into Sound #Shorts",
+    "status": "scheduled",
+    "stage": "upload",
+    "role": null,
+    "slot": "2026-11-20T20:00:00+05:30",
+    "created": "2026-11-09T12:37:59+05:30",
+    "reason": "campaign 2026-11-15..12-15",
+    "youtube_id": "NF6divKsR0g"
+  },
+  {
+    "folder": "campaign_COSMIC_SHORT_2026_11_20_03",
+    "topic": "Jupiter's Day Is Under 10 Hours #Shorts",
+    "status": "scheduled",
+    "stage": "upload",
+    "role": null,
+    "slot": "2026-11-20T23:30:00+05:30",
+    "created": "2026-11-09T12:38:04+05:30",
+    "reason": "campaign 2026-11-15..12-15",
+    "youtube_id": "3KIHyaIpGiY"
+  },
+  {
+    "folder": "campaign_COSMIC_SHORT_2026_11_21_01",
+    "topic": "A Failed Star Colder Than Your Freezer #Shorts",
+    "status": "scheduled",
+    "stage": "upload",
+    "role": null,
+    "slot": "2026-11-21T18:00:00+05:30",
+    "created": "2026-11-09T12:38:09+05:30",
+    "reason": "campaign 2026-11-15..12-15",
+    "youtube_id": "Quq6HVTlMUA"
+  },
+  {
+    "folder": "campaign_COSMIC_LF_02",
+    "topic": "Rogue Planets: Billions of Worlds With No Sun",
+    "status": "scheduled",
+    "stage": "upload",
+    "role": null,
+    "slot": "2026-11-21T21:30:00+05:30",
+    "created": "2026-11-09T13:09:59+05:30",
+    "reason": "campaign 2026-11-15..12-15",
+    "youtube_id": "jIvaAvBjGDk"
   }
 ]

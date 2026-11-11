@@ -7,6 +7,7 @@ import time
 from . import control
 from .util import run, media_duration, log
 
+TTS_PAUSES = (1, 2, 15, 45, 90)  # seconds after each failed try: NoAudioReceived comes in bursts (9-11 Nov on GitHub)
 TTS_TIMEOUT = 90  # seconds per scene; edge-tts's receive_timeout doesn't cover a stalled websocket (hung a run 13 h)
 
 
@@ -49,7 +50,7 @@ def synthesize(scenes, cfg, workdir):
     for i, sc in enumerate(scenes):
         mp3 = workdir / f"vo_{i:02d}.mp3"
         wav = workdir / f"vo_{i:02d}.wav"
-        for attempt in range(3):
+        for attempt, pause in enumerate(TTS_PAUSES):
             try:
                 control.count("tts_calls")
                 words = asyncio.run(asyncio.wait_for(_tts(sc["text"], voice, rate, pitch, mp3), TTS_TIMEOUT))
@@ -60,9 +61,9 @@ def synthesize(scenes, cfg, workdir):
                 break
             except Exception as e:
                 log(f"TTS retry {attempt + 1}: {type(e).__name__}: {e}")
-                time.sleep(2 ** attempt + random.random())
+                time.sleep(pause + random.random())
         else:
-            raise RuntimeError("Edge TTS failed 3 times")
+            raise RuntimeError(f"Edge TTS failed {len(TTS_PAUSES)} times")
         # trim trailing silence, add a tiny breath gap
         run(["ffmpeg", "-y", "-i", str(mp3), "-af",
              "areverse,silenceremove=start_periods=1:start_threshold=-45dB,areverse,apad=pad_dur=0.12",

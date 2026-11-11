@@ -75,6 +75,7 @@ class Deferred(SystemExit):
 # (2 Nov dry runs: repeated Groq read timeouts stalled each run 6+ minutes). Rate limits and quota are not outages.
 TRIPPED = set()
 _FAILS = {}
+_GEMINI_LAST_TRIP = None
 ALT_FAILS = []  # kinds of fallback-provider failures in the latest ask_json (for the deferral cause)
 
 
@@ -95,9 +96,21 @@ def _gemini_outage(cfg, model, allowed):
     3 s), so its breaker counts per model ("gemini:<model>") and Gemini as a whole is tripped only once every
     allowed model is. Before, two 503s from the first two models skipped every Gemini model for the run."""
     _outage(cfg, f"gemini:{model}", limit=1)  # one 503 per model per run: failed requests cost free quota too
+    global _GEMINI_LAST_TRIP
+    _GEMINI_LAST_TRIP = time.monotonic()
     if all(f"gemini:{m}" in TRIPPED for m in allowed) and "gemini" not in TRIPPED:
         TRIPPED.add("gemini")
         event("provider_tripped", provider="gemini", failures=len(allowed))
+
+
+def _maybe_reopen_gemini(cfg):
+    """Runs last 2-3 h but a Gemini overload spike passes in minutes (9-11 Nov: 17 of 330 calls reached Gemini because
+    one 503 per model benched it for the whole run). After gemini.reopen_after_minutes without a failure, try it again."""
+    mins = cfg["gemini"].get("reopen_after_minutes", 0)
+    if mins and _GEMINI_LAST_TRIP is not None and any(k == "gemini" or k.startswith("gemini:") for k in TRIPPED) \
+            and time.monotonic() - _GEMINI_LAST_TRIP >= mins * 60:
+        log(f"Gemini was benched {mins}+ min ago: trying it again")
+        _reopen_gemini()
 
 
 def _reopen_gemini():
@@ -370,6 +383,7 @@ def _ask_gemini(prompt, cfg, system, temperature, images, strong, purpose, prefe
                                                                                    "image/jpeg"))
                     for p in images] + [prompt]
     last_err = None
+    _maybe_reopen_gemini(cfg)
     allowed = models_for(cfg, strong)
     candidates = [m for m in allowed if family(m, cfg) not in avoid]
     if prefer in candidates:
@@ -453,6 +467,8 @@ def alt_models(cfg, vision=False):
     out = []
     used = usage_today()
     for p in cfg.get("fallback", {}).get("providers", []):
+        if os.environ.get("CI") and "localhost" in p.get("base_url", ""):
+            continue  # a model running on the owner's Mac doesn't exist on a GitHub runner
         fits = p.get("vision") if vision else not p.get("images_only")
         cap = p.get("daily_requests")  # a free account's small daily allowance is shared (OpenRouter ~50/day)
         if cap is not None and sum(v.get("calls", 0) for k, v in used.items() if k.startswith(p["name"] + ":")) >= cap:

@@ -387,7 +387,7 @@ def test_stalled_tts_times_out_instead_of_hanging_the_run(cfg, tmp_path, monkeyp
     monkeypatch.setattr(voice, "_tts", stall)
     monkeypatch.setattr(voice, "TTS_TIMEOUT", 0.05)
     monkeypatch.setattr(voice.time, "sleep", lambda s: None)
-    with pytest.raises(RuntimeError, match="failed 3 times"):
+    with pytest.raises(RuntimeError, match="failed 5 times"):
         voice.synthesize([{"text": "hello"}], cfg, tmp_path)
 
 

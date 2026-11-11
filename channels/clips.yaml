@@ -66,6 +66,7 @@ gemini:
   # The reviewer (frames + audio) has no fallback provider: wait out overload spikes before deferring.
   overload_retries: 3
   overload_wait_seconds: 120
+  reopen_after_minutes: 30        # a benched Gemini model gets another try after this long without a failure
   temperature: 0.85
 
 # Other free LLM providers (OpenAI-compatible), text-only. Off until the key env var is set in .env.

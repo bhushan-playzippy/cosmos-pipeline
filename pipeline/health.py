@@ -17,6 +17,7 @@ records). Ready, waiting, uploading, scheduled and published videos are never to
 """
 import datetime as dt
 import json
+import os
 import shutil
 
 from . import jobs, util
@@ -72,12 +73,16 @@ def checks(cfg, now=None):
         out.append(("upload", f"{len(ups)} upload failure(s) in 24 h: {str(ups[-1].get('error'))[:80]}"))
     missed = [e for e in ev if e.get("event") in ("missed_runs", "interrupted_run")]
     if missed:
-        out.append(("missed_runs", f"{len(missed)} missed or interrupted scheduled run(s) in 24 h (Mac asleep/off?)"))
+        out.append(("missed_runs", f"{len(missed)} missed or interrupted scheduled run(s) in 24 h ({_why_missed()})"))
     out += _stale_channels(cfg, now)
     free = shutil.disk_usage(util.ROOT).free / 1e9
     if free < c.get("min_free_gb", 10):
         out.append(("disk", f"only {free:.1f} GB free on the disk"))
     return out
+
+
+def _why_missed():
+    return "stopped at the time limit or GitHub started it late" if os.environ.get("CI") else "Mac asleep/off?"
 
 
 def _stale_channels(cfg, now):
@@ -94,7 +99,7 @@ def _stale_channels(cfg, now):
             continue
         if last and now - dt.datetime.fromisoformat(last) > dt.timedelta(hours=hours):
             out.append((f"stale_{cid}", f"channel '{cid}' hasn't completed a run for {hours}+ h (last {last[:16]}): "
-                                        "is its scheduler loaded?"))
+                                        + ("GitHub schedules can start hours late" if os.environ.get("CI") else "is its scheduler loaded?")))
     return out
 
 
