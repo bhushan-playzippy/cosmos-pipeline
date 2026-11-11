@@ -1,15 +1,35 @@
 {
-  "date": "2026-11-10",
-  "videos": 24,
-  "median_views_per_hour": 1.14,
+  "date": "2026-11-11",
+  "videos": 27,
+  "median_views_per_hour": 1.06,
   "ranking": [
     {
-      "folder": "docstudio_sgra-v2-s1",
-      "youtube_id": "eHJKCGcEX9Y",
-      "hours": 6.7,
-      "views": 197,
-      "views_per_hour": 29.3,
-      "like_rate": 0.0558,
+      "folder": "2026-11-08_024101_voyager-2-makes-the-only-close-visit-to-triton",
+      "youtube_id": "zj5XXTRMSf8",
+      "hours": 3.4,
+      "views": 395,
+      "views_per_hour": 116.62,
+      "like_rate": 0.0304,
+      "comment_rate": 0.0,
+      "title": "Voyager 2 at Triton",
+      "hook": "",
+      "hook_words": 0,
+      "title_chars": 19,
+      "title_number": true,
+      "question_hook": false,
+      "seconds": 0,
+      "pillar": "unknown",
+      "role": "unknown",
+      "slot": "23:30",
+      "index": 110.02
+    },
+    {
+      "folder": "docstudio_sgra-v2-s2",
+      "youtube_id": "l0mWddywXfo",
+      "hours": 8.9,
+      "views": 169,
+      "views_per_hour": 19.02,
+      "like_rate": 0.0592,
       "comment_rate": 0.0,
       "title": "",
       "hook": "",
@@ -21,15 +41,15 @@
       "pillar": "unknown",
       "role": "unknown",
       "slot": "",
-      "index": 25.7
+      "index": 17.94
     },
     {
       "folder": "2026-11-07_063600_the-eight-planets-in-order-from-the-sun",
       "youtube_id": "ufIw3_OJdmc",
-      "hours": 49.2,
-      "views": 865,
-      "views_per_hour": 17.57,
-      "like_rate": 0.0173,
+      "hours": 75.4,
+      "views": 873,
+      "views_per_hour": 11.58,
+      "like_rate": 0.0172,
       "comment_rate": 0.0,
       "title": "The Planets in Order from the Sun",
       "hook": "",
@@ -41,14 +61,14 @@
       "pillar": "unknown",
       "role": "unknown",
       "slot": "23:30",
-      "index": 15.41
+      "index": 10.92
     },
     {
       "folder": "2026-11-05_214056_saturn-is-the-only-planet-in-the-solar-system-less",
       "youtube_id": "vDfC5gQlgUo",
-      "hours": 97.2,
+      "hours": 123.4,
       "views": 1302,
-      "views_per_hour": 13.39,
+      "views_per_hour": 10.55,
       "like_rate": 0.0207,
       "comment_rate": 0.0008,
       "title": "Saturn Is Less Dense Than Water",
@@ -61,34 +81,34 @@
       "pillar": "unknown",
       "role": "unknown",
       "slot": "23:30",
-      "index": 11.75
+      "index": 9.95
     },
     {
-      "folder": "2026-11-07_075625_five-nasa-mars-rovers",
-      "youtube_id": "sKZqA3DVjbk",
-      "hours": 25.2,
-      "views": 114,
-      "views_per_hour": 4.52,
-      "like_rate": 0.0175,
+      "folder": "docstudio_sgra-v2-s1",
+      "youtube_id": "eHJKCGcEX9Y",
+      "hours": 32.9,
+      "views": 251,
+      "views_per_hour": 7.63,
+      "like_rate": 0.0558,
       "comment_rate": 0.0,
-      "title": "NASA Mars Rovers",
+      "title": "",
       "hook": "",
       "hook_words": 0,
-      "title_chars": 16,
+      "title_chars": 0,
       "title_number": false,
       "question_hook": false,
       "seconds": 0,
       "pillar": "unknown",
       "role": "unknown",
-      "slot": "23:30",
-      "index": 3.96
+      "slot": "",
+      "index": 7.2
     },
     {
       "folder": "2026-10-25_131315_mangalyaans-fuel-efficiency-vs-a-standard-motorcyc",
       "youtube_id": "uuT6oc7akQE",
-      "hours": 340.7,
+      "hours": 366.9,
       "views": 1265,
-      "views_per_hour": 3.71,
+      "views_per_hour": 3.45,
       "like_rate": 0.0277,
       "comment_rate": 0.0032,
       "title": "780,000 km/kg: How India Beat Bike Mileage to Mars",
@@ -106,9 +126,9 @@
     {
       "folder": "2026-10-24_1336_neutron-star-density",
       "youtube_id": "OSnRf7p1aWo",
-      "hours": 390.7,
+      "hours": 416.9,
       "views": 1340,
-      "views_per_hour": 3.43,
+      "views_per_hour": 3.21,
       "like_rate": 0.0254,
       "comment_rate": 0.0007,
       "title": "One Teaspoon Weighs a Billion Tons",
@@ -121,34 +141,34 @@
       "pillar": "unknown",
       "role": "unknown",
       "slot": "18:00",
-      "index": 3.01
+      "index": 3.03
     },
     {
-      "folder": "2026-11-08_000336_messengers-mission-to-mercury",
-      "youtube_id": "j6rEvff3MFs",
-      "hours": 19.2,
-      "views": 31,
-      "views_per_hour": 1.61,
-      "like_rate": 0.0323,
+      "folder": "2026-11-07_075625_five-nasa-mars-rovers",
+      "youtube_id": "sKZqA3DVjbk",
+      "hours": 51.4,
+      "views": 134,
+      "views_per_hour": 2.61,
+      "like_rate": 0.0299,
       "comment_rate": 0.0,
-      "title": "MESSENGER's Journey to Mercury",
+      "title": "NASA Mars Rovers",
       "hook": "",
       "hook_words": 0,
-      "title_chars": 30,
+      "title_chars": 16,
       "title_number": false,
       "question_hook": false,
       "seconds": 0,
       "pillar": "unknown",
       "role": "unknown",
-      "slot": "05:30",
-      "index": 1.41
+      "slot": "23:30",
+      "index": 2.46
     },
     {
       "folder": "2026-10-24_1414_international-space-station-speed",
       "youtube_id": "abWmusH5Tg0",
-      "hours": 369.7,
+      "hours": 395.9,
       "views": 564,
-      "views_per_hour": 1.53,
+      "views_per_hour": 1.42,
       "like_rate": 0.0355,
       "comment_rate": 0.0018,
       "title": "This is how fast the ISS actually moves",
@@ -164,31 +184,31 @@
       "index": 1.34
     },
     {
-      "folder": "2026-11-07_073909_jupiters-four-galilean-moons",
-      "youtube_id": "xiqHIqurwZE",
-      "hours": 43.2,
-      "views": 64,
-      "views_per_hour": 1.48,
-      "like_rate": 0.0625,
+      "folder": "2026-11-08_000336_messengers-mission-to-mercury",
+      "youtube_id": "j6rEvff3MFs",
+      "hours": 45.4,
+      "views": 60,
+      "views_per_hour": 1.32,
+      "like_rate": 0.0667,
       "comment_rate": 0.0,
-      "title": "Jupiter's Four Galilean Moons",
+      "title": "MESSENGER's Journey to Mercury",
       "hook": "",
       "hook_words": 0,
-      "title_chars": 29,
+      "title_chars": 30,
       "title_number": false,
       "question_hook": false,
       "seconds": 0,
       "pillar": "unknown",
       "role": "unknown",
       "slot": "05:30",
-      "index": 1.3
+      "index": 1.25
     },
     {
       "folder": "2026-10-27_210615_gaganyaan-parachute-deployment-force-vs-a-breaking",
       "youtube_id": "e6Uz9tsxTE0",
-      "hours": 292.7,
+      "hours": 318.9,
       "views": 382,
-      "views_per_hour": 1.3,
+      "views_per_hour": 1.2,
       "like_rate": 0.0105,
       "comment_rate": 0.0026,
       "title": "8Gs of Force: Surviving ISRO Gaganyaan's Drop",
@@ -201,15 +221,15 @@
       "pillar": "unknown",
       "role": "retention",
       "slot": "20:00",
-      "index": 1.14
+      "index": 1.13
     },
     {
       "folder": "2026-10-26_133826_the-number-of-stars-in-the-universe-vs-grains-of-s",
       "youtube_id": "06KQPbsd9aU",
-      "hours": 321.7,
-      "views": 401,
-      "views_per_hour": 1.25,
-      "like_rate": 0.0349,
+      "hours": 347.9,
+      "views": 400,
+      "views_per_hour": 1.15,
+      "like_rate": 0.035,
       "comment_rate": 0.0025,
       "title": "Why Stars Crush Every Grain of Sand on Earth",
       "hook": "",
@@ -221,14 +241,14 @@
       "pillar": "unknown",
       "role": "authority",
       "slot": "15:00",
-      "index": 1.1
+      "index": 1.08
     },
     {
       "folder": "2026-10-24_1402_olympus-mons-scale",
       "youtube_id": "kwI_Atb1430",
-      "hours": 366.7,
+      "hours": 392.9,
       "views": 423,
-      "views_per_hour": 1.15,
+      "views_per_hour": 1.08,
       "like_rate": 0.0307,
       "comment_rate": 0.0024,
       "title": "The Volcano That Puts Mount Everest To Shame",
@@ -241,14 +261,14 @@
       "pillar": "unknown",
       "role": "unknown",
       "slot": "18:00",
-      "index": 1.01
+      "index": 1.02
     },
     {
       "folder": "2026-10-24_193519_the-moon-drifting-away",
       "youtube_id": "UWmusUZxwDA",
-      "hours": 375.7,
+      "hours": 401.9,
       "views": 426,
-      "views_per_hour": 1.13,
+      "views_per_hour": 1.06,
       "like_rate": 0.0305,
       "comment_rate": 0.0023,
       "title": "The Moon Drifts Away at Fingernail Speed",
@@ -261,14 +281,34 @@
       "pillar": "unknown",
       "role": "discovery",
       "slot": "09:00",
+      "index": 1.0
+    },
+    {
+      "folder": "2026-11-07_073909_jupiters-four-galilean-moons",
+      "youtube_id": "xiqHIqurwZE",
+      "hours": 69.4,
+      "views": 73,
+      "views_per_hour": 1.05,
+      "like_rate": 0.0548,
+      "comment_rate": 0.0,
+      "title": "Jupiter's Four Galilean Moons",
+      "hook": "",
+      "hook_words": 0,
+      "title_chars": 29,
+      "title_number": false,
+      "question_hook": false,
+      "seconds": 0,
+      "pillar": "unknown",
+      "role": "unknown",
+      "slot": "05:30",
       "index": 0.99
     },
     {
       "folder": "2026-10-27_211045_the-lifespan-of-a-red-dwarf-star-vs-the-current-ag",
       "youtube_id": "EALndKHYuyk",
-      "hours": 279.7,
+      "hours": 305.9,
       "views": 296,
-      "views_per_hour": 1.06,
+      "views_per_hour": 0.97,
       "like_rate": 0.0135,
       "comment_rate": 0.0034,
       "title": "Why Hasn't a Single Red Dwarf Star Died Yet?",
@@ -281,14 +321,14 @@
       "pillar": "unknown",
       "role": "discovery",
       "slot": "09:00",
-      "index": 0.93
+      "index": 0.92
     },
     {
       "folder": "2026-10-25_133913_the-temperature-of-lightning-on-earth-vs-the-surfa",
       "youtube_id": "pLD9VYe3l5Q",
-      "hours": 327.7,
+      "hours": 353.9,
       "views": 337,
-      "views_per_hour": 1.03,
+      "views_per_hour": 0.95,
       "like_rate": 0.0475,
       "comment_rate": 0.003,
       "title": "Why Lightning is 5x Hotter Than the Sun",
@@ -306,9 +346,9 @@
     {
       "folder": "2026-10-24_1428_diamond-rain-on-neptune",
       "youtube_id": "Qvk_c-27d4c",
-      "hours": 345.7,
+      "hours": 371.9,
       "views": 334,
-      "views_per_hour": 0.97,
+      "views_per_hour": 0.9,
       "like_rate": 0.0359,
       "comment_rate": 0.003,
       "title": "Scientists Think It Rains Diamonds on Neptune",
@@ -326,9 +366,9 @@
     {
       "folder": "2026-10-24_1427_earth-compressed-into-a-black-hole",
       "youtube_id": "5i4v_-f-K9A",
-      "hours": 351.7,
+      "hours": 377.9,
       "views": 297,
-      "views_per_hour": 0.84,
+      "views_per_hour": 0.79,
       "like_rate": 0.0303,
       "comment_rate": 0.0034,
       "title": "Earth as a Black Hole Would Fit in Your Palm",
@@ -341,14 +381,14 @@
       "pillar": "unknown",
       "role": "unknown",
       "slot": "09:00",
-      "index": 0.74
+      "index": 0.75
     },
     {
       "folder": "2026-10-28_134543_the-distance-to-the-nearest-star-vs-a-highway-road",
       "youtube_id": "4rTETbscT-o",
-      "hours": 283.2,
+      "hours": 309.4,
       "views": 223,
-      "views_per_hour": 0.79,
+      "views_per_hour": 0.72,
       "like_rate": 0.0135,
       "comment_rate": 0.0045,
       "title": "Why Driving to the Nearest Star Takes 47 Million Years",
@@ -361,14 +401,14 @@
       "pillar": "unknown",
       "role": "discovery",
       "slot": "05:30",
-      "index": 0.69
+      "index": 0.68
     },
     {
       "folder": "2026-10-27_130005_the-total-mass-of-all-human-made-satellites-in-orb",
       "youtube_id": "wCbgGDBM2lY",
-      "hours": 297.7,
+      "hours": 323.9,
       "views": 223,
-      "views_per_hour": 0.75,
+      "views_per_hour": 0.69,
       "like_rate": 0.0269,
       "comment_rate": 0.0045,
       "title": "18 Trains vs Every Satellite in Space",
@@ -381,14 +421,34 @@
       "pillar": "unknown",
       "role": "retention",
       "slot": "15:00",
-      "index": 0.66
+      "index": 0.65
+    },
+    {
+      "folder": "2026-11-08_013905_magellan-reveals-the-surface-of-venus-with-radar",
+      "youtube_id": "SdiwesW79dM",
+      "hours": 27.4,
+      "views": 13,
+      "views_per_hour": 0.47,
+      "like_rate": 0.0,
+      "comment_rate": 0.0,
+      "title": "How Magellan Revealed Venus",
+      "hook": "",
+      "hook_words": 0,
+      "title_chars": 27,
+      "title_number": false,
+      "question_hook": false,
+      "seconds": 0,
+      "pillar": "unknown",
+      "role": "unknown",
+      "slot": "23:30",
+      "index": 0.44
     },
     {
       "folder": "2026-10-27_221529_suns-core-energy-travel-time-vs-your-morning-commu",
       "youtube_id": "8wUMlZ-J0sw",
-      "hours": 313.2,
+      "hours": 339.4,
       "views": 129,
-      "views_per_hour": 0.41,
+      "views_per_hour": 0.38,
       "like_rate": 0.0388,
       "comment_rate": 0.0078,
       "title": "Why Sunlight Takes 100,000 Years to Reach You",
@@ -404,11 +464,31 @@
       "index": 0.36
     },
     {
+      "folder": "2026-11-08_022625_galileo-follows-voyagers-discovery-of-active-volca",
+      "youtube_id": "XXU2T8D0T5A",
+      "hours": 21.4,
+      "views": 7,
+      "views_per_hour": 0.33,
+      "like_rate": 0.0,
+      "comment_rate": 0.0,
+      "title": "Galileo Returned to Io's Volcanoes",
+      "hook": "",
+      "hook_words": 0,
+      "title_chars": 34,
+      "title_number": false,
+      "question_hook": false,
+      "seconds": 0,
+      "pillar": "unknown",
+      "role": "unknown",
+      "slot": "05:30",
+      "index": 0.31
+    },
+    {
       "folder": "2026-10-27_134730_the-age-of-light-from-andromeda-vs-recorded-human-",
       "youtube_id": "yylP_CNZL4g",
-      "hours": 303.7,
+      "hours": 329.9,
       "views": 82,
-      "views_per_hour": 0.27,
+      "views_per_hour": 0.25,
       "like_rate": 0.0732,
       "comment_rate": 0.0122,
       "title": "Why 2.5 Million-Year-Old Starlight is Hitting Your Eye",
@@ -426,9 +506,9 @@
     {
       "folder": "2026-10-28_141508_the-width-of-the-kuiper-belt-vs-driving-across-ame",
       "youtube_id": "bqO7avYWuRk",
-      "hours": 259.2,
+      "hours": 285.4,
       "views": 55,
-      "views_per_hour": 0.21,
+      "views_per_hour": 0.19,
       "like_rate": 0.0,
       "comment_rate": 0.0182,
       "title": "Drive Across America 660,000 Times to Match This",
@@ -444,29 +524,9 @@
       "index": 0.18
     },
     {
-      "folder": "2026-11-08_013905_magellan-reveals-the-surface-of-venus-with-radar",
-      "youtube_id": "SdiwesW79dM",
-      "hours": 1.2,
-      "views": 0,
-      "views_per_hour": 0.0,
-      "like_rate": 0.0,
-      "comment_rate": 0.0,
-      "title": "How Magellan Revealed Venus",
-      "hook": "",
-      "hook_words": 0,
-      "title_chars": 27,
-      "title_number": false,
-      "question_hook": false,
-      "seconds": 0,
-      "pillar": "unknown",
-      "role": "unknown",
-      "slot": "23:30",
-      "index": 0.0
-    },
-    {
       "folder": "docstudio_sgra-doc2",
       "youtube_id": "ia7VRZZGXlg",
-      "hours": 28.7,
+      "hours": 54.9,
       "views": 0,
       "views_per_hour": 0.0,
       "like_rate": 0.0,
@@ -486,24 +546,24 @@
   ],
   "leaders": [
     {
+      "title": "Voyager 2 at Triton",
+      "hook": "",
+      "views": 395,
+      "index": 110.02,
+      "pillar": "unknown"
+    },
+    {
       "title": "",
       "hook": "",
-      "views": 197,
-      "index": 25.7,
+      "views": 169,
+      "index": 17.94,
       "pillar": "unknown"
     },
     {
       "title": "The Planets in Order from the Sun",
       "hook": "",
-      "views": 865,
-      "index": 15.41,
-      "pillar": "unknown"
-    },
-    {
-      "title": "Saturn Is Less Dense Than Water",
-      "hook": "",
-      "views": 1302,
-      "index": 11.75,
+      "views": 873,
+      "index": 10.92,
       "pillar": "unknown"
     }
   ],
@@ -516,10 +576,10 @@
       "pillar": "unknown"
     },
     {
-      "title": "How Magellan Revealed Venus",
+      "title": "Drive Across America 660,000 Times to Match This",
       "hook": "",
-      "views": 0,
-      "index": 0.0,
+      "views": 55,
+      "index": 0.18,
       "pillar": "unknown"
     }
   ],
@@ -527,15 +587,15 @@
     "discovery": 0.89
   },
   "best_slots": {
-    "": {
-      "n": 2,
-      "index": 12.85,
-      "conclusive": false
-    },
     "23:30": {
-      "n": 5,
-      "index": 3.96,
+      "n": 6,
+      "index": 6.21,
       "conclusive": true
+    },
+    "": {
+      "n": 3,
+      "index": 7.2,
+      "conclusive": false
     },
     "20:00": {
       "n": 2,
@@ -544,18 +604,18 @@
     },
     "18:00": {
       "n": 2,
-      "index": 2.01,
-      "conclusive": false
-    },
-    "05:30": {
-      "n": 4,
-      "index": 0.99,
+      "index": 2.02,
       "conclusive": false
     },
     "15:00": {
       "n": 4,
-      "index": 0.98,
+      "index": 0.97,
       "conclusive": false
+    },
+    "05:30": {
+      "n": 5,
+      "index": 0.68,
+      "conclusive": true
     },
     "09:00": {
       "n": 5,
@@ -564,7 +624,6 @@
     }
   },
   "patterns": [
-    "top videos average 29 chars title length vs 39 chars for the weakest: aim near 29 chars",
-    "a number in the title: 12% of top videos vs 62% of the weakest → avoid it"
+    "top videos average 25 chars title length vs 38 chars for the weakest: aim near 25 chars"
   ]
 }

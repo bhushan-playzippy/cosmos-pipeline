@@ -4579,7 +4579,7 @@
   {
     "folder": "2026-11-08_024101_voyager-2-makes-the-only-close-visit-to-triton",
     "topic": "Voyager 2 makes the only close visit to Triton",
-    "status": "scheduled",
+    "status": "published",
     "stage": "script",
     "role": null,
     "slot": "2026-11-10T23:30:00+05:30",
@@ -4592,7 +4592,8 @@
       "render": "2026-11-08T02:46:25+05:30",
       "gates": "2026-11-08T02:47:10+05:30",
       "upload_started": "2026-11-08T02:48:15+05:30",
-      "upload": "2026-11-08T02:48:22+05:30"
+      "upload": "2026-11-08T02:48:22+05:30",
+      "published": "2026-11-11T02:53:17+05:30"
     },
     "youtube_id": "zj5XXTRMSf8",
     "instagram_id": null,
@@ -4608,7 +4609,7 @@
       "publish_at": "2026-11-10T18:00:00Z"
     },
     "alert": null,
-    "privacy": "private"
+    "privacy": "public"
   },
   {
     "folder": "2026-11-08_024824_voyager-2-makes-the-only-close-visit-to-uranus",
@@ -6157,5 +6158,263 @@
     "instagram_id": null,
     "stage_failed": "verify",
     "reason": "ValueError: independent check still failing after repair: Gravitational effects would also reach us after the same int (no document evidence (7 unresolved claims; at most 3 per video): support it, sof); Light speed is far faster than any jet (no document evidence (7 unresolved claims; at most 3 per "
+  },
+  {
+    "folder": "2026-11-11_025318_mars-rover-curiosity-wheel-wear-and-tear-on-sharp-",
+    "topic": "Mars rover Curiosity wheel wear and tear on sharp rocks",
+    "status": "failed",
+    "stage": "script",
+    "role": "authority",
+    "slot": "2026-11-12T23:30:00+05:30",
+    "pillar": "Missions in danger (Apollo, ISS, Voyager, Artemis)",
+    "selection": {
+      "role": "authority",
+      "base_score": 41.5,
+      "multiplier": 1.0,
+      "parts": {
+        "pillar_role": 1.0
+      },
+      "final": 41.5,
+      "runner_up": [
+        {
+          "topic": "The International Space Station completes 15.5 orbits around",
+          "final": 41.5
+        },
+        {
+          "topic": "The Apollo 11 lunar module computer had only 74 kilobytes of",
+          "final": 40.94
+        }
+      ]
+    },
+    "visual_precheck": null,
+    "created": "2026-11-11T02:53:18+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "stage_failed": "verify",
+    "reason": "ValueError: independent check still failing after repair: Why are Mars rover wheels shredding like tin foil? (misleading); Since then it has driven about 34 miles of rocky terrain (wrong); a route chosen to protect its wheels (motive with no document stating it; a model's word isn't enough)"
+  },
+  {
+    "folder": "2026-11-11_041745_the-international-space-station-completes-155-orbi",
+    "topic": "The International Space Station completes 15.5 orbits around Earth every single day",
+    "status": "quarantined",
+    "stage": "script",
+    "role": "authority",
+    "slot": "2026-11-12T23:30:00+05:30",
+    "pillar": "Missions in danger (Apollo, ISS, Voyager, Artemis)",
+    "selection": {
+      "role": "authority",
+      "base_score": 41.5,
+      "multiplier": 1.0,
+      "parts": {
+        "pillar_role": 1.0
+      },
+      "final": 41.5,
+      "runner_up": [
+        {
+          "topic": "The Apollo 11 lunar module computer had only 74 kilobytes of",
+          "final": 40.94
+        },
+        {
+          "topic": "The ISS travels at 17,500 miles per hour, about 28,000 km/h,",
+          "final": 40.05
+        }
+      ]
+    },
+    "visual_precheck": null,
+    "created": "2026-11-11T04:17:45+05:30",
+    "stages": {
+      "script": "2026-11-11T04:17:45+05:30",
+      "render": "2026-11-11T04:19:47+05:30",
+      "gates": "2026-11-11T04:20:47+05:30"
+    },
+    "youtube_id": null,
+    "instagram_id": null,
+    "reason": "AI reviewer: visual grounding failed: scene 3: MISMATCH (generic stock footage (pixabay: 'fast space')). The narration and numbers ar",
+    "stage_failed": null,
+    "title": "ISS: 16 Sunrises Every Day",
+    "music": "deepfield-f.m4a"
+  },
+  {
+    "folder": "2026-11-11_042047_the-suns-core-temperature-reaches-27-million-f-abo",
+    "topic": "The Sun's core temperature reaches 27 million °F, about 15 million °C",
+    "status": "failed",
+    "stage": "script",
+    "role": "authority",
+    "slot": "2026-11-12T23:30:00+05:30",
+    "pillar": "Famous objects, one impossible fact",
+    "selection": {
+      "role": "authority",
+      "base_score": 45.0,
+      "multiplier": 0.89,
+      "parts": {
+        "pillar_role": 0.89
+      },
+      "final": 40.05,
+      "runner_up": [
+        {
+          "topic": "Chandrayaan-3 landing site near the lunar south pole in shad",
+          "final": 39.0
+        },
+        {
+          "topic": "Titan's atmosphere is 1.45 times thicker than Earth's surfac",
+          "final": 36.94
+        }
+      ]
+    },
+    "visual_precheck": null,
+    "created": "2026-11-11T04:20:47+05:30",
+    "stages": {
+      "script": "2026-11-11T04:57:28+05:30"
+    },
+    "youtube_id": null,
+    "instagram_id": null,
+    "stage_failed": "voice",
+    "reason": "RuntimeError: Edge TTS failed 3 times",
+    "resumable": true
+  },
+  {
+    "folder": "2026-11-11_050141_the-suns-core-temperature-reaches-27-million-f-abo",
+    "topic": "The Sun's core temperature reaches 27 million °F, about 15 million °C",
+    "status": "quarantined",
+    "stage": "script",
+    "role": "authority",
+    "slot": "2026-11-12T23:30:00+05:30",
+    "pillar": "Famous objects, one impossible fact",
+    "selection": {
+      "role": "authority",
+      "base_score": 45.0,
+      "multiplier": 0.89,
+      "parts": {
+        "pillar_role": 0.89
+      },
+      "final": 40.05,
+      "runner_up": [
+        {
+          "topic": "Chandrayaan-3 landing site near the lunar south pole in shad",
+          "final": 39.0
+        },
+        {
+          "topic": "Titan's atmosphere is 1.45 times thicker than Earth's surfac",
+          "final": 36.94
+        }
+      ]
+    },
+    "visual_precheck": null,
+    "created": "2026-11-11T05:01:41+05:30",
+    "stages": {
+      "script": "2026-11-11T05:01:41+05:30",
+      "render": "2026-11-11T05:03:25+05:30",
+      "gates": "2026-11-11T05:03:52+05:30"
+    },
+    "youtube_id": null,
+    "instagram_id": null,
+    "reason": "quality gate: no black frames",
+    "stage_failed": null,
+    "title": "Sun's Core Hits 15.7 Million Kelvins",
+    "music": "nebula-d.m4a"
+  },
+  {
+    "folder": "2026-11-11_050352_chandrayaan-3-landing-site-near-the-lunar-south-po",
+    "topic": "Chandrayaan-3 landing site near the lunar south pole in shadowed craters",
+    "status": "failed",
+    "stage": "script",
+    "role": "authority",
+    "slot": "2026-11-12T23:30:00+05:30",
+    "pillar": "ISRO & India in space",
+    "selection": {
+      "role": "authority",
+      "base_score": 39.0,
+      "multiplier": 1.0,
+      "parts": {
+        "pillar_role": 1.0
+      },
+      "final": 39.0,
+      "runner_up": [
+        {
+          "topic": "Titan's atmosphere is 1.45 times thicker than Earth's surfac",
+          "final": 36.94
+        },
+        {
+          "topic": "Saturn's moon Enceladus shoots water ice geysers hundreds of",
+          "final": 35.6
+        }
+      ]
+    },
+    "visual_precheck": null,
+    "created": "2026-11-11T05:03:52+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "stage_failed": "verify",
+    "reason": "ValueError: independent check still failing after repair: crater just a few meters across (misleading); a finding that scientists are still studying to understand i (attribution with no document stating it; a model's word isn't enough); Do you think future astronauts should build bases in these p (u"
+  },
+  {
+    "folder": "2026-11-11_051950_titans-atmosphere-is-145-times-thicker-than-earths",
+    "topic": "Titan's atmosphere is 1.45 times thicker than Earth's surface pressure, allowing a human to walk around without a pressure suit if wearing an oxygen mask and heavy coat",
+    "status": "failed",
+    "stage": "script",
+    "role": "authority",
+    "slot": "2026-11-12T23:30:00+05:30",
+    "pillar": "Planets & moons",
+    "selection": {
+      "role": "authority",
+      "base_score": 41.5,
+      "multiplier": 0.89,
+      "parts": {
+        "pillar_role": 0.89
+      },
+      "final": 36.94,
+      "runner_up": [
+        {
+          "topic": "Saturn's moon Enceladus shoots water ice geysers hundreds of",
+          "final": 35.6
+        },
+        {
+          "topic": "The Apollo 11 lunar module computer had only 74 kilobytes of",
+          "final": 34.78
+        }
+      ]
+    },
+    "visual_precheck": null,
+    "created": "2026-11-11T05:19:50+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "stage_failed": "verify",
+    "reason": "ValueError: independent check still failing after repair: Titan's surface air is about four times as dense as Earth's. (description states more than the narration: 90)"
+  },
+  {
+    "folder": "2026-11-11_053736_saturns-moon-enceladus-shoots-water-ice-geysers-hu",
+    "topic": "Saturn's moon Enceladus shoots water ice geysers hundreds of miles into space from a subsurface global ocean",
+    "status": "failed",
+    "stage": "script",
+    "role": "authority",
+    "slot": "2026-11-12T23:30:00+05:30",
+    "pillar": "Planets & moons",
+    "selection": {
+      "role": "authority",
+      "base_score": 40.0,
+      "multiplier": 0.89,
+      "parts": {
+        "pillar_role": 0.89
+      },
+      "final": 35.6,
+      "runner_up": [
+        {
+          "topic": "The Apollo 11 lunar module computer had only 74 kilobytes of",
+          "final": 34.78
+        },
+        {
+          "topic": "The ISS travels at 17,500 miles per hour, about 28,000 km/h,",
+          "final": 34.02
+        }
+      ]
+    },
+    "visual_precheck": null,
+    "created": "2026-11-11T05:37:36+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null
   }
 ]
