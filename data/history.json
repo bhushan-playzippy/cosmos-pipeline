@@ -4631,7 +4631,7 @@
   {
     "folder": "2026-11-08_031439_voyager-2-makes-the-only-close-visit-to-uranus",
     "topic": "Voyager 2 makes the only close visit to Uranus",
-    "status": "scheduled",
+    "status": "published",
     "stage": "script",
     "role": null,
     "slot": "2026-11-11T20:00:00+05:30",
@@ -4644,7 +4644,8 @@
       "render": "2026-11-08T03:17:01+05:30",
       "gates": "2026-11-08T03:17:29+05:30",
       "upload_started": "2026-11-08T03:32:58+05:30",
-      "upload": "2026-11-08T03:38:40+05:30"
+      "upload": "2026-11-08T03:38:40+05:30",
+      "published": "2026-11-11T21:28:21+05:30"
     },
     "youtube_id": "TYLd6jbm4L4",
     "instagram_id": null,
@@ -4660,7 +4661,7 @@
       "privacy": "private",
       "publish_at": "2026-11-11T14:30:00Z"
     },
-    "privacy": "private"
+    "privacy": "public"
   },
   {
     "folder": "2026-11-08_031831_voyager-2-makes-the-only-close-visit-to-neptune",
@@ -5151,14 +5152,17 @@
   {
     "folder": "docstudio_sgra-v2-s3",
     "topic": "Gas Around Our Black Hole Orbits in Minutes #Shorts",
-    "status": "scheduled",
+    "status": "published",
     "stage": "upload",
     "role": null,
     "slot": "2026-11-11T18:00:00+05:30",
     "created": "2026-11-08T17:44:26+05:30",
     "youtube_id": "8imb1TMqFP0",
     "reason": "docstudio animated documentary upload",
-    "privacy": "private"
+    "privacy": "public",
+    "stages": {
+      "published": "2026-11-11T21:28:21+05:30"
+    }
   },
   {
     "folder": "2026-11-08_175038_iss-speed-vs-bullet",
@@ -6415,7 +6419,9 @@
     "created": "2026-11-11T05:37:36+05:30",
     "stages": {},
     "youtube_id": null,
-    "instagram_id": null
+    "instagram_id": null,
+    "reason": "interrupted: the run ended before this video finished (sleep/crash); nothing was uploaded",
+    "stage_failed": "script"
   },
   {
     "folder": "campaign_COSMIC_SHORT_2026_11_16_02",
@@ -6426,7 +6432,8 @@
     "slot": "2026-11-16T20:00:00+05:30",
     "created": "2026-11-09T07:56:21+05:30",
     "reason": "campaign 2026-11-15..12-15",
-    "youtube_id": "W-73SaFk9iY"
+    "youtube_id": "W-73SaFk9iY",
+    "privacy": "private"
   },
   {
     "folder": "campaign_COSMIC_SHORT_2026_11_17_03",
@@ -6437,7 +6444,8 @@
     "slot": "2026-11-17T23:30:00+05:30",
     "created": "2026-11-09T12:11:09+05:30",
     "reason": "campaign 2026-11-15..12-15",
-    "youtube_id": "D7ALLLUW-Wo"
+    "youtube_id": "D7ALLLUW-Wo",
+    "privacy": "private"
   },
   {
     "folder": "campaign_COSMIC_SHORT_2026_11_18_01",
@@ -6448,7 +6456,8 @@
     "slot": "2026-11-18T18:00:00+05:30",
     "created": "2026-11-09T12:11:20+05:30",
     "reason": "campaign 2026-11-15..12-15",
-    "youtube_id": "gWZLdlsiY9o"
+    "youtube_id": "gWZLdlsiY9o",
+    "privacy": "private"
   },
   {
     "folder": "campaign_COSMIC_SHORT_2026_11_18_02",
@@ -6459,7 +6468,8 @@
     "slot": "2026-11-18T20:00:00+05:30",
     "created": "2026-11-09T12:11:26+05:30",
     "reason": "campaign 2026-11-15..12-15",
-    "youtube_id": "fSzCS-YpNuU"
+    "youtube_id": "fSzCS-YpNuU",
+    "privacy": "private"
   },
   {
     "folder": "campaign_COSMIC_SHORT_2026_11_19_02",
@@ -6470,7 +6480,8 @@
     "slot": "2026-11-19T20:00:00+05:30",
     "created": "2026-11-09T12:11:56+05:30",
     "reason": "campaign 2026-11-15..12-15",
-    "youtube_id": "SBuCRcDuN_4"
+    "youtube_id": "SBuCRcDuN_4",
+    "privacy": "private"
   },
   {
     "folder": "campaign_COSMIC_SHORT_2026_11_19_03",
@@ -6481,7 +6492,8 @@
     "slot": "2026-11-19T23:30:00+05:30",
     "created": "2026-11-09T12:12:01+05:30",
     "reason": "campaign 2026-11-15..12-15",
-    "youtube_id": "8w3iuo6zcrk"
+    "youtube_id": "8w3iuo6zcrk",
+    "privacy": "private"
   },
   {
     "folder": "campaign_COSMIC_SHORT_2026_11_21_02",
@@ -6492,7 +6504,8 @@
     "slot": "2026-11-21T20:00:00+05:30",
     "created": "2026-11-09T12:12:33+05:30",
     "reason": "campaign 2026-11-15..12-15",
-    "youtube_id": "gTWmgepAXmI"
+    "youtube_id": "gTWmgepAXmI",
+    "privacy": "private"
   },
   {
     "folder": "campaign_COSMIC_SHORT_2026_11_21_03",
@@ -6503,7 +6516,8 @@
     "slot": "2026-11-21T23:30:00+05:30",
     "created": "2026-11-09T12:12:38+05:30",
     "reason": "campaign 2026-11-15..12-15",
-    "youtube_id": "LukzXxa4M4o"
+    "youtube_id": "LukzXxa4M4o",
+    "privacy": "private"
   },
   {
     "folder": "campaign_COSMIC_LF_01",
@@ -6519,7 +6533,8 @@
       "withdrawn": "2026-11-09T14:09:10+05:30"
     },
     "publish_at": null,
-    "alert": null
+    "alert": null,
+    "privacy": "private"
   },
   {
     "folder": "campaign_COSMIC_SHORT_2026_11_16_01",
@@ -6530,7 +6545,8 @@
     "slot": "2026-11-16T18:00:00+05:30",
     "created": "2026-11-09T12:26:09+05:30",
     "reason": "campaign 2026-11-15..12-15",
-    "youtube_id": "-zrJ2RX8xgA"
+    "youtube_id": "-zrJ2RX8xgA",
+    "privacy": "private"
   },
   {
     "folder": "campaign_COSMIC_SHORT_2026_11_16_03",
@@ -6541,7 +6557,8 @@
     "slot": "2026-11-16T23:30:00+05:30",
     "created": "2026-11-09T12:26:14+05:30",
     "reason": "campaign 2026-11-15..12-15",
-    "youtube_id": "BLP84wi9_lc"
+    "youtube_id": "BLP84wi9_lc",
+    "privacy": "private"
   },
   {
     "folder": "campaign_COSMIC_SHORT_2026_11_17_01",
@@ -6552,7 +6569,8 @@
     "slot": "2026-11-17T18:00:00+05:30",
     "created": "2026-11-09T12:26:19+05:30",
     "reason": "campaign 2026-11-15..12-15",
-    "youtube_id": "GKNGuO0xBog"
+    "youtube_id": "GKNGuO0xBog",
+    "privacy": "private"
   },
   {
     "folder": "campaign_COSMIC_SHORT_2026_11_17_02",
@@ -6563,7 +6581,8 @@
     "slot": "2026-11-17T20:00:00+05:30",
     "created": "2026-11-09T12:26:24+05:30",
     "reason": "campaign 2026-11-15..12-15",
-    "youtube_id": "wGGNBOlWMrc"
+    "youtube_id": "wGGNBOlWMrc",
+    "privacy": "private"
   },
   {
     "folder": "campaign_COSMIC_SHORT_2026_11_18_03",
@@ -6574,7 +6593,8 @@
     "slot": "2026-11-18T23:30:00+05:30",
     "created": "2026-11-09T12:26:44+05:30",
     "reason": "campaign 2026-11-15..12-15",
-    "youtube_id": "MAPZ5BSb2Ts"
+    "youtube_id": "MAPZ5BSb2Ts",
+    "privacy": "private"
   },
   {
     "folder": "campaign_COSMIC_SHORT_2026_11_19_01",
@@ -6585,7 +6605,8 @@
     "slot": "2026-11-19T18:00:00+05:30",
     "created": "2026-11-09T12:37:49+05:30",
     "reason": "campaign 2026-11-15..12-15",
-    "youtube_id": "avda2XYNirg"
+    "youtube_id": "avda2XYNirg",
+    "privacy": "private"
   },
   {
     "folder": "campaign_COSMIC_SHORT_2026_11_20_01",
@@ -6596,7 +6617,8 @@
     "slot": "2026-11-20T18:00:00+05:30",
     "created": "2026-11-09T12:37:54+05:30",
     "reason": "campaign 2026-11-15..12-15",
-    "youtube_id": "v79dyWl7X9Q"
+    "youtube_id": "v79dyWl7X9Q",
+    "privacy": "private"
   },
   {
     "folder": "campaign_COSMIC_SHORT_2026_11_20_02",
@@ -6607,7 +6629,8 @@
     "slot": "2026-11-20T20:00:00+05:30",
     "created": "2026-11-09T12:37:59+05:30",
     "reason": "campaign 2026-11-15..12-15",
-    "youtube_id": "NF6divKsR0g"
+    "youtube_id": "NF6divKsR0g",
+    "privacy": "private"
   },
   {
     "folder": "campaign_COSMIC_SHORT_2026_11_20_03",
@@ -6618,7 +6641,8 @@
     "slot": "2026-11-20T23:30:00+05:30",
     "created": "2026-11-09T12:38:04+05:30",
     "reason": "campaign 2026-11-15..12-15",
-    "youtube_id": "3KIHyaIpGiY"
+    "youtube_id": "3KIHyaIpGiY",
+    "privacy": "private"
   },
   {
     "folder": "campaign_COSMIC_SHORT_2026_11_21_01",
@@ -6629,7 +6653,8 @@
     "slot": "2026-11-21T18:00:00+05:30",
     "created": "2026-11-09T12:38:09+05:30",
     "reason": "campaign 2026-11-15..12-15",
-    "youtube_id": "Quq6HVTlMUA"
+    "youtube_id": "Quq6HVTlMUA",
+    "privacy": "private"
   },
   {
     "folder": "campaign_COSMIC_LF_02",
@@ -6640,6 +6665,112 @@
     "slot": "2026-11-21T21:30:00+05:30",
     "created": "2026-11-09T13:09:59+05:30",
     "reason": "campaign 2026-11-15..12-15",
-    "youtube_id": "jIvaAvBjGDk"
+    "youtube_id": "jIvaAvBjGDk",
+    "privacy": "private"
+  },
+  {
+    "folder": "2026-11-11_212821_the-apollo-11-lunar-module-computer-had-only-74-ki",
+    "topic": "The Apollo 11 lunar module computer had only 74 kilobytes of memory, less than a modern digital watch",
+    "status": "failed",
+    "stage": "script",
+    "role": "authority",
+    "slot": "2026-11-12T23:30:00+05:30",
+    "pillar": "Missions in danger (Apollo, ISS, Voyager, Artemis)",
+    "selection": {
+      "role": "authority",
+      "base_score": 46.0,
+      "multiplier": 0.89,
+      "parts": {
+        "pillar_role": 0.89
+      },
+      "final": 40.94,
+      "runner_up": [
+        {
+          "topic": "The ISS travels at 17,500 miles per hour, about 28,000 km/h,",
+          "final": 40.05
+        },
+        {
+          "topic": "The Chandrayaan-1 mission discovered definitive signatures o",
+          "final": 33.82
+        }
+      ]
+    },
+    "visual_precheck": null,
+    "created": "2026-11-11T21:28:21+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "stage_failed": "verify",
+    "reason": "ValueError: independent check still failing after repair: The Apollo 11 computer had memory in a watch-sized case. (wrong); The Apollo computer fit in a case about the size of a large  (wrong);  (Low count) The Apollo Guidance Computer contained between  (narrated 36 vs independent 72 KB)"
+  },
+  {
+    "folder": "2026-11-11_221700_shuttle-tile-touch-test",
+    "topic": "Shuttle Tile Touch Test",
+    "status": "failed",
+    "stage": "script",
+    "role": "authority",
+    "slot": "2026-11-12T23:30:00+05:30",
+    "pillar": "Famous objects, one impossible fact",
+    "selection": {
+      "role": "authority",
+      "base_score": 46.5,
+      "multiplier": 1.0,
+      "parts": {
+        "pillar_role": 1.0
+      },
+      "final": 46.5,
+      "runner_up": [
+        {
+          "topic": "Titan's Heavy Air Flying",
+          "final": 43.0
+        },
+        {
+          "topic": "Io's 300-Mile Lava Fountains",
+          "final": 39.5
+        }
+      ]
+    },
+    "visual_precheck": null,
+    "created": "2026-11-11T22:17:00+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "stage_failed": "verify",
+    "reason": "ValueError: independent check still failing after repair: NASA offered about 7,000 tiles to schools for $23.40 each. (wrong); In 1999, Discovery also flew a shuttle mission to dock with  (wrong); NASA Sold Shuttle Tiles for $23.40 (wrong)"
+  },
+  {
+    "folder": "2026-11-11_221841_titans-heavy-air-flying",
+    "topic": "Titan's Heavy Air Flying",
+    "status": "failed",
+    "stage": "script",
+    "role": "authority",
+    "slot": "2026-11-12T23:30:00+05:30",
+    "pillar": "Planets & moons",
+    "selection": {
+      "role": "authority",
+      "base_score": 43.0,
+      "multiplier": 1.0,
+      "parts": {
+        "pillar_role": 1.0
+      },
+      "final": 43.0,
+      "runner_up": [
+        {
+          "topic": "Io's 300-Mile Lava Fountains",
+          "final": 39.5
+        },
+        {
+          "topic": "Saturn Orbit Inside a Star",
+          "final": 39.5
+        }
+      ]
+    },
+    "visual_precheck": null,
+    "created": "2026-11-11T22:18:41+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "stage_failed": "verify",
+    "reason": "ValueError: independent check still failing after repair: The Titan IV could lift about half the payload of the Mack h (low confidence); Imagine flapping your arms and soaring on a world where the  (description states more than the narration: 150)"
   }
 ]

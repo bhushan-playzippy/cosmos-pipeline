@@ -1,22 +1,41 @@
 [
   {
-    "topic": "The Apollo 11 lunar module computer had only 74 kilobytes of memory, less than a modern digital watch",
+    "topic": "Io's 300-Mile Lava Fountains",
+    "pillar": "Planets & moons",
+    "series": "Scale Explained",
+    "role": "authority",
+    "angle": "Volcanic plumes shooting sulfur gas 300 miles (480 km) high, higher than orbit",
+    "hook_idea": "What moon shoots lava higher than the Space Station orbits?",
+    "viewer_benefit": "Visualizes Jupiter's extreme tidal forces driving the most volcanic world in our solar system.",
+    "scores": {
+      "audience_relevance": 4,
+      "curiosity": 5,
+      "evidence_quality": 5,
+      "visual_feasibility": 4,
+      "series_potential": 4,
+      "familiarity": 3
+    },
+    "veo_prompt": "Cinematic vertical 9:16 shot of a massive volcanic plume erupting off the yellow-green surface of Jupiter's moon Io into dark space.",
+    "score": 39.5
+  },
+  {
+    "topic": "Voyager Golden Record Needle",
     "pillar": "Missions in danger (Apollo, ISS, Voyager, Artemis)",
     "series": "Mission Files",
-    "role": "discovery",
-    "angle": "Comparing the computing power of the Apollo Guidance Computer to a basic modern gadget",
-    "hook_idea": "How did Apollo land on the Moon with less computing power than a car key?",
-    "viewer_benefit": "Realizes the incredible engineering triumph behind early space flight software",
+    "role": "retention",
+    "angle": "A phonograph record and needle mounted to a spacecraft leaving the Solar System",
+    "hook_idea": "What secret message did NASA attach to a probe leaving Earth?",
+    "viewer_benefit": "Learns how NASA packaged humanity's history into a physical record player.",
     "scores": {
       "audience_relevance": 5,
       "curiosity": 5,
       "evidence_quality": 5,
-      "visual_feasibility": 4,
-      "series_potential": 5,
+      "visual_feasibility": 5,
+      "series_potential": 4,
       "familiarity": 5
     },
-    "veo_prompt": "Vertical 9:16 photoreal close-up of vintage Apollo computer circuitry and glowing amber display screens inside a dark spacecraft cockpit.",
-    "score": 46.0
+    "veo_prompt": "Cinematic vertical 9:16 shot of the gold-plated copper phonograph record mounted on the side of Voyager 1 in deep space, glinting against distant stars.",
+    "score": 46.5
   },
   {
     "topic": "The ISS travels at 17,500 miles per hour, about 28,000 km/h, orbiting Earth every 90 minutes",
@@ -38,6 +57,253 @@
     "score": 45.0
   },
   {
+    "topic": "Webb Tennis Court Shield",
+    "pillar": "Famous objects, one impossible fact",
+    "series": "How Big Is It?",
+    "role": "discovery",
+    "angle": "A five-layer Kapton sunshield stretched to the size of a regulation tennis court",
+    "hook_idea": "Why does Webb carry a tennis-court-sized silver shield?",
+    "viewer_benefit": "Understands how a passive silver shield maintains a 600 °F temperature drop to keep sensors cold.",
+    "scores": {
+      "audience_relevance": 5,
+      "curiosity": 4,
+      "evidence_quality": 5,
+      "visual_feasibility": 5,
+      "series_potential": 4,
+      "familiarity": 5
+    },
+    "veo_prompt": "Cinematic vertical 9:16 shot of the James Webb Space Telescope in deep space showing its shiny 5-layered silver sunshield stretched out wide beneath gold hexagonal mirrors.",
+    "score": 45.0
+  },
+  {
+    "topic": "Mars Blue Sunset Explained",
+    "pillar": "Planets & moons",
+    "series": "How Big Is It?",
+    "role": "discovery",
+    "angle": "A pale blue twilight glowing over dusty red Martian horizons",
+    "hook_idea": "Why are sunsets on Mars blue instead of red?",
+    "viewer_benefit": "Discovers why atmospheric dust on Mars scatters blue light toward human eyes.",
+    "scores": {
+      "audience_relevance": 5,
+      "curiosity": 4,
+      "evidence_quality": 5,
+      "visual_feasibility": 5,
+      "series_potential": 3,
+      "familiarity": 5
+    },
+    "veo_prompt": "Cinematic vertical 9:16 shot of the sun dipping below a cratered Martian ridge, creating a cool blue haze in the thin red atmosphere.",
+    "score": 44.0
+  },
+  {
+    "topic": "Moon Dust Smell Revealed",
+    "pillar": "Famous objects, one impossible fact",
+    "series": "How Big Is It?",
+    "role": "discovery",
+    "angle": "Lunar soil smelling like burnt fireworks or spent gunpowder inside the Apollo lander",
+    "hook_idea": "Why does fresh moon dust smell like burnt gunpowder?",
+    "viewer_benefit": "Discovers the chemical reaction of reactive lunar dust contacting moist cabin air.",
+    "scores": {
+      "audience_relevance": 5,
+      "curiosity": 5,
+      "evidence_quality": 5,
+      "visual_feasibility": 4,
+      "series_potential": 3,
+      "familiarity": 5
+    },
+    "veo_prompt": "Cinematic vertical 9:16 close-up shot of fine grey lunar dust clinging to a white space suit boot step on the powdery Moon surface.",
+    "score": 44.0
+  },
+  {
+    "topic": "Starman's Tesla in Space",
+    "pillar": "Famous objects, one impossible fact",
+    "series": "How Big Is It?",
+    "role": "discovery",
+    "angle": "A sports car cruising past Mars carrying a dummy in a spacesuit",
+    "hook_idea": "Why is a sports car currently floating past Mars?",
+    "viewer_benefit": "Discovers the trajectory and current deep-space orbit of the Falcon Heavy test payload.",
+    "scores": {
+      "audience_relevance": 5,
+      "curiosity": 4,
+      "evidence_quality": 5,
+      "visual_feasibility": 5,
+      "series_potential": 3,
+      "familiarity": 5
+    },
+    "veo_prompt": "Cinematic vertical 9:16 shot of a cherry-red sports car floating in deep space with Earth and dark void reflecting off its windshield.",
+    "score": 44.0
+  },
+  {
+    "topic": "Space Helmet Water Leak",
+    "pillar": "Missions in danger (Apollo, ISS, Voyager, Artemis)",
+    "series": "Mission Files",
+    "role": "retention",
+    "angle": "A drinking water leak forming a zero-g liquid sphere inside an astronaut's helmet",
+    "hook_idea": "How did an astronaut almost drown inside his space helmet?",
+    "viewer_benefit": "Understands how microgravity surface tension turns spilled water into a life-threatening helmet hazard.",
+    "scores": {
+      "audience_relevance": 5,
+      "curiosity": 5,
+      "evidence_quality": 5,
+      "visual_feasibility": 4,
+      "series_potential": 5,
+      "familiarity": 4
+    },
+    "veo_prompt": "Cinematic vertical 9:16 shot of an astronaut helmet glass visor showing floating water droplets hovering inside against the black backdrop of open space.",
+    "score": 44.0
+  },
+  {
+    "topic": "Rocket Parts on Bicycles",
+    "pillar": "ISRO & India in space",
+    "series": "Mission Files",
+    "role": "retention",
+    "angle": "Early rocket nose cones and parts strapped to bicycles and bullock carts for transport",
+    "hook_idea": "Why were space rocket parts carried on simple bicycles?",
+    "viewer_benefit": "Learns the inspiring origin story of how India's space program started from humble beginnings in 1963.",
+    "scores": {
+      "audience_relevance": 4,
+      "curiosity": 5,
+      "evidence_quality": 5,
+      "visual_feasibility": 5,
+      "series_potential": 4,
+      "familiarity": 4
+    },
+    "veo_prompt": "Cinematic vertical 9:16 historic re-creation style shot showing a metallic rocket nose cone secured across a vintage bicycle frame on a sandy coastal trail.",
+    "score": 43.0
+  },
+  {
+    "topic": "Voyager 2 Glitch Fix",
+    "pillar": "Missions in danger (Apollo, ISS, Voyager, Artemis)",
+    "series": "Mission Files",
+    "role": "retention",
+    "angle": "Fixing a broken computer 8.5 billion miles away by resetting a single flipped bit",
+    "hook_idea": "How did NASA fix a computer 8 billion miles away?",
+    "viewer_benefit": "Learns how deep-space engineers diagnose and repair spacecraft from light-hours distance.",
+    "scores": {
+      "audience_relevance": 4,
+      "curiosity": 5,
+      "evidence_quality": 5,
+      "visual_feasibility": 4,
+      "series_potential": 5,
+      "familiarity": 4
+    },
+    "veo_prompt": "Cinematic vertical 9:16 shot of Voyager 2 drifting through interstellar space, dish antenna pointing back toward a tiny distant Sun.",
+    "score": 42.5
+  },
+  {
+    "topic": "Mir Space Station Crash",
+    "pillar": "Missions in danger (Apollo, ISS, Voyager, Artemis)",
+    "series": "Mission Files",
+    "role": "retention",
+    "angle": "A cargo ship colliding into a space station module during manual docking",
+    "hook_idea": "What happened when a cargo ship rammed a space station?",
+    "viewer_benefit": "Learns how cosmonauts survived a hull breach by sealing off the depressurizing module.",
+    "scores": {
+      "audience_relevance": 4,
+      "curiosity": 5,
+      "evidence_quality": 5,
+      "visual_feasibility": 4,
+      "series_potential": 5,
+      "familiarity": 4
+    },
+    "veo_prompt": "Cinematic vertical 9:16 exterior shot of an unmanned cargo spacecraft drifting dangerously close to solar panels of a complex modular space station.",
+    "score": 42.5
+  },
+  {
+    "topic": "Mars Probe Cheaper Than Movie",
+    "pillar": "ISRO & India in space",
+    "series": "How Big Is It?",
+    "role": "discovery",
+    "angle": "A interplanetary space mission costing less than a single Hollywood sci-fi film",
+    "hook_idea": "How did a Mars mission cost less than a Hollywood movie?",
+    "viewer_benefit": "Understands how ISRO reached Mars for $74 million, under cutting Hollywood film budgets.",
+    "scores": {
+      "audience_relevance": 4,
+      "curiosity": 5,
+      "evidence_quality": 5,
+      "visual_feasibility": 4,
+      "series_potential": 4,
+      "familiarity": 4
+    },
+    "veo_prompt": "Cinematic vertical 9:16 tracking shot of the Mangalyaan spacecraft orbiting red Mars with high-tech solar panels gleaming.",
+    "score": 41.5
+  },
+  {
+    "topic": "Metal Snow on Venus Peaks",
+    "pillar": "Planets & moons",
+    "series": "How Big Is It?",
+    "role": "discovery",
+    "angle": "Heavy metallic lead sulfide mineral vapor freezing onto mountain peaks",
+    "hook_idea": "Why does metallic lead rain on Venusian mountaintops?",
+    "viewer_benefit": "Learns how extreme atmospheric heat vaporizes metals that condense like frost on high peaks.",
+    "scores": {
+      "audience_relevance": 4,
+      "curiosity": 5,
+      "evidence_quality": 5,
+      "visual_feasibility": 4,
+      "series_potential": 3,
+      "familiarity": 4
+    },
+    "veo_prompt": "Cinematic vertical 9:16 shot of jagged dark mountain peaks on Venus covered in shiny, reflective metallic frost under heavy yellow clouds.",
+    "score": 40.5
+  },
+  {
+    "topic": "Skylab Solar Panel Rescue",
+    "pillar": "Missions in danger (Apollo, ISS, Voyager, Artemis)",
+    "series": "Mission Files",
+    "role": "retention",
+    "angle": "Astronauts using wire cutters on a long pole to cut jammed debris in space",
+    "hook_idea": "How did astronauts save a space station with wire cutters?",
+    "viewer_benefit": "Learns how spacewalkers saved America's first space station using improvised garden tools.",
+    "scores": {
+      "audience_relevance": 4,
+      "curiosity": 5,
+      "evidence_quality": 5,
+      "visual_feasibility": 4,
+      "series_potential": 4,
+      "familiarity": 3
+    },
+    "veo_prompt": "Cinematic vertical 9:16 shot of an astronaut in a vintage Apollo-era spacesuit floating outside the metallic hull of Skylab, working with long mechanical tools.",
+    "score": 39.5
+  },
+  {
+    "topic": "Saturn Orbit Inside a Star",
+    "pillar": "Stars & black holes",
+    "series": "Scale Explained",
+    "role": "authority",
+    "angle": "A single giant star large enough to engulf the orbit of Saturn if placed at our Sun",
+    "hook_idea": "What single monster star could engulf Saturn's orbit?",
+    "viewer_benefit": "Visualizes the extreme spatial envelope of red supergiant Stephenson 2-18.",
+    "scores": {
+      "audience_relevance": 4,
+      "curiosity": 5,
+      "evidence_quality": 5,
+      "visual_feasibility": 4,
+      "series_potential": 4,
+      "familiarity": 3
+    },
+    "veo_prompt": "Cinematic vertical 9:16 diagram view of Saturn's golden rings dissolving into the vast, glowing orange convective surface of a giant red star.",
+    "score": 39.5
+  },
+  {
+    "topic": "Uranus Atmospheric Smell",
+    "pillar": "Planets & moons",
+    "series": "How Big Is It?",
+    "role": "discovery",
+    "angle": "Upper atmospheric gas composed of rotten-egg hydrogen sulfide",
+    "hook_idea": "Why does the atmosphere of Uranus smell like rotten eggs?",
+    "viewer_benefit": "Learns how infrared spectroscopy revealed hydrogen sulfide ice clouds on Uranus.",
+    "scores": {
+      "audience_relevance": 4,
+      "curiosity": 4,
+      "evidence_quality": 5,
+      "visual_feasibility": 4,
+      "series_potential": 3,
+      "familiarity": 4
+    },
+    "veo_prompt": "Cinematic vertical 9:16 shot of the smooth cyan-blue planet Uranus floating against a dark starry backdrop.",
+    "score": 39.0
+  },
+  {
     "topic": "The Chandrayaan-1 mission discovered definitive signatures of water molecules distributed across the lunar surface",
     "pillar": "ISRO & India in space",
     "series": "Mission Files",
@@ -55,6 +321,120 @@
     },
     "veo_prompt": "Vertical 9:16 photoreal shot of a scientific probe orbiting above the cratered gray surface of the Moon with a digital mineral overlay.",
     "score": 38.0
+  },
+  {
+    "topic": "Airplane Flight Around Star",
+    "pillar": "Stars & black holes",
+    "series": "How Big Is It?",
+    "role": "discovery",
+    "angle": "A commercial jet flying at 550 mph taking over 1,100 years to orbit one giant star",
+    "hook_idea": "Why would an airplane take 1,100 years to orbit one star?",
+    "viewer_benefit": "Grasps the incomprehensible physical diameter of hypergiant star VY Canis Majoris.",
+    "scores": {
+      "audience_relevance": 4,
+      "curiosity": 5,
+      "evidence_quality": 5,
+      "visual_feasibility": 3,
+      "series_potential": 4,
+      "familiarity": 3
+    },
+    "veo_prompt": "Cinematic vertical 9:16 scale graphic showing a tiny silhouette of a commercial jetliner gliding in front of a glowing red star surface that stretches beyond the frame.",
+    "score": 38.0
+  },
+  {
+    "topic": "104 Satellites One Rocket",
+    "pillar": "ISRO & India in space",
+    "series": "Mission Files",
+    "role": "retention",
+    "angle": "Deploying 104 satellites into precise orbits from a single rocket launcher",
+    "hook_idea": "How did one rocket release 104 satellites at once?",
+    "viewer_benefit": "Discovers the record-breaking orbital precision of ISRO's PSLV launcher.",
+    "scores": {
+      "audience_relevance": 4,
+      "curiosity": 4,
+      "evidence_quality": 5,
+      "visual_feasibility": 4,
+      "series_potential": 4,
+      "familiarity": 3
+    },
+    "veo_prompt": "Cinematic vertical 9:16 view looking down from a rocket payload bay in orbit as dozens of micro-satellites detach into open space.",
+    "score": 38.0
+  },
+  {
+    "topic": "Gamma Ray Burst Energy",
+    "pillar": "Stars & black holes",
+    "series": "Scale Explained",
+    "role": "authority",
+    "angle": "A stellar collapse releasing more energy in seconds than our Sun emits in 10 billion years",
+    "hook_idea": "What brief cosmic flash outshines 10 billion years of sunshine?",
+    "viewer_benefit": "Grasps the unmatched explosive magnitude of hypernova gamma-ray bursts.",
+    "scores": {
+      "audience_relevance": 4,
+      "curiosity": 5,
+      "evidence_quality": 5,
+      "visual_feasibility": 3,
+      "series_potential": 4,
+      "familiarity": 3
+    },
+    "veo_prompt": "Cinematic vertical 9:16 shot of a narrow jet of intense violet energy blasting outward from a collapsing star across distant starry galaxies.",
+    "score": 38.0
+  },
+  {
+    "topic": "Supernova 1054 Daylight",
+    "pillar": "Stars & black holes",
+    "series": "Scale Explained",
+    "role": "authority",
+    "angle": "A stellar explosion so bright it was seen in broad daylight next to the Sun for 23 days",
+    "hook_idea": "What cosmic explosion was visible in broad daylight?",
+    "viewer_benefit": "Appreciates the blinding peak luminosity of a core-collapse supernova.",
+    "scores": {
+      "audience_relevance": 4,
+      "curiosity": 5,
+      "evidence_quality": 5,
+      "visual_feasibility": 3,
+      "series_potential": 3,
+      "familiarity": 3
+    },
+    "veo_prompt": "Cinematic vertical 9:16 atmospheric shot of an ancient mountain landscape during daytime, with a brilliant pinprick light visible right next to the blue sky's sun.",
+    "score": 37.0
+  },
+  {
+    "topic": "RLV Space Plane Test",
+    "pillar": "ISRO & India in space",
+    "series": "Scale Explained",
+    "role": "authority",
+    "angle": "Autonomous landing of a winged reusable mini shuttle on an airfield runway",
+    "hook_idea": "How did an autonomous space plane land on a runway?",
+    "viewer_benefit": "Learns how ISRO successfully tested autonomous reusable launch vehicle landing technology.",
+    "scores": {
+      "audience_relevance": 4,
+      "curiosity": 4,
+      "evidence_quality": 5,
+      "visual_feasibility": 4,
+      "series_potential": 3,
+      "familiarity": 3
+    },
+    "veo_prompt": "Cinematic vertical 9:16 shot of a white winged prototype space plane touching down on a wide runway tarmac, deploying a brake parachute.",
+    "score": 37.0
+  },
+  {
+    "topic": "Crab Pulsar Spins 30 Times",
+    "pillar": "Stars & black holes",
+    "series": "Scale Explained",
+    "role": "authority",
+    "angle": "A collapsed stellar core spinning 30 complete rotations every single second like a blender blade",
+    "hook_idea": "What dead star spins faster than a kitchen blender blade?",
+    "viewer_benefit": "Grasps the extreme angular momentum of a collapsed neutron star.",
+    "scores": {
+      "audience_relevance": 4,
+      "curiosity": 4,
+      "evidence_quality": 5,
+      "visual_feasibility": 3,
+      "series_potential": 4,
+      "familiarity": 3
+    },
+    "veo_prompt": "Cinematic vertical 9:16 visualization of a hyper-dense neutron star spinning rapidly at the center of glowing supernova remnants, emitting twin lighthouse radiation beams.",
+    "score": 36.5
   },
   {
     "topic": "Europa's Icy Shell",
