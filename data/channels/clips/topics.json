@@ -1,5 +1,119 @@
 [
   {
+    "topic": "Charles Lightoller, the Titanic officer who survived the sinking and later rescued soldiers at Dunkirk in his own boat",
+    "pillar": "Forgotten heroes",
+    "series": "Unbelievably True",
+    "role": "discovery",
+    "angle": "One man, two of the century's most famous rescues",
+    "hook_idea": "He survived the Titanic. Then he sailed into Dunkirk.",
+    "viewer_benefit": "Meet the Titanic's senior surviving officer and what he did 28 years later.",
+    "scores": {
+      "audience_relevance": 5,
+      "curiosity": 5,
+      "evidence_quality": 5,
+      "visual_feasibility": 5,
+      "series_potential": 5,
+      "familiarity": 4
+    },
+    "veo_prompt": "",
+    "score": 57.0
+  },
+  {
+    "topic": "Charles Joughin, the Titanic's chief baker who survived hours in the freezing Atlantic",
+    "pillar": "Strange but true history",
+    "series": "Unbelievably True",
+    "role": "discovery",
+    "angle": "The baker who stepped off the stern as it went under",
+    "hook_idea": "How did the Titanic's baker survive the freezing water?",
+    "viewer_benefit": "The documented account of one of the last men off the ship.",
+    "scores": {
+      "audience_relevance": 5,
+      "curiosity": 5,
+      "evidence_quality": 5,
+      "visual_feasibility": 5,
+      "series_potential": 5,
+      "familiarity": 4
+    },
+    "veo_prompt": "",
+    "score": 57.0
+  },
+  {
+    "topic": "Desmond Doss, the unarmed medic who rescued about 75 wounded men on Okinawa",
+    "pillar": "Forgotten heroes",
+    "series": "Unbelievably True",
+    "role": "discovery",
+    "angle": "He refused to carry a weapon and received the Medal of Honor",
+    "hook_idea": "He went to war without a gun and saved 75 men.",
+    "viewer_benefit": "The Medal of Honor citation behind the Hacksaw Ridge story.",
+    "scores": {
+      "audience_relevance": 5,
+      "curiosity": 5,
+      "evidence_quality": 5,
+      "visual_feasibility": 5,
+      "series_potential": 5,
+      "familiarity": 4
+    },
+    "veo_prompt": "",
+    "score": 57.0
+  },
+  {
+    "topic": "Robert Smalls, the enslaved sailor who sailed a Confederate ship past Fort Sumter to freedom in 1862",
+    "pillar": "Forgotten heroes",
+    "series": "Unbelievably True",
+    "role": "discovery",
+    "angle": "A stolen warship, a captain's hat, and the right signals",
+    "hook_idea": "He stole a Confederate warship and sailed to freedom.",
+    "viewer_benefit": "How Robert Smalls freed his family and later served in Congress.",
+    "scores": {
+      "audience_relevance": 5,
+      "curiosity": 5,
+      "evidence_quality": 5,
+      "visual_feasibility": 5,
+      "series_potential": 5,
+      "familiarity": 4
+    },
+    "veo_prompt": "",
+    "score": 57.0
+  },
+  {
+    "topic": "Poon Lim, the sailor who survived 133 days alone on a raft in the Atlantic in 1942-43",
+    "pillar": "Strange but true history",
+    "series": "Unbelievably True",
+    "role": "retention",
+    "angle": "The longest solo survival on a life raft",
+    "hook_idea": "133 days alone on a raft. He walked ashore.",
+    "viewer_benefit": "How a ship's steward stayed alive in the open Atlantic.",
+    "scores": {
+      "audience_relevance": 5,
+      "curiosity": 5,
+      "evidence_quality": 5,
+      "visual_feasibility": 5,
+      "series_potential": 5,
+      "familiarity": 4
+    },
+    "veo_prompt": "",
+    "score": 57.0
+  },
+  {
+    "topic": "Ada Blackjack, the only survivor of the 1921 Wrangel Island Arctic expedition",
+    "pillar": "Forgotten heroes",
+    "series": "Unbelievably True",
+    "role": "retention",
+    "angle": "A seamstress alone in the Arctic for months",
+    "hook_idea": "She was hired to sew. She was the only one who survived.",
+    "viewer_benefit": "The Inupiat woman who outlived an Arctic expedition.",
+    "scores": {
+      "audience_relevance": 5,
+      "curiosity": 5,
+      "evidence_quality": 5,
+      "visual_feasibility": 5,
+      "series_potential": 5,
+      "familiarity": 4
+    },
+    "veo_prompt": "",
+    "score": 57.0
+  },
+  {
     "topic": "Robert Lincoln Saved by Edwin Booth",
     "pillar": "Eerie true coincidences",
     "series": "Unbelievably True",
