@@ -66,6 +66,31 @@ def release_assets(folder):
 
 
 MEDIA_KEYS = ("rights", "media", "media_kind", "commons_file", "reused_from", "asset")
+
+
+def _avoid_rejected(script, done):
+    """Remake memory (11 Nov: on GitHub the ISS Short passed 25 claim checks and was quarantined twice because the
+    remake drew the same 'modern house' / 'astronaut sunrise' stock clips the reviewer had just rejected; the Sun
+    core Short failed "no black frames" twice with the same pictures; release_assets even puts the rejected ids
+    back in the pool). Each scene the reviewer called MISMATCH, or that rendered black, now carries
+    avoid = {assets: [ids not to draw again], sources: [kinds of source to skip]} into the remake: rejected stock
+    footage is replaced by a real image (the scene's own, or one of the video's main subject), never by more stock.
+    No gate changes: the remake is rendered, checked and reviewed exactly like the first try."""
+    bad = {r.get("scene") for r in done.get("visual_grounding") or [] if r.get("decision") == "MISMATCH"}
+    bad |= set(done.get("black_scenes") or [])
+    old = done.get("scenes") or []
+    for i, sc in enumerate(script.get("scenes", [])):
+        if i not in bad or i >= len(old):
+            continue
+        rights = old[i].get("rights") or {}
+        av = sc.setdefault("avoid", {})
+        if rights.get("asset_id") and rights["asset_id"] not in av.setdefault("assets", []):
+            av["assets"].append(rights["asset_id"])
+        src = rights.get("source")
+        skip = {"pexels": ["pexels", "pixabay"], "pixabay": ["pexels", "pixabay"], "motion": ["motion"],
+                "veo": ["veo"], "compare": ["compare"]}.get(src, [])
+        av["sources"] = sorted(set(av.get("sources", [])) | set(skip))
+    return script
 RESUMABLE = ("voice", "visuals", "render")  # stages after the claim check whose failure keeps the verified script
 _RUN = {"drafts_off": False}  # per run: a draft that deferred is not retried before a fresh topic gets the slot
 
@@ -252,7 +277,7 @@ def make_video(cfg, topic=None, script=None, slot=None):
             # whole script, 3-6 strong calls for a problem the script didn't have
             accuracy = (done.get("review") or {}).get("scores", {}).get("accuracy", 10)
             if done.get("claims_for") and accuracy >= 8 and "repeated lines" not in (job.get("reason") or ""):
-                script = _reusable(done)
+                script = _avoid_rejected(_reusable(done), done)
                 log("remaking with the same verified script (new visuals and render)")
                 if "quality gate: duration" in (job.get("reason") or ""):
                     # the same words at the same rate come out the same length: 4 Nov the Moon Short was 65.4 s
@@ -364,6 +389,8 @@ def _make_once(cfg, topic, script, slot, role):
         script["virality"] = virality.score(script, sum(sc["duration"] for sc in timeline))
         script["qa"] = qa.gate(video, script, timeline, cfg, folder.name)
         failed = [c["name"] for c in script["qa"]["checks"] if not c["ok"]]
+        if "no black frames" in failed:  # which scenes, so a remake replaces those pictures (_avoid_rejected)
+            script["black_scenes"] = qa.black_scenes(work / "base.mp4", timeline)
         reason = None
         if failed:
             reason = "quality gate: " + ", ".join(failed)

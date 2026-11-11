@@ -397,6 +397,7 @@ def gather(timeline, cfg, workdir, slug="", only=None):
     story = cfg.get("writer", {}).get("template") == "story"
     years = grounding._years(" ".join(t.get("text", "") for t in timeline))
     ai_realistic = False
+    banned = set()  # ids a remake must not draw again (orchestrator._avoid_rejected); not kept in used_media
     for t in timeline if only is not None else []:  # reuse counts of the scenes being kept
         if t.get("reused_from"):
             uses[t["reused_from"]] = uses.get(t["reused_from"], 1) + 1
@@ -411,10 +412,20 @@ def gather(timeline, cfg, workdir, slug="", only=None):
         META.pop(i, None)
         sc.pop("asset", None)
         subject = grounding.subject_of(sc)
+        avoid = sc.get("avoid") or {}
+        new_bans = [a for a in avoid.get("assets", []) if a and a not in used]
+        used.extend(new_bans)
+        banned.update(new_bans)
+        order = (["motion"] if sc.get("motion") else []) + (["compare"] if sc.get("compare") else []) + list(sources)
+        if avoid:  # a scene the reviewer rejected: skip that kind of source, and before the starfield try a real
+            # image of the video's main subject (the ISS under "bigger than a six-bedroom house")
+            order = [x for x in order if x not in avoid.get("sources", [])]
+            at = order.index("stars") if "stars" in order else len(order)
+            order.insert(at, "subject")
         fits = lambda info, sc=sc, subject=subject, src="commons": grounding.judge(
             sc.get("text", ""), subject, {"source": src, "id": "x", "license": "x", "page": "x", **info}, years,
             story)[0]
-        for src in (["motion"] if sc.get("motion") else []) + (["compare"] if sc.get("compare") else []) + sources:
+        for src in order:
             n_used = len(used)
             try:
                 if src == "motion":
@@ -475,6 +486,14 @@ def gather(timeline, cfg, workdir, slug="", only=None):
                         continue  # the writer's own space query isn't about this scene ("Jupiter" under a basketball)
                     path, kind = nasa_image(q, workdir, i, used, cfg, check=lambda info, f=fits, s=subject: f(
                         info, src="nasa") if names_subject(s, info) else "MISMATCH"), "image"
+                elif src == "subject":
+                    main = sc.get("commons_subject") or " ".join(key_words(slug.replace("-", " "))[:3])
+                    if "nasa" not in sources or not main:
+                        continue
+                    path, kind = nasa_image(main, workdir, i, used, cfg, check=lambda info, f=fits, s=main: f(
+                        info, src="nasa") if names_subject(s, info) else "MISMATCH"), "image"
+                    if path:
+                        src = "nasa"
                 elif src == "stars":
                     path, kind = starfield(workdir, i, slug=slug), "image"
             except Exception as e:
@@ -498,5 +517,5 @@ def gather(timeline, cfg, workdir, slug="", only=None):
             if sc["asset"].get("page") and src in ("nasa", "pexels", "pixabay"):
                 sc["rights"]["page"] = sc["asset"]["page"]
         log(f"scene {i}: {Path(path).name} ({kind})")
-    write_json(USED, used[-3000:])
+    write_json(USED, [u for u in used if u not in banned][-3000:])
     return timeline, ai_realistic

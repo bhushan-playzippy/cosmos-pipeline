@@ -105,6 +105,16 @@ def technical(video, cfg, music=None):
     return checks
 
 
+def black_scenes(base, timeline):
+    """Scene numbers whose stretch of the base render is blank (see _blank_runs)."""
+    try:
+        runs = _blank_runs(base)
+    except Exception:
+        return []
+    return [i for i, sc in enumerate(timeline)
+            if any(a < sc["start"] + sc["duration"] and b > sc["start"] for a, b in runs)]
+
+
 def editorial(script, timeline, cfg):
     q = cfg.get("qa", {})
     checks = []
