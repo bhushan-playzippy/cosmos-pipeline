@@ -5291,14 +5291,17 @@
   {
     "folder": "docstudio_sgra-sc-orbits",
     "topic": "How We Found an Invisible Giant #Shorts",
-    "status": "scheduled",
+    "status": "published",
     "stage": "upload",
     "role": null,
     "slot": "2026-11-12T23:30:00+05:30",
     "created": "2026-11-08T18:46:32+05:30",
     "youtube_id": "H13Sb-Rg88w",
     "reason": "docstudio animated documentary upload",
-    "privacy": "private"
+    "privacy": "public",
+    "stages": {
+      "published": "2026-11-13T03:23:20+05:30"
+    }
   },
   {
     "folder": "docstudio_sgra-sc-scale",
@@ -7366,5 +7369,40 @@
     "instagram_id": null,
     "stage_failed": "verify",
     "reason": "ValueError: independent check still failing after repair: Voyager 1 now drifts farther than any human‑made object. (superlative with no document stating it; a model's word isn't enough); 445 in: Could a 12‑inch gold‑plated record ever reach Gliese (number not checked (no ledger entry states it))"
+  },
+  {
+    "folder": "2026-11-13_032322_falcon-heavy-lifts-64000-kg",
+    "topic": "Falcon Heavy Lifts 64,000 kg",
+    "status": "failed",
+    "stage": "script",
+    "role": "retention",
+    "slot": "2026-11-13T20:00:00+05:30",
+    "pillar": "Famous objects, one impossible fact",
+    "selection": {
+      "role": "retention",
+      "base_score": 44.0,
+      "multiplier": 0.87,
+      "parts": {
+        "pillar_role": 0.87
+      },
+      "final": 38.28,
+      "runner_up": [
+        {
+          "topic": "Mars Blue Sunset Explained",
+          "final": 38.28
+        },
+        {
+          "topic": "Moon Dust Smell Revealed",
+          "final": 38.28
+        }
+      ]
+    },
+    "visual_precheck": null,
+    "created": "2026-11-13T03:23:22+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "stage_failed": "verify",
+    "reason": "ValueError: independent check still failing after repair: Falcon Heavy can deliver about 2 tonnes to low-Earth orbit i (wrong); Falcon Heavy can deliver about 4,400 lb to low-Earth orbit i (wrong); 2 tonnes is roughly the weight of about four average cars (wrong)"
   }
 ]

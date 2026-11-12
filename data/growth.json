@@ -1,65 +1,65 @@
 {
-  "date": "2026-11-12",
+  "date": "2026-11-13",
   "videos": 33,
-  "median_views_per_day": 24.0,
+  "median_views_per_day": 22.4,
   "min_sample": 5,
   "groups": {
     "slot": {
       "18:00": {
         "n": 2,
-        "median_vpd": 47.0,
+        "median_vpd": 44.6,
         "conclusive": false
       },
       "15:00": {
         "n": 4,
-        "median_vpd": 22.3,
+        "median_vpd": 21.0,
         "conclusive": false
       },
       "09:00": {
         "n": 5,
-        "median_vpd": 21.1,
+        "median_vpd": 19.7,
         "conclusive": true
       },
       "20:00": {
         "n": 4,
-        "median_vpd": 50.0,
+        "median_vpd": 50.2,
         "conclusive": false
       },
       "23:30": {
         "n": 7,
-        "median_vpd": 105.0,
+        "median_vpd": 52.5,
         "conclusive": true
       },
       "05:30": {
         "n": 5,
-        "median_vpd": 15.9,
+        "median_vpd": 14.6,
         "conclusive": true
       },
       "?": {
         "n": 6,
-        "median_vpd": 59.5,
+        "median_vpd": 74.5,
         "conclusive": true
       }
     },
     "type": {
       "?": {
         "n": 22,
-        "median_vpd": 32.5,
+        "median_vpd": 29.9,
         "conclusive": true
       },
       "discovery": {
         "n": 6,
-        "median_vpd": 18.5,
+        "median_vpd": 17.3,
         "conclusive": true
       },
       "retention": {
         "n": 4,
-        "median_vpd": 20.2,
+        "median_vpd": 18.9,
         "conclusive": false
       },
       "authority": {
         "n": 1,
-        "median_vpd": 25.0,
+        "median_vpd": 23.5,
         "conclusive": false
       }
     },
@@ -69,7 +69,7 @@
     "discovery": 0.88
   },
   "recommendations": [
-    "Slot 05:30 earns 15.9 views/day vs 105.0 at 23:30: try moving 05:30 to an hour near 23:30 (edit schedule.slots), then re-check in 2 weeks."
+    "Slot 05:30 earns 14.6 views/day vs 74.5 at ?: try moving 05:30 to an hour near ? (edit schedule.slots), then re-check in 2 weeks."
   ],
   "feature_boost": {
     "question_hook": {

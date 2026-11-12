@@ -2013,3 +2013,45 @@
 {"ts": "2026-11-12T18:27:51+00:00", "channel": "cosmic", "event": "health_alert", "key": "quality", "message": "the last 3 videos all failed quality gates (latest: ValueError: independent check still failing after repair: Voyager 1 now drifts f)"}
 {"ts": "2026-11-12T18:27:51+00:00", "channel": "cosmic", "event": "health_alert", "key": "provider", "message": "model providers unreliable in the last 24 h: tripped gemini, gemini:gemini-3.6-flash, gemini:gemini-3.8-flash, gemini:gemini-flash-latest, gemini:gemini-flash-lite-latest, nvidia, nvidia-2, nvidia-deepseek, nvidia-meta, 2 overload deferral(s)"}
 {"ts": "2026-11-12T18:27:51+00:00", "channel": "cosmic", "event": "health_alert", "key": "missed_runs", "message": "1 missed or interrupted scheduled run(s) in 24 h (stopped at the time limit or GitHub started it late)"}
+{"ts": "2026-11-12T21:53:22+00:00", "channel": "cosmic", "event": "topic_selected", "topic": "Falcon Heavy Lifts 64,000 kg", "role": "retention", "base_score": 44.0, "multiplier": 0.87, "parts": {"pillar_role": 0.87}, "final": 38.28, "runner_up": [{"topic": "Mars Blue Sunset Explained", "final": 38.28}, {"topic": "Moon Dust Smell Revealed", "final": 38.28}]}
+{"ts": "2026-11-12T21:53:26+00:00", "channel": "cosmic", "event": "provider_tripped", "provider": "gemini:gemini-3.8-flash", "failures": 1}
+{"ts": "2026-11-12T21:53:42+00:00", "channel": "cosmic", "event": "provider_tripped", "provider": "gemini:gemini-flash-latest", "failures": 1}
+{"ts": "2026-11-12T21:53:42+00:00", "channel": "cosmic", "event": "provider_tripped", "provider": "gemini", "failures": 2}
+{"ts": "2026-11-12T21:53:42+00:00", "channel": "cosmic", "event": "llm_call", "purpose": "write", "ok": false, "error": "ServerError: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again "}
+{"ts": "2026-11-12T22:09:46+00:00", "channel": "cosmic", "event": "provider_tripped", "provider": "nvidia", "failures": 2}
+{"ts": "2026-11-12T22:15:20+00:00", "channel": "cosmic", "event": "llm_call", "purpose": "write", "model": "groq:openai/gpt-oss-120b", "ok": true, "seconds": 7.6, "attempt": 1, "tokens": 6331}
+{"ts": "2026-11-12T22:15:25+00:00", "channel": "cosmic", "event": "provider_tripped", "provider": "gemini:gemini-3.8-flash", "failures": 1}
+{"ts": "2026-11-12T22:17:25+00:00", "channel": "cosmic", "event": "provider_tripped", "provider": "gemini:gemini-flash-latest", "failures": 1}
+{"ts": "2026-11-12T22:17:25+00:00", "channel": "cosmic", "event": "provider_tripped", "provider": "gemini", "failures": 2}
+{"ts": "2026-11-12T22:17:25+00:00", "channel": "cosmic", "event": "llm_call", "purpose": "write", "ok": false, "error": "ServerError: 504 DEADLINE_EXCEEDED. {'error': {'code': 504, 'message': 'Deadline expired before operation could complete.', 'status': 'DEADLINE_EXCEEDED'}}"}
+{"ts": "2026-11-12T22:33:30+00:00", "channel": "cosmic", "event": "provider_tripped", "provider": "nvidia-2", "failures": 2}
+{"ts": "2026-11-12T22:33:38+00:00", "channel": "cosmic", "event": "llm_call", "purpose": "write", "model": "groq:openai/gpt-oss-120b", "ok": true, "seconds": 8.1, "attempt": 1, "tokens": 6651}
+{"ts": "2026-11-12T22:33:47+00:00", "channel": "cosmic", "event": "llm_call", "purpose": "fact_check", "model": "groq:openai/gpt-oss-120b", "ok": true, "seconds": 9.1, "attempt": 1, "tokens": 5273}
+{"ts": "2026-11-12T22:33:49+00:00", "channel": "cosmic", "event": "llm_call", "purpose": "packaging", "model": "gemini-flash-lite-latest", "ok": true, "seconds": 2.0, "attempt": 1, "tokens": 1841}
+{"ts": "2026-11-12T22:39:54+00:00", "channel": "cosmic", "event": "provider_tripped", "provider": "nvidia-deepseek", "failures": 2}
+{"ts": "2026-11-12T22:41:16+00:00", "channel": "cosmic", "event": "llm_call", "purpose": "verify", "model": "openrouter-text:nvidia/nemotron-3-ultra-550b-a55b:free", "ok": true, "seconds": 82.1, "attempt": 1, "tokens": 5874}
+{"ts": "2026-11-12T22:41:21+00:00", "channel": "cosmic", "event": "llm_call", "purpose": "verify_repair", "model": "groq:openai/gpt-oss-120b", "ok": true, "seconds": 4.2, "attempt": 1, "tokens": 2632}
+{"ts": "2026-11-12T22:43:53+00:00", "channel": "cosmic", "event": "llm_call", "purpose": "verify", "model": "openrouter-text:nvidia/nemotron-3-ultra-550b-a55b:free", "ok": true, "seconds": 152.2, "attempt": 1, "tokens": 12066}
+{"ts": "2026-11-12T22:43:54+00:00", "channel": "cosmic", "event": "topic_selected", "topic": "Mars Blue Sunset Explained", "role": "retention", "base_score": 44.0, "multiplier": 0.87, "parts": {"pillar_role": 0.87}, "final": 38.28, "runner_up": [{"topic": "Moon Dust Smell Revealed", "final": 38.28}, {"topic": "Starman's Tesla in Space", "final": 38.28}]}
+{"ts": "2026-11-12T22:44:06+00:00", "channel": "cosmic", "event": "provider_tripped", "provider": "gemini:gemini-3.8-flash", "failures": 1}
+{"ts": "2026-11-12T22:44:09+00:00", "channel": "cosmic", "event": "provider_tripped", "provider": "gemini:gemini-flash-latest", "failures": 1}
+{"ts": "2026-11-12T22:44:09+00:00", "channel": "cosmic", "event": "provider_tripped", "provider": "gemini", "failures": 2}
+{"ts": "2026-11-12T22:44:09+00:00", "channel": "cosmic", "event": "llm_call", "purpose": "write", "ok": false, "error": "ServerError: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again "}
+{"ts": "2026-11-12T22:44:16+00:00", "channel": "cosmic", "event": "llm_call", "purpose": "write", "model": "groq:openai/gpt-oss-120b", "ok": true, "seconds": 6.3, "attempt": 1, "tokens": 5525}
+{"ts": "2026-11-12T22:44:16+00:00", "channel": "cosmic", "event": "llm_call", "purpose": "polish", "ok": false, "error": "NoneType: None"}
+{"ts": "2026-11-12T22:44:17+00:00", "channel": "cosmic", "event": "llm_call", "purpose": "polish", "model": "groq:openai/gpt-oss-120b", "ok": true, "seconds": 1.4, "attempt": 1, "tokens": 997}
+{"ts": "2026-11-12T22:44:23+00:00", "channel": "cosmic", "event": "llm_call", "purpose": "fact_check", "model": "groq:openai/gpt-oss-120b", "ok": true, "seconds": 5.7, "attempt": 1, "tokens": 3761}
+{"ts": "2026-11-12T22:44:23+00:00", "channel": "cosmic", "event": "llm_call", "purpose": "polish", "ok": false, "error": "NoneType: None"}
+{"ts": "2026-11-12T22:44:24+00:00", "channel": "cosmic", "event": "llm_call", "purpose": "polish", "model": "groq:qwen/qwen3.8-27b", "ok": true, "seconds": 0.3, "attempt": 1, "tokens": 473}
+{"ts": "2026-11-12T22:44:24+00:00", "channel": "cosmic", "event": "llm_call", "purpose": "packaging", "ok": false, "error": "NoneType: None"}
+{"ts": "2026-11-12T22:44:25+00:00", "channel": "cosmic", "event": "llm_call", "purpose": "packaging", "model": "groq:qwen/qwen3.8-27b", "ok": true, "seconds": 1.2, "attempt": 1, "tokens": 1766}
+{"ts": "2026-11-12T22:48:02+00:00", "channel": "cosmic", "event": "llm_call", "purpose": "verify", "model": "openrouter-text:nvidia/nemotron-3-ultra-550b-a55b:free", "ok": true, "seconds": 215.0, "attempt": 1, "tokens": 12521}
+{"ts": "2026-11-12T22:49:25+00:00", "channel": "cosmic", "event": "llm_call", "purpose": "verify_repair", "model": "openrouter-text:nvidia/nemotron-3-ultra-550b-a55b:free", "ok": true, "seconds": 77.4, "attempt": 1, "tokens": 6478}
+{"ts": "2026-11-12T22:49:25+00:00", "channel": "cosmic", "event": "llm_call", "purpose": "verify", "model": "fallback", "ok": false}
+{"ts": "2026-11-12T22:49:25+00:00", "channel": "cosmic", "event": "deferral_cause", "purpose": "verify", "cause": "overload", "fallback_failures": [], "excluded_families": ["nemotron", "openai"]}
+{"ts": "2026-11-12T22:49:25+00:00", "channel": "cosmic", "event": "draft_saved", "topic": "Mars Blue Sunset Explained"}
+{"ts": "2026-11-12T22:49:25+00:00", "channel": "cosmic", "event": "deferred", "topic": "Mars Blue Sunset Explained", "stage": "verify", "reason": "Gemini skipped for 'verify' (circuit breaker: repeated overload this run)", "cause": "overload"}
+{"ts": "2026-11-12T22:49:34+00:00", "channel": "cosmic", "event": "health_alert", "key": "quality", "message": "the last 3 videos all failed quality gates (latest: ValueError: independent check still failing after repair: Falcon Heavy can deliv)"}
+{"ts": "2026-11-12T22:49:34+00:00", "channel": "cosmic", "event": "health_alert", "key": "provider", "message": "model providers unreliable in the last 24 h: tripped gemini, gemini:gemini-3.6-flash, gemini:gemini-3.8-flash, gemini:gemini-flash-latest, gemini:gemini-flash-lite-latest, nvidia, nvidia-2, nvidia-deepseek, 2 overload deferral(s)"}
+{"ts": "2026-11-12T22:49:34+00:00", "channel": "cosmic", "event": "health_alert", "key": "missed_runs", "message": "1 missed or interrupted scheduled run(s) in 24 h (stopped at the time limit or GitHub started it late)"}
+{"ts": "2026-11-12T22:49:42+00:00", "channel": "cosmic", "event": "analytics_ingested", "videos": 30, "detailed": 20, "metrics": ["views", "estimatedMinutesWatched", "averageViewDuration", "averageViewPercentage", "subscribersGained", "subscribersLost", "likes", "comments", "shares", "engagedViews"]}
