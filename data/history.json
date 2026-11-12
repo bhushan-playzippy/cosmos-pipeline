@@ -3991,7 +3991,7 @@
   {
     "folder": "2026-11-07_170057_major-moons-of-saturn",
     "topic": "major moons of Saturn",
-    "status": "scheduled",
+    "status": "published",
     "stage": "script",
     "role": null,
     "slot": "2026-11-12T20:00:00+05:30",
@@ -4004,7 +4004,8 @@
       "render": "2026-11-07T17:01:31+05:30",
       "gates": "2026-11-07T17:02:02+05:30",
       "upload_started": "2026-11-08T14:20:22+05:30",
-      "upload": "2026-11-08T14:20:29+05:30"
+      "upload": "2026-11-08T14:20:29+05:30",
+      "published": "2026-11-12T22:38:53+05:30"
     },
     "youtube_id": "6pJOkNeegLk",
     "instagram_id": null,
@@ -4020,7 +4021,7 @@
       "publish_at": "2026-11-12T14:30:00Z"
     },
     "alert": null,
-    "privacy": "private"
+    "privacy": "public"
   },
   {
     "folder": "2026-11-07_172120_major-moons-of-saturn",
@@ -5263,14 +5264,17 @@
   {
     "folder": "docstudio_fall-sc-singularity",
     "topic": "How Long Would You Survive Inside a Black Hole? #Shorts",
-    "status": "scheduled",
+    "status": "published",
     "stage": "upload",
     "role": null,
     "slot": "2026-11-12T18:00:00+05:30",
     "created": "2026-11-08T18:45:47+05:30",
     "youtube_id": "OLRpDQ1ndlY",
     "reason": "docstudio animated documentary upload",
-    "privacy": "private"
+    "privacy": "public",
+    "stages": {
+      "published": "2026-11-12T22:38:53+05:30"
+    }
   },
   {
     "folder": "docstudio_fall-s5",
@@ -7097,102 +7101,270 @@
     "reason": "ValueError: independent check still failing after repair: 15.5 orbits per day equals about 31 day-night cycles (wrong); ISS sleep cycles are bathed in relentless sunrises (misleading); 6 in: About five to six sunrises occur during a single 8.5‑h (number not checked (no ledger entry states it))"
   },
   {
-    "folder": "campaign_COSMIC_SHORT_2026_11_22_02",
-    "topic": "They Blamed Pigeons for the Big Bang's Echo #Shorts",
-    "status": "scheduled",
-    "stage": "upload",
-    "role": null,
-    "slot": "2026-11-22T20:00:00+05:30",
-    "created": "2026-11-12T17:11:25+05:30",
-    "reason": "campaign 2026-11-15..12-15",
-    "youtube_id": "gOW8beyU9O8"
+    "folder": "2026-11-12_223853_space-helmet-water-leak",
+    "topic": "Space Helmet Water Leak",
+    "status": "failed",
+    "stage": "script",
+    "role": "authority",
+    "slot": "2026-11-12T23:30:00+05:30",
+    "pillar": "Missions in danger (Apollo, ISS, Voyager, Artemis)",
+    "selection": {
+      "role": "authority",
+      "base_score": 44.0,
+      "multiplier": 1.0,
+      "parts": {
+        "pillar_role": 1.0
+      },
+      "final": 44.0,
+      "runner_up": [
+        {
+          "topic": "Rocket Parts on Bicycles",
+          "final": 43.0
+        },
+        {
+          "topic": "Voyager 2 Glitch Fix",
+          "final": 42.5
+        }
+      ]
+    },
+    "visual_precheck": null,
+    "created": "2026-11-12T22:38:53+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "stage_failed": "verify",
+    "reason": "ValueError: independent check still failing after repair: About 1.5 L of water filled his helmet. (misleading); 120 ft in: Diver depth 120 ft; 12-story building 120 ft (number not checked (no ledger entry states it)); 12 in: Diver depth 120 ft; 12-story building 120 ft (number not checked (no ledger"
   },
   {
-    "folder": "campaign_COSMIC_SHORT_2026_11_23_01",
-    "topic": "Andromeda Is Bigger in Our Sky Than the Moon #Shorts",
-    "status": "scheduled",
-    "stage": "upload",
-    "role": null,
-    "slot": "2026-11-23T18:00:00+05:30",
-    "created": "2026-11-12T17:11:31+05:30",
-    "reason": "campaign 2026-11-15..12-15",
-    "youtube_id": "kleAGtb2ueU"
+    "folder": "2026-11-12_231528_rocket-parts-on-bicycles",
+    "topic": "Rocket Parts on Bicycles",
+    "status": "failed",
+    "stage": "script",
+    "role": "retention",
+    "slot": "2026-11-13T20:00:00+05:30",
+    "pillar": "ISRO & India in space",
+    "selection": {
+      "role": "retention",
+      "base_score": 43.0,
+      "multiplier": 1.0,
+      "parts": {
+        "pillar_role": 1.0
+      },
+      "final": 43.0,
+      "runner_up": [
+        {
+          "topic": "Voyager 2 Glitch Fix",
+          "final": 42.5
+        },
+        {
+          "topic": "Mir Space Station Crash",
+          "final": 42.5
+        }
+      ]
+    },
+    "visual_precheck": null,
+    "created": "2026-11-12T23:15:28+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "stage_failed": "verify",
+    "reason": "ValueError: independent check still failing after repair: A recumbent bicycle later achieved a record land speed. (superlative with no document stating it; a model's word isn't enough); 2 in: Two-wheeled human transport first began in 1817 with t (number not checked (no ledger entry states it)); 5e+"
   },
   {
-    "folder": "campaign_COSMIC_SHORT_2026_11_23_02",
-    "topic": "When Galaxies Collide, Stars Almost Never Hit #Shorts",
-    "status": "scheduled",
-    "stage": "upload",
-    "role": null,
-    "slot": "2026-11-23T20:00:00+05:30",
-    "created": "2026-11-12T17:11:38+05:30",
-    "reason": "campaign 2026-11-15..12-15",
-    "youtube_id": "MJ2DU_SXghE"
+    "folder": "2026-11-12_231839_voyager-2-glitch-fix",
+    "topic": "Voyager 2 Glitch Fix",
+    "status": "failed",
+    "stage": "script",
+    "role": "retention",
+    "slot": "2026-11-13T20:00:00+05:30",
+    "pillar": "Missions in danger (Apollo, ISS, Voyager, Artemis)",
+    "selection": {
+      "role": "retention",
+      "base_score": 42.5,
+      "multiplier": 1.0,
+      "parts": {
+        "pillar_role": 1.0
+      },
+      "final": 42.5,
+      "runner_up": [
+        {
+          "topic": "Mir Space Station Crash",
+          "final": 42.5
+        },
+        {
+          "topic": "Skylab Solar Panel Rescue",
+          "final": 39.5
+        }
+      ]
+    },
+    "visual_precheck": null,
+    "created": "2026-11-12T23:18:39+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "stage_failed": "verify",
+    "reason": "ValueError: independent check still failing after repair: Voyager 2 is 20,300,000,000 km from Earth. (misleading); Voyager 1 is 24,300,000,000 km from Earth. (misleading)"
   },
   {
-    "folder": "campaign_COSMIC_SHORT_2026_11_23_03",
-    "topic": "The Big Bang Didn't Happen in One Place #Shorts",
-    "status": "scheduled",
-    "stage": "upload",
-    "role": null,
-    "slot": "2026-11-23T23:30:00+05:30",
-    "created": "2026-11-12T17:11:45+05:30",
-    "reason": "campaign 2026-11-15..12-15",
-    "youtube_id": "vuo7aJoqB1c"
+    "folder": "2026-11-12_232054_mir-space-station-crash",
+    "topic": "Mir Space Station Crash",
+    "status": "failed",
+    "stage": "script",
+    "role": "retention",
+    "slot": "2026-11-13T20:00:00+05:30",
+    "pillar": "Missions in danger (Apollo, ISS, Voyager, Artemis)",
+    "selection": {
+      "role": "retention",
+      "base_score": 42.5,
+      "multiplier": 1.0,
+      "parts": {
+        "pillar_role": 1.0
+      },
+      "final": 42.5,
+      "runner_up": [
+        {
+          "topic": "Skylab Solar Panel Rescue",
+          "final": 39.5
+        },
+        {
+          "topic": "104 Satellites One Rocket",
+          "final": 38.0
+        }
+      ]
+    },
+    "visual_precheck": null,
+    "created": "2026-11-12T23:20:54+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "stage_failed": "verify",
+    "reason": "ValueError: independent check still failing after repair: the heavy cargo ship lost trajectory control and slammed str (no document evidence (6 unresolved claims; at most 3 per video): support it, sof); crushed one of Spektr's solar arrays (no document evidence (6 unresolved claims; at most 3 per vi"
   },
   {
-    "folder": "campaign_COSMIC_SHORT_2026_11_24_01",
-    "topic": "13.8 Billion Years Old, 93 Billion Light-Years Wide. How? #Shorts",
-    "status": "scheduled",
-    "stage": "upload",
-    "role": null,
-    "slot": "2026-11-24T18:00:00+05:30",
-    "created": "2026-11-12T17:11:51+05:30",
-    "reason": "campaign 2026-11-15..12-15",
-    "youtube_id": "BxQWHZ4oi-o"
+    "folder": "2026-11-12_233156_skylab-solar-panel-rescue",
+    "topic": "Skylab Solar Panel Rescue",
+    "status": "failed",
+    "stage": "script",
+    "role": "retention",
+    "slot": "2026-11-13T20:00:00+05:30",
+    "pillar": "Missions in danger (Apollo, ISS, Voyager, Artemis)",
+    "selection": {
+      "role": "retention",
+      "base_score": 39.5,
+      "multiplier": 1.0,
+      "parts": {
+        "pillar_role": 1.0
+      },
+      "final": 39.5,
+      "runner_up": [
+        {
+          "topic": "104 Satellites One Rocket",
+          "final": 38.0
+        }
+      ]
+    },
+    "visual_precheck": null,
+    "created": "2026-11-12T23:31:56+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "stage_failed": "verify",
+    "reason": "ValueError: independent check still failing after repair: about 170,000‑pound space station (no independent value for a narrated number); America's first space station, Skylab (superlative with no document stating it (only indirect); a model's word isn't en); First, the crew deployed a parasol sunsh"
   },
   {
-    "folder": "campaign_COSMIC_SHORT_2026_11_24_02",
-    "topic": "Everything You've Ever Seen Is Only 5% of the Universe #Shorts",
-    "status": "scheduled",
-    "stage": "upload",
-    "role": null,
-    "slot": "2026-11-24T20:00:00+05:30",
-    "created": "2026-11-12T17:11:58+05:30",
-    "reason": "campaign 2026-11-15..12-15",
-    "youtube_id": "Ivp_rLskCoQ"
+    "folder": "2026-11-12_233338_104-satellites-one-rocket",
+    "topic": "104 Satellites One Rocket",
+    "status": "failed",
+    "stage": "script",
+    "role": "retention",
+    "slot": "2026-11-13T20:00:00+05:30",
+    "pillar": "ISRO & India in space",
+    "selection": {
+      "role": "retention",
+      "base_score": 38.0,
+      "multiplier": 1.0,
+      "parts": {
+        "pillar_role": 1.0
+      },
+      "final": 38.0,
+      "runner_up": []
+    },
+    "visual_precheck": null,
+    "created": "2026-11-12T23:33:38+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "stage_failed": "verify",
+    "reason": "ValueError: independent check still failing after repair: 2023 in: By March 2023, the constellation kept growing stead (number not checked (no ledger entry states it))"
   },
   {
-    "folder": "campaign_COSMIC_SHORT_2026_11_24_03",
-    "topic": "Nobody Has Confirmed Seeing the Universe's First Stars #Shorts",
-    "status": "scheduled",
-    "stage": "upload",
-    "role": null,
-    "slot": "2026-11-24T23:30:00+05:30",
-    "created": "2026-11-12T17:12:06+05:30",
-    "reason": "campaign 2026-11-15..12-15",
-    "youtube_id": "dslIAljcz8M"
+    "folder": "2026-11-12_234514_webb-tennis-court-shield",
+    "topic": "Webb Tennis Court Shield",
+    "status": "failed",
+    "stage": "script",
+    "role": "retention",
+    "slot": "2026-11-13T20:00:00+05:30",
+    "pillar": "Famous objects, one impossible fact",
+    "selection": {
+      "role": "retention",
+      "base_score": 45.0,
+      "multiplier": 0.88,
+      "parts": {
+        "pillar_role": 0.88
+      },
+      "final": 39.6,
+      "runner_up": [
+        {
+          "topic": "Voyager Golden Record Needle",
+          "final": 39.16
+        },
+        {
+          "topic": "Falcon Heavy Lifts 64,000 kg",
+          "final": 38.72
+        }
+      ]
+    },
+    "visual_precheck": null,
+    "created": "2026-11-12T23:45:14+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "stage_failed": "verify",
+    "reason": "ValueError: independent check still failing after repair: Cardinal Wolsey never played on the court. (unverifiable); 78 ft in: Standard tennis court 78 ft; Webb sunshield 69.5 f (number not checked (no ledger entry states it)); 69.5 ft in: Standard tennis court 78 ft; Webb sunshield 69.5 (number not"
   },
   {
-    "folder": "campaign_COSMIC_SHORT_2026_11_22_01",
-    "topic": "Old TV Static Is Partly the Afterglow of the Big Bang #Shorts",
-    "status": "scheduled",
-    "stage": "upload",
-    "role": null,
-    "slot": "2026-11-22T18:00:00+05:30",
-    "created": "2026-11-12T23:08:36+05:30",
-    "reason": "campaign 2026-11-15..12-15",
-    "youtube_id": "y-da5B9ZbiQ"
-  },
-  {
-    "folder": "campaign_COSMIC_SHORT_2026_11_22_03",
-    "topic": "A Whole Galaxy Is Heading Toward Us at 110 km a Second #Shorts",
-    "status": "scheduled",
-    "stage": "upload",
-    "role": null,
-    "slot": "2026-11-22T23:30:00+05:30",
-    "created": "2026-11-12T23:08:44+05:30",
-    "reason": "campaign 2026-11-15..12-15",
-    "youtube_id": "PfPK2-Pv4os"
+    "folder": "2026-11-12_235135_voyager-golden-record-needle",
+    "topic": "Voyager Golden Record Needle",
+    "status": "failed",
+    "stage": "script",
+    "role": "retention",
+    "slot": "2026-11-13T20:00:00+05:30",
+    "pillar": "Missions in danger (Apollo, ISS, Voyager, Artemis)",
+    "selection": {
+      "role": "retention",
+      "base_score": 44.5,
+      "multiplier": 0.88,
+      "parts": {
+        "pillar_role": 0.88
+      },
+      "final": 39.16,
+      "runner_up": [
+        {
+          "topic": "Falcon Heavy Lifts 64,000 kg",
+          "final": 38.72
+        },
+        {
+          "topic": "Mars Blue Sunset Explained",
+          "final": 38.72
+        }
+      ]
+    },
+    "visual_precheck": null,
+    "created": "2026-11-12T23:51:35+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "stage_failed": "verify",
+    "reason": "ValueError: independent check still failing after repair: Voyager 1 now drifts farther than any human‑made object. (superlative with no document stating it; a model's word isn't enough); 445 in: Could a 12‑inch gold‑plated record ever reach Gliese (number not checked (no ledger entry states it))"
   }
 ]

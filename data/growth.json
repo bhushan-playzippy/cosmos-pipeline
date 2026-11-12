@@ -1,7 +1,7 @@
 {
   "date": "2026-11-12",
-  "videos": 30,
-  "median_views_per_day": 23.6,
+  "videos": 33,
+  "median_views_per_day": 24.0,
   "min_sample": 5,
   "groups": {
     "slot": {
@@ -21,13 +21,13 @@
         "conclusive": true
       },
       "20:00": {
-        "n": 3,
-        "median_vpd": 74.4,
+        "n": 4,
+        "median_vpd": 50.0,
         "conclusive": false
       },
       "23:30": {
         "n": 7,
-        "median_vpd": 74.0,
+        "median_vpd": 105.0,
         "conclusive": true
       },
       "05:30": {
@@ -36,15 +36,15 @@
         "conclusive": true
       },
       "?": {
-        "n": 4,
-        "median_vpd": 88.0,
-        "conclusive": false
+        "n": 6,
+        "median_vpd": 59.5,
+        "conclusive": true
       }
     },
     "type": {
       "?": {
-        "n": 19,
-        "median_vpd": 31.3,
+        "n": 22,
+        "median_vpd": 32.5,
         "conclusive": true
       },
       "discovery": {
@@ -69,7 +69,7 @@
     "discovery": 0.88
   },
   "recommendations": [
-    "Slot 05:30 earns 15.9 views/day vs 74.0 at 23:30: try moving 05:30 to an hour near 23:30 (edit schedule.slots), then re-check in 2 weeks."
+    "Slot 05:30 earns 15.9 views/day vs 105.0 at 23:30: try moving 05:30 to an hour near 23:30 (edit schedule.slots), then re-check in 2 weeks."
   ],
   "feature_boost": {
     "question_hook": {

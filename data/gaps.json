@@ -2,30 +2,28 @@
   "date": "2026-11-12",
   "videos": [
     {
-      "folder": "2026-11-08_031439_voyager-2-makes-the-only-close-visit-to-uranus",
-      "youtube_id": "TYLd6jbm4L4",
-      "title": "Voyager 2 at Uranus #Shorts",
+      "folder": "docstudio_sgra-sc-orbits",
+      "youtube_id": "H13Sb-Rg88w",
+      "title": "How We Found an Invisible Giant #Shorts",
       "hook": "",
-      "hours": 10.4,
-      "views": 252,
-      "views_per_hour": 24.2,
-      "like_rate": 0.016,
+      "hours": 1.0,
+      "views": 56,
+      "views_per_hour": 56.0,
+      "like_rate": 0.018,
       "comment_rate": 0.0,
       "virality": null,
-      "slot": "20:00",
+      "slot": "",
       "role": null,
-      "diagnosis": [
-        "like rate 1.6% (<2%): viewers didn't feel the payoff; strengthen the twist"
-      ]
+      "diagnosis": []
     },
     {
       "folder": "2026-11-08_024101_voyager-2-makes-the-only-close-visit-to-triton",
       "youtube_id": "zj5XXTRMSf8",
       "title": "Voyager 2 at Triton #Shorts",
       "hook": "",
-      "hours": 30.9,
-      "views": 633,
-      "views_per_hour": 20.5,
+      "hours": 48.5,
+      "views": 646,
+      "views_per_hour": 13.3,
       "like_rate": 0.022,
       "comment_rate": 0.0,
       "virality": null,
@@ -36,17 +34,34 @@
       ]
     },
     {
-      "folder": "2026-11-08_035911_voyager-2-makes-the-only-close-visit-to-neptune",
-      "youtube_id": "CLqDnT026js",
-      "title": "The Only Spacecraft That Ever Visited Neptune #Shorts",
+      "folder": "2026-11-08_031439_voyager-2-makes-the-only-close-visit-to-uranus",
+      "youtube_id": "TYLd6jbm4L4",
+      "title": "Voyager 2 at Uranus #Shorts",
       "hook": "",
-      "hours": 6.9,
-      "views": 74,
-      "views_per_hour": 10.7,
+      "hours": 28.0,
+      "views": 265,
+      "views_per_hour": 9.5,
+      "like_rate": 0.019,
+      "comment_rate": 0.0,
+      "virality": null,
+      "slot": "20:00",
+      "role": null,
+      "diagnosis": [
+        "like rate 1.9% (<2%): viewers didn't feel the payoff; strengthen the twist"
+      ]
+    },
+    {
+      "folder": "docstudio_fall-sc-singularity",
+      "youtube_id": "OLRpDQ1ndlY",
+      "title": "How Long Would You Survive Inside a Black Hole? #Shorts",
+      "hook": "",
+      "hours": 6.0,
+      "views": 56,
+      "views_per_hour": 9.4,
       "like_rate": 0.0,
       "comment_rate": 0.0,
       "virality": null,
-      "slot": "23:30",
+      "slot": "",
       "role": null,
       "diagnosis": []
     },
@@ -55,9 +70,9 @@
       "youtube_id": "vDfC5gQlgUo",
       "title": "Saturn Is Less Dense Than Water #Shorts",
       "hook": "",
-      "hours": 150.9,
+      "hours": 168.5,
       "views": 1302,
-      "views_per_hour": 8.6,
+      "views_per_hour": 7.7,
       "like_rate": 0.021,
       "comment_rate": 0.0008,
       "virality": null,
@@ -72,9 +87,9 @@
       "youtube_id": "ufIw3_OJdmc",
       "title": "The Planets in Order from the Sun #Shorts",
       "hook": "",
-      "hours": 102.9,
+      "hours": 120.5,
       "views": 890,
-      "views_per_hour": 8.6,
+      "views_per_hour": 7.4,
       "like_rate": 0.017,
       "comment_rate": 0.0,
       "virality": null,
@@ -86,14 +101,44 @@
       ]
     },
     {
+      "folder": "2026-11-07_170057_major-moons-of-saturn",
+      "youtube_id": "6pJOkNeegLk",
+      "title": "One of Saturn's Moons Sprays Water Into Space #Shorts",
+      "hook": "",
+      "hours": 4.0,
+      "views": 24,
+      "views_per_hour": 6.1,
+      "like_rate": 0.0,
+      "comment_rate": 0.0,
+      "virality": null,
+      "slot": "20:00",
+      "role": null,
+      "diagnosis": []
+    },
+    {
+      "folder": "2026-11-08_035911_voyager-2-makes-the-only-close-visit-to-neptune",
+      "youtube_id": "CLqDnT026js",
+      "title": "The Only Spacecraft That Ever Visited Neptune #Shorts",
+      "hook": "",
+      "hours": 24.5,
+      "views": 102,
+      "views_per_hour": 4.2,
+      "like_rate": 0.0,
+      "comment_rate": 0.0,
+      "virality": null,
+      "slot": "23:30",
+      "role": null,
+      "diagnosis": []
+    },
+    {
       "folder": "docstudio_sgra-v2-s2",
       "youtube_id": "l0mWddywXfo",
       "title": "How Scientists Photographed an Invisible Black Hole #Shorts",
       "hook": "",
-      "hours": 36.4,
-      "views": 175,
-      "views_per_hour": 4.8,
-      "like_rate": 0.063,
+      "hours": 54.0,
+      "views": 177,
+      "views_per_hour": 3.3,
+      "like_rate": 0.062,
       "comment_rate": 0.0,
       "virality": null,
       "slot": "",
@@ -105,9 +150,9 @@
       "youtube_id": "eHJKCGcEX9Y",
       "title": "Our Galaxy's Black Hole Weighs 4 Million Suns #Shorts",
       "hook": "",
-      "hours": 60.4,
-      "views": 251,
-      "views_per_hour": 4.2,
+      "hours": 78.0,
+      "views": 252,
+      "views_per_hour": 3.2,
       "like_rate": 0.056,
       "comment_rate": 0.0,
       "virality": null,
@@ -120,9 +165,9 @@
       "youtube_id": "uuT6oc7akQE",
       "title": "780,000 km/kg: How India Beat Bike Mileage to Mars #Shorts",
       "hook": "",
-      "hours": 394.4,
-      "views": 1265,
-      "views_per_hour": 3.2,
+      "hours": 412.0,
+      "views": 1266,
+      "views_per_hour": 3.1,
       "like_rate": 0.028,
       "comment_rate": 0.0032,
       "virality": null,
@@ -137,9 +182,9 @@
       "youtube_id": "OSnRf7p1aWo",
       "title": "One Teaspoon Weighs a Billion Tons #Shorts",
       "hook": "",
-      "hours": 444.4,
+      "hours": 462.0,
       "views": 1340,
-      "views_per_hour": 3.0,
+      "views_per_hour": 2.9,
       "like_rate": 0.025,
       "comment_rate": 0.0007,
       "virality": null,
@@ -154,9 +199,9 @@
       "youtube_id": "sKZqA3DVjbk",
       "title": "NASA Mars Rovers #Shorts",
       "hook": "",
-      "hours": 78.9,
+      "hours": 96.5,
       "views": 135,
-      "views_per_hour": 1.7,
+      "views_per_hour": 1.4,
       "like_rate": 0.03,
       "comment_rate": 0.0,
       "virality": null,
@@ -171,7 +216,7 @@
       "youtube_id": "abWmusH5Tg0",
       "title": "This is how fast the ISS actually moves #Shorts",
       "hook": "",
-      "hours": 423.4,
+      "hours": 441.0,
       "views": 564,
       "views_per_hour": 1.3,
       "like_rate": 0.035,
@@ -184,46 +229,11 @@
       ]
     },
     {
-      "folder": "2026-10-26_133826_the-number-of-stars-in-the-universe-vs-grains-of-s",
-      "youtube_id": "06KQPbsd9aU",
-      "title": "Why Stars Crush Every Grain of Sand on Earth #Shorts",
-      "hook": "",
-      "hours": 375.4,
-      "views": 400,
-      "views_per_hour": 1.1,
-      "like_rate": 0.035,
-      "comment_rate": 0.0025,
-      "virality": null,
-      "slot": "15:00",
-      "role": "authority",
-      "diagnosis": [
-        "slow start: test a sharper first line and a more concrete title on the next video like this"
-      ]
-    },
-    {
-      "folder": "2026-10-27_210615_gaganyaan-parachute-deployment-force-vs-a-breaking",
-      "youtube_id": "e6Uz9tsxTE0",
-      "title": "8Gs of Force: Surviving ISRO Gaganyaan's Drop #Shorts",
-      "hook": "",
-      "hours": 346.4,
-      "views": 382,
-      "views_per_hour": 1.1,
-      "like_rate": 0.01,
-      "comment_rate": 0.0026,
-      "virality": null,
-      "slot": "20:00",
-      "role": "retention",
-      "diagnosis": [
-        "slow start: test a sharper first line and a more concrete title on the next video like this",
-        "like rate 1.0% (<2%): viewers didn't feel the payoff; strengthen the twist"
-      ]
-    },
-    {
       "folder": "2026-10-24_1402_olympus-mons-scale",
       "youtube_id": "kwI_Atb1430",
       "title": "The Volcano That Puts Mount Everest To Shame #Shorts",
       "hook": "",
-      "hours": 420.4,
+      "hours": 438.0,
       "views": 423,
       "views_per_hour": 1.0,
       "like_rate": 0.031,
@@ -240,7 +250,7 @@
       "youtube_id": "UWmusUZxwDA",
       "title": "The Moon Drifts Away at Fingernail Speed #Shorts",
       "hook": "",
-      "hours": 429.4,
+      "hours": 447.0,
       "views": 426,
       "views_per_hour": 1.0,
       "like_rate": 0.031,
@@ -253,20 +263,55 @@
       ]
     },
     {
-      "folder": "2026-11-08_000336_messengers-mission-to-mercury",
-      "youtube_id": "j6rEvff3MFs",
-      "title": "MESSENGER's Journey to Mercury #Shorts",
+      "folder": "2026-10-26_133826_the-number-of-stars-in-the-universe-vs-grains-of-s",
+      "youtube_id": "06KQPbsd9aU",
+      "title": "Why Stars Crush Every Grain of Sand on Earth #Shorts",
       "hook": "",
-      "hours": 72.9,
-      "views": 76,
+      "hours": 393.0,
+      "views": 400,
       "views_per_hour": 1.0,
-      "like_rate": 0.053,
-      "comment_rate": 0.0,
+      "like_rate": 0.035,
+      "comment_rate": 0.0025,
       "virality": null,
-      "slot": "05:30",
+      "slot": "15:00",
+      "role": "authority",
+      "diagnosis": [
+        "slow start: test a sharper first line and a more concrete title on the next video like this"
+      ]
+    },
+    {
+      "folder": "2026-10-27_210615_gaganyaan-parachute-deployment-force-vs-a-breaking",
+      "youtube_id": "e6Uz9tsxTE0",
+      "title": "8Gs of Force: Surviving ISRO Gaganyaan's Drop #Shorts",
+      "hook": "",
+      "hours": 364.0,
+      "views": 382,
+      "views_per_hour": 1.0,
+      "like_rate": 0.01,
+      "comment_rate": 0.0026,
+      "virality": null,
+      "slot": "20:00",
+      "role": "retention",
+      "diagnosis": [
+        "slow start: test a sharper first line and a more concrete title on the next video like this",
+        "like rate 1.0% (<2%): viewers didn't feel the payoff; strengthen the twist"
+      ]
+    },
+    {
+      "folder": "2026-10-24_1428_diamond-rain-on-neptune",
+      "youtube_id": "Qvk_c-27d4c",
+      "title": "Scientists Think It Rains Diamonds on Neptune #Shorts",
+      "hook": "",
+      "hours": 417.0,
+      "views": 334,
+      "views_per_hour": 0.8,
+      "like_rate": 0.036,
+      "comment_rate": 0.003,
+      "virality": null,
+      "slot": "15:00",
       "role": null,
       "diagnosis": [
-        "under 100 views after 73h: the feed stopped testing it, so people swiped in the first seconds. Hook was 0 words: \"\""
+        "slow start: test a sharper first line and a more concrete title on the next video like this"
       ]
     },
     {
@@ -274,9 +319,9 @@
       "youtube_id": "pLD9VYe3l5Q",
       "title": "Why Lightning is 5x Hotter Than the Sun #Shorts",
       "hook": "",
-      "hours": 381.4,
+      "hours": 399.0,
       "views": 337,
-      "views_per_hour": 0.9,
+      "views_per_hour": 0.8,
       "like_rate": 0.047,
       "comment_rate": 0.003,
       "virality": null,
@@ -291,9 +336,9 @@
       "youtube_id": "EALndKHYuyk",
       "title": "Why Hasn't a Single Red Dwarf Star Died Yet? #Shorts",
       "hook": "",
-      "hours": 333.4,
+      "hours": 351.0,
       "views": 296,
-      "views_per_hour": 0.9,
+      "views_per_hour": 0.8,
       "like_rate": 0.014,
       "comment_rate": 0.0034,
       "virality": null,
@@ -305,37 +350,20 @@
       ]
     },
     {
-      "folder": "2026-10-24_1428_diamond-rain-on-neptune",
-      "youtube_id": "Qvk_c-27d4c",
-      "title": "Scientists Think It Rains Diamonds on Neptune #Shorts",
+      "folder": "2026-11-08_000336_messengers-mission-to-mercury",
+      "youtube_id": "j6rEvff3MFs",
+      "title": "MESSENGER's Journey to Mercury #Shorts",
       "hook": "",
-      "hours": 399.4,
-      "views": 334,
+      "hours": 90.5,
+      "views": 76,
       "views_per_hour": 0.8,
-      "like_rate": 0.036,
-      "comment_rate": 0.003,
-      "virality": null,
-      "slot": "15:00",
-      "role": null,
-      "diagnosis": [
-        "slow start: test a sharper first line and a more concrete title on the next video like this"
-      ]
-    },
-    {
-      "folder": "2026-11-07_073909_jupiters-four-galilean-moons",
-      "youtube_id": "xiqHIqurwZE",
-      "title": "Jupiter's Four Galilean Moons #Shorts",
-      "hook": "",
-      "hours": 96.9,
-      "views": 73,
-      "views_per_hour": 0.8,
-      "like_rate": 0.055,
+      "like_rate": 0.053,
       "comment_rate": 0.0,
       "virality": null,
       "slot": "05:30",
       "role": null,
       "diagnosis": [
-        "under 100 views after 97h: the feed stopped testing it, so people swiped in the first seconds. Hook was 0 words: \"\""
+        "under 100 views after 90h: the feed stopped testing it, so people swiped in the first seconds. Hook was 0 words: \"\""
       ]
     },
     {
@@ -343,7 +371,7 @@
       "youtube_id": "5i4v_-f-K9A",
       "title": "Earth as a Black Hole Would Fit in Your Palm #Shorts",
       "hook": "",
-      "hours": 405.4,
+      "hours": 423.0,
       "views": 297,
       "views_per_hour": 0.7,
       "like_rate": 0.03,
@@ -356,29 +384,11 @@
       ]
     },
     {
-      "folder": "2026-10-28_134543_the-distance-to-the-nearest-star-vs-a-highway-road",
-      "youtube_id": "4rTETbscT-o",
-      "title": "Why Driving to the Nearest Star Takes 47 Million Years #Shorts",
-      "hook": "",
-      "hours": 336.9,
-      "views": 223,
-      "views_per_hour": 0.7,
-      "like_rate": 0.013,
-      "comment_rate": 0.0045,
-      "virality": null,
-      "slot": "05:30",
-      "role": "discovery",
-      "diagnosis": [
-        "slow start: test a sharper first line and a more concrete title on the next video like this",
-        "like rate 1.3% (<2%): viewers didn't feel the payoff; strengthen the twist"
-      ]
-    },
-    {
       "folder": "2026-10-27_130005_the-total-mass-of-all-human-made-satellites-in-orb",
       "youtube_id": "wCbgGDBM2lY",
       "title": "18 Trains vs Every Satellite in Space #Shorts",
       "hook": "",
-      "hours": 351.4,
+      "hours": 369.0,
       "views": 223,
       "views_per_hour": 0.6,
       "like_rate": 0.027,
@@ -391,13 +401,48 @@
       ]
     },
     {
+      "folder": "2026-10-28_134543_the-distance-to-the-nearest-star-vs-a-highway-road",
+      "youtube_id": "4rTETbscT-o",
+      "title": "Why Driving to the Nearest Star Takes 47 Million Years #Shorts",
+      "hook": "",
+      "hours": 354.5,
+      "views": 223,
+      "views_per_hour": 0.6,
+      "like_rate": 0.013,
+      "comment_rate": 0.0045,
+      "virality": null,
+      "slot": "05:30",
+      "role": "discovery",
+      "diagnosis": [
+        "slow start: test a sharper first line and a more concrete title on the next video like this",
+        "like rate 1.3% (<2%): viewers didn't feel the payoff; strengthen the twist"
+      ]
+    },
+    {
+      "folder": "2026-11-07_073909_jupiters-four-galilean-moons",
+      "youtube_id": "xiqHIqurwZE",
+      "title": "Jupiter's Four Galilean Moons #Shorts",
+      "hook": "",
+      "hours": 114.5,
+      "views": 73,
+      "views_per_hour": 0.6,
+      "like_rate": 0.055,
+      "comment_rate": 0.0,
+      "virality": null,
+      "slot": "05:30",
+      "role": null,
+      "diagnosis": [
+        "under 100 views after 114h: the feed stopped testing it, so people swiped in the first seconds. Hook was 0 words: \"\""
+      ]
+    },
+    {
       "folder": "2026-10-27_221529_suns-core-energy-travel-time-vs-your-morning-commu",
       "youtube_id": "8wUMlZ-J0sw",
       "title": "Why Sunlight Takes 100,000 Years to Reach You #Shorts",
       "hook": "",
-      "hours": 366.9,
+      "hours": 384.5,
       "views": 129,
-      "views_per_hour": 0.4,
+      "views_per_hour": 0.3,
       "like_rate": 0.039,
       "comment_rate": 0.0078,
       "virality": null,
@@ -408,28 +453,11 @@
       ]
     },
     {
-      "folder": "2026-11-08_013905_magellan-reveals-the-surface-of-venus-with-radar",
-      "youtube_id": "SdiwesW79dM",
-      "title": "How Magellan Revealed Venus #Shorts",
-      "hook": "",
-      "hours": 54.9,
-      "views": 14,
-      "views_per_hour": 0.3,
-      "like_rate": 0.0,
-      "comment_rate": 0.0,
-      "virality": null,
-      "slot": "23:30",
-      "role": null,
-      "diagnosis": [
-        "under 100 views after 55h: the feed stopped testing it, so people swiped in the first seconds. Hook was 0 words: \"\""
-      ]
-    },
-    {
       "folder": "2026-10-27_134730_the-age-of-light-from-andromeda-vs-recorded-human-",
       "youtube_id": "yylP_CNZL4g",
       "title": "Why 2.5 Million-Year-Old Starlight is Hitting Your Eye #Shorts",
       "hook": "",
-      "hours": 357.4,
+      "hours": 375.0,
       "views": 82,
       "views_per_hour": 0.2,
       "like_rate": 0.073,
@@ -438,7 +466,7 @@
       "slot": "09:00",
       "role": "discovery",
       "diagnosis": [
-        "under 100 views after 357h: the feed stopped testing it, so people swiped in the first seconds. Hook was 0 words: \"\""
+        "under 100 views after 375h: the feed stopped testing it, so people swiped in the first seconds. Hook was 0 words: \"\""
       ]
     },
     {
@@ -446,7 +474,7 @@
       "youtube_id": "bqO7avYWuRk",
       "title": "Drive Across America 660,000 Times to Match This #Shorts",
       "hook": "",
-      "hours": 312.9,
+      "hours": 330.5,
       "views": 55,
       "views_per_hour": 0.2,
       "like_rate": 0.0,
@@ -455,7 +483,24 @@
       "slot": "05:30",
       "role": "discovery",
       "diagnosis": [
-        "under 100 views after 313h: the feed stopped testing it, so people swiped in the first seconds. Hook was 0 words: \"\""
+        "under 100 views after 330h: the feed stopped testing it, so people swiped in the first seconds. Hook was 0 words: \"\""
+      ]
+    },
+    {
+      "folder": "2026-11-08_013905_magellan-reveals-the-surface-of-venus-with-radar",
+      "youtube_id": "SdiwesW79dM",
+      "title": "How Magellan Revealed Venus #Shorts",
+      "hook": "",
+      "hours": 72.5,
+      "views": 14,
+      "views_per_hour": 0.2,
+      "like_rate": 0.0,
+      "comment_rate": 0.0,
+      "virality": null,
+      "slot": "23:30",
+      "role": null,
+      "diagnosis": [
+        "under 100 views after 72h: the feed stopped testing it, so people swiped in the first seconds. Hook was 0 words: \"\""
       ]
     },
     {
@@ -463,8 +508,8 @@
       "youtube_id": "XXU2T8D0T5A",
       "title": "Galileo Returned to Io's Volcanoes #Shorts",
       "hook": "",
-      "hours": 48.9,
-      "views": 11,
+      "hours": 66.5,
+      "views": 12,
       "views_per_hour": 0.2,
       "like_rate": 0.0,
       "comment_rate": 0.0,
@@ -472,24 +517,7 @@
       "slot": "05:30",
       "role": null,
       "diagnosis": [
-        "under 100 views after 49h: the feed stopped testing it, so people swiped in the first seconds. Hook was 0 words: \"\""
-      ]
-    },
-    {
-      "folder": "docstudio_sgra-v2-s3",
-      "youtube_id": "8imb1TMqFP0",
-      "title": "Gas Around Our Black Hole Orbits in Minutes #Shorts",
-      "hook": "",
-      "hours": 12.4,
-      "views": 1,
-      "views_per_hour": 0.1,
-      "like_rate": 0.0,
-      "comment_rate": 0.0,
-      "virality": null,
-      "slot": "",
-      "role": null,
-      "diagnosis": [
-        "slow start: test a sharper first line and a more concrete title on the next video like this"
+        "under 100 views after 66h: the feed stopped testing it, so people swiped in the first seconds. Hook was 0 words: \"\""
       ]
     },
     {
@@ -497,8 +525,8 @@
       "youtube_id": "ia7VRZZGXlg",
       "title": "The Black Hole Hiding at the Centre of Our Galaxy | Sagittarius A*",
       "hook": "",
-      "hours": 82.4,
-      "views": 0,
+      "hours": 100.0,
+      "views": 1,
       "views_per_hour": 0.0,
       "like_rate": 0.0,
       "comment_rate": 0.0,
@@ -506,7 +534,24 @@
       "slot": "",
       "role": null,
       "diagnosis": [
-        "under 100 views after 82h: the feed stopped testing it, so people swiped in the first seconds. Hook was 0 words: \"\""
+        "under 100 views after 100h: the feed stopped testing it, so people swiped in the first seconds. Hook was 0 words: \"\""
+      ]
+    },
+    {
+      "folder": "docstudio_sgra-v2-s3",
+      "youtube_id": "8imb1TMqFP0",
+      "title": "Gas Around Our Black Hole Orbits in Minutes #Shorts",
+      "hook": "",
+      "hours": 30.0,
+      "views": 1,
+      "views_per_hour": 0.0,
+      "like_rate": 0.0,
+      "comment_rate": 0.0,
+      "virality": null,
+      "slot": "",
+      "role": null,
+      "diagnosis": [
+        "under 100 views after 30h: the feed stopped testing it, so people swiped in the first seconds. Hook was 0 words: \"\""
       ]
     }
   ],
@@ -514,7 +559,7 @@
     {
       "title": "Voyager 2 at Triton #Shorts",
       "hook": "",
-      "views": 633
+      "views": 646
     },
     {
       "title": "Saturn Is Less Dense Than Water #Shorts",
