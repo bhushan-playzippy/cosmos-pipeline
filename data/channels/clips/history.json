@@ -8561,26 +8561,32 @@
   {
     "folder": "docstudio_hist-tajmahal",
     "topic": "20,000 Workers Built This Monument to Love #Shorts",
-    "status": "scheduled",
+    "status": "published",
     "stage": "upload",
     "role": null,
     "slot": "2026-11-12T20:00:00+05:30",
     "created": "2026-11-08T18:35:16+05:30",
     "youtube_id": "gUxD2HE42B4",
     "reason": "docstudio animated documentary upload",
-    "privacy": "private"
+    "privacy": "public",
+    "stages": {
+      "published": "2026-11-12T23:59:14+05:30"
+    }
   },
   {
     "folder": "docstudio_hist-colosseum",
     "topic": "The Colosseum Opened 1 Year After Pompeii Was Buried #Shorts",
-    "status": "scheduled",
+    "status": "published",
     "stage": "upload",
     "role": null,
     "slot": "2026-11-12T23:30:00+05:30",
     "created": "2026-11-08T18:36:35+05:30",
     "youtube_id": "7Q0u9REHRIg",
     "reason": "docstudio animated documentary upload",
-    "privacy": "private"
+    "privacy": "public",
+    "stages": {
+      "published": "2026-11-12T23:59:14+05:30"
+    }
   },
   {
     "folder": "docstudio_hist-greatwall",
@@ -10213,7 +10219,8 @@
     "slot": "2026-11-22T05:30:00+05:30",
     "created": "2026-11-12T17:12:13+05:30",
     "reason": "campaign 2026-11-15..12-15",
-    "youtube_id": "li2i5tIj8EA"
+    "youtube_id": "li2i5tIj8EA",
+    "privacy": "private"
   },
   {
     "folder": "campaign_CLIPS_SHORT_2026_11_22_02",
@@ -10224,7 +10231,8 @@
     "slot": "2026-11-22T20:00:00+05:30",
     "created": "2026-11-12T17:12:19+05:30",
     "reason": "campaign 2026-11-15..12-15",
-    "youtube_id": "mKolSf21dr0"
+    "youtube_id": "mKolSf21dr0",
+    "privacy": "private"
   },
   {
     "folder": "campaign_CLIPS_SHORT_2026_11_22_03",
@@ -10235,7 +10243,8 @@
     "slot": "2026-11-22T23:30:00+05:30",
     "created": "2026-11-12T17:12:26+05:30",
     "reason": "campaign 2026-11-15..12-15",
-    "youtube_id": "KiSg_56w7R0"
+    "youtube_id": "KiSg_56w7R0",
+    "privacy": "private"
   },
   {
     "folder": "campaign_CLIPS_SHORT_2026_11_23_01",
@@ -10246,7 +10255,8 @@
     "slot": "2026-11-23T05:30:00+05:30",
     "created": "2026-11-12T17:12:33+05:30",
     "reason": "campaign 2026-11-15..12-15",
-    "youtube_id": "WhOCtKdDOcQ"
+    "youtube_id": "WhOCtKdDOcQ",
+    "privacy": "private"
   },
   {
     "folder": "campaign_CLIPS_SHORT_2026_11_23_02",
@@ -10257,7 +10267,8 @@
     "slot": "2026-11-23T20:00:00+05:30",
     "created": "2026-11-12T17:12:38+05:30",
     "reason": "campaign 2026-11-15..12-15",
-    "youtube_id": "69RBXWrlahk"
+    "youtube_id": "69RBXWrlahk",
+    "privacy": "private"
   },
   {
     "folder": "campaign_CLIPS_SHORT_2026_11_23_03",
@@ -10268,7 +10279,8 @@
     "slot": "2026-11-23T23:30:00+05:30",
     "created": "2026-11-12T17:12:44+05:30",
     "reason": "campaign 2026-11-15..12-15",
-    "youtube_id": "LWy-ZrMqW_g"
+    "youtube_id": "LWy-ZrMqW_g",
+    "privacy": "private"
   },
   {
     "folder": "campaign_CLIPS_SHORT_2026_11_24_01",
@@ -10279,7 +10291,8 @@
     "slot": "2026-11-24T05:30:00+05:30",
     "created": "2026-11-12T23:08:51+05:30",
     "reason": "campaign 2026-11-15..12-15",
-    "youtube_id": "ZdzoGVvbJ-4"
+    "youtube_id": "ZdzoGVvbJ-4",
+    "privacy": "private"
   },
   {
     "folder": "campaign_CLIPS_SHORT_2026_11_24_02",
@@ -10290,7 +10303,8 @@
     "slot": "2026-11-24T20:00:00+05:30",
     "created": "2026-11-12T23:08:57+05:30",
     "reason": "campaign 2026-11-15..12-15",
-    "youtube_id": "FJZam56Hlfc"
+    "youtube_id": "FJZam56Hlfc",
+    "privacy": "private"
   },
   {
     "folder": "campaign_CLIPS_SHORT_2026_11_24_03",
@@ -10301,6 +10315,394 @@
     "slot": "2026-11-24T23:30:00+05:30",
     "created": "2026-11-12T23:09:03+05:30",
     "reason": "campaign 2026-11-15..12-15",
-    "youtube_id": "k7LycrxCGWE"
+    "youtube_id": "k7LycrxCGWE",
+    "privacy": "private"
+  },
+  {
+    "folder": "2026-11-12_235924_apollo-11-pen-repair",
+    "topic": "Apollo 11 Pen Repair",
+    "status": "failed",
+    "stage": "script",
+    "role": "authority",
+    "slot": "2026-11-13T20:00:00+05:30",
+    "pillar": "Disasters that hinged on one detail",
+    "selection": {
+      "role": "authority",
+      "base_score": 51.5,
+      "multiplier": 1.0,
+      "parts": {
+        "pillar_role": 1.0
+      },
+      "final": 51.5,
+      "runner_up": [
+        {
+          "topic": "George Washington Spared by British Sniper",
+          "final": 51.0
+        },
+        {
+          "topic": "First Flight Photo Captured by Lifesaver",
+          "final": 49.5
+        }
+      ]
+    },
+    "visual_precheck": {
+      "at": "2026-11-12T23:59:24+05:30",
+      "need": 2,
+      "assets": [
+        {
+          "source": "wikimedia_commons",
+          "query": "apollo",
+          "title": "File:Apollo 11 Launch2.jpg",
+          "page": "https://commons.wikimedia.org/wiki/File:Apollo_11_Launch2.jpg",
+          "license": "Public domain",
+          "license_evidence": "Commons file metadata (extmetadata.LicenseShortName)",
+          "date": "Taken on 16 July 1969",
+          "downloaded": true,
+          "bytes": 1659215,
+          "relevance": "file title shares the query's distinctive words",
+          "asset_id": "commons:6739626"
+        },
+        {
+          "source": "wikimedia_commons",
+          "query": "apollo",
+          "title": "File:NASA Apollo 17 Lunar Roving Vehicle.jpg",
+          "page": "https://commons.wikimedia.org/wiki/File:NASA_Apollo_17_Lunar_Roving_Vehicle.jpg",
+          "license": "Public domain",
+          "license_evidence": "Commons file metadata (extmetadata.LicenseShortName)",
+          "date": "12 December 1972",
+          "downloaded": true,
+          "bytes": 1243104,
+          "relevance": "file title shares the query's distinctive words",
+          "asset_id": "commons:12872"
+        }
+      ]
+    },
+    "created": "2026-11-12T23:59:24+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "stage_failed": "research",
+    "reason": "Unsupported: research: the sources don't support this story (The provided research notes contain no facts about a plastic writing pen, pen repair, or broken circuit breaker switch during Apollo 11.)"
+  },
+  {
+    "folder": "2026-11-13_000107_george-washington-spared-by-british-sniper",
+    "topic": "George Washington Spared by British Sniper",
+    "status": "failed",
+    "stage": "script",
+    "role": "authority",
+    "slot": "2026-11-13T20:00:00+05:30",
+    "pillar": "Forgotten heroes",
+    "selection": {
+      "role": "authority",
+      "base_score": 51.0,
+      "multiplier": 1.0,
+      "parts": {
+        "pillar_role": 1.0
+      },
+      "final": 51.0,
+      "runner_up": [
+        {
+          "topic": "First Flight Photo Captured by Lifesaver",
+          "final": 49.5
+        },
+        {
+          "topic": "Butch Cassidy Tracked by Stolen Mule",
+          "final": 49.5
+        }
+      ]
+    },
+    "visual_precheck": {
+      "at": "2026-11-13T00:01:07+05:30",
+      "need": 2,
+      "assets": [
+        {
+          "source": "wikimedia_commons",
+          "query": "George Washington Spared",
+          "title": "File:George Washington Carver c1910 - Restoration.jpg",
+          "page": "https://commons.wikimedia.org/wiki/File:George_Washington_Carver_c1910_-_Restoration.jpg",
+          "license": "Public domain",
+          "license_evidence": "Commons file metadata (extmetadata.LicenseShortName)",
+          "date": "circa 1910 date QS:P,+1910-00-00T00:00:00Z/9,P1480,Q5727902 ",
+          "downloaded": true,
+          "bytes": 1418113,
+          "relevance": "file title shares the query's distinctive words",
+          "asset_id": "commons:46611459"
+        },
+        {
+          "source": "wikimedia_commons",
+          "query": "George Washington Spared",
+          "title": "File:Gilbert Stuart Williamstown Portrait of George Washington.jpg",
+          "page": "https://commons.wikimedia.org/wiki/File:Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg",
+          "license": "Public domain",
+          "license_evidence": "Commons file metadata (extmetadata.LicenseShortName)",
+          "date": "1803      ",
+          "downloaded": true,
+          "bytes": 1185541,
+          "relevance": "file title shares the query's distinctive words",
+          "asset_id": "commons:591229"
+        }
+      ]
+    },
+    "created": "2026-11-13T00:01:07+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "stage_failed": "research",
+    "reason": "Unsupported: research: the sources don't support this story (The provided research notes contain information on George Washington and slavery and George W. Bush, but contain no details about a British sniper sparing Georg)"
+  },
+  {
+    "folder": "2026-11-13_000122_first-flight-photo-captured-by-lifesaver",
+    "topic": "First Flight Photo Captured by Lifesaver",
+    "status": "failed",
+    "stage": "script",
+    "role": "authority",
+    "slot": "2026-11-13T20:00:00+05:30",
+    "pillar": "Forgotten heroes",
+    "selection": {
+      "role": "authority",
+      "base_score": 49.5,
+      "multiplier": 1.0,
+      "parts": {
+        "pillar_role": 1.0
+      },
+      "final": 49.5,
+      "runner_up": [
+        {
+          "topic": "Butch Cassidy Tracked by Stolen Mule",
+          "final": 49.5
+        },
+        {
+          "topic": "The 1919 'Wrong Turn' of Archduke Ferdinand's Driver",
+          "final": 48.5
+        }
+      ]
+    },
+    "visual_precheck": {
+      "at": "2026-11-13T00:01:22+05:30",
+      "need": 2,
+      "assets": [
+        {
+          "source": "wikimedia_commons",
+          "query": "First Flight Photo",
+          "title": "File:First flight3.jpg",
+          "page": "https://commons.wikimedia.org/wiki/File:First_flight3.jpg",
+          "license": "Public domain",
+          "license_evidence": "Commons file metadata (extmetadata.LicenseShortName)",
+          "date": "1903-12-17",
+          "downloaded": true,
+          "bytes": 492655,
+          "relevance": "file title shares the query's distinctive words",
+          "asset_id": "commons:8844577"
+        },
+        {
+          "source": "wikimedia_commons",
+          "query": "First Flight Photo",
+          "title": "File:First JATO assisted Flight - GPN-2000-001538.jpg",
+          "page": "https://commons.wikimedia.org/wiki/File:First_JATO_assisted_Flight_-_GPN-2000-001538.jpg",
+          "license": "Public domain",
+          "license_evidence": "Commons file metadata (extmetadata.LicenseShortName)",
+          "date": "Taken on 12 August 1941",
+          "downloaded": true,
+          "bytes": 724148,
+          "relevance": "file title shares the query's distinctive words",
+          "asset_id": "commons:6452547"
+        }
+      ]
+    },
+    "created": "2026-11-13T00:01:22+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "stage_failed": "research",
+    "reason": "Unsupported: research: the sources don't support this story (The provided research notes do not contain any information about a coastal rescue worker or lifesaver capturing the photograph of the first flight.)"
+  },
+  {
+    "folder": "2026-11-13_000152_butch-cassidy-tracked-by-stolen-mule",
+    "topic": "Butch Cassidy Tracked by Stolen Mule",
+    "status": "failed",
+    "stage": "script",
+    "role": "authority",
+    "slot": "2026-11-13T20:00:00+05:30",
+    "pillar": "Mysteries finally solved",
+    "selection": {
+      "role": "authority",
+      "base_score": 49.5,
+      "multiplier": 1.0,
+      "parts": {
+        "pillar_role": 1.0
+      },
+      "final": 49.5,
+      "runner_up": [
+        {
+          "topic": "The 1919 'Wrong Turn' of Archduke Ferdinand's Driver",
+          "final": 48.5
+        },
+        {
+          "topic": "The Clock that Beat the Tsar",
+          "final": 43.5
+        }
+      ]
+    },
+    "visual_precheck": {
+      "at": "2026-11-13T00:01:52+05:30",
+      "need": 2,
+      "assets": [
+        {
+          "source": "wikimedia_commons",
+          "query": "Butch Cassidy Tracked",
+          "title": "File:Butch Cassidy mugshot detail.jpg",
+          "page": "https://commons.wikimedia.org/wiki/File:Butch_Cassidy_mugshot_detail.jpg",
+          "license": "Public domain",
+          "license_evidence": "Commons file metadata (extmetadata.LicenseShortName)",
+          "date": "1894",
+          "downloaded": true,
+          "bytes": 159571,
+          "relevance": "file title shares the query's distinctive words",
+          "asset_id": "commons:701361"
+        },
+        {
+          "source": "wikimedia_commons",
+          "query": "Butch Cassidy Tracked",
+          "title": "File:Butch Cassidy mugshot.jpg",
+          "page": "https://commons.wikimedia.org/wiki/File:Butch_Cassidy_mugshot.jpg",
+          "license": "Public domain",
+          "license_evidence": "Commons file metadata (extmetadata.LicenseShortName)",
+          "date": "1894",
+          "downloaded": true,
+          "bytes": 367172,
+          "relevance": "file title shares the query's distinctive words",
+          "asset_id": "commons:10540761"
+        }
+      ]
+    },
+    "created": "2026-11-13T00:01:52+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "stage_failed": "research",
+    "reason": "Unsupported: research: the sources don't support this story (The provided research notes do not contain any information about Butch Cassidy being tracked by a stolen mule or branded pack animal.)"
+  },
+  {
+    "folder": "2026-11-13_004144_the-clock-that-beat-the-tsar",
+    "topic": "The Clock that Beat the Tsar",
+    "status": "failed",
+    "stage": "script",
+    "role": "authority",
+    "slot": "2026-11-13T20:00:00+05:30",
+    "pillar": "Strange but true history",
+    "selection": {
+      "role": "authority",
+      "base_score": 43.5,
+      "multiplier": 1.0,
+      "parts": {
+        "pillar_role": 1.0
+      },
+      "final": 43.5,
+      "runner_up": [
+        {
+          "topic": "The 1961 Bay of Pigs invasion failure where the US planned a",
+          "final": 40.5
+        },
+        {
+          "topic": "The 1970 USS Scorpion submarine disappearance in the Atlanti",
+          "final": 39.0
+        }
+      ]
+    },
+    "visual_precheck": {
+      "at": "2026-11-13T00:02:15+05:30",
+      "need": 2,
+      "assets": [
+        {
+          "source": "wikimedia_commons",
+          "query": "clock",
+          "title": "File:\"The Elephant Clock\", Folio from a Book of the Knowledge of Ingenious Mechanical Devices by al-Jazari MET DP234075.jpg",
+          "page": "https://commons.wikimedia.org/wiki/File:%22The_Elephant_Clock%22,_Folio_from_a_Book_of_the_Knowledge_of_Ingenious_Mechanical_Devices_by_al-Jazari_MET_DP234075.jpg",
+          "license": "CC0",
+          "license_evidence": "Commons file metadata (extmetadata.LicenseShortName)",
+          "date": "dated A.H. 715/A.D. 1315",
+          "downloaded": true,
+          "bytes": 2233788,
+          "relevance": "file title shares the query's distinctive words",
+          "asset_id": "commons:57855755"
+        },
+        {
+          "source": "wikimedia_commons",
+          "query": "clock",
+          "title": "File:Mantel clock MET DP333812.jpg",
+          "page": "https://commons.wikimedia.org/wiki/File:Mantel_clock_MET_DP333812.jpg",
+          "license": "CC0",
+          "license_evidence": "Commons file metadata (extmetadata.LicenseShortName)",
+          "date": "case ca. 1710, movement ca. 1760–70",
+          "downloaded": true,
+          "bytes": 1039177,
+          "relevance": "file title shares the query's distinctive words",
+          "asset_id": "commons:60179198"
+        }
+      ]
+    },
+    "created": "2026-11-13T00:41:44+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "stage_failed": "verify",
+    "reason": "ValueError: independent check still failing after repair: Lenin commanded the shelled clock back to life (attribution with no document stating it; a model's word isn't enough); Lenin Ordered the 25-Ton Kremlin Clock Repaired (attribution with no document stating it; a model's word isn't enough); Len"
+  },
+  {
+    "folder": "2026-11-13_005634_the-1970-uss-scorpion-submarine-disappearance-in-t",
+    "topic": "The 1970 USS Scorpion submarine disappearance in the Atlantic",
+    "status": "failed",
+    "stage": "script",
+    "role": "authority",
+    "slot": "2026-11-13T20:00:00+05:30",
+    "pillar": "Mysteries finally solved",
+    "selection": {
+      "role": "authority",
+      "base_score": 39.0,
+      "multiplier": 1.0,
+      "parts": {
+        "pillar_role": 1.0
+      },
+      "final": 39.0,
+      "runner_up": []
+    },
+    "visual_precheck": {
+      "at": "2026-11-13T00:56:34+05:30",
+      "need": 2,
+      "assets": [
+        {
+          "source": "wikimedia_commons",
+          "query": "USS Scorpion Atlantic",
+          "title": "File:NH 97214 USS Scorpion (SSN-589) (cropped).tif",
+          "page": "https://commons.wikimedia.org/wiki/File:NH_97214_USS_Scorpion_(SSN-589)_(cropped).tif",
+          "license": "Public domain",
+          "license_evidence": "Commons file metadata (extmetadata.LicenseShortName)",
+          "date": "1960-08-22",
+          "downloaded": true,
+          "bytes": 457346,
+          "relevance": "file title shares the query's distinctive words",
+          "asset_id": "commons:160134283"
+        },
+        {
+          "source": "wikimedia_commons",
+          "query": "USS Scorpion Atlantic",
+          "title": "File:Uss scorpion SSN589.jpg",
+          "page": "https://commons.wikimedia.org/wiki/File:Uss_scorpion_SSN589.jpg",
+          "license": "Public domain",
+          "license_evidence": "Commons file metadata (extmetadata.LicenseShortName)",
+          "date": "1960-08-22",
+          "downloaded": true,
+          "bytes": 211604,
+          "relevance": "file title shares the query's distinctive words",
+          "asset_id": "commons:475892"
+        }
+      ]
+    },
+    "created": "2026-11-13T00:56:34+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "stage_failed": "verify",
+    "reason": "ValueError: independent check still failing after repair: A 1985 search found her debris field (misleading)"
   }
 ]

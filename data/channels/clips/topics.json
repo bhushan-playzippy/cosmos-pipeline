@@ -489,44 +489,6 @@
     "score": 52.5
   },
   {
-    "topic": "Apollo 11 Pen Repair",
-    "pillar": "Disasters that hinged on one detail",
-    "series": "The Detail Nobody Remembers",
-    "role": "authority",
-    "angle": "A plastic writing pen saving a multi-billion dollar space mission",
-    "hook_idea": "How did a simple ballpoint pen save the Apollo 11 crew?",
-    "viewer_benefit": "Discover the ingenious micro-fix that brought Neil Armstrong home.",
-    "scores": {
-      "audience_relevance": 5,
-      "curiosity": 5,
-      "evidence_quality": 5,
-      "visual_feasibility": 4,
-      "series_potential": 4,
-      "familiarity": 5
-    },
-    "veo_prompt": "Vertical 9:16 macro shot of a vintage 1960s plastic felt-tip pen pressing into a broken electronic circuit switch inside a lunar module cockpit.",
-    "score": 51.5
-  },
-  {
-    "topic": "George Washington Spared by British Sniper",
-    "pillar": "Forgotten heroes",
-    "series": "The Detail Nobody Remembers",
-    "role": "authority",
-    "angle": "A sniper's honor code changing the outcome of the American Revolution",
-    "hook_idea": "Why did a British sniper spare George Washington's life?",
-    "viewer_benefit": "Understand how a single act of chivalry allowed the US to be born.",
-    "scores": {
-      "audience_relevance": 5,
-      "curiosity": 4,
-      "evidence_quality": 5,
-      "visual_feasibility": 5,
-      "series_potential": 3,
-      "familiarity": 5
-    },
-    "veo_prompt": "Vertical 9:16 cinematic view through early rifle iron sights aimed at a colonial officer on horseback in a hazy 1777 forest.",
-    "score": 51.0
-  },
-  {
     "topic": "Statue of Liberty Arm Exhibited in Madison Square",
     "pillar": "Strange but true history",
     "series": "Unbelievably True",
@@ -584,44 +546,6 @@
     "score": 50.5
   },
   {
-    "topic": "First Flight Photo Captured by Lifesaver",
-    "pillar": "Forgotten heroes",
-    "series": "The Detail Nobody Remembers",
-    "role": "authority",
-    "angle": "A coastal rescue worker taking history's most famous aviation photo",
-    "hook_idea": "Who actually captured the only photo of history's first flight?",
-    "viewer_benefit": "Learn the unknown story behind the iconic 1903 Kitty Hawk photograph.",
-    "scores": {
-      "audience_relevance": 4,
-      "curiosity": 4,
-      "evidence_quality": 5,
-      "visual_feasibility": 5,
-      "series_potential": 3,
-      "familiarity": 5
-    },
-    "veo_prompt": "Vertical 9:16 sepia-toned vintage camera sitting on a wooden tripod in windy sand dunes facing an early biplane gliding in the sky.",
-    "score": 49.5
-  },
-  {
-    "topic": "Butch Cassidy Tracked by Stolen Mule",
-    "pillar": "Mysteries finally solved",
-    "series": "The Detail Nobody Remembers",
-    "role": "authority",
-    "angle": "A high-profile outlaw gang brought down by a branded pack animal",
-    "hook_idea": "What tiny mistake caught Butch Cassidy after years on the run?",
-    "viewer_benefit": "See how America's most famous bank robbers were exposed by a single mule.",
-    "scores": {
-      "audience_relevance": 4,
-      "curiosity": 4,
-      "evidence_quality": 5,
-      "visual_feasibility": 5,
-      "series_potential": 3,
-      "familiarity": 5
-    },
-    "veo_prompt": "Vertical 9:16 dusty South American mountain village trail with a pack mule carrying leather saddlebags marked with military stamps.",
-    "score": 49.5
-  },
-  {
     "topic": "WWII Exploding Chocolate Plot against Churchill",
     "pillar": "Strange but true history",
     "series": "Unbelievably True",
@@ -639,25 +563,6 @@
     },
     "veo_prompt": "Vertical 9:16 close-up of a luxurious 1940s dark chocolate bar breaking open to reveal a hidden steel mechanical spring trigger inside.",
     "score": 49.0
-  },
-  {
-    "topic": "The 1919 'Wrong Turn' of Archduke Ferdinand's Driver",
-    "pillar": "Eerie true coincidences",
-    "series": "The Detail Nobody Remembers",
-    "role": "authority",
-    "angle": "How a driver's momentary confusion changed the timeline of World War I.",
-    "hook_idea": "What if the driver had taken the correct turn?",
-    "viewer_benefit": "Understanding the fragility of historical turning points.",
-    "scores": {
-      "audience_relevance": 5,
-      "curiosity": 4,
-      "evidence_quality": 5,
-      "visual_feasibility": 4,
-      "series_potential": 3,
-      "familiarity": 5
-    },
-    "veo_prompt": "Cinematic 9:16 shot. A narrow, cobblestone street in early 20th century Europe. A vintage black car is stopped at a fork in the road. The driver's side window is open, but no one is visible inside. Autumn leaves fall softly. No people. Hyper-realistic, historical texture.",
-    "score": 48.5
   },
   {
     "topic": "Project Corona Satellite Film Catch in Mid-Air",
@@ -698,25 +603,6 @@
     "score": 44.0
   },
   {
-    "topic": "The Clock that Beat the Tsar",
-    "pillar": "Strange but true history",
-    "series": "The Detail Nobody Remembers",
-    "role": "authority",
-    "angle": "Time as a weapon of revolution",
-    "hook_idea": "Why did a public clock stop right before the revolution?",
-    "viewer_benefit": "Sees how small details signal big changes",
-    "scores": {
-      "audience_relevance": 4,
-      "curiosity": 4,
-      "evidence_quality": 4,
-      "visual_feasibility": 5,
-      "series_potential": 3,
-      "familiarity": 3
-    },
-    "veo_prompt": "A large, ornate public clock tower in a European square, hands stopped at 4:00, crowds gathering below, snow falling, vertical 9:16, photorealistic, cold tones.",
-    "score": 43.5
-  },
-  {
     "topic": "The 1938 'Phantom' of the Hindenburg Passenger List",
     "pillar": "Disasters that hinged on one detail",
     "series": "",
@@ -734,43 +620,5 @@
     },
     "veo_prompt": "Cinematic 9:16 shot. A close-up of a vintage, cream-colored passenger manifest paper. A single name is circled in red ink, but the word 'ABSENT' is stamped over it in faded black ink. The paper is slightly curled. No people. High detail, archival feel.",
     "score": 41.5
-  },
-  {
-    "topic": "The 1961 Bay of Pigs invasion failure where the US planned a Cuban overthrow",
-    "pillar": "Forgotten heroes",
-    "series": "The Detail Nobody Remembers",
-    "role": "authority",
-    "angle": "The intelligence miscalculation that led to a rapid and embarrassing defeat.",
-    "hook_idea": "Why did the US fail to overthrow Cuba in just three days?",
-    "viewer_benefit": "Understanding the political and military errors of the Cold War.",
-    "scores": {
-      "audience_relevance": 3,
-      "curiosity": 3,
-      "evidence_quality": 5,
-      "visual_feasibility": 4,
-      "series_potential": 2,
-      "familiarity": 4
-    },
-    "veo_prompt": "Vertical 9:16 cinematic shot of a tropical beach at dawn, abandoned landing craft in the sand, bullet holes in a wooden shack, humid atmosphere, no people, photorealistic.",
-    "score": 40.5
-  },
-  {
-    "topic": "The 1970 USS Scorpion submarine disappearance in the Atlantic",
-    "pillar": "Mysteries finally solved",
-    "series": "The Detail Nobody Remembers",
-    "role": "authority",
-    "angle": "The 5,500-foot deep discovery that revealed the cause of the crash.",
-    "hook_idea": "What sank a nuclear submarine to the deepest ocean trench?",
-    "viewer_benefit": "Learning how modern sonar technology solved a cold case.",
-    "scores": {
-      "audience_relevance": 3,
-      "curiosity": 4,
-      "evidence_quality": 5,
-      "visual_feasibility": 3,
-      "series_potential": 3,
-      "familiarity": 3
-    },
-    "veo_prompt": "Vertical 9:16 cinematic shot of the deep ocean floor, dark water filtering down, scattered debris of a submarine hull resting on the sediment, murky greenish-black water, no people, photorealistic.",
-    "score": 39.0
   }
 ]

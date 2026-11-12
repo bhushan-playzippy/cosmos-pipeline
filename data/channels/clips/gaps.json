@@ -1,29 +1,14 @@
 {
-  "date": "2026-11-12",
+  "date": "2026-11-13",
   "videos": [
-    {
-      "folder": "docstudio_hist-pyramids",
-      "youtube_id": "r3WnnRppcGM",
-      "title": "The Tallest Building on Earth for 3,700 Years #Shorts",
-      "hook": "",
-      "hours": 2.9,
-      "views": 59,
-      "views_per_hour": 20.3,
-      "like_rate": 0.0,
-      "comment_rate": 0.0,
-      "virality": null,
-      "slot": "",
-      "role": null,
-      "diagnosis": []
-    },
     {
       "folder": "2026-11-07_040627_violet-jessop-aboard-olympic-titanic-and-britannic",
       "youtube_id": "yl5tH5r1oqU",
       "title": "Violet Jessop Survived Titanic and Britannic #Shorts",
       "hook": "",
-      "hours": 122.9,
+      "hours": 139.8,
       "views": 1421,
-      "views_per_hour": 11.6,
+      "views_per_hour": 10.2,
       "like_rate": 0.016,
       "comment_rate": 0.0007,
       "virality": null,
@@ -38,42 +23,27 @@
       "youtube_id": "Q8C39Jev7JQ",
       "title": "Anne Frank: Her Diary and Family #Shorts",
       "hook": "",
-      "hours": 98.9,
-      "views": 808,
-      "views_per_hour": 8.2,
-      "like_rate": 0.019,
+      "hours": 115.8,
+      "views": 815,
+      "views_per_hour": 7.0,
+      "like_rate": 0.018,
       "comment_rate": 0.0,
       "virality": null,
       "slot": "05:30",
       "role": null,
       "diagnosis": [
-        "like rate 1.9% (<2%): viewers didn't feel the payoff; strengthen the twist",
+        "like rate 1.8% (<2%): viewers didn't feel the payoff; strengthen the twist",
         "no comments: end on a sharper question and pin the comment in the app"
       ]
-    },
-    {
-      "folder": "docstudio_pompeii-v2-s3",
-      "youtube_id": "z1yPi7n0a78",
-      "title": "How a Roman Town Was Preserved for Centuries #Shorts",
-      "hook": "",
-      "hours": 14.4,
-      "views": 65,
-      "views_per_hour": 4.5,
-      "like_rate": 0.015,
-      "comment_rate": 0.0,
-      "virality": null,
-      "slot": "",
-      "role": null,
-      "diagnosis": []
     },
     {
       "folder": "2026-10-28_134316_joan-of-arc-jumping-from-a-70-foot-stone-tower-and",
       "youtube_id": "885yaKl2Yrg",
       "title": "Joan of Arc's 70-Foot Castle Tower Leap #Shorts",
       "hook": "",
-      "hours": 341.9,
+      "hours": 358.8,
       "views": 1397,
-      "views_per_hour": 4.1,
+      "views_per_hour": 3.9,
       "like_rate": 0.019,
       "comment_rate": 0.0014,
       "virality": null,
@@ -88,9 +58,9 @@
       "youtube_id": "6AW8Q6wmpgU",
       "title": "Why Nine Hikers Cut Their Tent Open and Fled Barefoot #Shorts",
       "hook": "",
-      "hours": 348.4,
+      "hours": 365.3,
       "views": 1253,
-      "views_per_hour": 3.6,
+      "views_per_hour": 3.4,
       "like_rate": 0.018,
       "comment_rate": 0.0008,
       "virality": null,
@@ -101,13 +71,28 @@
       ]
     },
     {
+      "folder": "docstudio_hist-colosseum",
+      "youtube_id": "7Q0u9REHRIg",
+      "title": "The Colosseum Opened 1 Year After Pompeii Was Buried #Shorts",
+      "hook": "",
+      "hours": 1.8,
+      "views": 6,
+      "views_per_hour": 3.4,
+      "like_rate": 0.0,
+      "comment_rate": 0.0,
+      "virality": null,
+      "slot": "",
+      "role": null,
+      "diagnosis": []
+    },
+    {
       "folder": "2026-10-28_134044_the-1912-titanic-band-playing-until-the-very-end-a",
       "youtube_id": "Ee8iejFI4kE",
       "title": "8 Musicians Who Played Until the End #Shorts",
       "hook": "",
-      "hours": 344.9,
+      "hours": 361.8,
       "views": 1207,
-      "views_per_hour": 3.5,
+      "views_per_hour": 3.3,
       "like_rate": 0.023,
       "comment_rate": 0.0017,
       "virality": null,
@@ -118,13 +103,28 @@
       ]
     },
     {
+      "folder": "docstudio_hist-pyramids",
+      "youtube_id": "r3WnnRppcGM",
+      "title": "The Tallest Building on Earth for 3,700 Years #Shorts",
+      "hook": "",
+      "hours": 19.8,
+      "views": 66,
+      "views_per_hour": 3.3,
+      "like_rate": 0.0,
+      "comment_rate": 0.0,
+      "virality": null,
+      "slot": "",
+      "role": null,
+      "diagnosis": []
+    },
+    {
       "folder": "2026-11-06_193437_operation-mincemeat-dressing-a-corpse-as-a-british",
       "youtube_id": "BICUrqqm3Mo",
       "title": "Operation Mincemeat: A Corpse Dressed to Fool the Nazis #Shorts",
       "hook": "",
-      "hours": 128.9,
+      "hours": 145.8,
       "views": 371,
-      "views_per_hour": 2.9,
+      "views_per_hour": 2.5,
       "like_rate": 0.013,
       "comment_rate": 0.0027,
       "virality": null,
@@ -139,9 +139,9 @@
       "youtube_id": "XDSwLmU1glM",
       "title": "He Demanded His Own Ransom Be Higher #Shorts",
       "hook": "",
-      "hours": 351.4,
+      "hours": 368.3,
       "views": 902,
-      "views_per_hour": 2.6,
+      "views_per_hour": 2.4,
       "like_rate": 0.034,
       "comment_rate": 0.0011,
       "virality": null,
@@ -152,30 +152,13 @@
       ]
     },
     {
-      "folder": "2026-11-07_044529_krakatoa-eruption-and-aftermath-in-1883",
-      "youtube_id": "PYn6FRy4rjg",
-      "title": "Krakatoa 1883: Eruption and Aftermath #Shorts",
-      "hook": "",
-      "hours": 104.9,
-      "views": 252,
-      "views_per_hour": 2.4,
-      "like_rate": 0.012,
-      "comment_rate": 0.0,
-      "virality": null,
-      "slot": "23:30",
-      "role": null,
-      "diagnosis": [
-        "like rate 1.2% (<2%): viewers didn't feel the payoff; strengthen the twist"
-      ]
-    },
-    {
       "folder": "2026-10-26_214220_the-titanics-fourth-funnel-being-purely-decorative",
       "youtube_id": "s1Y1kFBMnaU",
       "title": "Titanic's 4th Funnel Was a Dummy #Shorts",
       "hook": "",
-      "hours": 358.4,
+      "hours": 375.3,
       "views": 821,
-      "views_per_hour": 2.3,
+      "views_per_hour": 2.2,
       "like_rate": 0.023,
       "comment_rate": 0.0012,
       "virality": null,
@@ -186,20 +169,37 @@
       ]
     },
     {
-      "folder": "docstudio_pompeii-v2-s2",
-      "youtube_id": "BLvs07WgWsQ",
-      "title": "The Truth About Pompeii's Plaster Casts #Shorts",
+      "folder": "2026-11-07_044529_krakatoa-eruption-and-aftermath-in-1883",
+      "youtube_id": "PYn6FRy4rjg",
+      "title": "Krakatoa 1883: Eruption and Aftermath #Shorts",
       "hook": "",
-      "hours": 38.4,
+      "hours": 121.8,
+      "views": 252,
+      "views_per_hour": 2.1,
+      "like_rate": 0.012,
+      "comment_rate": 0.0,
+      "virality": null,
+      "slot": "23:30",
+      "role": null,
+      "diagnosis": [
+        "like rate 1.2% (<2%): viewers didn't feel the payoff; strengthen the twist"
+      ]
+    },
+    {
+      "folder": "docstudio_pompeii-v2-s3",
+      "youtube_id": "z1yPi7n0a78",
+      "title": "How a Roman Town Was Preserved for Centuries #Shorts",
+      "hook": "",
+      "hours": 31.3,
       "views": 67,
-      "views_per_hour": 1.7,
+      "views_per_hour": 2.1,
       "like_rate": 0.015,
       "comment_rate": 0.0,
       "virality": null,
       "slot": "",
       "role": null,
       "diagnosis": [
-        "under 100 views after 38h: the feed stopped testing it, so people swiped in the first seconds. Hook was 0 words: \"\""
+        "under 100 views after 31h: the feed stopped testing it, so people swiped in the first seconds. Hook was 0 words: \"\""
       ]
     },
     {
@@ -207,7 +207,7 @@
       "youtube_id": "XcLc_3bXFRY",
       "title": "Mauled by a bear, left for dead, crawled 200 miles #Shorts",
       "hook": "",
-      "hours": 396.4,
+      "hours": 413.3,
       "views": 652,
       "views_per_hour": 1.6,
       "like_rate": 0.035,
@@ -220,13 +220,28 @@
       ]
     },
     {
+      "folder": "docstudio_hist-tajmahal",
+      "youtube_id": "gUxD2HE42B4",
+      "title": "20,000 Workers Built This Monument to Love #Shorts",
+      "hook": "",
+      "hours": 5.3,
+      "views": 8,
+      "views_per_hour": 1.5,
+      "like_rate": 0.0,
+      "comment_rate": 0.0,
+      "virality": null,
+      "slot": "",
+      "role": null,
+      "diagnosis": []
+    },
+    {
       "folder": "2026-10-28_141716_the-1961-goldsboro-b-52-crash-where-a-nuclear-bomb",
       "youtube_id": "2NjLiFSwb80",
       "title": "1 Switch Saved NC From a Nuclear Bomb #Shorts",
       "hook": "",
-      "hours": 314.9,
+      "hours": 331.8,
       "views": 469,
-      "views_per_hour": 1.5,
+      "views_per_hour": 1.4,
       "like_rate": 0.023,
       "comment_rate": 0.0021,
       "virality": null,
@@ -237,30 +252,13 @@
       ]
     },
     {
-      "folder": "2026-11-08_011742_the-mary-celeste-was-found-adrift-and-deserted",
-      "youtube_id": "RnOQDSjN9z0",
-      "title": "The Ship Found Sailing Without Its Crew #Shorts",
-      "hook": "",
-      "hours": 50.9,
-      "views": 77,
-      "views_per_hour": 1.5,
-      "like_rate": 0.0,
-      "comment_rate": 0.0,
-      "virality": null,
-      "slot": "05:30",
-      "role": null,
-      "diagnosis": [
-        "under 100 views after 51h: the feed stopped testing it, so people swiped in the first seconds. Hook was 0 words: \"\""
-      ]
-    },
-    {
       "folder": "2026-11-06_000708_phineas-gage-survived-an-iron-rod-driven-through-h",
       "youtube_id": "kh9Fajw9Hc0",
       "title": "Phineas Gage: An Iron Rod Went Through His Skull #Shorts",
       "hook": "",
-      "hours": 146.9,
+      "hours": 163.8,
       "views": 207,
-      "views_per_hour": 1.4,
+      "views_per_hour": 1.3,
       "like_rate": 0.0,
       "comment_rate": 0.0048,
       "virality": null,
@@ -272,13 +270,47 @@
       ]
     },
     {
+      "folder": "docstudio_pompeii-v2-s2",
+      "youtube_id": "BLvs07WgWsQ",
+      "title": "The Truth About Pompeii's Plaster Casts #Shorts",
+      "hook": "",
+      "hours": 55.3,
+      "views": 68,
+      "views_per_hour": 1.2,
+      "like_rate": 0.015,
+      "comment_rate": 0.0,
+      "virality": null,
+      "slot": "",
+      "role": null,
+      "diagnosis": [
+        "under 100 views after 55h: the feed stopped testing it, so people swiped in the first seconds. Hook was 0 words: \"\""
+      ]
+    },
+    {
+      "folder": "2026-11-08_011742_the-mary-celeste-was-found-adrift-and-deserted",
+      "youtube_id": "RnOQDSjN9z0",
+      "title": "The Ship Found Sailing Without Its Crew #Shorts",
+      "hook": "",
+      "hours": 67.8,
+      "views": 77,
+      "views_per_hour": 1.1,
+      "like_rate": 0.0,
+      "comment_rate": 0.0,
+      "virality": null,
+      "slot": "05:30",
+      "role": null,
+      "diagnosis": [
+        "under 100 views after 68h: the feed stopped testing it, so people swiped in the first seconds. Hook was 0 words: \"\""
+      ]
+    },
+    {
       "folder": "2026-10-26_134301_nancy-wake-the-gestapos-most-wanted-spy-who-killed",
       "youtube_id": "TWpuIrjwGBM",
       "title": "The Gestapo Put 5 Million Francs On Her Head #Shorts",
       "hook": "",
-      "hours": 378.9,
+      "hours": 395.8,
       "views": 410,
-      "views_per_hour": 1.1,
+      "views_per_hour": 1.0,
       "like_rate": 0.037,
       "comment_rate": 0.0024,
       "virality": null,
@@ -293,50 +325,16 @@
       "youtube_id": "FEdEDarb7kA",
       "title": "Marie Curie: Physics and Chemistry #Shorts",
       "hook": "",
-      "hours": 80.9,
+      "hours": 97.8,
       "views": 88,
-      "views_per_hour": 1.1,
+      "views_per_hour": 0.9,
       "like_rate": 0.08,
       "comment_rate": 0.0,
       "virality": null,
       "slot": "23:30",
       "role": null,
       "diagnosis": [
-        "under 100 views after 81h: the feed stopped testing it, so people swiped in the first seconds. Hook was 0 words: \"\""
-      ]
-    },
-    {
-      "folder": "2026-11-07_080125_wright-brothers-gliders-and-first-powered-flight",
-      "youtube_id": "cQXuPWlHK5c",
-      "title": "Wright Brothers: Gliders to Powered Flight #Shorts",
-      "hook": "",
-      "hours": 56.9,
-      "views": 56,
-      "views_per_hour": 1.0,
-      "like_rate": 0.054,
-      "comment_rate": 0.0,
-      "virality": null,
-      "slot": "23:30",
-      "role": null,
-      "diagnosis": [
-        "under 100 views after 57h: the feed stopped testing it, so people swiped in the first seconds. Hook was 0 words: \"\""
-      ]
-    },
-    {
-      "folder": "2026-11-08_013548_the-great-molasses-flood-in-boston",
-      "youtube_id": "_mWIPUQnKsE",
-      "title": "Boston's 1919 Molasses Flood #Shorts",
-      "hook": "",
-      "hours": 32.9,
-      "views": 32,
-      "views_per_hour": 1.0,
-      "like_rate": 0.0,
-      "comment_rate": 0.0,
-      "virality": null,
-      "slot": "23:30",
-      "role": null,
-      "diagnosis": [
-        "under 100 views after 33h: the feed stopped testing it, so people swiped in the first seconds. Hook was 0 words: \"\""
+        "under 100 views after 98h: the feed stopped testing it, so people swiped in the first seconds. Hook was 0 words: \"\""
       ]
     },
     {
@@ -344,9 +342,9 @@
       "youtube_id": "YQAIkWBr3tQ",
       "title": "The Bear Who Was Enlisted in WWII #Shorts",
       "hook": "",
-      "hours": 399.4,
+      "hours": 416.3,
       "views": 351,
-      "views_per_hour": 0.9,
+      "views_per_hour": 0.8,
       "like_rate": 0.051,
       "comment_rate": 0.0028,
       "virality": null,
@@ -357,37 +355,37 @@
       ]
     },
     {
-      "folder": "2026-11-08_013942_the-tunguska-explosion-left-no-impact-crater",
-      "youtube_id": "3z-gxcboO3A",
-      "title": "The Explosion That Left No Crater #Shorts",
+      "folder": "2026-11-07_080125_wright-brothers-gliders-and-first-powered-flight",
+      "youtube_id": "cQXuPWlHK5c",
+      "title": "Wright Brothers: Gliders to Powered Flight #Shorts",
       "hook": "",
-      "hours": 26.9,
-      "views": 21,
+      "hours": 73.8,
+      "views": 56,
       "views_per_hour": 0.8,
-      "like_rate": 0.0,
+      "like_rate": 0.054,
       "comment_rate": 0.0,
       "virality": null,
-      "slot": "05:30",
+      "slot": "23:30",
       "role": null,
       "diagnosis": [
-        "under 100 views after 27h: the feed stopped testing it, so people swiped in the first seconds. Hook was 0 words: \"\""
+        "under 100 views after 74h: the feed stopped testing it, so people swiped in the first seconds. Hook was 0 words: \"\""
       ]
     },
     {
-      "folder": "2026-11-08_024638_the-1900-galveston-hurricane-and-the-citys-recover",
-      "youtube_id": "OU1Klv8onLc",
-      "title": "The Hurricane That Changed Galveston Forever #Shorts",
+      "folder": "2026-11-08_013548_the-great-molasses-flood-in-boston",
+      "youtube_id": "_mWIPUQnKsE",
+      "title": "Boston's 1919 Molasses Flood #Shorts",
       "hook": "",
-      "hours": 8.9,
-      "views": 7,
-      "views_per_hour": 0.8,
+      "hours": 49.8,
+      "views": 33,
+      "views_per_hour": 0.7,
       "like_rate": 0.0,
       "comment_rate": 0.0,
       "virality": null,
       "slot": "23:30",
       "role": null,
       "diagnosis": [
-        "slow start: test a sharper first line and a more concrete title on the next video like this"
+        "under 100 views after 50h: the feed stopped testing it, so people swiped in the first seconds. Hook was 0 words: \"\""
       ]
     },
     {
@@ -395,9 +393,9 @@
       "youtube_id": "EGuMvmlTbYM",
       "title": "The Wrong Turn That Cost 20 Million Lives #Shorts",
       "hook": "",
-      "hours": 382.4,
+      "hours": 399.3,
       "views": 257,
-      "views_per_hour": 0.7,
+      "views_per_hour": 0.6,
       "like_rate": 0.016,
       "comment_rate": 0.0039,
       "virality": null,
@@ -413,7 +411,7 @@
       "youtube_id": "xIQOL365V30",
       "title": "1,000 miles, zero planes: The real Balto story #Shorts",
       "hook": "",
-      "hours": 375.4,
+      "hours": 392.3,
       "views": 220,
       "views_per_hour": 0.6,
       "like_rate": 0.032,
@@ -426,28 +424,11 @@
       ]
     },
     {
-      "folder": "docstudio_pompeii-v2-s1",
-      "youtube_id": "EPpjzpmKYGI",
-      "title": "What Really Destroyed Pompeii? (Not Lava) #Shorts",
-      "hook": "",
-      "hours": 62.4,
-      "views": 38,
-      "views_per_hour": 0.6,
-      "like_rate": 0.026,
-      "comment_rate": 0.0,
-      "virality": null,
-      "slot": "",
-      "role": null,
-      "diagnosis": [
-        "under 100 views after 62h: the feed stopped testing it, so people swiped in the first seconds. Hook was 0 words: \"\""
-      ]
-    },
-    {
       "folder": "2026-10-27_215451_the-1919-boston-molasses-flood-where-a-15-foot-wav",
       "youtube_id": "LHq6WZBD3YE",
       "title": "When a 15-Foot Wave of Molasses Rushed Boston #Shorts",
       "hook": "",
-      "hours": 354.9,
+      "hours": 371.8,
       "views": 170,
       "views_per_hour": 0.5,
       "like_rate": 0.029,
@@ -460,20 +441,71 @@
       ]
     },
     {
+      "folder": "2026-11-08_013942_the-tunguska-explosion-left-no-impact-crater",
+      "youtube_id": "3z-gxcboO3A",
+      "title": "The Explosion That Left No Crater #Shorts",
+      "hook": "",
+      "hours": 43.8,
+      "views": 23,
+      "views_per_hour": 0.5,
+      "like_rate": 0.0,
+      "comment_rate": 0.0,
+      "virality": null,
+      "slot": "05:30",
+      "role": null,
+      "diagnosis": [
+        "under 100 views after 44h: the feed stopped testing it, so people swiped in the first seconds. Hook was 0 words: \"\""
+      ]
+    },
+    {
+      "folder": "2026-11-08_024638_the-1900-galveston-hurricane-and-the-citys-recover",
+      "youtube_id": "OU1Klv8onLc",
+      "title": "The Hurricane That Changed Galveston Forever #Shorts",
+      "hook": "",
+      "hours": 25.8,
+      "views": 14,
+      "views_per_hour": 0.5,
+      "like_rate": 0.0,
+      "comment_rate": 0.0,
+      "virality": null,
+      "slot": "23:30",
+      "role": null,
+      "diagnosis": [
+        "under 100 views after 26h: the feed stopped testing it, so people swiped in the first seconds. Hook was 0 words: \"\""
+      ]
+    },
+    {
+      "folder": "docstudio_pompeii-v2-s1",
+      "youtube_id": "EPpjzpmKYGI",
+      "title": "What Really Destroyed Pompeii? (Not Lava) #Shorts",
+      "hook": "",
+      "hours": 79.3,
+      "views": 39,
+      "views_per_hour": 0.5,
+      "like_rate": 0.026,
+      "comment_rate": 0.0,
+      "virality": null,
+      "slot": "",
+      "role": null,
+      "diagnosis": [
+        "under 100 views after 79h: the feed stopped testing it, so people swiped in the first seconds. Hook was 0 words: \"\""
+      ]
+    },
+    {
       "folder": "2026-11-07_071006_eiffel-tower-construction-and-early-years",
       "youtube_id": "19dtuEVXf44",
       "title": "Eiffel Tower: Construction and Early Years #Shorts",
       "hook": "",
-      "hours": 74.9,
+      "hours": 91.8,
       "views": 39,
-      "views_per_hour": 0.5,
+      "views_per_hour": 0.4,
       "like_rate": 0.231,
       "comment_rate": 0.0,
       "virality": null,
       "slot": "05:30",
       "role": null,
       "diagnosis": [
-        "under 100 views after 75h: the feed stopped testing it, so people swiped in the first seconds. Hook was 0 words: \"\""
+        "under 100 views after 92h: the feed stopped testing it, so people swiped in the first seconds. Hook was 0 words: \"\""
       ]
     },
     {
@@ -481,7 +513,7 @@
       "youtube_id": "cFCTBgMK82c",
       "title": "One Man Stopped World War 3 in 1983 #Shorts",
       "hook": "",
-      "hours": 338.9,
+      "hours": 355.8,
       "views": 117,
       "views_per_hour": 0.3,
       "like_rate": 0.009,
@@ -498,16 +530,16 @@
       "youtube_id": "xzoRQaBUuz0",
       "title": "Pompeii: The City That Disappeared Beneath a Volcano | True Story",
       "hook": "",
-      "hours": 82.9,
+      "hours": 99.8,
       "views": 13,
-      "views_per_hour": 0.2,
+      "views_per_hour": 0.1,
       "like_rate": 0.077,
       "comment_rate": 0.0,
       "virality": null,
       "slot": "",
       "role": null,
       "diagnosis": [
-        "under 100 views after 83h: the feed stopped testing it, so people swiped in the first seconds. Hook was 0 words: \"\""
+        "under 100 views after 100h: the feed stopped testing it, so people swiped in the first seconds. Hook was 0 words: \"\""
       ]
     },
     {
@@ -515,7 +547,7 @@
       "youtube_id": "b0h_HvjuQuo",
       "title": "They watched the fire, not knowing what was coming #Shorts",
       "hook": "",
-      "hours": 372.4,
+      "hours": 389.3,
       "views": 2,
       "views_per_hour": 0.0,
       "like_rate": 0.0,
@@ -524,7 +556,7 @@
       "slot": "20:00",
       "role": "discovery",
       "diagnosis": [
-        "under 100 views after 372h: the feed stopped testing it, so people swiped in the first seconds. Hook was 0 words: \"\""
+        "under 100 views after 389h: the feed stopped testing it, so people swiped in the first seconds. Hook was 0 words: \"\""
       ]
     },
     {
@@ -532,7 +564,7 @@
       "youtube_id": "Tg6uuFh8REk",
       "title": "He Won the 1904 Olympic Marathon in a Car #Shorts",
       "hook": "",
-      "hours": 335.9,
+      "hours": 352.8,
       "views": 1,
       "views_per_hour": 0.0,
       "like_rate": 0.0,
@@ -541,7 +573,7 @@
       "slot": "08:30",
       "role": "retention",
       "diagnosis": [
-        "under 100 views after 336h: the feed stopped testing it, so people swiped in the first seconds. Hook was 0 words: \"\""
+        "under 100 views after 353h: the feed stopped testing it, so people swiped in the first seconds. Hook was 0 words: \"\""
       ]
     }
   ],
@@ -554,7 +586,7 @@
     {
       "title": "Anne Frank: Her Diary and Family #Shorts",
       "hook": "",
-      "views": 808
+      "views": 815
     },
     {
       "title": "Joan of Arc's 70-Foot Castle Tower Leap #Shorts",
