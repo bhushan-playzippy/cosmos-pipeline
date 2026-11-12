@@ -10203,5 +10203,104 @@
     "instagram_id": null,
     "stage_failed": "verify",
     "reason": "ValueError: independent check still failing after repair: On May 2, 1945 (no document evidence (4 unresolved claims; at most 3 per video): support it, sof)"
+  },
+  {
+    "folder": "campaign_CLIPS_SHORT_2026_11_22_01",
+    "topic": "This Town Had No Streets. People Walked on the Roofs. #Shorts",
+    "status": "scheduled",
+    "stage": "upload",
+    "role": null,
+    "slot": "2026-11-22T05:30:00+05:30",
+    "created": "2026-11-12T17:12:13+05:30",
+    "reason": "campaign 2026-11-15..12-15",
+    "youtube_id": "li2i5tIj8EA"
+  },
+  {
+    "folder": "campaign_CLIPS_SHORT_2026_11_22_02",
+    "topic": "Someone Built This Tower Before the Wheel Existed #Shorts",
+    "status": "scheduled",
+    "stage": "upload",
+    "role": null,
+    "slot": "2026-11-22T20:00:00+05:30",
+    "created": "2026-11-12T17:12:19+05:30",
+    "reason": "campaign 2026-11-15..12-15",
+    "youtube_id": "mKolSf21dr0"
+  },
+  {
+    "folder": "campaign_CLIPS_SHORT_2026_11_22_03",
+    "topic": "The Flood Story Older Than Noah's #Shorts",
+    "status": "scheduled",
+    "stage": "upload",
+    "role": null,
+    "slot": "2026-11-22T23:30:00+05:30",
+    "created": "2026-11-12T17:12:26+05:30",
+    "reason": "campaign 2026-11-15..12-15",
+    "youtube_id": "KiSg_56w7R0"
+  },
+  {
+    "folder": "campaign_CLIPS_SHORT_2026_11_23_01",
+    "topic": "The Oldest Map of the World Fits in Your Palm #Shorts",
+    "status": "scheduled",
+    "stage": "upload",
+    "role": null,
+    "slot": "2026-11-23T05:30:00+05:30",
+    "created": "2026-11-12T17:12:33+05:30",
+    "reason": "campaign 2026-11-15..12-15",
+    "youtube_id": "WhOCtKdDOcQ"
+  },
+  {
+    "folder": "campaign_CLIPS_SHORT_2026_11_23_02",
+    "topic": "Nobody Knows What This 20,000-Year-Old Bone Was For #Shorts",
+    "status": "scheduled",
+    "stage": "upload",
+    "role": null,
+    "slot": "2026-11-23T20:00:00+05:30",
+    "created": "2026-11-12T17:12:38+05:30",
+    "reason": "campaign 2026-11-15..12-15",
+    "youtube_id": "69RBXWrlahk"
+  },
+  {
+    "folder": "campaign_CLIPS_SHORT_2026_11_23_03",
+    "topic": "Four Teenagers Crawled Into a Hole and Found This #Shorts",
+    "status": "scheduled",
+    "stage": "upload",
+    "role": null,
+    "slot": "2026-11-23T23:30:00+05:30",
+    "created": "2026-11-12T17:12:44+05:30",
+    "reason": "campaign 2026-11-15..12-15",
+    "youtube_id": "LWy-ZrMqW_g"
+  },
+  {
+    "folder": "campaign_CLIPS_SHORT_2026_11_24_01",
+    "topic": "Shackleton's Famous Job Ad Probably Never Existed #Shorts",
+    "status": "scheduled",
+    "stage": "upload",
+    "role": null,
+    "slot": "2026-11-24T05:30:00+05:30",
+    "created": "2026-11-12T23:08:51+05:30",
+    "reason": "campaign 2026-11-15..12-15",
+    "youtube_id": "ZdzoGVvbJ-4"
+  },
+  {
+    "folder": "campaign_CLIPS_SHORT_2026_11_24_02",
+    "topic": "129 Men Sailed Into the Arctic. None Came Home. #Shorts",
+    "status": "scheduled",
+    "stage": "upload",
+    "role": null,
+    "slot": "2026-11-24T20:00:00+05:30",
+    "created": "2026-11-12T23:08:57+05:30",
+    "reason": "campaign 2026-11-15..12-15",
+    "youtube_id": "FJZam56Hlfc"
+  },
+  {
+    "folder": "campaign_CLIPS_SHORT_2026_11_24_03",
+    "topic": "He Reached the South Pole and Found a Tent Already There #Shorts",
+    "status": "scheduled",
+    "stage": "upload",
+    "role": null,
+    "slot": "2026-11-24T23:30:00+05:30",
+    "created": "2026-11-12T23:09:03+05:30",
+    "reason": "campaign 2026-11-15..12-15",
+    "youtube_id": "k7LycrxCGWE"
   }
 ]

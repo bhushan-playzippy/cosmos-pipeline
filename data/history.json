@@ -7095,5 +7095,104 @@
     "instagram_id": null,
     "stage_failed": "verify",
     "reason": "ValueError: independent check still failing after repair: 15.5 orbits per day equals about 31 day-night cycles (wrong); ISS sleep cycles are bathed in relentless sunrises (misleading); 6 in: About five to six sunrises occur during a single 8.5‑h (number not checked (no ledger entry states it))"
+  },
+  {
+    "folder": "campaign_COSMIC_SHORT_2026_11_22_02",
+    "topic": "They Blamed Pigeons for the Big Bang's Echo #Shorts",
+    "status": "scheduled",
+    "stage": "upload",
+    "role": null,
+    "slot": "2026-11-22T20:00:00+05:30",
+    "created": "2026-11-12T17:11:25+05:30",
+    "reason": "campaign 2026-11-15..12-15",
+    "youtube_id": "gOW8beyU9O8"
+  },
+  {
+    "folder": "campaign_COSMIC_SHORT_2026_11_23_01",
+    "topic": "Andromeda Is Bigger in Our Sky Than the Moon #Shorts",
+    "status": "scheduled",
+    "stage": "upload",
+    "role": null,
+    "slot": "2026-11-23T18:00:00+05:30",
+    "created": "2026-11-12T17:11:31+05:30",
+    "reason": "campaign 2026-11-15..12-15",
+    "youtube_id": "kleAGtb2ueU"
+  },
+  {
+    "folder": "campaign_COSMIC_SHORT_2026_11_23_02",
+    "topic": "When Galaxies Collide, Stars Almost Never Hit #Shorts",
+    "status": "scheduled",
+    "stage": "upload",
+    "role": null,
+    "slot": "2026-11-23T20:00:00+05:30",
+    "created": "2026-11-12T17:11:38+05:30",
+    "reason": "campaign 2026-11-15..12-15",
+    "youtube_id": "MJ2DU_SXghE"
+  },
+  {
+    "folder": "campaign_COSMIC_SHORT_2026_11_23_03",
+    "topic": "The Big Bang Didn't Happen in One Place #Shorts",
+    "status": "scheduled",
+    "stage": "upload",
+    "role": null,
+    "slot": "2026-11-23T23:30:00+05:30",
+    "created": "2026-11-12T17:11:45+05:30",
+    "reason": "campaign 2026-11-15..12-15",
+    "youtube_id": "vuo7aJoqB1c"
+  },
+  {
+    "folder": "campaign_COSMIC_SHORT_2026_11_24_01",
+    "topic": "13.8 Billion Years Old, 93 Billion Light-Years Wide. How? #Shorts",
+    "status": "scheduled",
+    "stage": "upload",
+    "role": null,
+    "slot": "2026-11-24T18:00:00+05:30",
+    "created": "2026-11-12T17:11:51+05:30",
+    "reason": "campaign 2026-11-15..12-15",
+    "youtube_id": "BxQWHZ4oi-o"
+  },
+  {
+    "folder": "campaign_COSMIC_SHORT_2026_11_24_02",
+    "topic": "Everything You've Ever Seen Is Only 5% of the Universe #Shorts",
+    "status": "scheduled",
+    "stage": "upload",
+    "role": null,
+    "slot": "2026-11-24T20:00:00+05:30",
+    "created": "2026-11-12T17:11:58+05:30",
+    "reason": "campaign 2026-11-15..12-15",
+    "youtube_id": "Ivp_rLskCoQ"
+  },
+  {
+    "folder": "campaign_COSMIC_SHORT_2026_11_24_03",
+    "topic": "Nobody Has Confirmed Seeing the Universe's First Stars #Shorts",
+    "status": "scheduled",
+    "stage": "upload",
+    "role": null,
+    "slot": "2026-11-24T23:30:00+05:30",
+    "created": "2026-11-12T17:12:06+05:30",
+    "reason": "campaign 2026-11-15..12-15",
+    "youtube_id": "dslIAljcz8M"
+  },
+  {
+    "folder": "campaign_COSMIC_SHORT_2026_11_22_01",
+    "topic": "Old TV Static Is Partly the Afterglow of the Big Bang #Shorts",
+    "status": "scheduled",
+    "stage": "upload",
+    "role": null,
+    "slot": "2026-11-22T18:00:00+05:30",
+    "created": "2026-11-12T23:08:36+05:30",
+    "reason": "campaign 2026-11-15..12-15",
+    "youtube_id": "y-da5B9ZbiQ"
+  },
+  {
+    "folder": "campaign_COSMIC_SHORT_2026_11_22_03",
+    "topic": "A Whole Galaxy Is Heading Toward Us at 110 km a Second #Shorts",
+    "status": "scheduled",
+    "stage": "upload",
+    "role": null,
+    "slot": "2026-11-22T23:30:00+05:30",
+    "created": "2026-11-12T23:08:44+05:30",
+    "reason": "campaign 2026-11-15..12-15",
+    "youtube_id": "PfPK2-Pv4os"
   }
 ]
