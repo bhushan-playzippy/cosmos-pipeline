@@ -4733,7 +4733,7 @@
       "gates": "2026-11-08T04:05:19+05:30",
       "upload_started": "2026-11-08T04:08:42+05:30",
       "upload": "2026-11-08T04:08:48+05:30",
-      "published": "2026-11-12T00:59:27+05:30"
+      "published": "2026-11-12T03:58:06+05:30"
     },
     "youtube_id": "CLqDnT026js",
     "instagram_id": null,
@@ -6890,150 +6890,10 @@
     "youtube_id": null,
     "instagram_id": null,
     "stage_failed": "verify",
-    "reason": "ValueError: independent check still failing after repair: The Titan IV could lift about half the payload of the Mack h (low confidence); Imagine flapping your arms and soaring on a world where the  (description states more than the narration: 150)"
+    "reason": "ValueError: independent check still failing after repair: Jupiter is 2.5 times the mass of every other planet combined (instagram states more than the narration: first)"
   },
   {
-    "folder": "2026-11-12_005928_chandrayaan-3-made-india-the-first-country-to-land",
-    "topic": "Chandrayaan-3 made India the first country to land near the Moon's south pole on 23 August 2023",
-    "status": "failed",
-    "stage": "script",
-    "role": "authority",
-    "slot": "2026-11-12T23:30:00+05:30",
-    "pillar": "ISRO & India in space",
-    "selection": {
-      "role": "authority",
-      "base_score": 50.0,
-      "multiplier": 1.0,
-      "parts": {
-        "pillar_role": 1.0
-      },
-      "final": 50.0,
-      "runner_up": [
-        {
-          "topic": "Voyager 1 is the most distant human-made object and has ente",
-          "final": 50.0
-        },
-        {
-          "topic": "Aditya-L1, India's first space-based solar observatory, watc",
-          "final": 50.0
-        }
-      ]
-    },
-    "visual_precheck": null,
-    "created": "2026-11-12T00:59:28+05:30",
-    "stages": {},
-    "youtube_id": null,
-    "instagram_id": null,
-    "stage_failed": "verify",
-    "reason": "ValueError: independent check still failing after repair: 19 mi in: Four engines fired as the Vikram lander began its  (number not checked (no ledger entry states it)); 490 ft in: The rover drove about 490 feet, about 150 meters, (number not checked (no ledger entry states it)); 150 m in: The rover "
-  },
-  {
-    "folder": "2026-11-12_011837_voyager-1-is-the-most-distant-human-made-object-an",
-    "topic": "Voyager 1 is the most distant human-made object and has entered interstellar space",
-    "status": "failed",
-    "stage": "script",
-    "role": "authority",
-    "slot": "2026-11-12T23:30:00+05:30",
-    "pillar": "Missions in danger (Apollo, ISS, Voyager, Artemis)",
-    "selection": {
-      "role": "authority",
-      "base_score": 50.0,
-      "multiplier": 1.0,
-      "parts": {
-        "pillar_role": 1.0
-      },
-      "final": 50.0,
-      "runner_up": [
-        {
-          "topic": "Aditya-L1, India's first space-based solar observatory, watc",
-          "final": 50.0
-        },
-        {
-          "topic": "Io's 300-Mile Lava Fountains",
-          "final": 39.5
-        }
-      ]
-    },
-    "visual_precheck": null,
-    "created": "2026-11-12T01:18:37+05:30",
-    "stages": {},
-    "youtube_id": null,
-    "instagram_id": null,
-    "stage_failed": "verify",
-    "reason": "ValueError: independent check still failing after repair: Voyager 1 is now roughly 25 billion kilometers from Earth (contradicted by https://en.wikipedia.org/wiki/Voyager_1: \"On February 17, 1998, ); Voyager 1 is the farthest human-made object and is still get (superlative with no document stating i"
-  },
-  {
-    "folder": "2026-11-12_014007_aditya-l1-indias-first-space-based-solar-observato",
-    "topic": "Aditya-L1, India's first space-based solar observatory, watches the Sun from the L1 point 1.5 million km from Earth",
-    "status": "failed",
-    "stage": "script",
-    "role": "authority",
-    "slot": "2026-11-12T23:30:00+05:30",
-    "pillar": "ISRO & India in space",
-    "selection": {
-      "role": "authority",
-      "base_score": 50.0,
-      "multiplier": 1.0,
-      "parts": {
-        "pillar_role": 1.0
-      },
-      "final": 50.0,
-      "runner_up": [
-        {
-          "topic": "Io's 300-Mile Lava Fountains",
-          "final": 39.5
-        },
-        {
-          "topic": "Saturn Orbit Inside a Star",
-          "final": 39.5
-        }
-      ]
-    },
-    "visual_precheck": null,
-    "created": "2026-11-12T01:40:07+05:30",
-    "stages": {},
-    "youtube_id": null,
-    "instagram_id": null,
-    "stage_failed": "verify",
-    "reason": "ValueError: independent check still failing after repair: Sun 1391000 km (sources disagree (1.3927e+06, 1, 3, 9, 2, 7, 0, 0 km) but the narration states 1); 6 in: While originally numbering six to eight, their number  (number not checked (no ledger entry states it)); 8 in: While originally numbering"
-  },
-  {
-    "folder": "2026-11-12_024047_ios-300-mile-lava-fountains",
-    "topic": "Io's 300-Mile Lava Fountains",
-    "status": "failed",
-    "stage": "script",
-    "role": "authority",
-    "slot": "2026-11-12T23:30:00+05:30",
-    "pillar": "Planets & moons",
-    "selection": {
-      "role": "authority",
-      "base_score": 39.5,
-      "multiplier": 1.0,
-      "parts": {
-        "pillar_role": 1.0
-      },
-      "final": 39.5,
-      "runner_up": [
-        {
-          "topic": "Saturn Orbit Inside a Star",
-          "final": 39.5
-        },
-        {
-          "topic": "Gamma Ray Burst Energy",
-          "final": 38.0
-        }
-      ]
-    },
-    "visual_precheck": null,
-    "created": "2026-11-12T02:40:47+05:30",
-    "stages": {},
-    "youtube_id": null,
-    "instagram_id": null,
-    "stage_failed": "verify",
-    "reason": "ValueError: independent check still failing after repair: Plumes reach about 186 miles (narrated 186 vs independent 300 km); Plumes reach higher than the Space Station (wrong); Plumes blast sulfur gas and dust roughly 186 miles up (narrated 186 vs independent 300 km)"
-  },
-  {
-    "folder": "2026-11-12_030505_saturn-orbit-inside-a-star",
+    "folder": "2026-11-12_035808_saturn-orbit-inside-a-star",
     "topic": "Saturn Orbit Inside a Star",
     "status": "failed",
     "stage": "script",
@@ -7060,15 +6920,15 @@
       ]
     },
     "visual_precheck": null,
-    "created": "2026-11-12T03:05:05+05:30",
+    "created": "2026-11-12T03:58:08+05:30",
     "stages": {},
     "youtube_id": null,
     "instagram_id": null,
     "stage_failed": "verify",
-    "reason": "ValueError: independent check still failing after repair: Saturn radiates about 2.5 times more energy than it gets fro (disputed); Saturn's core is estimated near 21,100 °F (narrated 21,100 vs independent 11,700 °F); Saturn radiates about 2.5 times more energy into space than  (disputed)"
+    "reason": "ValueError: independent check still failing after repair: Saturn orbits over 890 million miles away from the Sun (wrong); Saturn orbits the Sun at an average distance of about 1.4 bi (wrong); Saturn orbits the Sun at an average distance of over 890 mil (wrong)"
   },
   {
-    "folder": "2026-11-12_031629_gamma-ray-burst-energy",
+    "folder": "2026-11-12_041826_gamma-ray-burst-energy",
     "topic": "Gamma Ray Burst Energy",
     "status": "failed",
     "stage": "script",
@@ -7095,17 +6955,17 @@
       ]
     },
     "visual_precheck": null,
-    "created": "2026-11-12T03:16:29+05:30",
+    "created": "2026-11-12T04:18:26+05:30",
     "stages": {},
     "youtube_id": null,
     "instagram_id": null,
     "stage_failed": "verify",
-    "reason": "ValueError: independent check still failing after repair: A gamma-ray burst can briefly outshine its entire home galax (superlative with no document stating it; a model's word isn't enough); GRB 080319B's energy was within a factor of two of the Sun's (narrated 2 vs independent 1.4 factor); Gamma-ra"
+    "reason": "ValueError: independent check still failing after repair: That single flash marks the death of a massive star. (misleading)"
   },
   {
-    "folder": "2026-11-12_033124_supernova-1054-daylight",
+    "folder": "2026-11-12_044700_supernova-1054-daylight",
     "topic": "Supernova 1054 Daylight",
-    "status": "failed",
+    "status": "quarantined",
     "stage": "script",
     "role": "authority",
     "slot": "2026-11-12T23:30:00+05:30",
@@ -7130,15 +6990,21 @@
       ]
     },
     "visual_precheck": null,
-    "created": "2026-11-12T03:31:24+05:30",
-    "stages": {},
+    "created": "2026-11-12T04:47:00+05:30",
+    "stages": {
+      "script": "2026-11-12T04:47:00+05:30",
+      "render": "2026-11-12T04:48:00+05:30",
+      "gates": "2026-11-12T04:48:21+05:30"
+    },
     "youtube_id": null,
     "instagram_id": null,
-    "stage_failed": "verify",
-    "reason": "ValueError: independent check still failing after repair: At its peak, it was as bright as Venus (misleading); Shining as bright as Venus and remaining visible at night fo (misleading)"
+    "reason": "quality gate: hashtags",
+    "stage_failed": null,
+    "title": "Supernova 1054 in Daylight",
+    "music": "deepfield-f.m4a"
   },
   {
-    "folder": "2026-11-12_034130_rlv-space-plane-test",
+    "folder": "2026-11-12_044821_rlv-space-plane-test",
     "topic": "RLV Space Plane Test",
     "status": "failed",
     "stage": "script",
@@ -7156,16 +7022,78 @@
       "runner_up": [
         {
           "topic": "Crab Pulsar Spins 30 Times",
-          "final": 36.5
+          "final": 31.02
         }
       ]
     },
     "visual_precheck": null,
-    "created": "2026-11-12T03:41:30+05:30",
+    "created": "2026-11-12T04:48:21+05:30",
     "stages": {},
     "youtube_id": null,
     "instagram_id": null,
     "stage_failed": "verify",
-    "reason": "ValueError: independent check still failing after repair: The vehicle autonomously navigated toward the runway, correc (contradicted by https://en.wikipedia.org/wiki/Spaceplane: \"The RLV prototype was); AUTONOMOUS TOUCHDOWN (no document evidence (4 unresolved claims; at most 3 per video): support it"
+    "reason": "ValueError: independent check still failing after repair: In April 2023, India successfully conducted an autonomous la (wrong); A Chinook helicopter carried it to about 2.8 miles up and re (wrong); 2.8 mi in: A Chinook helicopter carried it to about 2.8 mile (number not checked (no ledger entry stat"
+  },
+  {
+    "folder": "2026-11-12_050730_crab-pulsar-spins-30-times",
+    "topic": "Crab Pulsar Spins 30 Times",
+    "status": "failed",
+    "stage": "script",
+    "role": "authority",
+    "slot": "2026-11-12T23:30:00+05:30",
+    "pillar": "Stars & black holes",
+    "selection": {
+      "role": "authority",
+      "base_score": 36.5,
+      "multiplier": 0.85,
+      "parts": {
+        "pillar_role": 1.0,
+        "repeat_pillar": 0.85
+      },
+      "final": 31.02,
+      "runner_up": []
+    },
+    "visual_precheck": null,
+    "created": "2026-11-12T05:07:30+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "stage_failed": "verify",
+    "reason": "ValueError: independent check still failing after repair: Today it sits at the exact center of the Crab Nebula. (misleading); 1800 in: That means nearly 1,800 spins every single minute. (number not checked (no ledger entry states it)); 13.4 in: Crab Pulsar 12 mi; Manhattan Island 13.4 mi (number not"
+  },
+  {
+    "folder": "2026-11-12_053703_iss-crew-sleeps-in-8-hours-of-daylight",
+    "topic": "ISS Crew Sleeps in 8 Hours of Day/Light",
+    "status": "failed",
+    "stage": "script",
+    "role": "authority",
+    "slot": "2026-11-12T23:30:00+05:30",
+    "pillar": "Missions in danger (Apollo, ISS, Voyager, Artemis)",
+    "selection": {
+      "role": "authority",
+      "base_score": 44.5,
+      "multiplier": 1.0,
+      "parts": {
+        "pillar_role": 1.0
+      },
+      "final": 44.5,
+      "runner_up": [
+        {
+          "topic": "Space Helmet Water Leak",
+          "final": 44.0
+        },
+        {
+          "topic": "Rocket Parts on Bicycles",
+          "final": 43.0
+        }
+      ]
+    },
+    "visual_precheck": null,
+    "created": "2026-11-12T05:37:03+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "stage_failed": "verify",
+    "reason": "ValueError: independent check still failing after repair: 15.5 orbits per day equals about 31 day-night cycles (wrong); ISS sleep cycles are bathed in relentless sunrises (misleading); 6 in: About five to six sunrises occur during a single 8.5‑h (number not checked (no ledger entry states it))"
   }
 ]

@@ -1,64 +1,64 @@
 {
   "2026-11-11": {
     "gemini-flash-latest": {
-      "calls": 8,
+      "calls": 9,
       "failed": 8,
-      "tokens": 0
+      "tokens": 5100
     },
     "gemini-3.8-flash": {
-      "calls": 8,
+      "calls": 9,
       "failed": 8,
-      "tokens": 0
+      "tokens": 6395
     },
     "gemini-3.6-flash": {
-      "calls": 15,
-      "failed": 8,
-      "tokens": 40183
+      "calls": 8,
+      "failed": 7,
+      "tokens": 3807
     },
     "gemini-3.5-flash": {
-      "calls": 17,
-      "failed": 8,
-      "tokens": 56473
+      "calls": 9,
+      "failed": 4,
+      "tokens": 31745
     },
     "nvidia-2:mistralai/mistral-large-4-1t-a52b": {
       "calls": 1,
       "failed": 0,
       "tokens": 0
     },
+    "gemini-flash-lite-latest": {
+      "calls": 13,
+      "failed": 1,
+      "tokens": 13477
+    },
     "groq:openai/gpt-oss-120b": {
-      "calls": 21,
-      "failed": 6,
-      "tokens": 60619
+      "calls": 50,
+      "failed": 16,
+      "tokens": 150900
+    },
+    "nvidia-deepseek:deepseek-ai/deepseek-v4.1-flash": {
+      "calls": 19,
+      "failed": 0,
+      "tokens": 74325
+    },
+    "groq:qwen/qwen3.8-27b": {
+      "calls": 12,
+      "failed": 2,
+      "tokens": 15002
     },
     "openrouter-text:nvidia/nemotron-3-ultra-550b-a55b:free": {
-      "calls": 14,
+      "calls": 4,
       "failed": 0,
-      "tokens": 76291
+      "tokens": 19419
     },
     "openrouter-text:nvidia/nemotron-3.5-lightning:free": {
       "calls": 8,
       "failed": 0,
-      "tokens": 181008
-    },
-    "gemini-flash-lite-latest": {
-      "calls": 12,
-      "failed": 2,
-      "tokens": 8564
-    },
-    "groq:qwen/qwen3.8-27b": {
-      "calls": 8,
-      "failed": 0,
-      "tokens": 7665
+      "tokens": 24167
     },
     "nvidia:mistralai/mistral-large-4-1t-a52b": {
-      "calls": 6,
+      "calls": 14,
       "failed": 0,
       "tokens": 0
-    },
-    "nvidia-deepseek:deepseek-ai/deepseek-v4.1-flash": {
-      "calls": 17,
-      "failed": 0,
-      "tokens": 56350
     }
   }
 }

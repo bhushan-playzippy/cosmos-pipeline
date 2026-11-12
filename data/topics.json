@@ -1,79 +1,289 @@
 [
   {
-    "topic": "A day on Venus is longer than its year: it takes 243 Earth days to rotate once and 225 to orbit the Sun",
-    "pillar": "Planets & moons",
-    "series": "Universe in a Teaspoon",
-    "role": "discovery",
-    "angle": "A planet where one day outlasts the year",
-    "hook_idea": "On Venus, a day is longer than a year.",
-    "viewer_benefit": "Why Venus has the strangest calendar in the solar system.",
-    "scores": {
-      "audience_relevance": 5,
-      "curiosity": 5,
-      "evidence_quality": 5,
-      "visual_feasibility": 5,
-      "series_potential": 4,
-      "familiarity": 5
-    },
-    "veo_prompt": "",
-    "score": 50.0
-  },
-  {
-    "topic": "The Sun contains about 99.8 percent of all the mass in the solar system",
-    "pillar": "Stars & black holes",
-    "series": "Universe in a Teaspoon",
-    "role": "discovery",
-    "angle": "Everything else is leftovers",
-    "hook_idea": "Every planet combined is a rounding error next to the Sun.",
-    "viewer_benefit": "How much of the solar system is just the Sun.",
-    "scores": {
-      "audience_relevance": 5,
-      "curiosity": 5,
-      "evidence_quality": 5,
-      "visual_feasibility": 5,
-      "series_potential": 4,
-      "familiarity": 5
-    },
-    "veo_prompt": "",
-    "score": 50.0
-  },
-  {
-    "topic": "Jupiter's Great Red Spot is a storm larger than Earth that has been observed for more than 150 years",
-    "pillar": "Famous objects, one impossible fact",
-    "series": "Universe in a Teaspoon",
-    "role": "discovery",
-    "angle": "A storm older than anyone alive and bigger than our planet",
-    "hook_idea": "This storm is bigger than Earth and has not stopped.",
-    "viewer_benefit": "What the Great Red Spot is and how long we have watched it.",
-    "scores": {
-      "audience_relevance": 5,
-      "curiosity": 5,
-      "evidence_quality": 5,
-      "visual_feasibility": 5,
-      "series_potential": 4,
-      "familiarity": 5
-    },
-    "veo_prompt": "",
-    "score": 50.0
-  },
-  {
-    "topic": "Apollo 13: an oxygen tank exploded on the way to the Moon and the crew used the lunar module as a lifeboat",
+    "topic": "Space Helmet Water Leak",
     "pillar": "Missions in danger (Apollo, ISS, Voyager, Artemis)",
     "series": "Mission Files",
     "role": "retention",
-    "angle": "A Moon landing became a rescue",
-    "hook_idea": "Their spacecraft broke on the way to the Moon.",
-    "viewer_benefit": "How three astronauts got home after the Apollo 13 explosion.",
+    "angle": "A drinking water leak forming a zero-g liquid sphere inside an astronaut's helmet",
+    "hook_idea": "How did an astronaut almost drown inside his space helmet?",
+    "viewer_benefit": "Understands how microgravity surface tension turns spilled water into a life-threatening helmet hazard.",
     "scores": {
       "audience_relevance": 5,
       "curiosity": 5,
       "evidence_quality": 5,
-      "visual_feasibility": 5,
-      "series_potential": 4,
-      "familiarity": 5
+      "visual_feasibility": 4,
+      "series_potential": 5,
+      "familiarity": 4
     },
-    "veo_prompt": "",
-    "score": 50.0
+    "veo_prompt": "Cinematic vertical 9:16 shot of an astronaut helmet glass visor showing floating water droplets hovering inside against the black backdrop of open space.",
+    "score": 44.0,
+    "draft": {
+      "topic": "Space Helmet Water Leak",
+      "scenes": [
+        {
+          "text": "In 2013, astronaut Luca Parmitano nearly drowned when 1.5 liters of water filled his helmet during a spacewalk.",
+          "visual": "EMU helmet with water",
+          "nasa": "ISS EVA-23",
+          "subject": "Parmitano helmet leak"
+        },
+        {
+          "text": "The fix came from 200-year-old deep-sea diving helmets.",
+          "visual": "Mark V diving helmet",
+          "nasa": "diving helmet",
+          "subject": "diving helmet heritage"
+        },
+        {
+          "text": "Surface-supplied helmets seal the head, keep gas flowing if the diver passes out, and use an oro-nasal mask to limit CO2 buildup.",
+          "visual": "diver in Mark V helmet",
+          "nasa": "helmet interior",
+          "subject": "diving helmet safety"
+        },
+        {
+          "text": "Scuba regulators fall from an unconscious mouth; a diving helmet stays on, delivering air until rescue.",
+          "visual": "scuba vs helmet",
+          "nasa": "life support comparison",
+          "subject": "scuba vs helmet"
+        },
+        {
+          "text": "NASA added a helmet absorption pad and a snorkel tube — direct descendants of the diving helmet's purge valve and oro-nasal seal.",
+          "visual": "EMU helmet modifications",
+          "nasa": "EMU upgrade",
+          "subject": "EMU helmet fix"
+        },
+        {
+          "text": "The Mark V helmet weighed 80 pounds; modern fiberglass shells cut weight and widen vision.",
+          "visual": "modern Kirby Morgan helmet",
+          "nasa": "Artemis helmet",
+          "subject": "modern helmet weight"
+        },
+        {
+          "text": "Minimum flow for a Mark V on helium: 4 cubic feet per minute — not 1.5 — to flush CO2 at depth.",
+          "visual": "flow meter 4 CFM",
+          "nasa": "life support spec",
+          "subject": "Mark V flow rate"
+        },
+        {
+          "text": "At 120 feet (12 stories deep), that flow keeps a diver conscious; in orbit, the same principle keeps an astronaut breathing.",
+          "visual": "depth vs orbit split",
+          "nasa": "ISS spacewalk",
+          "subject": "depth comparison",
+          "compare": {
+            "kind": "length",
+            "unit": "ft",
+            "items": [
+              {
+                "label": "Diver depth",
+                "value": 120
+              },
+              {
+                "label": "12-story building",
+                "value": 120
+              }
+            ]
+          }
+        }
+      ],
+      "youtube": {
+        "title": "Luca Parmitano's 1.5L Helmet Flood",
+        "hook_text": "1.5 LITERS IN HELMET",
+        "description": "He nearly drowned in space. How did he survive? NASA fixed the leak using 200-year-old diving tech. The Mark V helmet weighed 80 pounds, but modern shells are lighter.\n\nSources: NASA EVA-23 Mishap Investigation Report, US Navy Diving Manual Revision 7, Wikipedia: Diving helmet\n#Shorts #Space #Astronomy #NASA #SpaceHelmet",
+        "tags": [
+          "Luca Parmitano",
+          "space helmet leak",
+          "NASA EVA-23",
+          "astronaut almost drowned",
+          "spacewalk incident",
+          "diving helmet history",
+          "Mark V helmet",
+          "NASA safety",
+          "space facts",
+          "astronomy",
+          "space documentary",
+          "Luca Parmitano water",
+          "helmet purge valve",
+          "oro-nasal mask",
+          "US Navy diving",
+          "space survival",
+          "EVA suit",
+          "Universe in a Teaspoon"
+        ],
+        "pinned_comment": "If you were Luca, do you trust the new snorkel tube design or stick with the old purge valve?"
+      },
+      "instagram": {
+        "caption": "1.5 liters of water filled his helmet. He nearly drowned in space. NASA used 200-year-old diving tech to fix it. Would you trust a diving helmet in space?",
+        "hashtags": [
+          "#LucaParmitano",
+          "#SpaceHelmet",
+          "#NASA",
+          "#Astronomy",
+          "#Space"
+        ]
+      },
+      "sources": [
+        "NASA EVA-23 Mishap Investigation Report",
+        "US Navy Diving Manual Revision 7",
+        "Wikipedia: Diving helmet"
+      ],
+      "music_mood": "tense",
+      "provenance": {
+        "write": "openrouter-text:nvidia/nemotron-3-ultra-550b-a55b:free",
+        "polish": "groq:qwen/qwen3.8-27b",
+        "fact_check": "openrouter-text:nvidia/nemotron-3-ultra-550b-a55b:free",
+        "packaging": "groq:qwen/qwen3.8-27b"
+      },
+      "fact_trail": [
+        {
+          "stage": "polish",
+          "added": [],
+          "removed": [
+            1823.0
+          ],
+          "words": []
+        },
+        {
+          "stage": "fact_check",
+          "added": [
+            2013.0,
+            200.0,
+            2.0,
+            80.0,
+            4.0,
+            2.0,
+            12.0
+          ],
+          "removed": [
+            93.0
+          ],
+          "words": []
+        }
+      ],
+      "fact_checks": [
+        {
+          "claim": "At 120 feet, divers lost consciousness from carbon dioxide buildup.",
+          "verdict": "fixed",
+          "working": "120 ft = 36.6 m. At this depth on air, nitrogen narcosis is significant; CO2 buildup can occur with inadequate ventilation. But the script repeats this claim twice (scenes 1 and 8) and never links it to the space helmet leak. The 12-story building comparison (12 × 10 ft = 120 ft) is roughly correct."
+        },
+        {
+          "claim": "A diving helmet is a rigid head enclosure with a breathing gas supply.",
+          "verdict": "ok",
+          "working": "Accurate definition of surface-supplied diving helmet."
+        },
+        {
+          "claim": "It isolates the diver's head from the water and provides voice communications.",
+          "verdict": "ok",
+          "working": "Correct."
+        },
+        {
+          "claim": "If a diver becomes unconscious, the helmet stays in place, delivering gas until rescue.",
+          "verdict": "ok",
+          "working": "Key safety advantage over scuba."
+        },
+        {
+          "claim": "Unlike scuba regulators that can fall from an unconscious diver's mouth, causing drowning.",
+          "verdict": "ok",
+          "working": "Correct."
+        },
+        {
+          "claim": "The oro-nasal mask seals around the nose and mouth, trapping a small gas space.",
+          "verdict": "ok",
+          "working": "Correct; this limits CO2 rebreathing in demand helmets."
+        },
+        {
+          "claim": "Water gets trapped between the suit and the breastplate.",
+          "verdict": "fixed",
+          "working": "In a properly sealed diving dress, water does not get trapped between suit and breastplate (corselet). The breastplate clamps to the suit making a watertight seal. This claim is misleading."
+        },
+        {
+          "claim": "At 120 feet, divers lost consciousness from carbon dioxide buildup. (duplicate with compare)",
+          "verdict": "fixed",
+          "working": "Duplicate of scene 1. Compare: 120 ft vs 12-story building (12 × 10 ft = 120 ft) — acceptable approximation."
+        },
+        {
+          "claim": "The fix: a minimum flow of 1.5 cubic feet per minute.",
+          "verdict": "fixed",
+          "working": "US Navy Mark V helium helmet requires 4–6 CFM (113–170 L/min) minimum flow to prevent CO2 buildup. 1.5 CFM (42.5 L/min) is far too low and would cause dangerous CO2 accumulation."
+        },
+        {
+          "claim": "The Mark V Helium helmet weighs 93 pounds complete.",
+          "verdict": "fixed",
+          "working": "Mark V helmet ~55 lb, breastplate ~25 lb, total ~80 lb. With weighted shoes/belt the *dress* reaches ~190 lb. 93 lb is not a standard cited weight for the helmet assembly alone."
+        },
+        {
+          "claim": "Modern versions use fiberglass shells for a wider field of vision.",
+          "verdict": "ok",
+          "working": "Kirby Morgan and other modern helmets use fiberglass/composite shells with larger viewports."
+        },
+        {
+          "claim": "The helmet stops drowning by delivering gas until rescue.",
+          "verdict": "ok",
+          "working": "Correct summary of surface-supplied helmet advantage."
+        },
+        {
+          "claim": "YouTube title: 'Why Astronauts Almost Drown in Space'",
+          "verdict": "fixed",
+          "working": "Script never mentions an astronaut incident (Luca Parmitano, EVA-23, 2013, ~1.5 L water in helmet). Title promises space content; script delivers only diving helmet facts."
+        },
+        {
+          "claim": "Description: 'The same physics that protects deep-sea divers saves lives in orbit.'",
+          "verdict": "fixed",
+          "working": "Space suit helmets (EMU, Orlan) use an oro-nasal mask and purge valves inspired by diving helmets, but the script does not explain this link."
+        },
+        {
+          "claim": "Sources: Wikipedia: Brodie helmet",
+          "verdict": "fixed",
+          "working": "Brodie helmet is a WWI steel combat helmet, not a diving helmet. Wrong source."
+        },
+        {
+          "claim": "Visual/nasa fields mismatch subjects (e.g., 'astronaut helmet' visual for diver scene).",
+          "verdict": "fixed",
+          "working": "Visual and nasa fields should match the actual subject of each scene."
+        }
+      ],
+      "research": {
+        "sources": [
+          {
+            "title": "Diving helmet",
+            "url": "https://en.wikipedia.org/wiki/Diving_helmet"
+          },
+          {
+            "title": "Brodie helmet",
+            "url": "https://en.wikipedia.org/wiki/Brodie_helmet"
+          }
+        ],
+        "notes": [
+          "A diving helmet is a rigid head enclosure with a breathing gas supply used in underwater diving.",
+          "They are worn mainly by professional divers engaged in surface-supplied diving, though some models can be used with scuba equipment.",
+          "The upper part of the helmet, known colloquially as the hat or bonnet, may be sealed directly to the diver using a neck dam, connected to a diving suit by a lower part, known as a breastplate, or corselet, depending on regional language preferences, or simply rest on the diver's shoulders, with an open bottom, for shallow water use.",
+          "The helmet isolates the diver's head from the water, allows the diver to see clearly underwater, provides the diver with breathing gas, protects the diver's head when doing heavy or dangerous work, and usually provides voice communications with the surface (and possibly other divers).",
+          "If a helmeted diver becomes unconscious but is still breathing, most helmets will remain in place and continue to deliver breathing gas until the diver can be rescued.",
+          "In contrast, the scuba regulator used by recreational divers must be held in the mouth by bite grips, and it can fall out of an unconscious diver's mouth and result in drowning.",
+          "The oro-nasal mask seals around the nose and mouth, forming a small volume gas space through which the breathing gas normally flows from demand valve to nose or mouth, and from nose or mouth to the exhaust valves.",
+          "The water would then usually be trapped between the outside of the suit and the inside of the breastplate.",
+          "The first successful diving helmets were produced by the brothers Charles and John Deane in the 1820s.",
+          "Inspired by a fire accident he witnessed in a stable in England, he designed and patented a \"Smoke Helmet\" to be used by firemen in smoke-filled areas in 1823.",
+          "In 1827, the first smoke helmets were built, by German-born British engineer Augustus Siebe.",
+          "In 1828 the brothers decided to find another application for their device and converted it into a diving helmet.",
+          "In 1834 Charles used his diving helmet and suit in a successful attempt on the wreck of Royal George at Spithead, during which he recovered 28 of the ship's cannons.",
+          "In the 1830s the Deane brothers asked Siebe to apply his skill to improve their underwater helmet design.",
+          "Commercial diver and inventor Joe Savoie is credited with inventing the helmet neck dam in the 1960s, which made possible a new era of lightweight helmets, including the Kirby Morgan Superlite series (an adaption of Morgan's existing \"Band Mask\" into a full helmet.) Savoie did not patent this invention, though he did hold patents on other diving equipment,  which allowed widespread development of the concept by other manufacturers.",
+          "This ranged from the no bolt, two, three, and four bolt helmets; corselets with six, eight, or 12 bolts; and Two-Three, Twelve-Four, and Twelve-Six bolt helmets.",
+          "For example, the US twelve-four helmets used 12 bolts to clamp the breastplate to the suit, and four bolts to seal the helmet to the breastplate.",
+          "The no-bolt helmet used a spring-loaded clamp to secure the helmet to corselet over the suit gasket, and many helmets were sealed to the breastplate by a 1/8 turn interrupted screw thread.",
+          "Occasionally, divers would lose consciousness while working at 120 feet in standard helmets.",
+          "Haldane found by experiment that this was partly due to a buildup of carbon dioxide in the helmet caused by insufficient ventilation and a large dead space, and established a minimum flow rate of 1.5 cubic feet (42 L) per minute at ambient pressure.",
+          "The Mk V Helium weighs about 93 lb (42 kg) complete (bonnet, scrubber canister and corselet) These helmets and similar models manufactured by Kirby Morgan, Yokohama Diving Apparatus Company and DESCO used the scrubber as a gas extender, a form of semi-closed rebreather system, where breathing gas was recirculated through the scrubber by entraining the helmet gas in the flow from an injector supplying fresh gas, a system pioneered by Dräger in 1912.",
+          "The DESCO \"air hat\" is a metal free-flow helmet, designed in 1968 and still in production.",
+          "The US Navy replaced the Mark V helmet in 1980 with the Morse Engineering Mark 12 deep water helmet which has a fibreglass shell with a distinctive large rectangular front faceplate for a better field of vision for work.",
+          "Morse Diving of Boston, Massachusetts, also known as Morse Diving International and A J Morse and Son, manufactured standard diving helmets, the US Navy Mark 12 deep water helmet, and shallow water helmets."
+        ]
+      },
+      "release": {
+        "hour_ist": 16,
+        "day_hint": "Tuesday or Wednesday",
+        "reason": "Aligns with early morning US Eastern Time (7 AM ET) when commuters check their phones, and early afternoon in Europe/UK/Australia, maximizing reach across all target regions."
+      }
+    },
+    "draft_saved": "2026-11-12"
   },
   {
     "topic": "Voyager Golden Record Needle",
@@ -206,25 +416,6 @@
       "familiarity": 5
     },
     "veo_prompt": "Cinematic vertical 9:16 shot of a cherry-red sports car floating in deep space with Earth and dark void reflecting off its windshield.",
-    "score": 44.0
-  },
-  {
-    "topic": "Space Helmet Water Leak",
-    "pillar": "Missions in danger (Apollo, ISS, Voyager, Artemis)",
-    "series": "Mission Files",
-    "role": "retention",
-    "angle": "A drinking water leak forming a zero-g liquid sphere inside an astronaut's helmet",
-    "hook_idea": "How did an astronaut almost drown inside his space helmet?",
-    "viewer_benefit": "Understands how microgravity surface tension turns spilled water into a life-threatening helmet hazard.",
-    "scores": {
-      "audience_relevance": 5,
-      "curiosity": 5,
-      "evidence_quality": 5,
-      "visual_feasibility": 4,
-      "series_potential": 5,
-      "familiarity": 4
-    },
-    "veo_prompt": "Cinematic vertical 9:16 shot of an astronaut helmet glass visor showing floating water droplets hovering inside against the black backdrop of open space.",
     "score": 44.0
   },
   {
@@ -416,25 +607,6 @@
     },
     "veo_prompt": "Cinematic vertical 9:16 view looking down from a rocket payload bay in orbit as dozens of micro-satellites detach into open space.",
     "score": 38.0
-  },
-  {
-    "topic": "Crab Pulsar Spins 30 Times",
-    "pillar": "Stars & black holes",
-    "series": "Scale Explained",
-    "role": "authority",
-    "angle": "A collapsed stellar core spinning 30 complete rotations every single second like a blender blade",
-    "hook_idea": "What dead star spins faster than a kitchen blender blade?",
-    "viewer_benefit": "Grasps the extreme angular momentum of a collapsed neutron star.",
-    "scores": {
-      "audience_relevance": 4,
-      "curiosity": 4,
-      "evidence_quality": 5,
-      "visual_feasibility": 3,
-      "series_potential": 4,
-      "familiarity": 3
-    },
-    "veo_prompt": "Cinematic vertical 9:16 visualization of a hyper-dense neutron star spinning rapidly at the center of glowing supernova remnants, emitting twin lighthouse radiation beams.",
-    "score": 36.5
   },
   {
     "topic": "Europa's Icy Shell",
