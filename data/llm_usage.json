@@ -1,19 +1,19 @@
 {
   "2026-11-11": {
     "gemini-flash-latest": {
-      "calls": 9,
-      "failed": 8,
-      "tokens": 5100
+      "calls": 12,
+      "failed": 12,
+      "tokens": 0
     },
     "gemini-3.8-flash": {
-      "calls": 9,
-      "failed": 8,
-      "tokens": 6395
+      "calls": 12,
+      "failed": 12,
+      "tokens": 0
     },
     "gemini-3.6-flash": {
-      "calls": 8,
-      "failed": 7,
-      "tokens": 3807
+      "calls": 18,
+      "failed": 9,
+      "tokens": 55988
     },
     "gemini-3.5-flash": {
       "calls": 9,
@@ -31,34 +31,39 @@
       "tokens": 13477
     },
     "groq:openai/gpt-oss-120b": {
-      "calls": 50,
-      "failed": 16,
-      "tokens": 150900
-    },
-    "nvidia-deepseek:deepseek-ai/deepseek-v4.1-flash": {
-      "calls": 19,
-      "failed": 0,
-      "tokens": 74325
-    },
-    "groq:qwen/qwen3.8-27b": {
-      "calls": 12,
-      "failed": 2,
-      "tokens": 15002
+      "calls": 24,
+      "failed": 7,
+      "tokens": 71242
     },
     "openrouter-text:nvidia/nemotron-3-ultra-550b-a55b:free": {
-      "calls": 4,
+      "calls": 17,
       "failed": 0,
-      "tokens": 19419
+      "tokens": 108743
     },
     "openrouter-text:nvidia/nemotron-3.5-lightning:free": {
       "calls": 8,
       "failed": 0,
-      "tokens": 24167
+      "tokens": 181008
+    },
+    "gemini-flash-lite-latest": {
+      "calls": 19,
+      "failed": 3,
+      "tokens": 14767
+    },
+    "groq:qwen/qwen3.8-27b": {
+      "calls": 8,
+      "failed": 0,
+      "tokens": 7665
     },
     "nvidia:mistralai/mistral-large-4-1t-a52b": {
-      "calls": 14,
+      "calls": 21,
       "failed": 0,
       "tokens": 0
+    },
+    "nvidia-deepseek:deepseek-ai/deepseek-v4.1-flash": {
+      "calls": 18,
+      "failed": 0,
+      "tokens": 60792
     }
   }
 }

@@ -7399,7 +7399,7 @@
   {
     "folder": "2026-11-08_024638_the-1900-galveston-hurricane-and-the-citys-recover",
     "topic": "The 1900 Galveston hurricane and the city's recovery",
-    "status": "scheduled",
+    "status": "published",
     "stage": "script",
     "role": null,
     "slot": "2026-11-11T23:30:00+05:30",
@@ -7412,7 +7412,8 @@
       "render": "2026-11-08T02:46:52+05:30",
       "gates": "2026-11-08T02:47:29+05:30",
       "upload_started": "2026-11-08T02:49:31+05:30",
-      "upload": "2026-11-08T02:49:37+05:30"
+      "upload": "2026-11-08T02:49:37+05:30",
+      "published": "2026-11-12T06:25:22+05:30"
     },
     "youtube_id": "OU1Klv8onLc",
     "instagram_id": null,
@@ -7428,7 +7429,7 @@
       "publish_at": "2026-11-11T18:00:00Z"
     },
     "alert": null,
-    "privacy": "private"
+    "privacy": "public"
   },
   {
     "folder": "docstudio_pompeii-doc",
@@ -8530,26 +8531,32 @@
   {
     "folder": "docstudio_pompeii-v2-s3",
     "topic": "How a Roman Town Was Preserved for Centuries #Shorts",
-    "status": "scheduled",
+    "status": "published",
     "stage": "upload",
     "role": null,
     "slot": "2026-11-11T18:00:00+05:30",
     "created": "2026-11-08T18:14:59+05:30",
     "youtube_id": "z1yPi7n0a78",
     "reason": "docstudio animated documentary upload",
-    "privacy": "private"
+    "privacy": "public",
+    "stages": {
+      "published": "2026-11-12T06:25:22+05:30"
+    }
   },
   {
     "folder": "docstudio_hist-pyramids",
     "topic": "The Tallest Building on Earth for 3,700 Years #Shorts",
-    "status": "scheduled",
+    "status": "published",
     "stage": "upload",
     "role": null,
     "slot": "2026-11-12T05:30:00+05:30",
     "created": "2026-11-08T18:34:08+05:30",
     "youtube_id": "r3WnnRppcGM",
     "reason": "docstudio animated documentary upload",
-    "privacy": "private"
+    "privacy": "public",
+    "stages": {
+      "published": "2026-11-12T06:25:22+05:30"
+    }
   },
   {
     "folder": "docstudio_hist-tajmahal",
@@ -9777,7 +9784,8 @@
     "slot": "2026-11-16T05:30:00+05:30",
     "created": "2026-11-09T12:10:57+05:30",
     "reason": "campaign 2026-11-15..12-15",
-    "youtube_id": "5_bcdPHHJkc"
+    "youtube_id": "5_bcdPHHJkc",
+    "privacy": "private"
   },
   {
     "folder": "campaign_CLIPS_SHORT_2026_11_16_02",
@@ -9788,7 +9796,8 @@
     "slot": "2026-11-16T20:00:00+05:30",
     "created": "2026-11-09T12:11:02+05:30",
     "reason": "campaign 2026-11-15..12-15",
-    "youtube_id": "fBWxoRACOHg"
+    "youtube_id": "fBWxoRACOHg",
+    "privacy": "private"
   },
   {
     "folder": "campaign_CLIPS_SHORT_2026_11_17_03",
@@ -9799,7 +9808,8 @@
     "slot": "2026-11-17T23:30:00+05:30",
     "created": "2026-11-09T12:11:14+05:30",
     "reason": "campaign 2026-11-15..12-15",
-    "youtube_id": "MVpjxvZ8OtU"
+    "youtube_id": "MVpjxvZ8OtU",
+    "privacy": "private"
   },
   {
     "folder": "campaign_CLIPS_SHORT_2026_11_18_01",
@@ -9810,7 +9820,8 @@
     "slot": "2026-11-18T05:30:00+05:30",
     "created": "2026-11-09T12:11:31+05:30",
     "reason": "campaign 2026-11-15..12-15",
-    "youtube_id": "WV4tmP4a0cc"
+    "youtube_id": "WV4tmP4a0cc",
+    "privacy": "private"
   },
   {
     "folder": "campaign_CLIPS_SHORT_2026_11_18_02",
@@ -9821,7 +9832,8 @@
     "slot": "2026-11-18T20:00:00+05:30",
     "created": "2026-11-09T12:11:37+05:30",
     "reason": "campaign 2026-11-15..12-15",
-    "youtube_id": "aFF8oEJ_SL0"
+    "youtube_id": "aFF8oEJ_SL0",
+    "privacy": "private"
   },
   {
     "folder": "campaign_CLIPS_SHORT_2026_11_19_01",
@@ -9832,7 +9844,8 @@
     "slot": "2026-11-19T05:30:00+05:30",
     "created": "2026-11-09T12:12:07+05:30",
     "reason": "campaign 2026-11-15..12-15",
-    "youtube_id": "uyFAP8opn00"
+    "youtube_id": "uyFAP8opn00",
+    "privacy": "private"
   },
   {
     "folder": "campaign_CLIPS_SHORT_2026_11_19_02",
@@ -9843,7 +9856,8 @@
     "slot": "2026-11-19T21:00:00+05:30",
     "created": "2026-11-09T12:12:12+05:30",
     "reason": "campaign 2026-11-15..12-15",
-    "youtube_id": "9wetZvCfZ9U"
+    "youtube_id": "9wetZvCfZ9U",
+    "privacy": "private"
   },
   {
     "folder": "campaign_CLIPS_SHORT_2026_11_19_03",
@@ -9854,7 +9868,8 @@
     "slot": "2026-11-19T23:30:00+05:30",
     "created": "2026-11-09T12:12:17+05:30",
     "reason": "campaign 2026-11-15..12-15",
-    "youtube_id": "4iQe3JvGYNg"
+    "youtube_id": "4iQe3JvGYNg",
+    "privacy": "private"
   },
   {
     "folder": "campaign_CLIPS_SHORT_2026_11_20_01",
@@ -9865,7 +9880,8 @@
     "slot": "2026-11-20T05:30:00+05:30",
     "created": "2026-11-09T12:12:23+05:30",
     "reason": "campaign 2026-11-15..12-15",
-    "youtube_id": "P-CAVhK52Ew"
+    "youtube_id": "P-CAVhK52Ew",
+    "privacy": "private"
   },
   {
     "folder": "campaign_CLIPS_SHORT_2026_11_20_02",
@@ -9876,7 +9892,8 @@
     "slot": "2026-11-20T20:00:00+05:30",
     "created": "2026-11-09T12:12:28+05:30",
     "reason": "campaign 2026-11-15..12-15",
-    "youtube_id": "Y8EyAmQ_Xo8"
+    "youtube_id": "Y8EyAmQ_Xo8",
+    "privacy": "private"
   },
   {
     "folder": "campaign_CLIPS_SHORT_2026_11_17_01",
@@ -9887,7 +9904,8 @@
     "slot": "2026-11-17T05:30:00+05:30",
     "created": "2026-11-09T12:26:31+05:30",
     "reason": "campaign 2026-11-15..12-15",
-    "youtube_id": "MzkyTWa11nk"
+    "youtube_id": "MzkyTWa11nk",
+    "privacy": "private"
   },
   {
     "folder": "campaign_CLIPS_SHORT_2026_11_17_02",
@@ -9898,7 +9916,8 @@
     "slot": "2026-11-17T20:00:00+05:30",
     "created": "2026-11-09T12:26:36+05:30",
     "reason": "campaign 2026-11-15..12-15",
-    "youtube_id": "MX1ET62C12c"
+    "youtube_id": "MX1ET62C12c",
+    "privacy": "private"
   },
   {
     "folder": "campaign_CLIPS_SHORT_2026_11_18_03",
@@ -9909,7 +9928,8 @@
     "slot": "2026-11-18T23:30:00+05:30",
     "created": "2026-11-09T12:26:49+05:30",
     "reason": "campaign 2026-11-15..12-15",
-    "youtube_id": "6yomtMGpOrE"
+    "youtube_id": "6yomtMGpOrE",
+    "privacy": "private"
   },
   {
     "folder": "campaign_CLIPS_SHORT_2026_11_20_03",
@@ -9920,7 +9940,8 @@
     "slot": "2026-11-20T23:30:00+05:30",
     "created": "2026-11-09T12:38:15+05:30",
     "reason": "campaign 2026-11-15..12-15",
-    "youtube_id": "DaNjBtwl5EE"
+    "youtube_id": "DaNjBtwl5EE",
+    "privacy": "private"
   },
   {
     "folder": "campaign_CLIPS_SHORT_2026_11_16_03",
@@ -9931,7 +9952,8 @@
     "slot": "2026-11-16T23:30:00+05:30",
     "created": "2026-11-09T12:44:13+05:30",
     "reason": "campaign 2026-11-15..12-15",
-    "youtube_id": "VO53V1OY2nA"
+    "youtube_id": "VO53V1OY2nA",
+    "privacy": "private"
   },
   {
     "folder": "campaign_CLIPS_SHORT_2026_11_21_01",
@@ -9942,7 +9964,8 @@
     "slot": "2026-11-21T05:30:00+05:30",
     "created": "2026-11-09T12:44:18+05:30",
     "reason": "campaign 2026-11-15..12-15",
-    "youtube_id": "wPo_sxneb34"
+    "youtube_id": "wPo_sxneb34",
+    "privacy": "private"
   },
   {
     "folder": "campaign_CLIPS_SHORT_2026_11_21_02",
@@ -9953,7 +9976,8 @@
     "slot": "2026-11-21T21:00:00+05:30",
     "created": "2026-11-09T12:44:23+05:30",
     "reason": "campaign 2026-11-15..12-15",
-    "youtube_id": "LH-EWe4J3io"
+    "youtube_id": "LH-EWe4J3io",
+    "privacy": "private"
   },
   {
     "folder": "campaign_CLIPS_SHORT_2026_11_21_03",
@@ -9964,7 +9988,8 @@
     "slot": "2026-11-21T23:30:00+05:30",
     "created": "2026-11-09T12:44:29+05:30",
     "reason": "campaign 2026-11-15..12-15",
-    "youtube_id": "HK2fnJYrOuM"
+    "youtube_id": "HK2fnJYrOuM",
+    "privacy": "private"
   },
   {
     "folder": "campaign_CLIPS_LF_01",
@@ -9975,7 +10000,8 @@
     "slot": "2026-11-19T19:30:00+05:30",
     "created": "2026-11-09T12:45:11+05:30",
     "reason": "campaign 2026-11-15..12-15",
-    "youtube_id": "HsTowT8DEHY"
+    "youtube_id": "HsTowT8DEHY",
+    "privacy": "private"
   },
   {
     "folder": "campaign_CLIPS_LF_02",
@@ -9986,6 +10012,196 @@
     "slot": "2026-11-21T19:30:00+05:30",
     "created": "2026-11-09T13:01:01+05:30",
     "reason": "campaign 2026-11-15..12-15",
-    "youtube_id": "_GurIPm2AJg"
+    "youtube_id": "_GurIPm2AJg",
+    "privacy": "private"
+  },
+  {
+    "folder": "2026-11-12_062534_ada-blackjack-the-only-survivor-of-the-1921-wrange",
+    "topic": "Ada Blackjack, the only survivor of the 1921 Wrangel Island Arctic expedition",
+    "status": "failed",
+    "stage": "script",
+    "role": "retention",
+    "slot": "2026-11-12T20:00:00+05:30",
+    "pillar": "Forgotten heroes",
+    "selection": {
+      "role": "retention",
+      "base_score": 57.0,
+      "multiplier": 1.4,
+      "parts": {
+        "pillar_role": 1.4
+      },
+      "final": 79.8,
+      "runner_up": []
+    },
+    "visual_precheck": {
+      "at": "2026-11-12T06:25:34+05:30",
+      "need": 2,
+      "assets": [
+        {
+          "source": "wikimedia_commons",
+          "query": "Ada Blackjack Wrangel",
+          "title": "File:Ada Blackjack removing blubber from a sealskin.jpg",
+          "page": "https://commons.wikimedia.org/wiki/File:Ada_Blackjack_removing_blubber_from_a_sealskin.jpg",
+          "license": "Public domain",
+          "license_evidence": "Commons file metadata (extmetadata.LicenseShortName)",
+          "date": "1925",
+          "downloaded": true,
+          "bytes": 519697,
+          "relevance": "file title shares the query's distinctive words",
+          "asset_id": "commons:144087524"
+        },
+        {
+          "source": "wikimedia_commons",
+          "query": "Ada Blackjack Wrangel",
+          "title": "File:Ada Blackjack and Vic on Donaldson.jpg",
+          "page": "https://commons.wikimedia.org/wiki/File:Ada_Blackjack_and_Vic_on_Donaldson.jpg",
+          "license": "Public domain",
+          "license_evidence": "Commons file metadata (extmetadata.LicenseShortName)",
+          "date": "1925",
+          "downloaded": true,
+          "bytes": 527671,
+          "relevance": "file title shares the query's distinctive words",
+          "asset_id": "commons:144087382"
+        }
+      ]
+    },
+    "created": "2026-11-12T06:25:34+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "stage_failed": "verify",
+    "reason": "ValueError: independent check still failing after repair: They aimed to claim the island for Canada (motive with no document stating it (only indirect); a model's word isn't enough); 23 in: Ada survived 23 months on the island, alone for the f (number not checked (no ledger entry states it)); Ada su"
+  },
+  {
+    "folder": "2026-11-12_070053_charles-lightoller-the-titanic-officer-who-survive",
+    "topic": "Charles Lightoller, the Titanic officer who survived the sinking and later rescued soldiers at Dunkirk in his own boat",
+    "status": "failed",
+    "stage": "script",
+    "role": "retention",
+    "slot": "2026-11-12T20:00:00+05:30",
+    "pillar": "Forgotten heroes",
+    "selection": {
+      "role": "retention",
+      "base_score": 57.0,
+      "multiplier": 1.18,
+      "parts": {
+        "pillar_role": 1.18
+      },
+      "final": 67.26,
+      "runner_up": [
+        {
+          "topic": "Desmond Doss, the unarmed medic who rescued about 75 wounded",
+          "final": 67.26
+        },
+        {
+          "topic": "Robert Smalls, the enslaved sailor who sailed a Confederate ",
+          "final": 67.26
+        }
+      ]
+    },
+    "visual_precheck": {
+      "at": "2026-11-12T07:00:53+05:30",
+      "need": 2,
+      "assets": [
+        {
+          "source": "wikimedia_commons",
+          "query": "Charles Lightoller Titanic",
+          "title": "File:Herbert Pitman and Charles Lightoller in Liverpool, May 1912.webp",
+          "page": "https://commons.wikimedia.org/wiki/File:Herbert_Pitman_and_Charles_Lightoller_in_Liverpool,_May_1912.webp",
+          "license": "Public domain",
+          "license_evidence": "Commons file metadata (extmetadata.LicenseShortName)",
+          "date": "1912-05-12",
+          "downloaded": true,
+          "bytes": 286945,
+          "relevance": "file title shares the query's distinctive words",
+          "asset_id": "commons:191732528"
+        },
+        {
+          "source": "wikimedia_commons",
+          "query": "Charles Lightoller Titanic",
+          "title": "File:William Murdoch and Charles Lightoller, with the crew of SS Medic, 1900.jpg",
+          "page": "https://commons.wikimedia.org/wiki/File:William_Murdoch_and_Charles_Lightoller,_with_the_crew_of_SS_Medic,_1900.jpg",
+          "license": "Public domain",
+          "license_evidence": "Commons file metadata (extmetadata.LicenseShortName)",
+          "date": "circa 1900 date QS:P,+1900-00-00T00:00:00Z/9,P1480,Q5727902 ",
+          "downloaded": true,
+          "bytes": 366260,
+          "relevance": "file title shares the query's distinctive words",
+          "asset_id": "commons:192307933"
+        }
+      ]
+    },
+    "created": "2026-11-12T07:00:53+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "stage_failed": "verify",
+    "reason": "ValueError: independent check still failing after repair: When the ship went down, Lightoller clung to Collapsible A w (no independent value for a narrated number); One man lived through both Titanic and Dunkirk (superlative with no document stating it (only indirect); a model's word isn't en); Desc"
+  },
+  {
+    "folder": "2026-11-12_072259_desmond-doss-the-unarmed-medic-who-rescued-about-7",
+    "topic": "Desmond Doss, the unarmed medic who rescued about 75 wounded men on Okinawa",
+    "status": "failed",
+    "stage": "script",
+    "role": "retention",
+    "slot": "2026-11-12T20:00:00+05:30",
+    "pillar": "Forgotten heroes",
+    "selection": {
+      "role": "retention",
+      "base_score": 57.0,
+      "multiplier": 1.18,
+      "parts": {
+        "pillar_role": 1.18
+      },
+      "final": 67.26,
+      "runner_up": [
+        {
+          "topic": "Robert Smalls, the enslaved sailor who sailed a Confederate ",
+          "final": 67.26
+        },
+        {
+          "topic": "Robert Lincoln Saved by Edwin Booth",
+          "final": 63.72
+        }
+      ]
+    },
+    "visual_precheck": {
+      "at": "2026-11-12T07:22:59+05:30",
+      "need": 2,
+      "assets": [
+        {
+          "source": "wikimedia_commons",
+          "query": "Desmond Doss Okinawa",
+          "title": "File:Desmond T Doss Medal of Honor.jpg",
+          "page": "https://commons.wikimedia.org/wiki/File:Desmond_T_Doss_Medal_of_Honor.jpg",
+          "license": "Public domain",
+          "license_evidence": "Commons file metadata (extmetadata.LicenseShortName)",
+          "date": "1945-10-12",
+          "downloaded": true,
+          "bytes": 283286,
+          "relevance": "file title shares the query's distinctive words",
+          "asset_id": "commons:130346351"
+        },
+        {
+          "source": "wikimedia_commons",
+          "query": "Desmond Doss Okinawa",
+          "title": "File:Desmond Doss CMH award.jpg",
+          "page": "https://commons.wikimedia.org/wiki/File:Desmond_Doss_CMH_award.jpg",
+          "license": "Public domain",
+          "license_evidence": "Commons file metadata (extmetadata.LicenseShortName)",
+          "date": "1945-10-12",
+          "downloaded": true,
+          "bytes": 153368,
+          "relevance": "file title shares the query's distinctive words",
+          "asset_id": "commons:16587198"
+        }
+      ]
+    },
+    "created": "2026-11-12T07:22:59+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "stage_failed": "verify",
+    "reason": "ValueError: independent check still failing after repair: On May 2, 1945 (no document evidence (4 unresolved claims; at most 3 per video): support it, sof)"
   }
 ]

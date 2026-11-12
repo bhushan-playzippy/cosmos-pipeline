@@ -1,43 +1,43 @@
 {
-  "date": "2026-11-11",
-  "videos": 29,
-  "median_views_per_day": 36.0,
+  "date": "2026-11-12",
+  "videos": 32,
+  "median_views_per_day": 35.3,
   "min_sample": 5,
   "groups": {
     "slot": {
       "17:00": {
         "n": 3,
-        "median_vpd": 21.9,
+        "median_vpd": 20.6,
         "conclusive": false
       },
       "20:00": {
         "n": 3,
-        "median_vpd": 40.8,
+        "median_vpd": 38.4,
         "conclusive": false
       },
       "10:00": {
         "n": 2,
-        "median_vpd": 37.9,
+        "median_vpd": 35.4,
         "conclusive": false
       },
       "13:30": {
         "n": 2,
-        "median_vpd": 19.7,
+        "median_vpd": 18.5,
         "conclusive": false
       },
       "23:30": {
-        "n": 6,
-        "median_vpd": 47.5,
+        "n": 7,
+        "median_vpd": 22.0,
         "conclusive": true
       },
       "02:30": {
         "n": 1,
-        "median_vpd": 107.5,
+        "median_vpd": 99.8,
         "conclusive": false
       },
       "05:30": {
         "n": 8,
-        "median_vpd": 40.2,
+        "median_vpd": 35.3,
         "conclusive": true
       },
       "08:30": {
@@ -46,41 +46,42 @@
         "conclusive": false
       },
       "?": {
-        "n": 3,
-        "median_vpd": 36.0,
-        "conclusive": false
+        "n": 5,
+        "median_vpd": 59.0,
+        "conclusive": true
       }
     },
     "type": {
       "discovery": {
         "n": 5,
-        "median_vpd": 39.1,
+        "median_vpd": 36.1,
         "conclusive": true
       },
       "retention": {
         "n": 6,
-        "median_vpd": 52.6,
+        "median_vpd": 49.2,
         "conclusive": true
       },
       "authority": {
         "n": 4,
-        "median_vpd": 14.6,
+        "median_vpd": 13.7,
         "conclusive": false
       },
       "?": {
-        "n": 14,
-        "median_vpd": 38.7,
+        "n": 17,
+        "median_vpd": 38.0,
         "conclusive": true
       }
     },
     "creator": {}
   },
   "type_boost": {
-    "discovery": 1.04,
-    "retention": 1.25
+    "discovery": 1.01,
+    "retention": 1.22
   },
   "recommendations": [
-    "'retention' moments outperform (1.25×): the picker now prefers them."
+    "Slot 23:30 earns 22.0 views/day vs 59.0 at ?: try moving 23:30 to an hour near ? (edit schedule.slots), then re-check in 2 weeks.",
+    "'retention' moments outperform (1.22×): the picker now prefers them."
   ],
   "feature_boost": {
     "question_hook": {
