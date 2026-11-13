@@ -5216,14 +5216,17 @@
   {
     "folder": "docstudio_fall-s1",
     "topic": "This Star Moves at 25 Million km/h #Shorts",
-    "status": "scheduled",
+    "status": "published",
     "stage": "upload",
     "role": null,
     "slot": "2026-11-13T18:00:00+05:30",
     "created": "2026-11-08T18:42:58+05:30",
     "youtube_id": "4Z-AHpyW7aQ",
     "reason": "docstudio animated documentary upload",
-    "privacy": "private"
+    "privacy": "public",
+    "stages": {
+      "published": "2026-11-13T22:17:07+05:30"
+    }
   },
   {
     "folder": "docstudio_fall-s2",
@@ -5306,14 +5309,17 @@
   {
     "folder": "docstudio_sgra-sc-scale",
     "topic": "Our Black Hole Looks as Small as a Doughnut on the Moon #Shorts",
-    "status": "scheduled",
+    "status": "published",
     "stage": "upload",
     "role": null,
     "slot": "2026-11-13T20:00:00+05:30",
     "created": "2026-11-08T18:47:39+05:30",
     "youtube_id": "DnZWvSa01RA",
     "reason": "docstudio animated documentary upload",
-    "privacy": "private"
+    "privacy": "public",
+    "stages": {
+      "published": "2026-11-13T22:17:07+05:30"
+    }
   },
   {
     "folder": "docstudio_fall-sc-horizon",
@@ -7404,5 +7410,281 @@
     "instagram_id": null,
     "stage_failed": "verify",
     "reason": "ValueError: independent check still failing after repair: Falcon Heavy can deliver about 2 tonnes to low-Earth orbit i (wrong); Falcon Heavy can deliver about 4,400 lb to low-Earth orbit i (wrong); 2 tonnes is roughly the weight of about four average cars (wrong)"
+  },
+  {
+    "folder": "2026-11-13_221707_mars-blue-sunset-explained",
+    "topic": "Mars Blue Sunset Explained",
+    "status": "failed",
+    "stage": "script",
+    "role": "discovery",
+    "slot": "2026-11-13T23:30:00+05:30",
+    "pillar": "Planets & moons",
+    "selection": {
+      "role": "discovery",
+      "base_score": 44.0,
+      "multiplier": 0.87,
+      "parts": {
+        "pillar_role": 0.87
+      },
+      "final": 38.28,
+      "runner_up": [
+        {
+          "topic": "Moon Dust Smell Revealed",
+          "final": 38.28
+        },
+        {
+          "topic": "Starman's Tesla in Space",
+          "final": 38.28
+        }
+      ]
+    },
+    "visual_precheck": null,
+    "created": "2026-11-13T22:17:07+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "stage_failed": "verify",
+    "reason": "ValueError: independent check still failing after repair: Trace O2 ~0.1% (narrated 0.1 vs independent 0.13 %); Particles around 1 µm (narrated 1 vs independent 1.5 µm); Rayleigh scattering is relatively weak because of the low de (no document evidence (4 unresolved claims; at most 3 per video): supp"
+  },
+  {
+    "folder": "2026-11-13_231955_moon-dust-smell-revealed",
+    "topic": "Moon Dust Smell Revealed",
+    "status": "failed",
+    "stage": "script",
+    "role": "authority",
+    "slot": "2026-11-14T20:00:00+05:30",
+    "pillar": "Famous objects, one impossible fact",
+    "selection": {
+      "role": "authority",
+      "base_score": 44.0,
+      "multiplier": 0.87,
+      "parts": {
+        "pillar_role": 0.87
+      },
+      "final": 38.28,
+      "runner_up": [
+        {
+          "topic": "Starman's Tesla in Space",
+          "final": 38.28
+        },
+        {
+          "topic": "Saturn Floats in Water",
+          "final": 37.41
+        }
+      ]
+    },
+    "visual_precheck": null,
+    "created": "2026-11-13T23:19:55+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "stage_failed": "verify",
+    "reason": "ValueError: independent check still failing after repair: As the lander repressurized, dust reactivated in the air, re (misleading); Ninety‑nine percent of lunar regolith consists of just seven (misleading); The distinct gunpowder smell suggested fresh Moon dust was c (misleading)"
+  },
+  {
+    "folder": "2026-11-13_232157_starmans-tesla-in-space",
+    "topic": "Starman's Tesla in Space",
+    "status": "failed",
+    "stage": "script",
+    "role": "authority",
+    "slot": "2026-11-14T20:00:00+05:30",
+    "pillar": "Famous objects, one impossible fact",
+    "selection": {
+      "role": "authority",
+      "base_score": 44.0,
+      "multiplier": 0.87,
+      "parts": {
+        "pillar_role": 0.87
+      },
+      "final": 38.28,
+      "runner_up": [
+        {
+          "topic": "Saturn Floats in Water",
+          "final": 37.41
+        },
+        {
+          "topic": "Mars Probe Cheaper Than Movie",
+          "final": 36.1
+        }
+      ]
+    },
+    "visual_precheck": null,
+    "created": "2026-11-13T23:21:57+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "stage_failed": "verify",
+    "reason": "ValueError: independent check still failing after repair: 67000 mi in: At its fastest point, the electric sports car t (number not checked (no ledger entry states it)); 108000 km in: At its fastest point, the electric sports car  (number not checked (no ledger entry states it)); At its fastest point"
+  },
+  {
+    "folder": "2026-11-13_232333_saturn-floats-in-water",
+    "topic": "Saturn Floats in Water",
+    "status": "failed",
+    "stage": "script",
+    "role": "authority",
+    "slot": "2026-11-14T20:00:00+05:30",
+    "pillar": "Famous objects, one impossible fact",
+    "selection": {
+      "role": "authority",
+      "base_score": 43.0,
+      "multiplier": 0.87,
+      "parts": {
+        "pillar_role": 0.87
+      },
+      "final": 37.41,
+      "runner_up": [
+        {
+          "topic": "Mars Probe Cheaper Than Movie",
+          "final": 36.1
+        },
+        {
+          "topic": "Metal Snow on Venus Peaks",
+          "final": 35.23
+        }
+      ]
+    },
+    "visual_precheck": null,
+    "created": "2026-11-13T23:23:33+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "stage_failed": "verify",
+    "reason": "ValueError: independent check still failing after repair: 12742 km in: Earth 12742 km; Saturn 116464 km (number not checked (no ledger entry states it)); 116464 km in: Earth 12742 km; Saturn 116464 km (number not checked (no ledger entry states it))"
+  },
+  {
+    "folder": "2026-11-13_232528_mars-probe-cheaper-than-movie",
+    "topic": "Mars Probe Cheaper Than Movie",
+    "status": "failed",
+    "stage": "script",
+    "role": "authority",
+    "slot": "2026-11-14T20:00:00+05:30",
+    "pillar": "ISRO & India in space",
+    "selection": {
+      "role": "authority",
+      "base_score": 41.5,
+      "multiplier": 0.87,
+      "parts": {
+        "pillar_role": 0.87
+      },
+      "final": 36.1,
+      "runner_up": [
+        {
+          "topic": "Metal Snow on Venus Peaks",
+          "final": 35.23
+        },
+        {
+          "topic": "Uranus Atmospheric Smell",
+          "final": 33.93
+        }
+      ]
+    },
+    "visual_precheck": null,
+    "created": "2026-11-13T23:25:28+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "stage_failed": "verify",
+    "reason": "ValueError: independent check still failing after repair: The Mars Orbiter Mission was India’s first interplanetary sp (superlative with no document stating it (only indirect); a model's word isn't en); 100000 km in: Earth Orbit Distance 100000 km; MOM Mars Dista (number not checked (no ledger entry"
+  },
+  {
+    "folder": "2026-11-13_232814_metal-snow-on-venus-peaks",
+    "topic": "Metal Snow on Venus Peaks",
+    "status": "failed",
+    "stage": "script",
+    "role": "authority",
+    "slot": "2026-11-14T20:00:00+05:30",
+    "pillar": "Planets & moons",
+    "selection": {
+      "role": "authority",
+      "base_score": 40.5,
+      "multiplier": 0.87,
+      "parts": {
+        "pillar_role": 0.87
+      },
+      "final": 35.23,
+      "runner_up": [
+        {
+          "topic": "Uranus Atmospheric Smell",
+          "final": 33.93
+        },
+        {
+          "topic": "The Chandrayaan-1 mission discovered definitive signatures o",
+          "final": 33.06
+        }
+      ]
+    },
+    "visual_precheck": null,
+    "created": "2026-11-13T23:28:14+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "stage_failed": "verify",
+    "reason": "ValueError: independent check still failing after repair: Description attributes bright radar reflectivity to NASA's M (attribution with no document stating it; a model's word isn't enough); Graphic states Maxwell Montes peak as 11.0 km (misleading); At ~467 °C some metallic compounds could vaporize"
+  },
+  {
+    "folder": "2026-11-13_233711_uranus-atmospheric-smell",
+    "topic": "Uranus Atmospheric Smell",
+    "status": "failed",
+    "stage": "script",
+    "role": "authority",
+    "slot": "2026-11-14T20:00:00+05:30",
+    "pillar": "Planets & moons",
+    "selection": {
+      "role": "authority",
+      "base_score": 39.0,
+      "multiplier": 0.87,
+      "parts": {
+        "pillar_role": 0.87
+      },
+      "final": 33.93,
+      "runner_up": [
+        {
+          "topic": "The Chandrayaan-1 mission discovered definitive signatures o",
+          "final": 33.06
+        },
+        {
+          "topic": "Airplane Flight Around Star",
+          "final": 28.08
+        }
+      ]
+    },
+    "visual_precheck": null,
+    "created": "2026-11-13T23:37:11+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "stage_failed": "verify",
+    "reason": "ValueError: independent check still failing after repair: NASA observations show ammonia exists on every giant planet, (attribution with no document stating it; a model's word isn't enough); Ammonia in Uranus's upper layers is broken down by sunlight  (narrated 100 vs independent 150 hours); That am"
+  },
+  {
+    "folder": "2026-11-13_234447_mars-gravity",
+    "topic": "Mars Gravity",
+    "status": "failed",
+    "stage": "script",
+    "role": "authority",
+    "slot": "2026-11-14T20:00:00+05:30",
+    "pillar": "Planets & moons",
+    "selection": {
+      "role": "authority",
+      "base_score": 42.0,
+      "multiplier": 1.0,
+      "parts": {
+        "pillar_role": 1.0
+      },
+      "final": 42.0,
+      "runner_up": [
+        {
+          "topic": "Betelgeuse's Size",
+          "final": 34.85
+        }
+      ]
+    },
+    "visual_precheck": null,
+    "created": "2026-11-13T23:44:47+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "stage_failed": "verify",
+    "reason": "ValueError: independent check still failing after repair: Mariner 9 launched in the 1970s (no document evidence (4 unresolved claims; at most 3 per video): support it, sof)"
   }
 ]

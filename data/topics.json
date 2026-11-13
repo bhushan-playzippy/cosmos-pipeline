@@ -1,321 +1,60 @@
 [
   {
-    "topic": "Mars Blue Sunset Explained",
+    "topic": "Voyager's Intergalactic Silence",
+    "pillar": "Missions in danger",
+    "series": "Mission Files",
+    "role": "retention",
+    "angle": "It takes over 22 hours for a radio signal from Voyager 1 to reach Earth.",
+    "hook_idea": "NASA’s oldest craft is 22 hours away. Is it broken?",
+    "viewer_benefit": "Appreciating the extreme distances of deep space probes.",
+    "scores": {
+      "audience_relevance": 5,
+      "curiosity": 5,
+      "evidence_quality": 5,
+      "visual_feasibility": 4,
+      "series_potential": 5,
+      "familiarity": 5
+    },
+    "veo_prompt": "A tiny, intricate spacecraft silhouette against a starfield, with a pulsing red light representing a signal, vast darkness surrounding it, photorealistic, 9:16.",
+    "score": 46.0
+  },
+  {
+    "topic": "Jupiter's Moon Io",
     "pillar": "Planets & moons",
     "series": "How Big Is It?",
     "role": "discovery",
-    "angle": "A pale blue twilight glowing over dusty red Martian horizons",
-    "hook_idea": "Why are sunsets on Mars blue instead of red?",
-    "viewer_benefit": "Discovers why atmospheric dust on Mars scatters blue light toward human eyes.",
-    "scores": {
-      "audience_relevance": 5,
-      "curiosity": 4,
-      "evidence_quality": 5,
-      "visual_feasibility": 5,
-      "series_potential": 3,
-      "familiarity": 5
-    },
-    "veo_prompt": "Cinematic vertical 9:16 shot of the sun dipping below a cratered Martian ridge, creating a cool blue haze in the thin red atmosphere.",
-    "score": 44.0,
-    "draft": {
-      "topic": "Mars Blue Sunset Explained",
-      "scenes": [
-        {
-          "text": "Why does Mars’ sky glow blue for 20 minutes after sunset?",
-          "visual": "basketball",
-          "nasa": "Mars sunset",
-          "subject": "basketball"
-        },
-        {
-          "text": "Mars has a thin atmosphere—≈6 mbar—made mostly of CO₂ with only trace O₂ and a few percent N₂, so Rayleigh scattering is weak.",
-          "visual": "mars atmosphere",
-          "nasa": "Mars dust",
-          "subject": "Mars atmosphere"
-        },
-        {
-          "text": "Instead, suspended red dust particles cause Mie scattering, which preserves more blue light.",
-          "visual": "dust storm",
-          "nasa": "Mars dust",
-          "subject": "Martian dust"
-        },
-        {
-          "text": "On Earth, Rayleigh scattering removes blue at sunset, leaving reds; on Mars the dust‑driven scattering lets blue linger.",
-          "visual": "earth sunset",
-          "nasa": "Earth atmosphere",
-          "subject": "Earth sunset"
-        },
-        {
-          "text": "Dust high above the surface can keep the sky illuminated for roughly 20 minutes after the Sun dips below the horizon.",
-          "visual": "martian dust",
-          "nasa": "Mars dust",
-          "subject": "dust reflection"
-        },
-        {
-          "text": "The result is a faint blue twilight spreading over the rusty Martian horizon.",
-          "visual": "martian horizon",
-          "nasa": "Mars landscape",
-          "subject": "Martian horizon"
-        },
-        {
-          "text": "Picture a regulation basketball glowing blue against a red sand dune—that’s the look of a Martian dusk.",
-          "visual": "basketball dune",
-          "nasa": "Mars dunes",
-          "subject": "basketball"
-        },
-        {
-          "text": "It is the blue glow from dust lingering after sunset.",
-          "visual": "sunlight scattering",
-          "nasa": "Mars sky",
-          "subject": "light scattering"
-        }
-      ],
-      "youtube": {
-        "title": "Mars' Blue Sunset",
-        "hook_text": "MARS SUNSET IS BLUE",
-        "description": "Wait for the sky to turn blue against the red dust.\n\nMars has a thin atmosphere where dust causes Mie scattering, preserving blue light. Instead of the red sunsets we see on Earth, a faint blue twilight lingers over the rusty horizon for about 20 minutes.\n\nSources: Wikipedia – Sunset, Wikipedia – Blue Sky on Mars, NASA/JPL – Mars photography\n\n#Shorts #Mars #Space #Astronomy #Science",
-        "tags": [
-          "mars blue sunset",
-          "why is mars sky blue",
-          "mars sunset video",
-          "mars atmosphere",
-          "mie scattering mars",
-          "mars dust",
-          "space facts",
-          "astronomy shorts",
-          "nasa mars",
-          "mars twilight",
-          "red planet sunset",
-          "science explained"
-        ],
-        "pinned_comment": "Would you rather see the blue Martian sunset or the red Earth sunset?"
-      },
-      "instagram": {
-        "caption": "The sky on Mars isn't just red. Dust scattering leaves a faint blue glow for 20 minutes after sunset. Would you watch this from the surface?",
-        "hashtags": [
-          "#MarsBlueSunset",
-          "#SpaceFacts",
-          "#Astronomy",
-          "#Mars",
-          "#Science"
-        ]
-      },
-      "sources": [
-        "Wikipedia – Sunset",
-        "Wikipedia – Blue Sky on Mars",
-        "NASA/JPL – Mars photography"
-      ],
-      "music_mood": "mysterious",
-      "provenance": {
-        "write": "groq:openai/gpt-oss-120b",
-        "polish": "groq:qwen/qwen3.8-27b",
-        "fact_check": "groq:openai/gpt-oss-120b",
-        "packaging": "groq:qwen/qwen3.8-27b"
-      },
-      "fact_checks": [
-        {
-          "claim": "Mars’ dust scatters sunlight for two hours after sunset, turning twilight blue.",
-          "verdict": "fixed",
-          "working": "Observed Martian twilight lasts ~20 min (≈0.33 h). 2 h = 120 min, which is ~6× longer than measured. Revised to \"about 20 minutes\"."
-        },
-        {
-          "claim": "Mars has a thin atmosphere without oxygen or nitrogen, so Rayleigh scattering doesn’t dominate across the planet.",
-          "verdict": "fixed",
-          "working": "Mars surface pressure ≈6 mbar. Composition: ~95 % CO₂, 2.7 % N₂, 1.6 % Ar, trace O₂ (<0.2 %). Therefore oxygen and nitrogen are present, albeit in small amounts. Rayleigh scattering occurs but is weak due to low pressure. Revised wording to reflect actual composition and weak Rayleigh effect."
-        },
-        {
-          "claim": "Dust high in the atmosphere can reflect sunlight for about two hours after the Sun sets.",
-          "verdict": "fixed",
-          "working": "Same duration error as first claim. Measurements show dust‑scattered illumination persists ~20 min after sunset, not 2 h (120 min). Updated to \"roughly 20 minutes\"."
-        }
-      ],
-      "fact_trail": [
-        {
-          "stage": "fact_check",
-          "added": [
-            20.0,
-            6.0,
-            20.0
-          ],
-          "removed": [
-            2.0,
-            2.0
-          ],
-          "words": [
-            "only"
-          ]
-        }
-      ],
-      "research": {
-        "sources": [
-          {
-            "title": "Sunset",
-            "url": "https://en.wikipedia.org/wiki/Sunset"
-          },
-          {
-            "title": "Blue Sky on Mars",
-            "url": "https://en.wikipedia.org/wiki/Blue_Sky_on_Mars"
-          }
-        ],
-        "notes": [
-          "Sunset (or sundown) is the disappearance of the Sun at the end of the Sun path, below the horizon of the Earth (or any other astronomical object in the Solar System) due to its rotation.",
-          "As viewed from everywhere on Earth, it is a phenomenon that happens approximately once every 24 hours, except in areas close to the poles.",
-          "The equinox Sun sets due west at the moment of both the spring and autumn equinoxes.",
-          "As viewed from the Northern Hemisphere, the Sun sets to the northwest (or not at all) in the spring and summer, and to the southwest in the autumn and winter; these seasons are reversed for the Southern Hemisphere.",
-          "The sunset is defined in astronomy as the moment the upper limb of the Sun disappears below the horizon.",
-          "Near the horizon, atmospheric refraction causes sunlight rays to be distorted to such an extent that geometrically the solar disk is already about one diameter below the horizon when a sunset is observed.",
-          "Sunset is distinct from twilight, which is divided into three stages.",
-          "The first one is civil twilight, which begins once the Sun has disappeared below the horizon, and continues until it descends to 6 degrees below the horizon.",
-          "The early to intermediate stages of twilight coincide with predusk.",
-          "The second phase is nautical twilight, between 6 and 12 degrees below the horizon.",
-          "The third phase is astronomical twilight, which is the period when the Sun is between 12 and 18 degrees below the horizon.",
-          "Dusk is at the very end of astronomical twilight, and is the darkest moment of twilight just before night.",
-          "Finally, night occurs when the Sun reaches 18 degrees below the horizon and no longer illuminates the sky.",
-          "Locations farther north than the Arctic Circle and farther south than the Antarctic Circle experience no full sunset or sunrise on at least one day of the year, when the polar day or the polar night persists continuously for 24 hours.",
-          "Likewise, the same phenomenon exists in the Southern Hemisphere, but with the respective dates reversed, with the earliest sunsets occurring some time before June 21 in winter, and the latest sunsets occurring some time after December 21 in summer, again depending on one's southern latitude.",
-          "For a few weeks surrounding both solstices, both sunrise and sunset get slightly later each day.",
-          "Even on the equator, sunrise and sunset shift several minutes back and forth through the year, along with solar noon.",
-          "== Location on the horizon ==",
-          "Approximate locations of sunset on the horizon (azimuth) as described above can be found in Refs.",
-          "Calculate the sunset time, which is the solar noon time plus the sunset hour angle in degree divided by 15;",
-          "Because the shorter wavelength components, such as blue and green, scatter more strongly, these colors are preferentially removed from the beam.",
-          "At sunrise and sunset, when the path through the atmosphere is longer, the blue and green components are removed almost completely, leaving the longer wavelength orange and red hues we see at those times.",
-          "The remaining reddened sunlight can then be scattered by cloud droplets and other relatively large particles to light up the horizon red and orange.",
-          "On Mars, the setting Sun appears about two-thirds the size it does from Earth, due to the greater distance between Mars and the Sun.",
-          "The colors are typically hues of blue, but some Martian sunsets last significantly longer and appear far redder than is typical on Earth.",
-          "The colors of the Martian sunset differ from those on Earth.",
-          "Mars has a thin atmosphere, lacking oxygen and nitrogen, so the light scattering is not dominated by a Rayleigh Scattering process.",
-          "Instead, the air is full of red dust, blown into the atmosphere by high winds, so its sky color is mainly determined by a Mie Scattering process, resulting in more blue hues than an Earth sunset.",
-          "One study also reported that Martian dust high in the atmosphere can reflect sunlight up to two hours after the Sun has set, casting a diffuse glow across the surface of Mars.",
-          "Earth's shadow, visible at sunset",
-          "The Colors of Twilight and Sunset",
-          "The Science of Sunsets",
-          "Blue Sky on Mars is the sixth album by alternative rock musician Matthew Sweet.",
-          "The cover of the album features an image by Viking 1, the first spacecraft to land on Mars; the album's liner notes include additional imagery of the planet's landscape as taken by the spacecraft on July 20, 1976.",
-          "It was the second last release by Zoo Entertainment (with the final being Lusk's Free Mars), as the label was absorbed into Volcano Entertainment in 1997.",
-          "NASA/JPL – Mars photography"
-        ]
-      },
-      "release": {
-        "hour_ist": 18,
-        "day_hint": "Friday",
-        "reason": "Friday evening IST aligns with prime time in the US and Europe, maximizing engagement from the core audience."
-      }
-    },
-    "draft_saved": "2026-11-13"
-  },
-  {
-    "topic": "Saturn Floats in Water",
-    "pillar": "Famous objects, one impossible fact",
-    "series": "Scale Explained",
-    "role": "discovery",
-    "angle": "Saturn is less dense than water, so it would float in a bathtub",
-    "hook_idea": "Why would the second-largest planet float in your bath?",
-    "viewer_benefit": "Learns about density via a relatable household scenario",
-    "scores": {
-      "audience_relevance": 5,
-      "curiosity": 5,
-      "evidence_quality": 5,
-      "visual_feasibility": 4,
-      "series_potential": 2,
-      "familiarity": 5
-    },
-    "veo_prompt": "A miniature, detailed model of Saturn with rings slowly bobbing in a clear glass of water. Ripples spread out. Water droplets splash gently. Bright, clean studio lighting. Vertical 9:16.",
-    "score": 43.0
-  },
-  {
-    "topic": "Moon Dust Smell Revealed",
-    "pillar": "Famous objects, one impossible fact",
-    "series": "How Big Is It?",
-    "role": "discovery",
-    "angle": "Lunar soil smelling like burnt fireworks or spent gunpowder inside the Apollo lander",
-    "hook_idea": "Why does fresh moon dust smell like burnt gunpowder?",
-    "viewer_benefit": "Discovers the chemical reaction of reactive lunar dust contacting moist cabin air.",
-    "scores": {
-      "audience_relevance": 5,
-      "curiosity": 5,
-      "evidence_quality": 5,
-      "visual_feasibility": 4,
-      "series_potential": 3,
-      "familiarity": 5
-    },
-    "veo_prompt": "Cinematic vertical 9:16 close-up shot of fine grey lunar dust clinging to a white space suit boot step on the powdery Moon surface.",
-    "score": 44.0
-  },
-  {
-    "topic": "Starman's Tesla in Space",
-    "pillar": "Famous objects, one impossible fact",
-    "series": "How Big Is It?",
-    "role": "discovery",
-    "angle": "A sports car cruising past Mars carrying a dummy in a spacesuit",
-    "hook_idea": "Why is a sports car currently floating past Mars?",
-    "viewer_benefit": "Discovers the trajectory and current deep-space orbit of the Falcon Heavy test payload.",
-    "scores": {
-      "audience_relevance": 5,
-      "curiosity": 4,
-      "evidence_quality": 5,
-      "visual_feasibility": 5,
-      "series_potential": 3,
-      "familiarity": 5
-    },
-    "veo_prompt": "Cinematic vertical 9:16 shot of a cherry-red sports car floating in deep space with Earth and dark void reflecting off its windshield.",
-    "score": 44.0
-  },
-  {
-    "topic": "Mars Probe Cheaper Than Movie",
-    "pillar": "ISRO & India in space",
-    "series": "How Big Is It?",
-    "role": "discovery",
-    "angle": "A interplanetary space mission costing less than a single Hollywood sci-fi film",
-    "hook_idea": "How did a Mars mission cost less than a Hollywood movie?",
-    "viewer_benefit": "Understands how ISRO reached Mars for $74 million, under cutting Hollywood film budgets.",
+    "angle": "Io is the most volcanically active body in the solar system, with thousands of vents.",
+    "hook_idea": "This moon is the most volcanic place in space.",
+    "viewer_benefit": "Discovering active geology beyond Earth.",
     "scores": {
       "audience_relevance": 4,
-      "curiosity": 5,
+      "curiosity": 4,
       "evidence_quality": 5,
-      "visual_feasibility": 4,
+      "visual_feasibility": 5,
       "series_potential": 4,
       "familiarity": 4
     },
-    "veo_prompt": "Cinematic vertical 9:16 tracking shot of the Mangalyaan spacecraft orbiting red Mars with high-tech solar panels gleaming.",
+    "veo_prompt": "Icy and rocky surface with plumes of orange lava erupting from fissures, contrast of cold ice and hot magma, photorealistic, 9:16.",
     "score": 41.5
   },
   {
-    "topic": "Metal Snow on Venus Peaks",
-    "pillar": "Planets & moons",
-    "series": "How Big Is It?",
-    "role": "discovery",
-    "angle": "Heavy metallic lead sulfide mineral vapor freezing onto mountain peaks",
-    "hook_idea": "Why does metallic lead rain on Venusian mountaintops?",
-    "viewer_benefit": "Learns how extreme atmospheric heat vaporizes metals that condense like frost on high peaks.",
+    "topic": "Betelgeuse's Size",
+    "pillar": "Stars & black holes",
+    "series": "Scale Explained",
+    "role": "authority",
+    "angle": "If Betelgeuse replaced the Sun, its surface would extend past Jupiter's orbit.",
+    "hook_idea": "If this star replaced the Sun, where would it end?",
+    "viewer_benefit": "Grasping the true scale of red supergiants.",
     "scores": {
       "audience_relevance": 4,
       "curiosity": 5,
-      "evidence_quality": 5,
-      "visual_feasibility": 4,
-      "series_potential": 3,
+      "evidence_quality": 4,
+      "visual_feasibility": 5,
+      "series_potential": 4,
       "familiarity": 4
     },
-    "veo_prompt": "Cinematic vertical 9:16 shot of jagged dark mountain peaks on Venus covered in shiny, reflective metallic frost under heavy yellow clouds.",
-    "score": 40.5
-  },
-  {
-    "topic": "Uranus Atmospheric Smell",
-    "pillar": "Planets & moons",
-    "series": "How Big Is It?",
-    "role": "discovery",
-    "angle": "Upper atmospheric gas composed of rotten-egg hydrogen sulfide",
-    "hook_idea": "Why does the atmosphere of Uranus smell like rotten eggs?",
-    "viewer_benefit": "Learns how infrared spectroscopy revealed hydrogen sulfide ice clouds on Uranus.",
-    "scores": {
-      "audience_relevance": 4,
-      "curiosity": 4,
-      "evidence_quality": 5,
-      "visual_feasibility": 4,
-      "series_potential": 3,
-      "familiarity": 4
-    },
-    "veo_prompt": "Cinematic vertical 9:16 shot of the smooth cyan-blue planet Uranus floating against a dark starry backdrop.",
-    "score": 39.0
+    "veo_prompt": "Diagrammatic view of a massive red star in the center of the solar system, with its outer edge glowing past the orbit of a smaller, distant planet, photorealistic, 9:16.",
+    "score": 41.0
   },
   {
     "topic": "The Chandrayaan-1 mission discovered definitive signatures of water molecules distributed across the lunar surface",
@@ -353,6 +92,25 @@
       "familiarity": 3
     },
     "veo_prompt": "Cinematic vertical 9:16 scale graphic showing a tiny silhouette of a commercial jetliner gliding in front of a glowing red star surface that stretches beyond the frame.",
+    "score": 38.0
+  },
+  {
+    "topic": "Mars' Moon Deimos",
+    "pillar": "Planets & moons",
+    "series": "How Big Is It?",
+    "role": "discovery",
+    "angle": "Deimos is small enough to fit inside a large stadium, yet it orbits Mars.",
+    "hook_idea": "Mars has a moon smaller than a football stadium.",
+    "viewer_benefit": "Correcting misconceptions about the size of moons.",
+    "scores": {
+      "audience_relevance": 4,
+      "curiosity": 4,
+      "evidence_quality": 5,
+      "visual_feasibility": 4,
+      "series_potential": 4,
+      "familiarity": 3
+    },
+    "veo_prompt": "Comparison shot of a massive rocky asteroid hovering over a generic large sports stadium, showing the asteroid is only slightly larger, photorealistic, 9:16.",
     "score": 38.0
   },
   {

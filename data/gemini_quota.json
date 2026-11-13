@@ -1,12 +1,7 @@
 {
-  "2026-11-12": {
+  "2026-11-13": {
     "efe883c743": [
-      "gemini-3.6-flash",
       "gemini-3.5-flash"
-    ],
-    "f2044a7318": [
-      "gemini-3.5-flash",
-      "gemini-3.6-flash"
     ]
   }
 }
