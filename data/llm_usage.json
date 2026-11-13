@@ -1,9 +1,19 @@
 {
   "2026-11-13": {
-    "openrouter-text:nvidia/nemotron-3-ultra-550b-a55b:free": {
-      "calls": 8,
+    "gemini-3.6-flash": {
+      "calls": 11,
+      "failed": 1,
+      "tokens": 56441
+    },
+    "gemini-flash-lite-latest": {
+      "calls": 6,
+      "failed": 2,
+      "tokens": 1815
+    },
+    "nvidia-2:mistralai/mistral-large-4-1t-a52b": {
+      "calls": 1,
       "failed": 0,
-      "tokens": 78095
+      "tokens": 0
     },
     "groq:openai/gpt-oss-120b": {
       "calls": 25,
@@ -17,28 +27,13 @@
     },
     "gemini-flash-lite-latest": {
       "calls": 5,
-      "failed": 1,
-      "tokens": 4396
+      "failed": 0,
+      "tokens": 26393
     },
     "gemini-3.5-flash": {
-      "calls": 3,
-      "failed": 1,
-      "tokens": 8506
-    },
-    "gemini-3.8-flash": {
-      "calls": 1,
-      "failed": 1,
-      "tokens": 0
-    },
-    "gemini-flash-latest": {
-      "calls": 1,
-      "failed": 1,
-      "tokens": 0
-    },
-    "groq:qwen/qwen3.8-27b": {
-      "calls": 4,
+      "calls": 9,
       "failed": 0,
-      "tokens": 10672
+      "tokens": 61880
     }
   }
 }

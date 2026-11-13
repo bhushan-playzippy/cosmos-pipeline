@@ -38,137 +38,346 @@
     "score": 55.0
   },
   {
-    "topic": "The 1912 Titanic sinking where the ship's third-class passengers were locked behind actual iron gates",
-    "pillar": "Disasters that hinged on one detail",
-    "series": "Unbelievably True",
-    "role": "discovery",
-    "angle": "compare the luxury on top to the locked iron barriers below",
-    "hook_idea": "Why were iron gates locked across the Titanic's steerage corridors?",
-    "viewer_benefit": "understands the overlooked safety protocol failure of the tragedy",
+    "topic": "The 1925 Alaska Serum Run Sled Dogs",
+    "pillar": "Impossible survivals",
+    "series": "Survived",
+    "role": "retention",
+    "angle": "Relay racing 674 miles (1,085 km) across -50°F (-45°C) blizzard conditions to deliver medicine",
+    "hook_idea": "How did sled dogs travel 600 miles through arctic storms?",
+    "viewer_benefit": "Revisit the brutal reality and heroism behind the famous Alaskan diphtheria antitoxin run.",
     "scores": {
       "audience_relevance": 5,
       "curiosity": 5,
       "evidence_quality": 5,
       "visual_feasibility": 5,
-      "series_potential": 4,
+      "series_potential": 5,
       "familiarity": 5
     },
-    "veo_prompt": "Vertical 9:16 cinematic shot of heavy rusted iron gates in a dark ship corridor, flickering emergency light reflecting off water, moody atmosphere, highly detailed historic archive style, photoreal.",
-    "score": 54.0
+    "veo_prompt": "Vertical 9:16 shot of wooden sled tracks cutting through severe arctic snow blizzard winds, icy blue atmospheric lighting.",
+    "score": 55.0
   },
   {
-    "topic": "The 1937 Hindenburg disaster where exterior cotton skin was coated in highly flammable rocket fuel components",
-    "pillar": "Disasters that hinged on one detail",
-    "series": "Unbelievably True",
-    "role": "discovery",
-    "angle": "compare airplane paint ingredients to solid rocket fuel",
-    "hook_idea": "What made the Hindenburg burn up in just 34 seconds?",
-    "viewer_benefit": "discovers the chemical coating that turned an airship into a fireball",
-    "scores": {
-      "audience_relevance": 5,
-      "curiosity": 5,
-      "evidence_quality": 5,
-      "visual_feasibility": 5,
-      "series_potential": 4,
-      "familiarity": 5
-    },
-    "veo_prompt": "Vertical 9:16 cinematic shot of silver metallic fabric under microscopic light, glowing embers reflecting on the surface, historical archive look, photoreal.",
-    "score": 54.0
-  },
-  {
-    "topic": "Statue of Liberty Arm Exhibited in Madison Square",
+    "topic": "Jack Swigert Forgotten Taxes on Apollo 13",
     "pillar": "Strange but true history",
-    "series": "Unbelievably True",
-    "role": "discovery",
-    "angle": "Charging entry fees for a torch tower years before building the base",
-    "hook_idea": "Why was Lady Liberty's arm exhibited in a park for six years?",
-    "viewer_benefit": "Discover how American fundraising saved the Statue of Liberty project.",
+    "series": "The Detail Nobody Remembers",
+    "role": "authority",
+    "angle": "Realizing you forgot to file your federal tax return while stranded in deep space",
+    "hook_idea": "What happens when an astronaut forgets to file taxes mid-spaceflight?",
+    "viewer_benefit": "Discover the hilarious real-world bureaucracy during one of space history's greatest crises.",
+    "scores": {
+      "audience_relevance": 5,
+      "curiosity": 5,
+      "evidence_quality": 5,
+      "visual_feasibility": 5,
+      "series_potential": 4,
+      "familiarity": 5
+    },
+    "veo_prompt": "Vertical 9:16 view inside an Apollo command module control console, backlit switches glowing in deep space shadow, photoreal cinematic space imagery.",
+    "score": 54.0
+  },
+  {
+    "topic": "Abraham Lincoln Creating Secret Service on His Last Day",
+    "pillar": "Eerie true coincidences",
+    "series": "The Detail Nobody Remembers",
+    "role": "authority",
+    "angle": "Signing legislation to establish presidential security hours before visiting Ford's Theatre",
+    "hook_idea": "What agency did Abraham Lincoln create on the day he died?",
+    "viewer_benefit": "Uncover the tragic timing behind Lincoln establishing the Secret Service on April 14, 1865.",
+    "scores": {
+      "audience_relevance": 5,
+      "curiosity": 5,
+      "evidence_quality": 5,
+      "visual_feasibility": 5,
+      "series_potential": 4,
+      "familiarity": 5
+    },
+    "veo_prompt": "Vertical 9:16 macro shot of a brass pen tip resting on official 1860s parchment document, warm candlelight shadows.",
+    "score": 54.0
+  },
+  {
+    "topic": "The 1942 Battle of Midway 5-Minute Turning Point",
+    "pillar": "Disasters that hinged on one detail",
+    "series": "The Detail Nobody Remembers",
+    "role": "authority",
+    "angle": "Naval aviation refuel delays exposing aircraft carrier decks loaded with open munitions",
+    "hook_idea": "How did five minutes turn the tide of World War II?",
+    "viewer_benefit": "See how a tiny delay in bomb arming changed the Pacific War outcome forever.",
+    "scores": {
+      "audience_relevance": 5,
+      "curiosity": 5,
+      "evidence_quality": 5,
+      "visual_feasibility": 5,
+      "series_potential": 4,
+      "familiarity": 5
+    },
+    "veo_prompt": "Vertical 9:16 cinematic overhead view of an aircraft carrier deck filled with vintage propeller planes under dramatic Pacific sunlight.",
+    "score": 54.0
+  },
+  {
+    "topic": "The SCE to AUX Switch on Apollo 12",
+    "pillar": "Disasters that hinged on one detail",
+    "series": "The Detail Nobody Remembers",
+    "role": "authority",
+    "angle": "Lightning striking a launching Saturn V rocket twice and a obscure switch saving it",
+    "hook_idea": "What obscure switch saved Apollo 12 after lightning struck the rocket?",
+    "viewer_benefit": "Learn how an obscure memory from a young flight controller saved an Apollo moon launch.",
+    "scores": {
+      "audience_relevance": 5,
+      "curiosity": 5,
+      "evidence_quality": 5,
+      "visual_feasibility": 5,
+      "series_potential": 4,
+      "familiarity": 5
+    },
+    "veo_prompt": "Vertical 9:16 view of a massive Saturn V rocket ascending into stormy dark clouds surrounded by vivid electrical lightning arcs.",
+    "score": 54.0
+  },
+  {
+    "topic": "Michael Collins Isolated Orbit on Apollo 11",
+    "pillar": "Strange but true history",
+    "series": "The Detail Nobody Remembers",
+    "role": "authority",
+    "angle": "Experiencing complete shadow and signal blackout behind the far side of the Moon",
+    "hook_idea": "Why was this Apollo 11 astronaut space's loneliest man?",
+    "viewer_benefit": "Experience the chilling reality of total human isolation during the historic Moon landing.",
     "scores": {
       "audience_relevance": 5,
       "curiosity": 4,
       "evidence_quality": 5,
       "visual_feasibility": 5,
-      "series_potential": 3,
-      "familiarity": 5
-    },
-    "veo_prompt": "Vertical 9:16 sepia Victorian city park setting showing a massive copper arm holding a torch high above top-hatted crowds in 1876.",
-    "score": 51.0
-  },
-  {
-    "topic": "Buckingham Palace Intruder Michael Fagan",
-    "pillar": "Strange but true history",
-    "series": "Unbelievably True",
-    "role": "discovery",
-    "angle": "Breaching royal security simply by walking past turned-off alarms",
-    "hook_idea": "How did an intruder sit on the Queen's bed unnoticed?",
-    "viewer_benefit": "Find out how the world's most guarded palace suffered a historic breach.",
-    "scores": {
-      "audience_relevance": 5,
-      "curiosity": 5,
-      "evidence_quality": 5,
-      "visual_feasibility": 4,
-      "series_potential": 3,
-      "familiarity": 5
-    },
-    "veo_prompt": "Vertical 9:16 moody shot of a massive 19th-century royal palace hallway at dawn, silent curtains blowing past empty security posts.",
-    "score": 50.5
-  },
-  {
-    "topic": "Mark Twain and Halley's Comet Birth and Death",
-    "pillar": "Eerie true coincidences",
-    "series": "Unbelievably True",
-    "role": "discovery",
-    "angle": "Arriving and departing Earth on the exact transit days of a comet",
-    "hook_idea": "Why did Mark Twain's birth and death match a rare cosmic event?",
-    "viewer_benefit": "Uncover the strange cosmic coincidence linking a famous author to the stars.",
-    "scores": {
-      "audience_relevance": 5,
-      "curiosity": 5,
-      "evidence_quality": 5,
-      "visual_feasibility": 4,
-      "series_potential": 3,
-      "familiarity": 5
-    },
-    "veo_prompt": "Vertical 9:16 dark night sky featuring a glowing green comet tail streaking past high atmospheric clouds over a 19th-century riverboat.",
-    "score": 50.5
-  },
-  {
-    "topic": "The 1938 War of the Worlds radio broadcast panic that was largely exaggerated by competing newspapers",
-    "pillar": "Strange but true history",
-    "series": "Unbelievably True",
-    "role": "discovery",
-    "angle": "compare a sci-fi radio play to a nationwide media fabrication",
-    "hook_idea": "Did Orson Welles' alien broadcast really cause nationwide mass panic?",
-    "viewer_benefit": "learns how newspaper rivalry manufactured a legendary historical myth",
-    "scores": {
-      "audience_relevance": 4,
-      "curiosity": 5,
-      "evidence_quality": 5,
-      "visual_feasibility": 4,
       "series_potential": 4,
       "familiarity": 5
     },
-    "veo_prompt": "Vertical 9:16 cinematic shot of an old wooden table radio glowing in a dark room, dust particles in the speaker light, vintage 1930s photo aesthetic, photoreal.",
-    "score": 50.0
+    "veo_prompt": "Vertical 9:16 shot showing the stark curved horizon of the lunar far side emerging from absolute darkness, cold metallic grey tones.",
+    "score": 52.0
   },
   {
-    "topic": "WWII Exploding Chocolate Plot against Churchill",
+    "topic": "Wilmer McLean's Civil War Coincidence",
+    "pillar": "Eerie true coincidences",
+    "series": "Unbelievably True",
+    "role": "discovery",
+    "angle": "Moving 120 miles (193 km) to escape war only for the surrender to happen in your parlor",
+    "hook_idea": "How did the Civil War start and end on one man's property?",
+    "viewer_benefit": "Discover the incredible coincidental bookends of the American Civil War.",
+    "scores": {
+      "audience_relevance": 5,
+      "curiosity": 5,
+      "evidence_quality": 5,
+      "visual_feasibility": 5,
+      "series_potential": 4,
+      "familiarity": 4
+    },
+    "veo_prompt": "Vertical 9:16 exterior shot of a historic 19th-century Virginia brick plantation home under a moody cloudy sky.",
+    "score": 52.0
+  },
+  {
+    "topic": "The Accidental Apollo 8 Earthrise Photo",
     "pillar": "Strange but true history",
     "series": "Unbelievably True",
     "role": "discovery",
-    "angle": "Steel-lined dark chocolate turned into a delayed bomb",
-    "hook_idea": "How did Nazi spies attempt to assassinate Churchill with dark chocolate?",
-    "viewer_benefit": "Learn about the bizarre covert weapons engineered during WWII.",
+    "angle": "Scrambling for color film while orbiting the Moon to capture an unplanned horizon shot",
+    "hook_idea": "How did a routine moon mission produce history’s most famous photo?",
+    "viewer_benefit": "Learn the frantic back-story behind how Earthrise was captured on Apollo 8.",
+    "scores": {
+      "audience_relevance": 5,
+      "curiosity": 4,
+      "evidence_quality": 5,
+      "visual_feasibility": 5,
+      "series_potential": 4,
+      "familiarity": 5
+    },
+    "veo_prompt": "Vertical 9:16 view of a vintage 70mm space camera pointing toward a blue glowing Earth rising over lunar crater terrain.",
+    "score": 52.0
+  },
+  {
+    "topic": "The 1916 New Jersey Creek Shark Attacks",
+    "pillar": "Strange but true history",
+    "series": "Unbelievably True",
+    "role": "discovery",
+    "angle": "An ocean predator travelling 11 miles (18 km) inland into freshwater swimming holes",
+    "hook_idea": "How did an ocean predator attack swimmers 11 miles inland?",
+    "viewer_benefit": "Discover the terrifying real event that inspired the book and film Jaws.",
+    "scores": {
+      "audience_relevance": 5,
+      "curiosity": 5,
+      "evidence_quality": 5,
+      "visual_feasibility": 5,
+      "series_potential": 4,
+      "familiarity": 4
+    },
+    "veo_prompt": "Vertical 9:16 tracking shot over murky freshwater river surface framed by dense green trees under bright summer sun.",
+    "score": 52.0
+  },
+  {
+    "topic": "The 1944 WWII Ghost Army Inflatables",
+    "pillar": "Strange but true history",
+    "series": "Unbelievably True",
+    "role": "discovery",
+    "angle": "Using 93-pound (42 kg) inflatable tanks and audio trucks to simulate two combat divisions",
+    "hook_idea": "How did rubber tanks and loudspeakers fool the German army?",
+    "viewer_benefit": "Learn how top-secret deception units saved thousands of Allied lives in Europe.",
+    "scores": {
+      "audience_relevance": 5,
+      "curiosity": 5,
+      "evidence_quality": 5,
+      "visual_feasibility": 5,
+      "series_potential": 4,
+      "familiarity": 4
+    },
+    "veo_prompt": "Vertical 9:16 side view of an inflatable olive-drab military tank sitting in a foggy European meadow at dawn.",
+    "score": 52.0
+  },
+  {
+    "topic": "Hiram Bingham's 1911 Machu Picchu Discovery",
+    "pillar": "Mysteries finally solved",
+    "series": "Unbelievably True",
+    "role": "discovery",
+    "angle": "Asking an 11-year-old local boy for directions while searching for a different city",
+    "hook_idea": "How did a local farmer lead an explorer to a forgotten city?",
+    "viewer_benefit": "See how a chance encounter revealed Peru's iconic citadel to the world.",
+    "scores": {
+      "audience_relevance": 5,
+      "curiosity": 4,
+      "evidence_quality": 5,
+      "visual_feasibility": 5,
+      "series_potential": 4,
+      "familiarity": 5
+    },
+    "veo_prompt": "Vertical 9:16 atmospheric shot looking down through thick jungle vines onto ancient stone terraces enveloped in mountain mist.",
+    "score": 52.0
+  },
+  {
+    "topic": "Tsutomu Yamaguchi Surviving Both Atomic Bombs",
+    "pillar": "Impossible survivals",
+    "series": "Survived",
+    "role": "retention",
+    "angle": "Surviving Hiroshima only to travel home to Nagasaki three days later",
+    "hook_idea": "How did one man survive both atomic bomb strikes in 1945?",
+    "viewer_benefit": "Hear the incredible documented survival story of a man who survived two nuclear blasts.",
+    "scores": {
+      "audience_relevance": 5,
+      "curiosity": 5,
+      "evidence_quality": 5,
+      "visual_feasibility": 4,
+      "series_potential": 5,
+      "familiarity": 4
+    },
+    "veo_prompt": "Vertical 9:16 wide shot looking out over a desolate post-war Japanese industrial city ruin bathed in dawn twilight, eerie atmospheric fog.",
+    "score": 50.5
+  },
+  {
+    "topic": "The 1977 Wow! Signal Radio Detection",
+    "pillar": "Mysteries finally solved",
+    "series": "Unbelievably True",
+    "role": "discovery",
+    "angle": "A 72-second narrow-band signal that matched alien transmission predictions perfectly",
+    "hook_idea": "What made an astronomer circle a radio printout and write 'Wow!'?",
+    "viewer_benefit": "Understand the true story behind deep space's most compelling radio signal.",
+    "scores": {
+      "audience_relevance": 4,
+      "curiosity": 5,
+      "evidence_quality": 5,
+      "visual_feasibility": 5,
+      "series_potential": 4,
+      "familiarity": 4
+    },
+    "veo_prompt": "Vertical 9:16 shot of a massive radio telescope dish tilted up toward a starry deep night sky, subtle blue lighting accents.",
+    "score": 50.5
+  },
+  {
+    "topic": "Harrison Schmitt's Moon Dust Allergy",
+    "pillar": "Disasters that hinged on one detail",
+    "series": "Unbelievably True",
+    "role": "discovery",
+    "angle": "Discovering you are allergic to space after stepping back into the lunar lander",
+    "hook_idea": "How did an astronaut suddenly develop an allergy to lunar dust?",
+    "viewer_benefit": "Find out the unexpected biological hazard uncovered on the last Moon landing.",
+    "scores": {
+      "audience_relevance": 4,
+      "curiosity": 5,
+      "evidence_quality": 5,
+      "visual_feasibility": 5,
+      "series_potential": 3,
+      "familiarity": 4
+    },
+    "veo_prompt": "Vertical 9:16 macro close-up of dark grey lunar dust resting on metallic space suit fabric, sharp contrast lights in vacuum setting.",
+    "score": 49.5
+  },
+  {
+    "topic": "The 1965 Gemini 3 Corned Beef Sandwich Incident",
+    "pillar": "Strange but true history",
+    "series": "The Detail Nobody Remembers",
+    "role": "authority",
+    "angle": "Smuggling a deli sandwich into zero gravity and threatening capsule instruments with crumbs",
+    "hook_idea": "Why did a single sandwich panic NASA engineers during spaceflight?",
+    "viewer_benefit": "Enjoy the bizarre true story of space exploration's first forbidden lunch.",
+    "scores": {
+      "audience_relevance": 4,
+      "curiosity": 5,
+      "evidence_quality": 5,
+      "visual_feasibility": 5,
+      "series_potential": 3,
+      "familiarity": 4
+    },
+    "veo_prompt": "Vertical 9:16 shot of vintage space capsule instrument gauges illuminated by soft indicator lights, photoreal zero-gravity space context.",
+    "score": 49.5
+  },
+  {
+    "topic": "Louis-Auguste Cyparis Surviving Mt. Pelée Eruption",
+    "pillar": "Impossible survivals",
+    "series": "Survived",
+    "role": "retention",
+    "angle": "Being thrown into solitary dungeon cell hours before a volcano destroys the city",
+    "hook_idea": "How did being locked in a dungeon cell save this man's life?",
+    "viewer_benefit": "Discover how solitary confinement in a stone jail cell saved one of three survivors.",
     "scores": {
       "audience_relevance": 4,
       "curiosity": 5,
       "evidence_quality": 5,
       "visual_feasibility": 4,
-      "series_potential": 3,
-      "familiarity": 5
+      "series_potential": 5,
+      "familiarity": 4
     },
-    "veo_prompt": "Vertical 9:16 close-up of a luxurious 1940s dark chocolate bar breaking open to reveal a hidden steel mechanical spring trigger inside.",
+    "veo_prompt": "Vertical 9:16 interior shot of a thick stone dungeon door with a tiny barred window, illuminated by harsh side shafts of sun.",
     "score": 49.0
+  },
+  {
+    "topic": "The 1944 Battle of Castle Itter",
+    "pillar": "Forgotten heroes",
+    "series": "Unbelievably True",
+    "role": "discovery",
+    "angle": "US Army units and Wehrmacht soldiers uniting to defend an Austrian castle",
+    "hook_idea": "Why did American and German soldiers fight together in World War II?",
+    "viewer_benefit": "Uncover the strange true story of enemy forces teaming up in WWII's final days.",
+    "scores": {
+      "audience_relevance": 4,
+      "curiosity": 5,
+      "evidence_quality": 5,
+      "visual_feasibility": 5,
+      "series_potential": 4,
+      "familiarity": 3
+    },
+    "veo_prompt": "Vertical 9:16 shot of a medieval stone castle perched on a lush European mountain ridge under heavy rain clouds, dramatic cinematic WWII lighting.",
+    "score": 48.5
+  },
+  {
+    "topic": "The 1942 St. Nazaire Raid Explosive Ship",
+    "pillar": "Forgotten heroes",
+    "series": "Unbelievably True",
+    "role": "discovery",
+    "angle": "Ramming a warship packed with 4.5 tons of hidden dynamite directly into dry docks",
+    "hook_idea": "Why did British commandos intentionally crash an explosive ship into enemy docks?",
+    "viewer_benefit": "Discover the daring audacity of WWII's most explosive naval sabotage mission.",
+    "scores": {
+      "audience_relevance": 4,
+      "curiosity": 5,
+      "evidence_quality": 5,
+      "visual_feasibility": 5,
+      "series_potential": 4,
+      "familiarity": 3
+    },
+    "veo_prompt": "Vertical 9:16 low-angle view of a massive steel warship bow slicing through dark harbor water at night, intense spotlight illumination.",
+    "score": 48.5
   },
   {
     "topic": "Project Corona Satellite Film Catch in Mid-Air",
@@ -190,6 +399,63 @@
     "score": 48.0
   },
   {
+    "topic": "The 1859 Carrington Event Solar Storm",
+    "pillar": "Disasters that hinged on one detail",
+    "series": "Unbelievably True",
+    "role": "discovery",
+    "angle": "Telegraph lines catching fire and sending messages with their batteries disconnected",
+    "hook_idea": "How did solar flares make telegraph machines operate without batteries?",
+    "viewer_benefit": "Understand how a massive solar storm disrupted Victorian technology in minutes.",
+    "scores": {
+      "audience_relevance": 4,
+      "curiosity": 5,
+      "evidence_quality": 5,
+      "visual_feasibility": 4,
+      "series_potential": 4,
+      "familiarity": 4
+    },
+    "veo_prompt": "Vertical 9:16 close-up of a 19th-century brass telegraph key emitting bright electrical sparks, flickering warm sepia studio lighting.",
+    "score": 48.0
+  },
+  {
+    "topic": "Juliane Koepcke's 1971 Jungle Survival",
+    "pillar": "Impossible survivals",
+    "series": "Survived",
+    "role": "retention",
+    "angle": "Falling 2 miles (3 km) out of the sky strapped into a row of airplane seats",
+    "hook_idea": "How did a teenager survive falling 10,000 feet without a parachute?",
+    "viewer_benefit": "Learn how a 17-year-old survived a mid-air plane collapse and trekked out of the Amazon.",
+    "scores": {
+      "audience_relevance": 5,
+      "curiosity": 5,
+      "evidence_quality": 5,
+      "visual_feasibility": 3,
+      "series_potential": 5,
+      "familiarity": 4
+    },
+    "veo_prompt": "Vertical 9:16 atmospheric shot of dense tropical jungle canopy viewed from high above in heavy morning mist, cinematic photoreal scale.",
+    "score": 48.0
+  },
+  {
+    "topic": "The 1941 Leningrad Seed Bank Scientists",
+    "pillar": "Forgotten heroes",
+    "series": "The Detail Nobody Remembers",
+    "role": "authority",
+    "angle": "Botanists starving surrounded by tons of edible seeds to protect crop biodiversity",
+    "hook_idea": "Why did these scientists starve to death inside a food warehouse?",
+    "viewer_benefit": "Hear the profound self-sacrifice of scientists who saved global crops during a siege.",
+    "scores": {
+      "audience_relevance": 4,
+      "curiosity": 5,
+      "evidence_quality": 5,
+      "visual_feasibility": 4,
+      "series_potential": 4,
+      "familiarity": 4
+    },
+    "veo_prompt": "Vertical 9:16 shot of glass jars filled with dried botanical seeds sitting on dusty wooden shelves in a frost-covered room.",
+    "score": 48.0
+  },
+  {
     "topic": "The 1961 flight of Ham the Chimp where a capsule malfunction exposed him to 14.7 Gs of force",
     "pillar": "Impossible survivals",
     "series": "Survived",
@@ -207,6 +473,44 @@
     },
     "veo_prompt": "Vertical 9:16 cinematic shot of the interior of a metallic Mercury space capsule instrument panel, glowing dial gauges, vintage NASA photo style, photoreal.",
     "score": 47.5
+  },
+  {
+    "topic": "The 1858 Transatlantic Cable High Voltage Failure",
+    "pillar": "Disasters that hinged on one detail",
+    "series": "The Detail Nobody Remembers",
+    "role": "authority",
+    "angle": "Blasting 2,000 volts of electricity into copper wire to force speed and destroying it",
+    "hook_idea": "How did an engineer accidentally destroy the world's first ocean cable?",
+    "viewer_benefit": "Understand the technological disaster that killed early international communications.",
+    "scores": {
+      "audience_relevance": 4,
+      "curiosity": 5,
+      "evidence_quality": 5,
+      "visual_feasibility": 4,
+      "series_potential": 3,
+      "familiarity": 4
+    },
+    "veo_prompt": "Vertical 9:16 extreme close-up of heavy copper telegraph cable under dark ocean water, bubbles rising in deep blue tone.",
+    "score": 47.0
+  },
+  {
+    "topic": "General Santa Anna's Capture at San Jacinto in 1836",
+    "pillar": "Strange but true history",
+    "series": "The Detail Nobody Remembers",
+    "role": "authority",
+    "angle": "Disguising yourself as a private soldier but being given away when prisoners salute you",
+    "hook_idea": "Why was a captured army general wearing a private soldier's uniform?",
+    "viewer_benefit": "Discover the funny tactical blunder that sealed Texas's independence battle.",
+    "scores": {
+      "audience_relevance": 4,
+      "curiosity": 5,
+      "evidence_quality": 5,
+      "visual_feasibility": 4,
+      "series_potential": 3,
+      "familiarity": 4
+    },
+    "veo_prompt": "Vertical 9:16 shot of tall Texas prairie grass swaying under bright high-noon sunlight, vintage 1830s historical aesthetic.",
+    "score": 47.0
   },
   {
     "topic": "The 1983 Able Archer 83 military exercise where NATO war games were mistaken for a real nuclear first strike",

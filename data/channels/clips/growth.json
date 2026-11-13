@@ -1,43 +1,43 @@
 {
-  "date": "2026-11-13",
-  "videos": 35,
-  "median_views_per_day": 24.1,
+  "date": "2026-11-14",
+  "videos": 37,
+  "median_views_per_day": 19.2,
   "min_sample": 5,
   "groups": {
     "slot": {
       "17:00": {
         "n": 3,
-        "median_vpd": 19.5,
+        "median_vpd": 18.5,
         "conclusive": false
       },
       "20:00": {
         "n": 3,
-        "median_vpd": 36.2,
+        "median_vpd": 34.3,
         "conclusive": false
       },
       "10:00": {
         "n": 2,
-        "median_vpd": 33.2,
+        "median_vpd": 31.3,
         "conclusive": false
       },
       "13:30": {
         "n": 2,
-        "median_vpd": 17.4,
+        "median_vpd": 16.4,
         "conclusive": false
       },
       "23:30": {
         "n": 7,
-        "median_vpd": 17.6,
+        "median_vpd": 14.7,
         "conclusive": true
       },
       "02:30": {
         "n": 1,
-        "median_vpd": 93.1,
+        "median_vpd": 87.3,
         "conclusive": false
       },
       "05:30": {
         "n": 8,
-        "median_vpd": 27.6,
+        "median_vpd": 22.6,
         "conclusive": true
       },
       "08:30": {
@@ -46,40 +46,41 @@
         "conclusive": false
       },
       "?": {
-        "n": 8,
-        "median_vpd": 27.5,
+        "n": 10,
+        "median_vpd": 29.0,
         "conclusive": true
       }
     },
     "type": {
       "discovery": {
         "n": 5,
-        "median_vpd": 33.5,
+        "median_vpd": 31.3,
         "conclusive": true
       },
       "retention": {
         "n": 6,
-        "median_vpd": 46.3,
+        "median_vpd": 43.7,
         "conclusive": true
       },
       "authority": {
         "n": 4,
-        "median_vpd": 12.9,
+        "median_vpd": 12.1,
         "conclusive": false
       },
       "?": {
-        "n": 20,
-        "median_vpd": 21.6,
+        "n": 22,
+        "median_vpd": 19.1,
         "conclusive": true
       }
     },
     "creator": {}
   },
   "type_boost": {
-    "discovery": 1.19,
+    "discovery": 1.3,
     "retention": 1.3
   },
   "recommendations": [
+    "'discovery' moments outperform (1.3×): the picker now prefers them.",
     "'retention' moments outperform (1.3×): the picker now prefers them."
   ],
   "feature_boost": {

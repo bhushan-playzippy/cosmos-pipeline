@@ -8591,26 +8591,32 @@
   {
     "folder": "docstudio_hist-greatwall",
     "topic": "Can You Really See the Great Wall From Space? #Shorts",
-    "status": "scheduled",
+    "status": "published",
     "stage": "upload",
     "role": null,
     "slot": "2026-11-13T20:00:00+05:30",
     "created": "2026-11-08T18:37:48+05:30",
     "youtube_id": "JwLbUa_kWNI",
     "reason": "docstudio animated documentary upload",
-    "privacy": "private"
+    "privacy": "public",
+    "stages": {
+      "published": "2026-11-13T23:49:24+05:30"
+    }
   },
   {
     "folder": "docstudio_hist-pripyat",
     "topic": "49,360 People Left This City in One Day #Shorts",
-    "status": "scheduled",
+    "status": "published",
     "stage": "upload",
     "role": null,
     "slot": "2026-11-13T23:30:00+05:30",
     "created": "2026-11-08T18:39:13+05:30",
     "youtube_id": "I4rOTbuuf58",
     "reason": "docstudio animated documentary upload",
-    "privacy": "private"
+    "privacy": "public",
+    "stages": {
+      "published": "2026-11-13T23:49:24+05:30"
+    }
   },
   {
     "folder": "docstudio_hist-stonehenge",
@@ -8651,14 +8657,17 @@
   {
     "folder": "docstudio_pompeii-sc-eruption",
     "topic": "The Day Vesuvius Erupted #Shorts",
-    "status": "scheduled",
+    "status": "published",
     "stage": "upload",
     "role": null,
     "slot": "2026-11-13T05:30:00+05:30",
     "created": "2026-11-08T18:48:03+05:30",
     "youtube_id": "-QSFUFyMJ4M",
     "reason": "docstudio animated documentary upload",
-    "privacy": "private"
+    "privacy": "public",
+    "stages": {
+      "published": "2026-11-13T23:49:24+05:30"
+    }
   },
   {
     "folder": "docstudio_pompeii-sc-life",
@@ -11096,5 +11105,545 @@
     "instagram_id": null,
     "stage_failed": "verify",
     "reason": "ValueError: independent check still failing after repair: With one of four boiler rooms shut down to save coal, she we (misleading); Could running all four boiler rooms have saved the Lusitania (misleading); On May 7, 1915, the RMS Lusitania was nearing the end of her (description states more than t"
+  },
+  {
+    "folder": "2026-11-13_234926_the-1912-titanic-sinking-where-the-ships-third-cla",
+    "topic": "The 1912 Titanic sinking where the ship's third-class passengers were locked behind actual iron gates",
+    "status": "failed",
+    "stage": "script",
+    "role": "discovery",
+    "slot": "2026-11-14T20:00:00+05:30",
+    "pillar": "Disasters that hinged on one detail",
+    "selection": {
+      "role": "discovery",
+      "base_score": 54.0,
+      "multiplier": 1.15,
+      "parts": {
+        "pillar_role": 1.15
+      },
+      "final": 62.1,
+      "runner_up": [
+        {
+          "topic": "The 1937 Hindenburg disaster where exterior cotton skin was ",
+          "final": 62.1
+        },
+        {
+          "topic": "Statue of Liberty Arm Exhibited in Madison Square",
+          "final": 58.65
+        }
+      ]
+    },
+    "visual_precheck": {
+      "at": "2026-11-13T23:49:26+05:30",
+      "need": 2,
+      "assets": [
+        {
+          "source": "wikimedia_commons",
+          "query": "Titanic",
+          "title": "File:RMS Titanic ready for launch, 1911.jpg",
+          "page": "https://commons.wikimedia.org/wiki/File:RMS_Titanic_ready_for_launch,_1911.jpg",
+          "license": "Public domain",
+          "license_evidence": "Commons file metadata (extmetadata.LicenseShortName)",
+          "date": "Taken in May 1911",
+          "downloaded": true,
+          "bytes": 873299,
+          "relevance": "file title shares the query's distinctive words",
+          "asset_id": "commons:4458573"
+        },
+        {
+          "source": "wikimedia_commons",
+          "query": "Titanic",
+          "title": "File:RMS Titanic 3.jpg",
+          "page": "https://commons.wikimedia.org/wiki/File:RMS_Titanic_3.jpg",
+          "license": "Public domain",
+          "license_evidence": "Commons file metadata (extmetadata.LicenseShortName)",
+          "date": "10 April 1912 date QS:P571,+1912-04-10T00:00:00Z/11 ",
+          "downloaded": true,
+          "bytes": 893884,
+          "relevance": "file title shares the query's distinctive words",
+          "asset_id": "commons:2990792"
+        }
+      ]
+    },
+    "created": "2026-11-13T23:49:26+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "stage_failed": "research",
+    "reason": "Unsupported: research: the sources don't support this story (The research notes do not support the premise that third-class passengers were actually locked behind iron gates during the sinking. Note [20] explicitly states)"
+  },
+  {
+    "folder": "2026-11-13_234945_the-1937-hindenburg-disaster-where-exterior-cotton",
+    "topic": "The 1937 Hindenburg disaster where exterior cotton skin was coated in highly flammable rocket fuel components",
+    "status": "failed",
+    "stage": "script",
+    "role": "discovery",
+    "slot": "2026-11-14T20:00:00+05:30",
+    "pillar": "Disasters that hinged on one detail",
+    "selection": {
+      "role": "discovery",
+      "base_score": 54.0,
+      "multiplier": 1.15,
+      "parts": {
+        "pillar_role": 1.15
+      },
+      "final": 62.1,
+      "runner_up": [
+        {
+          "topic": "Statue of Liberty Arm Exhibited in Madison Square",
+          "final": 58.65
+        },
+        {
+          "topic": "Buckingham Palace Intruder Michael Fagan",
+          "final": 58.07
+        }
+      ]
+    },
+    "visual_precheck": {
+      "at": "2026-11-13T23:49:45+05:30",
+      "need": 2,
+      "assets": [
+        {
+          "source": "wikimedia_commons",
+          "query": "Hindenburg",
+          "title": "File:Hindenburg disaster, 1937.jpg",
+          "page": "https://commons.wikimedia.org/wiki/File:Hindenburg_disaster,_1937.jpg",
+          "license": "Public domain",
+          "license_evidence": "Commons file metadata (extmetadata.LicenseShortName)",
+          "date": " Original:   6 May 1937;   This version:   24 December 1956",
+          "downloaded": true,
+          "bytes": 1167745,
+          "relevance": "file title shares the query's distinctive words",
+          "asset_id": "commons:27765273"
+        },
+        {
+          "source": "wikimedia_commons",
+          "query": "Hindenburg",
+          "title": "File:Paul von Hindenburg (1914) von Nicola Perscheid.jpg",
+          "page": "https://commons.wikimedia.org/wiki/File:Paul_von_Hindenburg_(1914)_von_Nicola_Perscheid.jpg",
+          "license": "Public domain",
+          "license_evidence": "Commons file metadata (extmetadata.LicenseShortName)",
+          "date": "1914",
+          "downloaded": true,
+          "bytes": 1722155,
+          "relevance": "file title shares the query's distinctive words",
+          "asset_id": "commons:48026107"
+        }
+      ]
+    },
+    "created": "2026-11-13T23:49:45+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "stage_failed": "verify",
+    "reason": "ValueError: independent check still failing after repair: The hydrogen-filled airship caught fire while attempting to  (no independent value for a narrated number); 32 in: This airship burned completely in thirty-two to thirt (number not checked (no ledger entry states it)); 37 s in: This airship bu"
+  },
+  {
+    "folder": "2026-11-14_005954_mark-twain-and-halleys-comet-birth-and-death",
+    "topic": "Mark Twain and Halley's Comet Birth and Death",
+    "status": "failed",
+    "stage": "script",
+    "role": "discovery",
+    "slot": "2026-11-14T20:00:00+05:30",
+    "pillar": "Eerie true coincidences",
+    "selection": {
+      "role": "discovery",
+      "base_score": 50.5,
+      "multiplier": 1.15,
+      "parts": {
+        "pillar_role": 1.15
+      },
+      "final": 58.07,
+      "runner_up": [
+        {
+          "topic": "The 1938 War of the Worlds radio broadcast panic that was la",
+          "final": 57.5
+        },
+        {
+          "topic": "WWII Exploding Chocolate Plot against Churchill",
+          "final": 56.35
+        }
+      ]
+    },
+    "visual_precheck": {
+      "at": "2026-11-14T00:59:54+05:30",
+      "need": 2,
+      "assets": [
+        {
+          "source": "wikimedia_commons",
+          "query": "Mark Twain Halley",
+          "title": "File:Mark Twain by AF Bradley.jpg",
+          "page": "https://commons.wikimedia.org/wiki/File:Mark_Twain_by_AF_Bradley.jpg",
+          "license": "Public domain",
+          "license_evidence": "Commons file metadata (extmetadata.LicenseShortName)",
+          "date": "1907",
+          "downloaded": true,
+          "bytes": 111744,
+          "relevance": "file title shares the query's distinctive words",
+          "asset_id": "commons:11351079"
+        },
+        {
+          "source": "wikimedia_commons",
+          "query": "Mark Twain Halley",
+          "title": "File:Mark Twain 1907.jpg",
+          "page": "https://commons.wikimedia.org/wiki/File:Mark_Twain_1907.jpg",
+          "license": "Public domain",
+          "license_evidence": "Commons file metadata (extmetadata.LicenseShortName)",
+          "date": "Copyright 1907",
+          "downloaded": true,
+          "bytes": 212995,
+          "relevance": "file title shares the query's distinctive words",
+          "asset_id": "commons:3488440"
+        }
+      ]
+    },
+    "created": "2026-11-14T00:59:54+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "stage_failed": "verify",
+    "reason": "ValueError: independent check still failing after repair: That quotation inspired the 1985 claymation fantasy film whe (wrong); 1835 in: Twain was born on November 30, 1835, about two week (number not checked (no ledger entry states it)); 2 in: Twain was born on November 30, 1835, about two weeks a "
+  },
+  {
+    "folder": "2026-11-14_010136_the-1938-war-of-the-worlds-radio-broadcast-panic-t",
+    "topic": "The 1938 War of the Worlds radio broadcast panic that was largely exaggerated by competing newspapers",
+    "status": "failed",
+    "stage": "script",
+    "role": "discovery",
+    "slot": "2026-11-14T20:00:00+05:30",
+    "pillar": "Strange but true history",
+    "selection": {
+      "role": "discovery",
+      "base_score": 50.0,
+      "multiplier": 1.15,
+      "parts": {
+        "pillar_role": 1.15
+      },
+      "final": 57.5,
+      "runner_up": [
+        {
+          "topic": "WWII Exploding Chocolate Plot against Churchill",
+          "final": 56.35
+        },
+        {
+          "topic": "Project Corona Satellite Film Catch in Mid-Air",
+          "final": 55.2
+        }
+      ]
+    },
+    "visual_precheck": {
+      "at": "2026-11-14T01:01:36+05:30",
+      "need": 2,
+      "assets": [
+        {
+          "source": "wikimedia_commons",
+          "query": "war worlds radio",
+          "title": "File:Orson Welles War of the Worlds 1938.jpg",
+          "page": "https://commons.wikimedia.org/wiki/File:Orson_Welles_War_of_the_Worlds_1938.jpg",
+          "license": "Public domain",
+          "license_evidence": "Commons file metadata (extmetadata.LicenseShortName)",
+          "date": "1938-10-31",
+          "downloaded": true,
+          "bytes": 937469,
+          "relevance": "file title shares the query's distinctive words",
+          "asset_id": "commons:37849780"
+        },
+        {
+          "source": "wikimedia_commons",
+          "query": "war worlds radio",
+          "title": "File:Orson Welles 1938 War of the Worlds.jpg",
+          "page": "https://commons.wikimedia.org/wiki/File:Orson_Welles_1938_War_of_the_Worlds.jpg",
+          "license": "Public domain",
+          "license_evidence": "Commons file metadata (extmetadata.LicenseShortName)",
+          "date": "1938-11-04",
+          "downloaded": true,
+          "bytes": 378403,
+          "relevance": "file title shares the query's distinctive words",
+          "asset_id": "commons:57894409"
+        }
+      ]
+    },
+    "created": "2026-11-14T01:01:36+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "stage_failed": "research",
+    "reason": "Unsupported: research: the sources don't support this story (The provided research notes do not contain any information about newspapers exaggerating the 1938 radio broadcast panic or it being a media fabrication.)"
+  },
+  {
+    "folder": "2026-11-14_010254_julius-caesar-captured-by-cilician-pirates",
+    "topic": "Julius Caesar Captured by Cilician Pirates",
+    "status": "failed",
+    "stage": "script",
+    "role": "discovery",
+    "slot": "2026-11-14T20:00:00+05:30",
+    "pillar": "Strange but true history",
+    "selection": {
+      "role": "discovery",
+      "base_score": 54.0,
+      "multiplier": 1.15,
+      "parts": {
+        "pillar_role": 1.15
+      },
+      "final": 62.1,
+      "runner_up": [
+        {
+          "topic": "The 1914 Western Front Christmas Truce",
+          "final": 62.1
+        },
+        {
+          "topic": "Wilmer McLean's Civil War Coincidence",
+          "final": 59.8
+        }
+      ]
+    },
+    "visual_precheck": {
+      "at": "2026-11-14T01:02:54+05:30",
+      "need": 2,
+      "assets": [
+        {
+          "source": "wikimedia_commons",
+          "query": "Julius Caesar Captured",
+          "title": "File:George Kleine presents Julius Caesar The magnificent photo spectacle in six parts. LCCN2015645289.jpg",
+          "page": "https://commons.wikimedia.org/wiki/File:George_Kleine_presents_Julius_Caesar_The_magnificent_photo_spectacle_in_six_parts._LCCN2015645289.jpg",
+          "license": "Public domain",
+          "license_evidence": "Commons file metadata (extmetadata.LicenseShortName)",
+          "date": "1914",
+          "downloaded": true,
+          "bytes": 2255582,
+          "relevance": "file title shares the query's distinctive words",
+          "asset_id": "commons:68022104"
+        },
+        {
+          "source": "wikimedia_commons",
+          "query": "Julius Caesar Captured",
+          "title": "File:George Kleine presents Julius Caesar The magnificent photo spectacle in six parts. LCCN2015645289.tif",
+          "page": "https://commons.wikimedia.org/wiki/File:George_Kleine_presents_Julius_Caesar_The_magnificent_photo_spectacle_in_six_parts._LCCN2015645289.tif",
+          "license": "Public domain",
+          "license_evidence": "Commons file metadata (extmetadata.LicenseShortName)",
+          "date": "1914",
+          "downloaded": true,
+          "bytes": 1709330,
+          "relevance": "file title shares the query's distinctive words",
+          "asset_id": "commons:68022139"
+        }
+      ]
+    },
+    "created": "2026-11-14T01:02:54+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "stage_failed": "research",
+    "reason": "Unsupported: research: the sources don't support this story (The provided research notes mention that Caesar was freed after paying a ransom of fifty talents and returned with a fleet to capture the pirates, but they do n)"
+  },
+  {
+    "folder": "2026-11-14_010305_the-1914-western-front-christmas-truce",
+    "topic": "The 1914 Western Front Christmas Truce",
+    "status": "failed",
+    "stage": "script",
+    "role": "discovery",
+    "slot": "2026-11-14T20:00:00+05:30",
+    "pillar": "Forgotten heroes",
+    "selection": {
+      "role": "discovery",
+      "base_score": 54.0,
+      "multiplier": 1.15,
+      "parts": {
+        "pillar_role": 1.15
+      },
+      "final": 62.1,
+      "runner_up": [
+        {
+          "topic": "Wilmer McLean's Civil War Coincidence",
+          "final": 59.8
+        },
+        {
+          "topic": "The Accidental Apollo 8 Earthrise Photo",
+          "final": 59.8
+        }
+      ]
+    },
+    "visual_precheck": {
+      "at": "2026-11-14T01:03:05+05:30",
+      "need": 2,
+      "assets": [
+        {
+          "source": "wikimedia_commons",
+          "query": "Western Front Christmas",
+          "title": "File:The Christmas Truce on the Western Front, 1914 Q50720.jpg",
+          "page": "https://commons.wikimedia.org/wiki/File:The_Christmas_Truce_on_the_Western_Front,_1914_Q50720.jpg",
+          "license": "Public domain",
+          "license_evidence": "Commons file metadata (extmetadata.LicenseShortName)",
+          "date": "25 December 1914 (First World War)",
+          "downloaded": true,
+          "bytes": 127713,
+          "relevance": "file title shares the query's distinctive words",
+          "asset_id": "commons:39780945"
+        },
+        {
+          "source": "wikimedia_commons",
+          "query": "Western Front Christmas",
+          "title": "File:I Was There with the Yanks on the Western Front, 118h.jpg",
+          "page": "https://commons.wikimedia.org/wiki/File:I_Was_There_with_the_Yanks_on_the_Western_Front,_118h.jpg",
+          "license": "Public domain",
+          "license_evidence": "Commons file metadata (extmetadata.LicenseShortName)",
+          "date": "1919",
+          "downloaded": true,
+          "bytes": 697237,
+          "relevance": "file title shares the query's distinctive words",
+          "asset_id": "commons:3717835"
+        }
+      ]
+    },
+    "created": "2026-11-14T01:03:05+05:30",
+    "stages": {
+      "script": "2026-11-14T01:05:12+05:30"
+    },
+    "youtube_id": null,
+    "instagram_id": null,
+    "stage_failed": "voice",
+    "reason": "RuntimeError: Edge TTS failed 5 times",
+    "resumable": true
+  },
+  {
+    "folder": "2026-11-14_010900_the-1914-western-front-christmas-truce",
+    "topic": "The 1914 Western Front Christmas Truce",
+    "status": "failed",
+    "stage": "script",
+    "role": "discovery",
+    "slot": "2026-11-14T20:00:00+05:30",
+    "pillar": "Forgotten heroes",
+    "selection": {
+      "role": "discovery",
+      "base_score": 54.0,
+      "multiplier": 1.15,
+      "parts": {
+        "pillar_role": 1.15
+      },
+      "final": 62.1,
+      "runner_up": [
+        {
+          "topic": "Wilmer McLean's Civil War Coincidence",
+          "final": 59.8
+        },
+        {
+          "topic": "The Accidental Apollo 8 Earthrise Photo",
+          "final": 59.8
+        }
+      ]
+    },
+    "visual_precheck": {
+      "at": "2026-11-14T01:09:00+05:30",
+      "need": 2,
+      "assets": [
+        {
+          "source": "wikimedia_commons",
+          "query": "Western Front Christmas",
+          "title": "File:The Christmas Truce on the Western Front, 1914 Q50720.jpg",
+          "page": "https://commons.wikimedia.org/wiki/File:The_Christmas_Truce_on_the_Western_Front,_1914_Q50720.jpg",
+          "license": "Public domain",
+          "license_evidence": "Commons file metadata (extmetadata.LicenseShortName)",
+          "date": "25 December 1914 (First World War)",
+          "downloaded": true,
+          "bytes": 127713,
+          "relevance": "file title shares the query's distinctive words",
+          "asset_id": "commons:39780945"
+        },
+        {
+          "source": "wikimedia_commons",
+          "query": "Western Front Christmas",
+          "title": "File:I Was There with the Yanks on the Western Front, 118h.jpg",
+          "page": "https://commons.wikimedia.org/wiki/File:I_Was_There_with_the_Yanks_on_the_Western_Front,_118h.jpg",
+          "license": "Public domain",
+          "license_evidence": "Commons file metadata (extmetadata.LicenseShortName)",
+          "date": "1919",
+          "downloaded": true,
+          "bytes": 697237,
+          "relevance": "file title shares the query's distinctive words",
+          "asset_id": "commons:3717835"
+        }
+      ]
+    },
+    "created": "2026-11-14T01:09:00+05:30",
+    "stages": {
+      "script": "2026-11-14T01:09:00+05:30"
+    },
+    "youtube_id": null,
+    "instagram_id": null,
+    "stage_failed": "voice",
+    "reason": "RuntimeError: Edge TTS failed 5 times",
+    "resumable": true
+  },
+  {
+    "folder": "2026-11-14_011451_the-1914-western-front-christmas-truce",
+    "topic": "The 1914 Western Front Christmas Truce",
+    "status": "quarantined",
+    "stage": "script",
+    "role": "discovery",
+    "slot": "2026-11-14T20:00:00+05:30",
+    "pillar": "Forgotten heroes",
+    "selection": {
+      "role": "discovery",
+      "base_score": 54.0,
+      "multiplier": 1.15,
+      "parts": {
+        "pillar_role": 1.15
+      },
+      "final": 62.1,
+      "runner_up": [
+        {
+          "topic": "Wilmer McLean's Civil War Coincidence",
+          "final": 59.8
+        },
+        {
+          "topic": "The Accidental Apollo 8 Earthrise Photo",
+          "final": 59.8
+        }
+      ]
+    },
+    "visual_precheck": {
+      "at": "2026-11-14T01:12:45+05:30",
+      "need": 2,
+      "assets": [
+        {
+          "source": "wikimedia_commons",
+          "query": "Western Front Christmas",
+          "title": "File:The Christmas Truce on the Western Front, 1914 Q50720.jpg",
+          "page": "https://commons.wikimedia.org/wiki/File:The_Christmas_Truce_on_the_Western_Front,_1914_Q50720.jpg",
+          "license": "Public domain",
+          "license_evidence": "Commons file metadata (extmetadata.LicenseShortName)",
+          "date": "25 December 1914 (First World War)",
+          "downloaded": true,
+          "bytes": 127713,
+          "relevance": "file title shares the query's distinctive words",
+          "asset_id": "commons:39780945"
+        },
+        {
+          "source": "wikimedia_commons",
+          "query": "Western Front Christmas",
+          "title": "File:I Was There with the Yanks on the Western Front, 118h.jpg",
+          "page": "https://commons.wikimedia.org/wiki/File:I_Was_There_with_the_Yanks_on_the_Western_Front,_118h.jpg",
+          "license": "Public domain",
+          "license_evidence": "Commons file metadata (extmetadata.LicenseShortName)",
+          "date": "1919",
+          "downloaded": true,
+          "bytes": 697237,
+          "relevance": "file title shares the query's distinctive words",
+          "asset_id": "commons:3717835"
+        }
+      ]
+    },
+    "created": "2026-11-14T01:14:51+05:30",
+    "stages": {
+      "script": "2026-11-14T01:14:51+05:30",
+      "render": "2026-11-14T01:15:52+05:30",
+      "gates": "2026-11-14T01:16:13+05:30"
+    },
+    "youtube_id": null,
+    "instagram_id": null,
+    "reason": "quality gate: real visuals",
+    "stage_failed": null,
+    "title": "1914 Christmas Truce: Enemies Played Football",
+    "music": "archive-dm.m4a"
   }
 ]
