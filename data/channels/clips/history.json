@@ -10704,5 +10704,397 @@
     "instagram_id": null,
     "stage_failed": "verify",
     "reason": "ValueError: independent check still failing after repair: A 1985 search found her debris field (misleading)"
+  },
+  {
+    "folder": "2026-11-13_042047_robert-smalls-the-enslaved-sailor-who-sailed-a-con",
+    "topic": "Robert Smalls, the enslaved sailor who sailed a Confederate ship past Fort Sumter to freedom in 1862",
+    "status": "failed",
+    "stage": "script",
+    "role": "authority",
+    "slot": "2026-11-13T20:00:00+05:30",
+    "pillar": "Forgotten heroes",
+    "selection": {
+      "role": "authority",
+      "base_score": 57.0,
+      "multiplier": 1.15,
+      "parts": {
+        "pillar_role": 1.15
+      },
+      "final": 65.55,
+      "runner_up": [
+        {
+          "topic": "Robert Lincoln Saved by Edwin Booth",
+          "final": 62.1
+        },
+        {
+          "topic": "Golden Gate Bridge Opening Pedestrian Congestion",
+          "final": 62.1
+        }
+      ]
+    },
+    "visual_precheck": {
+      "at": "2026-11-13T04:20:47+05:30",
+      "need": 2,
+      "assets": [
+        {
+          "source": "wikimedia_commons",
+          "query": "Robert Smalls Confederate",
+          "title": "File:USS Robert Smalls CG-62 ship seal.jpg",
+          "page": "https://commons.wikimedia.org/wiki/File:USS_Robert_Smalls_CG-62_ship_seal.jpg",
+          "license": "Public domain",
+          "license_evidence": "Commons file metadata (extmetadata.LicenseShortName)",
+          "date": "2023-12-02 13:06:58",
+          "downloaded": true,
+          "bytes": 349134,
+          "relevance": "file title shares the query's distinctive words",
+          "asset_id": "commons:141624541"
+        },
+        {
+          "source": "wikimedia_commons",
+          "query": "Robert Smalls Confederate",
+          "title": "File:Robert Smalls, captain of the gun-boat \"Planter\" The gun-boat \"Planter,\" run out of Charleston, S.C., by Robert Smalls, May 1862. LCCN97512451 Trim.jpg",
+          "page": "https://commons.wikimedia.org/wiki/File:Robert_Smalls,_captain_of_the_gun-boat_%22Planter%22_The_gun-boat_%22Planter,%22_run_out_of_Charleston,_S.C.,_by_Robert_Smalls,_May_1862._LCCN97512451_Trim.jpg",
+          "license": "Public domain",
+          "license_evidence": "Commons file metadata (extmetadata.LicenseShortName)",
+          "date": "1862",
+          "downloaded": true,
+          "bytes": 994402,
+          "relevance": "file title shares the query's distinctive words",
+          "asset_id": "commons:176567349"
+        }
+      ]
+    },
+    "created": "2026-11-13T04:20:47+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "stage_failed": "verify",
+    "reason": "ValueError: independent check still failing after repair: He wore the captain's straw hat and copied his manners to fo (motive with no document stating it (only indirect); a model's word isn't enough)"
+  },
+  {
+    "folder": "2026-11-13_045309_robert-lincoln-saved-by-edwin-booth",
+    "topic": "Robert Lincoln Saved by Edwin Booth",
+    "status": "failed",
+    "stage": "script",
+    "role": "authority",
+    "slot": "2026-11-13T20:00:00+05:30",
+    "pillar": "Eerie true coincidences",
+    "selection": {
+      "role": "authority",
+      "base_score": 54.0,
+      "multiplier": 1.15,
+      "parts": {
+        "pillar_role": 1.15
+      },
+      "final": 62.1,
+      "runner_up": [
+        {
+          "topic": "Golden Gate Bridge Opening Pedestrian Congestion",
+          "final": 62.1
+        },
+        {
+          "topic": "The 1937 Amelia Earhart disappearance where her final radio ",
+          "final": 60.37
+        }
+      ]
+    },
+    "visual_precheck": {
+      "at": "2026-11-13T04:53:09+05:30",
+      "need": 2,
+      "assets": [
+        {
+          "source": "wikimedia_commons",
+          "query": "Robert Lincoln Saved",
+          "title": "File:Robert Todd Lincoln, Brady-Handy bw photo portrait, ca1870-1880.jpg",
+          "page": "https://commons.wikimedia.org/wiki/File:Robert_Todd_Lincoln,_Brady-Handy_bw_photo_portrait,_ca1870-1880.jpg",
+          "license": "Public domain",
+          "license_evidence": "Commons file metadata (extmetadata.LicenseShortName)",
+          "date": "between circa 1870 and circa 1880 date QS:P,+1850-00-00T00:0",
+          "downloaded": true,
+          "bytes": 1097926,
+          "relevance": "file title shares the query's distinctive words",
+          "asset_id": "commons:897027"
+        },
+        {
+          "source": "wikimedia_commons",
+          "query": "Robert Lincoln Saved",
+          "title": "File:Robert Todd Lincoln - Harris and Ewing.jpg",
+          "page": "https://commons.wikimedia.org/wiki/File:Robert_Todd_Lincoln_-_Harris_and_Ewing.jpg",
+          "license": "Public domain",
+          "license_evidence": "Commons file metadata (extmetadata.LicenseShortName)",
+          "date": null,
+          "downloaded": true,
+          "bytes": 918697,
+          "relevance": "file title shares the query's distinctive words",
+          "asset_id": "commons:9863088"
+        }
+      ]
+    },
+    "created": "2026-11-13T04:53:09+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "stage_failed": "verify",
+    "reason": "ValueError: independent check still failing after repair: Biographical accounts say knowing whom he saved brought Edwi (attribution with no document stating it; a model's word isn't enough); Biographical accounts say it brought the brother of Lincoln' (attribution with no document stating it; a mode"
+  },
+  {
+    "folder": "2026-11-13_051444_the-1937-amelia-earhart-disappearance-where-her-fi",
+    "topic": "The 1937 Amelia Earhart disappearance where her final radio transmissions revealed she was hopelessly lost searching for a tiny Pacific island",
+    "status": "failed",
+    "stage": "script",
+    "role": "authority",
+    "slot": "2026-11-13T20:00:00+05:30",
+    "pillar": "Mysteries finally solved",
+    "selection": {
+      "role": "authority",
+      "base_score": 52.5,
+      "multiplier": 1.15,
+      "parts": {
+        "pillar_role": 1.15
+      },
+      "final": 60.37,
+      "runner_up": [
+        {
+          "topic": "Statue of Liberty Arm Exhibited in Madison Square",
+          "final": 58.65
+        },
+        {
+          "topic": "Buckingham Palace Intruder Michael Fagan",
+          "final": 58.07
+        }
+      ]
+    },
+    "visual_precheck": {
+      "at": "2026-11-13T05:14:44+05:30",
+      "need": 2,
+      "assets": [
+        {
+          "source": "wikimedia_commons",
+          "query": "Amelia Earhart Pacific",
+          "title": "File:AMELIA EARHART AND MRS. FRANKLIN ROOSEVELT.jpg",
+          "page": "https://commons.wikimedia.org/wiki/File:AMELIA_EARHART_AND_MRS._FRANKLIN_ROOSEVELT.jpg",
+          "license": "Public domain",
+          "license_evidence": "Commons file metadata (extmetadata.LicenseShortName)",
+          "date": "[1935]",
+          "downloaded": true,
+          "bytes": 233117,
+          "relevance": "file title shares the query's distinctive words",
+          "asset_id": "commons:27940542"
+        },
+        {
+          "source": "wikimedia_commons",
+          "query": "Amelia Earhart Pacific",
+          "title": "File:Lockheed Vega 5B, Amelia Earhart - DPLA - 17901a4d2c93d49987e58e0b46efd42c (page 12).jpg",
+          "page": "https://commons.wikimedia.org/wiki/File:Lockheed_Vega_5B,_Amelia_Earhart_-_DPLA_-_17901a4d2c93d49987e58e0b46efd42c_(page_12).jpg",
+          "license": "CC0",
+          "license_evidence": "Commons file metadata (extmetadata.LicenseShortName)",
+          "date": "1927-1929",
+          "downloaded": true,
+          "bytes": 656766,
+          "relevance": "file title shares the query's distinctive words",
+          "asset_id": "commons:136914868"
+        }
+      ]
+    },
+    "created": "2026-11-13T05:14:44+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "stage_failed": "verify",
+    "reason": "ValueError: independent check still failing after repair: Some theorize Earhart flew silent toward Gardner Island (attribution with no document stating it; a model's word isn't enough); Some theorize that course would take them past Baker Island (attribution with no document stating it (only indirec"
+  },
+  {
+    "folder": "2026-11-13_053958_the-1969-apollo-11-moon-landing-where-a-radar-over",
+    "topic": "The 1969 Apollo 11 moon landing where a radar overload error nearly aborted the mission at 3 minutes",
+    "status": "failed",
+    "stage": "script",
+    "role": "authority",
+    "slot": "2026-11-13T20:00:00+05:30",
+    "pillar": "Mysteries finally solved",
+    "selection": {
+      "role": "authority",
+      "base_score": 55.0,
+      "multiplier": 1.0,
+      "parts": {
+        "pillar_role": 1.0
+      },
+      "final": 55.0,
+      "runner_up": [
+        {
+          "topic": "The 1944 D-Day landings where British commandos used a weath",
+          "final": 46.0
+        },
+        {
+          "topic": "The 1915 sinking of the RMS Lusitania where the captain igno",
+          "final": 46.0
+        }
+      ]
+    },
+    "visual_precheck": {
+      "at": "2026-11-13T05:39:58+05:30",
+      "need": 2,
+      "assets": [
+        {
+          "source": "wikimedia_commons",
+          "query": "Apollo",
+          "title": "File:Apollo 11 Launch2.jpg",
+          "page": "https://commons.wikimedia.org/wiki/File:Apollo_11_Launch2.jpg",
+          "license": "Public domain",
+          "license_evidence": "Commons file metadata (extmetadata.LicenseShortName)",
+          "date": "Taken on 16 July 1969",
+          "downloaded": true,
+          "bytes": 1659194,
+          "relevance": "file title shares the query's distinctive words",
+          "asset_id": "commons:6739626"
+        },
+        {
+          "source": "wikimedia_commons",
+          "query": "Apollo",
+          "title": "File:NASA Apollo 17 Lunar Roving Vehicle.jpg",
+          "page": "https://commons.wikimedia.org/wiki/File:NASA_Apollo_17_Lunar_Roving_Vehicle.jpg",
+          "license": "Public domain",
+          "license_evidence": "Commons file metadata (extmetadata.LicenseShortName)",
+          "date": "12 December 1972",
+          "downloaded": true,
+          "bytes": 1243104,
+          "relevance": "file title shares the query's distinctive words",
+          "asset_id": "commons:12872"
+        }
+      ]
+    },
+    "created": "2026-11-13T05:39:58+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "stage_failed": "verify",
+    "reason": "ValueError: independent check still failing after repair: Five minutes into descent, about 33,000 feet (roughly 10 km) (contradicted by https://en.wikipedia.org/wiki/Apollo_11: \"Five minutes into the ); Unexpected 1201 and 1202 program alarms appeared about 33,00 (contradicted by https://en.wikipedi"
+  },
+  {
+    "folder": "2026-11-13_062155_the-1944-d-day-landings-where-british-commandos-us",
+    "topic": "The 1944 D-Day landings where British commandos used a weather forecast hidden in a crossword puzzle",
+    "status": "failed",
+    "stage": "script",
+    "role": "authority",
+    "slot": "2026-11-13T20:00:00+05:30",
+    "pillar": "Strange but true history",
+    "selection": {
+      "role": "authority",
+      "base_score": 46.0,
+      "multiplier": 1.0,
+      "parts": {
+        "pillar_role": 1.0
+      },
+      "final": 46.0,
+      "runner_up": [
+        {
+          "topic": "The 1915 sinking of the RMS Lusitania where the captain igno",
+          "final": 46.0
+        },
+        {
+          "topic": "The 1983 Able Archer 83 military exercise where NATO war gam",
+          "final": 46.0
+        }
+      ]
+    },
+    "visual_precheck": {
+      "at": "2026-11-13T06:21:55+05:30",
+      "need": 2,
+      "assets": [
+        {
+          "source": "wikimedia_commons",
+          "query": "D-Day British",
+          "title": "File:British D-Day assault area.jpg",
+          "page": "https://commons.wikimedia.org/wiki/File:British_D-Day_assault_area.jpg",
+          "license": "Public domain",
+          "license_evidence": "Commons file metadata (extmetadata.LicenseShortName)",
+          "date": "1945-11",
+          "downloaded": true,
+          "bytes": 643289,
+          "relevance": "file title shares the query's distinctive words",
+          "asset_id": "commons:65511611"
+        },
+        {
+          "source": "wikimedia_commons",
+          "query": "D-Day British",
+          "title": "File:D-day - British Forces during the Invasion of Normandy 6 June 1944 B5110.jpg",
+          "page": "https://commons.wikimedia.org/wiki/File:D-day_-_British_Forces_during_the_Invasion_of_Normandy_6_June_1944_B5110.jpg",
+          "license": "Public domain",
+          "license_evidence": "Commons file metadata (extmetadata.LicenseShortName)",
+          "date": "between 1939 and 1945 date QS:P571,+1950-00-00T00:00:00Z/7,P",
+          "downloaded": true,
+          "bytes": 770756,
+          "relevance": "file title shares the query's distinctive words",
+          "asset_id": "commons:31656114"
+        }
+      ]
+    },
+    "created": "2026-11-13T06:21:55+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "stage_failed": "research",
+    "reason": "Unsupported: research: the sources don't support this story (The research notes mention only a 'D-Day Daily Telegraph crossword security alarm' as a topic heading (note 26) but contain no factual details about passwords, )"
+  },
+  {
+    "folder": "2026-11-13_062232_the-1915-sinking-of-the-rms-lusitania-where-the-ca",
+    "topic": "The 1915 sinking of the RMS Lusitania where the captain ignored zig-zag maneuvers to save coal",
+    "status": "failed",
+    "stage": "script",
+    "role": "authority",
+    "slot": "2026-11-13T20:00:00+05:30",
+    "pillar": "Disasters that hinged on one detail",
+    "selection": {
+      "role": "authority",
+      "base_score": 46.0,
+      "multiplier": 1.0,
+      "parts": {
+        "pillar_role": 1.0
+      },
+      "final": 46.0,
+      "runner_up": [
+        {
+          "topic": "The 1983 Able Archer 83 military exercise where NATO war gam",
+          "final": 46.0
+        }
+      ]
+    },
+    "visual_precheck": {
+      "at": "2026-11-13T06:22:32+05:30",
+      "need": 2,
+      "assets": [
+        {
+          "source": "wikimedia_commons",
+          "query": "RMS Lusitania",
+          "title": "File:RMS Lusitania coming into port, possibly in New York, 1907-13-crop.jpg",
+          "page": "https://commons.wikimedia.org/wiki/File:RMS_Lusitania_coming_into_port,_possibly_in_New_York,_1907-13-crop.jpg",
+          "license": "Public domain",
+          "license_evidence": "Commons file metadata (extmetadata.LicenseShortName)",
+          "date": "between 1907 and 1913 date QS:P,+1950-00-00T00:00:00Z/7,P131",
+          "downloaded": true,
+          "bytes": 547313,
+          "relevance": "file title shares the query's distinctive words",
+          "asset_id": "commons:9587232"
+        },
+        {
+          "source": "wikimedia_commons",
+          "query": "RMS Lusitania",
+          "title": "File:RMS Lusitania Wireless Room.jpg",
+          "page": "https://commons.wikimedia.org/wiki/File:RMS_Lusitania_Wireless_Room.jpg",
+          "license": "Public domain",
+          "license_evidence": "Commons file metadata (extmetadata.LicenseShortName)",
+          "date": "Between 1907 and circa 1913",
+          "downloaded": true,
+          "bytes": 566093,
+          "relevance": "file title shares the query's distinctive words",
+          "asset_id": "commons:98588103"
+        }
+      ]
+    },
+    "created": "2026-11-13T06:22:32+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "stage_failed": "verify",
+    "reason": "ValueError: independent check still failing after repair: With one of four boiler rooms shut down to save coal, she we (misleading); Could running all four boiler rooms have saved the Lusitania (misleading); On May 7, 1915, the RMS Lusitania was nearing the end of her (description states more than t"
   }
 ]

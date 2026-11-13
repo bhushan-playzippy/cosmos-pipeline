@@ -1,463 +1,50 @@
 [
   {
-    "topic": "Robert Smalls, the enslaved sailor who sailed a Confederate ship past Fort Sumter to freedom in 1862",
-    "pillar": "Forgotten heroes",
-    "series": "Unbelievably True",
-    "role": "discovery",
-    "angle": "A stolen warship, a captain's hat, and the right signals",
-    "hook_idea": "He stole a Confederate warship and sailed to freedom.",
-    "viewer_benefit": "How Robert Smalls freed his family and later served in Congress.",
+    "topic": "Apollo 11's return journey where a broken circuit breaker switch was repaired with a felt-tip pen",
+    "pillar": "Impossible survivals",
+    "series": "Survived",
+    "role": "retention",
+    "angle": "compare a billion-dollar spacecraft to a standard office pen",
+    "hook_idea": "How did a simple plastic pen save the Apollo 11 astronauts?",
+    "viewer_benefit": "learns how a makeshift tool prevented disaster in space",
     "scores": {
       "audience_relevance": 5,
       "curiosity": 5,
       "evidence_quality": 5,
       "visual_feasibility": 5,
       "series_potential": 5,
-      "familiarity": 4
+      "familiarity": 5
     },
-    "veo_prompt": "",
-    "score": 57.0,
-    "visual_precheck": {
-      "at": "2026-11-12T07:54:13+05:30",
-      "need": 2,
-      "assets": [
-        {
-          "source": "wikimedia_commons",
-          "query": "Robert Smalls Confederate",
-          "title": "File:USS Robert Smalls CG-62 ship seal.jpg",
-          "page": "https://commons.wikimedia.org/wiki/File:USS_Robert_Smalls_CG-62_ship_seal.jpg",
-          "license": "Public domain",
-          "license_evidence": "Commons file metadata (extmetadata.LicenseShortName)",
-          "date": "2023-12-02 13:06:58",
-          "downloaded": true,
-          "bytes": 349134,
-          "relevance": "file title shares the query's distinctive words",
-          "asset_id": "commons:141624541"
-        },
-        {
-          "source": "wikimedia_commons",
-          "query": "Robert Smalls Confederate",
-          "title": "File:Robert Smalls, captain of the gun-boat \"Planter\" The gun-boat \"Planter,\" run out of Charleston, S.C., by Robert Smalls, May 1862. LCCN97512451 Trim.jpg",
-          "page": "https://commons.wikimedia.org/wiki/File:Robert_Smalls,_captain_of_the_gun-boat_%22Planter%22_The_gun-boat_%22Planter,%22_run_out_of_Charleston,_S.C.,_by_Robert_Smalls,_May_1862._LCCN97512451_Trim.jpg",
-          "license": "Public domain",
-          "license_evidence": "Commons file metadata (extmetadata.LicenseShortName)",
-          "date": "1862",
-          "downloaded": true,
-          "bytes": 994402,
-          "relevance": "file title shares the query's distinctive words",
-          "asset_id": "commons:176567349"
-        }
-      ]
-    },
-    "draft": {
-      "topic": "Robert Smalls commandeering the CSS Planter past Fort Sumter",
-      "subject_query": "Robert Smalls",
-      "scenes": [
-        {
-          "text": "He commandeered a Confederate ship at 4:30 a.m. Congress later paid him $5,000.",
-          "commons": "CSS Planter ship",
-          "visual": "steamboat night",
-          "subject": "CSS Planter",
-          "shows": "Confederate transport ship in dark harbor",
-          "notes": [
-            2,
-            16,
-            26
-          ]
-        },
-        {
-          "text": "Robert Smalls was enslaved in Beaufort, South Carolina, when war began in April 1861.",
-          "commons": "Robert Smalls portrait",
-          "visual": "southern plantation",
-          "subject": "Robert Smalls",
-          "shows": "Portrait of young Robert Smalls",
-          "notes": [
-            1,
-            10
-          ]
-        },
-        {
-          "text": "On May 13, 1862, he commandeered the Planter with seven enslaved crewmen aboard.",
-          "commons": "CSS Planter Charleston",
-          "visual": "wooden steamboat",
-          "subject": "CSS Planter",
-          "shows": "Steamship in Charleston harbor",
-          "notes": [
-            2,
-            13
-          ]
-        },
-        {
-          "text": "He wore the captain's straw hat and copied his manners to fool the forts.",
-          "commons": "Confederate captain uniform",
-          "visual": "straw hat",
-          "subject": "Captain Relyea",
-          "shows": "Straw hat and captain's uniform",
-          "notes": [
-            15
-          ]
-        },
-        {
-          "text": "At 4:30 a.m. he sailed past Fort Sumter and gave the correct hand signals.",
-          "commons": "Fort Sumter 1862",
-          "visual": "coastal fort dawn",
-          "subject": "Fort Sumter",
-          "shows": "Fort Sumter at early morning",
-          "notes": [
-            16,
-            17,
-            18
-          ]
-        },
-        {
-          "text": "He carried the captain's code book and a map of the harbor's mines.",
-          "commons": "Civil War signal book",
-          "visual": "old nautical map",
-          "subject": "code book",
-          "shows": "Signal code book and harbor mine map",
-          "notes": [
-            19
-          ]
-        },
-        {
-          "text": "The Planter became a Union warship, freeing Smalls and his crew's families.",
-          "commons": "USS Planter 1862",
-          "visual": "warship American flag",
-          "subject": "USS Planter",
-          "shows": "Ship flying Union flag",
-          "notes": [
-            4,
-            5
-          ]
-        },
-        {
-          "text": "Congress later paid him $5,000 for the ship he commandeered, minus $1,500 already given.",
-          "commons": "U.S. Capitol 1883",
-          "visual": "gold coins document",
-          "subject": "Congress payment",
-          "shows": "Congressional payment record",
-          "notes": [
-            26
-          ]
-        },
-        {
-          "text": "In 2023, the Navy renamed a ship for him.",
-          "commons": "USAV Major General Robert Smalls",
-          "visual": "navy logistics ship",
-          "subject": "USAV Robert Smalls",
-          "shows": "Modern Navy logistics support vessel",
-          "notes": [
-            30,
-            32
-          ]
-        }
-      ],
-      "youtube": {
-        "title": "Robert Smalls Sailed Past Fort Sumter",
-        "hook_text": "4:30 AM PAST FORT SUMTER",
-        "description": "Congress paid him $5,000 for the ship he commandeered.\nOn May 13, 1862, enslaved Robert Smalls commandeered the Confederate ship Planter with seven crewmen aboard. Wearing the captain's straw hat and copying his manners, he sailed past Fort Sumter at 4:30 a.m. giving the correct signals. The Planter became a Union warship, freeing Smalls and his crew's families.\nSources: Wikipedia - Robert Smalls, Wikipedia - USS Robert Smalls\n#Shorts #RobertSmalls #History #TrueStory",
-        "tags": [
-          "Robert Smalls",
-          "CSS Planter",
-          "Fort Sumter",
-          "American Civil War",
-          "Black History",
-          "true story",
-          "history shorts",
-          "Beaufort South Carolina",
-          "1862",
-          "commandeered",
-          "enslaved sailor",
-          "USS Robert Smalls",
-          "May 13 1862",
-          "US Navy",
-          "coincidence"
-        ],
-        "pinned_comment": "He wore the captain's hat to fool the forts—genius move or too risky?"
-      },
-      "hashtags": [
-        "#Shorts",
-        "#RobertSmalls",
-        "#CivilWar",
-        "#TrueStory"
-      ],
-      "instagram": {
-        "caption": "At 4:30 AM, Robert Smalls sailed past Fort Sumter in the Confederate ship he commandeered. Congress later paid him $5,000 for it. Would you have taken the risk?",
-        "hashtags": [
-          "#RobertSmalls",
-          "#CSSPlanter",
-          "#FortSumter",
-          "#CivilWar",
-          "#TrueHistory"
-        ]
-      },
-      "sources": [
-        "Wikipedia - Robert Smalls",
-        "Wikipedia - USS Robert Smalls"
-      ],
-      "music_mood": "tense",
-      "provenance": {
-        "write": "nvidia:mistralai/mistral-large-4-1t-a52b",
-        "polish": "nvidia:mistralai/mistral-large-4-1t-a52b",
-        "fact_check": "nvidia:mistralai/mistral-large-4-1t-a52b",
-        "packaging": "nvidia:mistralai/mistral-large-4-1t-a52b"
-      },
-      "fact_trail": [
-        {
-          "stage": "polish",
-          "added": [],
-          "removed": [
-            2004.0
-          ],
-          "words": []
-        },
-        {
-          "stage": "fact_check",
-          "added": [
-            2023.0
-          ],
-          "removed": [],
-          "words": []
-        }
-      ],
-      "fact_checks": [
-        {
-          "claim": "He stole a warship at 4:30 a.m. and Congress paid him $5,000 (Scene 1)",
-          "verdict": "fixed",
-          "working": "Note [2] calls it a Confederate transport ship, not a warship; note [16] confirms 4:30 a.m.; note [26] shows Congress paid $5,000 in 1883, not at 4:30 a.m. Rewritten to separate the 4:30 a.m. escape from the later payment and use 'commandeered.'"
-        },
-        {
-          "claim": "Robert Smalls was enslaved in Beaufort, South Carolina, when war began in April 1861 (Scene 2)",
-          "verdict": "ok",
-          "working": "Note [1] confirms born into slavery in Beaufort, SC; note [10] confirms Civil War began April 1861."
-        },
-        {
-          "claim": "On May 13, 1862, he commandeered the Planter with seven enslaved crewmen aboard (Scene 3)",
-          "verdict": "ok",
-          "working": "Note [13] confirms May 13, 1862, and seven of eight enslaved crewmen; note [2] confirms commandeering."
-        },
-        {
-          "claim": "He wore the captain's straw hat and copied his manners to fool the forts (Scene 4)",
-          "verdict": "ok",
-          "working": "Note [15] confirms he copied Relyea's manners and straw hat to fool onlookers from shore and the forts."
-        },
-        {
-          "claim": "At 4:30 a.m. he sailed past Fort Sumter and gave the correct hand signals (Scene 5)",
-          "verdict": "ok",
-          "working": "Notes [16-18] confirm 4:30 a.m. passage past Fort Sumter and correct hand signals when challenged."
-        },
-        {
-          "claim": "He carried the captain's code book and a map of the harbor's mines (Scene 6)",
-          "verdict": "ok",
-          "working": "Note [19] confirms the captain's code book with Confederate signals and a map of mines/torpedoes."
-        },
-        {
-          "claim": "The Planter became a Union warship, freeing Smalls and his crew's families (Scene 7)",
-          "verdict": "ok",
-          "working": "Notes [4-5] confirm it became a Union warship and freed himself, his crew, and their families."
-        },
-        {
-          "claim": "Congress later paid him $5,000 for the ship he stole, minus $1,500 already given (Scene 8)",
-          "verdict": "fixed",
-          "working": "Note [26] confirms $5,000 less $1,500; 'stole' replaced with 'commandeered' per note [2]."
-        },
-        {
-          "claim": "At 4:30 a.m. Congress paid $5,000 for the ship he stole (Scene 9)",
-          "verdict": "fixed",
-          "working": "Note [26] dates the payment to 1883, not 4:30 a.m.; notes [30,32] confirm a Navy ship was renamed for him in 2023. Rewritten to reflect the 2023 renaming."
-        },
-        {
-          "claim": "His daring escape freed 16 people (YouTube description)",
-          "verdict": "fixed",
-          "working": "Notes do not state 16; note [5] states he freed himself, his crew, and their families. The number 16 was removed."
-        },
-        {
-          "claim": "He Stole a Warship (Title)",
-          "verdict": "fixed",
-          "working": "Note [2] specifies a transport ship commandeered, not a stolen warship. Changed to 'Commandeered a Ship.'"
-        }
-      ],
-      "research": {
-        "sources": [
-          {
-            "title": "Robert Smalls",
-            "url": "https://en.wikipedia.org/wiki/Robert_Smalls"
-          },
-          {
-            "title": "USS Robert Smalls",
-            "url": "https://en.wikipedia.org/wiki/USS_Robert_Smalls"
-          }
-        ],
-        "notes": [
-          "Robert Smalls (April 5, 1839 – February 23, 1915) was an American politician who was born into slavery in Beaufort, South Carolina.",
-          "During the American Civil War, the still enslaved Smalls commandeered a Confederate transport ship in Charleston Harbor and sailed it from the Confederate-controlled waters of the harbor to the U.S.",
-          "blockade that surrounded it.",
-          "He then piloted the ship to the Union-controlled enclave in the Beaufort–Port Royal–Hilton Head area, where it became a Union warship.",
-          "In the process, he freed himself, his crew, and their families.",
-          "His example and persuasion helped convince President Abraham Lincoln to accept black soldiers into the Union Army.",
-          "Robert Smalls was born on April 5, 1839, in Beaufort, South Carolina, to Lydia Polite, a woman enslaved by Henry McKee.",
-          "At age 17, Smalls married Hannah Jones, an enslaved hotel maid, in Charleston on December 24, 1856.",
-          "Smalls aimed to pay for their freedom by purchasing them outright, but the price was steep, $800 (equivalent to $28,667 in 2025).",
-          "In April 1861, the Civil War began with the Battle of Fort Sumter in nearby Charleston Harbor.",
-          "Smalls appeared content and had the confidence of the Planter's crew and owners, but, at some time in April 1862, he began to plan an escape.",
-          "On May 12, 1862, the Planter traveled ten miles southwest of Charleston to stop at Coles Island, a Confederate post on the Stono River that was being dismantled.",
-          "on May 13, Smalls and seven of the eight enslaved crewmen made their previously planned escape to the Union blockade ships.",
-          "Smalls guided the ship past the five Confederate harbor forts without incident, as he gave the correct steam-whistle signals at checkpoints.",
-          "Relyea, and Smalls copied Relyea's manners and straw hat on deck to fool Confederate onlookers from shore and the forts.",
-          "The Planter sailed past Fort Sumter at about 4:30 a.m.",
-          "When Fort Sumter flashed the challenge signal, Smalls again gave the correct hand signs.",
-          "Finally, the fort signaled that all was well, and Smalls sailed his ship out of the harbor.",
-          "Most valuable, however, were the captain's code book containing the Confederate signals and a map of the mines and torpedoes that had been laid in Charleston's harbor.",
-          "However, with the encouragement of Major General David Hunter, the Union commander at Port Royal, Smalls went to Washington, D.C., in August 1862 with Rev.",
-          "He was made pilot of the ironclad USS Keokuk, again under Captain Rhind, and took part in the attack on Fort Sumter on April 7, 1863, which was a preamble to the Second Battle of Fort Sumter later that fall.",
-          "On December 1, 1863, Smalls was piloting the Planter under Captain James Nickerson on Folly Island Creek when Confederate batteries at Secessionville opened fire.",
-          "Smalls returned with the Planter to Charleston harbor in April 1865 for the ceremonial raising of the American flag again at Fort Sumter.",
-          "Many sources also state that General Gillmore promoted Smalls to captain in December 1863 after he saved the Planter when it was under attack near Secessionville.",
-          "In 1883, during discussion of the bill to put Smalls on the Navy retired list, a report stated that the 1862 appraisal of the Planter was \"absurdly low\" and that a fair valuation would have been more than $60,000.",
-          "That year, Congress passed a statute paying Smalls $5,000, less the amount paid to him in 1862 ($1,500), for his capture of the steamship.",
-          "The monument to Smalls in this churchyard is inscribed with his 1895 statement to the South Carolina legislature: \"My race needs no special defense, for the past history of them in this country proves them to be the equal of any people anywhere.",
-          "Fort Robert Smalls was named in his honor; it was built by free blacks in 1863 on McGuire's Hill on the South Side of Pittsburgh during the Civil War.",
-          "In 2004, the United States named a ship for Smalls, the USAV Major General Robert Smalls (LSV-8), a Kuroda-class logistics support vessel operated by the U.S.",
-          "In March 2023, she was renamed for Robert Smalls, a former slave who freed himself and others by commandeering a Confederate transport ship.",
-          "During the 2020 George Floyd protests, the name of the ship came into question because it honored a victory of the Confederate army fighting against the United States for southern independence and in defense of slavery.",
-          "On 27 February 2023, the Secretary of the Navy Carlos Del Toro announced that the US Navy would rename Chancellorsville after Robert Smalls, a slave who commandeered the Confederate ship CSS Planter in 1862."
-        ],
-        "timeline": [
-          {
-            "when": "April 5, 1839",
-            "event": "Robert Smalls born into slavery in Beaufort, South Carolina",
-            "notes": [
-              1
-            ]
-          },
-          {
-            "when": "December 24, 1856",
-            "event": "Smalls married Hannah Jones in Charleston",
-            "notes": [
-              8
-            ]
-          },
-          {
-            "when": "April 1861",
-            "event": "Civil War began with Battle of Fort Sumter",
-            "notes": [
-              10
-            ]
-          },
-          {
-            "when": "April 1862",
-            "event": "Smalls began planning escape",
-            "notes": [
-              11
-            ]
-          },
-          {
-            "when": "May 12, 1862",
-            "event": "Planter traveled ten miles to Coles Island",
-            "notes": [
-              12
-            ]
-          },
-          {
-            "when": "May 13, 1862",
-            "event": "Smalls and seven enslaved crewmen escaped to Union blockade",
-            "notes": [
-              13
-            ]
-          },
-          {
-            "when": "May 13, 1862, about 4:30 a.m.",
-            "event": "Planter sailed past Fort Sumter",
-            "notes": [
-              16
-            ]
-          },
-          {
-            "when": "August 1862",
-            "event": "Smalls went to Washington D.C. with Major General David Hunter",
-            "notes": [
-              20
-            ]
-          },
-          {
-            "when": "April 7, 1863",
-            "event": "Smalls piloted USS Keokuk in attack on Fort Sumter",
-            "notes": [
-              21
-            ]
-          },
-          {
-            "when": "December 1, 1863",
-            "event": "Planter under fire at Folly Island Creek",
-            "notes": [
-              22
-            ]
-          },
-          {
-            "when": "December 1863",
-            "event": "Promoted to captain",
-            "notes": [
-              24
-            ]
-          },
-          {
-            "when": "April 1865",
-            "event": "Returned to Charleston harbor for flag raising at Fort Sumter",
-            "notes": [
-              23
-            ]
-          },
-          {
-            "when": "1883",
-            "event": "Congress paid Smalls $5,000 less $1,500 already paid",
-            "notes": [
-              26
-            ]
-          },
-          {
-            "when": "2004",
-            "event": "US named ship USAV Major General Robert Smalls",
-            "notes": [
-              29
-            ]
-          }
-        ]
-      },
-      "release": {
-        "hour_ist": 7,
-        "day_hint": "Tuesday",
-        "reason": "7 AM IST aligns with 8:30 PM EST, US East Coast prime Shorts viewing time."
-      }
-    },
-    "draft_saved": "2026-11-12"
+    "veo_prompt": "Vertical 9:16 cinematic shot of an astronaut's gloved hand holding a black felt-tip pen inside a cramped Apollo control panel, glowing instrument lights, archival NASA photo aesthetic, photoreal.",
+    "score": 55.0
   },
   {
-    "topic": "Robert Lincoln Saved by Edwin Booth",
-    "pillar": "Eerie true coincidences",
-    "series": "Unbelievably True",
-    "role": "discovery",
-    "angle": "The assassin's brother saving the president's son",
-    "hook_idea": "What saved Lincoln's son months before his father was assassinated?",
-    "viewer_benefit": "Uncover the impossible coincidence connecting two famous American families.",
+    "topic": "The 1914 Shackleton Endurance expedition where the ship was crushed by Antarctic pack ice",
+    "pillar": "Impossible survivals",
+    "series": "Survived",
+    "role": "retention",
+    "angle": "compare a wooden polar ship to millions of tons of shifting ice",
+    "hook_idea": "How did 28 men survive two years on the freezing Antarctic ice floes?",
+    "viewer_benefit": "discovers one of the greatest endurance tales in polar exploration",
     "scores": {
       "audience_relevance": 5,
       "curiosity": 5,
       "evidence_quality": 5,
       "visual_feasibility": 5,
-      "series_potential": 4,
+      "series_potential": 5,
       "familiarity": 5
     },
-    "veo_prompt": "Vertical 9:16 Victorian-era train station platform, steam rising around 19th-century passenger cars, dramatic lighting capturing a near-fall onto tracks.",
-    "score": 54.0
+    "veo_prompt": "Vertical 9:16 cinematic shot of a wooden ship trapped and listing at an angle between jagged blocks of Antarctic ice, black and white archival photography look, photoreal.",
+    "score": 55.0
   },
   {
-    "topic": "Golden Gate Bridge Opening Pedestrian Congestion",
+    "topic": "The 1912 Titanic sinking where the ship's third-class passengers were locked behind actual iron gates",
     "pillar": "Disasters that hinged on one detail",
     "series": "Unbelievably True",
     "role": "discovery",
-    "angle": "200,000 people flattening a steel arch bridges deck under weight",
-    "hook_idea": "Why did 200,000 people nearly collapse the Golden Gate Bridge?",
-    "viewer_benefit": "Learn how opening day excitement almost caused an engineering catastrophe.",
+    "angle": "compare the luxury on top to the locked iron barriers below",
+    "hook_idea": "Why were iron gates locked across the Titanic's steerage corridors?",
+    "viewer_benefit": "understands the overlooked safety protocol failure of the tragedy",
     "scores": {
       "audience_relevance": 5,
       "curiosity": 5,
@@ -466,27 +53,27 @@
       "series_potential": 4,
       "familiarity": 5
     },
-    "veo_prompt": "Vertical 9:16 high-angle arch view of foggy San Francisco harbor with long red suspension bridge cables stretching into bright morning clouds.",
+    "veo_prompt": "Vertical 9:16 cinematic shot of heavy rusted iron gates in a dark ship corridor, flickering emergency light reflecting off water, moody atmosphere, highly detailed historic archive style, photoreal.",
     "score": 54.0
   },
   {
-    "topic": "The 1937 Amelia Earhart disappearance where her final radio transmissions revealed she was hopelessly lost searching for a tiny Pacific island",
-    "pillar": "Mysteries finally solved",
+    "topic": "The 1937 Hindenburg disaster where exterior cotton skin was coated in highly flammable rocket fuel components",
+    "pillar": "Disasters that hinged on one detail",
     "series": "Unbelievably True",
     "role": "discovery",
-    "angle": "focus on the desperate static-filled voices echoing across the ocean before the signal cut forever",
-    "hook_idea": "What did Amelia Earhart say in her final radio messages before vanishing?",
-    "viewer_benefit": "Examines the authenticated audio record behind aviation's greatest unsolved mystery",
+    "angle": "compare airplane paint ingredients to solid rocket fuel",
+    "hook_idea": "What made the Hindenburg burn up in just 34 seconds?",
+    "viewer_benefit": "discovers the chemical coating that turned an airship into a fireball",
     "scores": {
       "audience_relevance": 5,
       "curiosity": 5,
       "evidence_quality": 5,
-      "visual_feasibility": 4,
-      "series_potential": 5,
+      "visual_feasibility": 5,
+      "series_potential": 4,
       "familiarity": 5
     },
-    "veo_prompt": "Vertical 9:16 vintage bakelite radio dial glowing softly in a dark room, audio frequency wave lines flickering on an oscilloscope screen, cinematic documentary, no text.",
-    "score": 52.5
+    "veo_prompt": "Vertical 9:16 cinematic shot of silver metallic fabric under microscopic light, glowing embers reflecting on the surface, historical archive look, photoreal.",
+    "score": 54.0
   },
   {
     "topic": "Statue of Liberty Arm Exhibited in Madison Square",
@@ -546,6 +133,25 @@
     "score": 50.5
   },
   {
+    "topic": "The 1938 War of the Worlds radio broadcast panic that was largely exaggerated by competing newspapers",
+    "pillar": "Strange but true history",
+    "series": "Unbelievably True",
+    "role": "discovery",
+    "angle": "compare a sci-fi radio play to a nationwide media fabrication",
+    "hook_idea": "Did Orson Welles' alien broadcast really cause nationwide mass panic?",
+    "viewer_benefit": "learns how newspaper rivalry manufactured a legendary historical myth",
+    "scores": {
+      "audience_relevance": 4,
+      "curiosity": 5,
+      "evidence_quality": 5,
+      "visual_feasibility": 4,
+      "series_potential": 4,
+      "familiarity": 5
+    },
+    "veo_prompt": "Vertical 9:16 cinematic shot of an old wooden table radio glowing in a dark room, dust particles in the speaker light, vintage 1930s photo aesthetic, photoreal.",
+    "score": 50.0
+  },
+  {
     "topic": "WWII Exploding Chocolate Plot against Churchill",
     "pillar": "Strange but true history",
     "series": "Unbelievably True",
@@ -582,6 +188,44 @@
     },
     "veo_prompt": "Vertical 9:16 vintage military aircraft flying high above ocean clouds extending a mechanical winch hook toward a parachute descent capsule.",
     "score": 48.0
+  },
+  {
+    "topic": "The 1961 flight of Ham the Chimp where a capsule malfunction exposed him to 14.7 Gs of force",
+    "pillar": "Impossible survivals",
+    "series": "Survived",
+    "role": "retention",
+    "angle": "compare roller coaster G-forces to a rocket launch malfunction",
+    "hook_idea": "How did a chimpanzee survive a 14.7 G rocket malfunction in space?",
+    "viewer_benefit": "sees how early animal spaceflight paved the way for human astronauts",
+    "scores": {
+      "audience_relevance": 4,
+      "curiosity": 4,
+      "evidence_quality": 5,
+      "visual_feasibility": 5,
+      "series_potential": 5,
+      "familiarity": 3
+    },
+    "veo_prompt": "Vertical 9:16 cinematic shot of the interior of a metallic Mercury space capsule instrument panel, glowing dial gauges, vintage NASA photo style, photoreal.",
+    "score": 47.5
+  },
+  {
+    "topic": "The 1983 Able Archer 83 military exercise where NATO war games were mistaken for a real nuclear first strike",
+    "pillar": "Strange but true history",
+    "series": "The Detail Nobody Remembers",
+    "role": "authority",
+    "angle": "compare a routine military drill to the brink of nuclear war",
+    "hook_idea": "Why did a 1983 NATO training exercise nearly trigger a Soviet nuclear launch?",
+    "viewer_benefit": "uncovers the terrifying diplomatic misunderstanding of the Cold War",
+    "scores": {
+      "audience_relevance": 4,
+      "curiosity": 5,
+      "evidence_quality": 5,
+      "visual_feasibility": 4,
+      "series_potential": 4,
+      "familiarity": 3
+    },
+    "veo_prompt": "Vertical 9:16 cinematic shot of a red vintage rotary telephone on a metal desk in a dark command bunker, green radar screen glowing in the background, photoreal.",
+    "score": 46.0
   },
   {
     "topic": "The 1980s 'Ghost' of the USS Liberty",

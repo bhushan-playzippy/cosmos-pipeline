@@ -1,7 +1,7 @@
 {
   "date": "2026-11-13",
-  "videos": 34,
-  "median_views_per_day": 24.9,
+  "videos": 35,
+  "median_views_per_day": 24.1,
   "min_sample": 5,
   "groups": {
     "slot": {
@@ -46,8 +46,8 @@
         "conclusive": false
       },
       "?": {
-        "n": 7,
-        "median_vpd": 39.0,
+        "n": 8,
+        "median_vpd": 27.5,
         "conclusive": true
       }
     },
@@ -68,19 +68,18 @@
         "conclusive": false
       },
       "?": {
-        "n": 19,
-        "median_vpd": 25.7,
+        "n": 20,
+        "median_vpd": 21.6,
         "conclusive": true
       }
     },
     "creator": {}
   },
   "type_boost": {
-    "discovery": 1.17,
+    "discovery": 1.19,
     "retention": 1.3
   },
   "recommendations": [
-    "Slot 23:30 earns 17.6 views/day vs 39.0 at ?: try moving 23:30 to an hour near ? (edit schedule.slots), then re-check in 2 weeks.",
     "'retention' moments outperform (1.3×): the picker now prefers them."
   ],
   "feature_boost": {
