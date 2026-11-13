@@ -5243,14 +5243,17 @@
   {
     "folder": "docstudio_fall-s3",
     "topic": "Why Isn't Our Galaxy's Black Hole Pulling Us In? #Shorts",
-    "status": "scheduled",
+    "status": "published",
     "stage": "upload",
     "role": null,
     "slot": "2026-11-13T23:30:00+05:30",
     "created": "2026-11-08T18:44:32+05:30",
     "youtube_id": "lqN_0tRlAmU",
     "reason": "docstudio animated documentary upload",
-    "privacy": "private"
+    "privacy": "public",
+    "stages": {
+      "published": "2026-11-14T02:59:44+05:30"
+    }
   },
   {
     "folder": "docstudio_fall-s4",

@@ -1,65 +1,65 @@
 {
-  "date": "2026-11-13",
+  "date": "2026-11-14",
   "videos": 36,
-  "median_views_per_day": 23.0,
+  "median_views_per_day": 21.2,
   "min_sample": 5,
   "groups": {
     "slot": {
       "18:00": {
         "n": 2,
-        "median_vpd": 44.6,
+        "median_vpd": 42.5,
         "conclusive": false
       },
       "15:00": {
         "n": 4,
-        "median_vpd": 21.0,
+        "median_vpd": 19.9,
         "conclusive": false
       },
       "09:00": {
         "n": 5,
-        "median_vpd": 19.7,
+        "median_vpd": 18.5,
         "conclusive": true
       },
       "20:00": {
         "n": 4,
-        "median_vpd": 52.7,
+        "median_vpd": 44.6,
         "conclusive": false
       },
       "23:30": {
         "n": 7,
-        "median_vpd": 54.0,
+        "median_vpd": 36.3,
         "conclusive": true
       },
       "05:30": {
         "n": 5,
-        "median_vpd": 14.6,
+        "median_vpd": 12.2,
         "conclusive": true
       },
       "?": {
         "n": 9,
-        "median_vpd": 72.0,
+        "median_vpd": 73.0,
         "conclusive": true
       }
     },
     "type": {
       "?": {
         "n": 25,
-        "median_vpd": 29.8,
+        "median_vpd": 28.4,
         "conclusive": true
       },
       "discovery": {
         "n": 6,
-        "median_vpd": 17.3,
+        "median_vpd": 16.2,
         "conclusive": true
       },
       "retention": {
         "n": 4,
-        "median_vpd": 18.9,
+        "median_vpd": 17.8,
         "conclusive": false
       },
       "authority": {
         "n": 1,
-        "median_vpd": 23.5,
+        "median_vpd": 22.2,
         "conclusive": false
       }
     },
@@ -69,7 +69,7 @@
     "discovery": 0.87
   },
   "recommendations": [
-    "Slot 05:30 earns 14.6 views/day vs 72.0 at ?: try moving 05:30 to an hour near ? (edit schedule.slots), then re-check in 2 weeks."
+    "Slot 05:30 earns 12.2 views/day vs 73.0 at ?: try moving 05:30 to an hour near ? (edit schedule.slots), then re-check in 2 weeks."
   ],
   "feature_boost": {
     "question_hook": {

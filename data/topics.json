@@ -1,5 +1,241 @@
 [
   {
+    "topic": "Betelgeuse's Size",
+    "pillar": "Stars & black holes",
+    "series": "Scale Explained",
+    "role": "authority",
+    "angle": "If Betelgeuse replaced the Sun, its surface would extend past Jupiter's orbit.",
+    "hook_idea": "If this star replaced the Sun, where would it end?",
+    "viewer_benefit": "Grasping the true scale of red supergiants.",
+    "scores": {
+      "audience_relevance": 4,
+      "curiosity": 5,
+      "evidence_quality": 4,
+      "visual_feasibility": 5,
+      "series_potential": 4,
+      "familiarity": 4
+    },
+    "veo_prompt": "Diagrammatic view of a massive red star in the center of the solar system, with its outer edge glowing past the orbit of a smaller, distant planet, photorealistic, 9:16.",
+    "score": 41.0,
+    "draft": {
+      "topic": "Betelgeuse's Size",
+      "scenes": [
+        {
+          "text": "If this Orion monster replaced our Sun, which planets would vanish?",
+          "visual": "sun surface",
+          "nasa": "Betelgeuse star",
+          "subject": "Sun"
+        },
+        {
+          "text": "Deep in Orion’s constellation sits Betelgeuse, a colossal red‑supergiant star.",
+          "visual": "orion constellation",
+          "nasa": "Orion constellation",
+          "subject": "Betelgeuse"
+        },
+        {
+          "text": "Its radius is about 764 times the Sun’s—roughly 3.5 AU (≈3.5 billion km).",
+          "visual": "star surface",
+          "nasa": "Sun surface",
+          "subject": "Sun"
+        },
+        {
+          "text": "Placed at the centre of our Solar System it would instantly engulf Mercury, Venus, Earth and Mars.",
+          "visual": "solar system",
+          "nasa": "inner solar system",
+          "subject": "inner planets"
+        },
+        {
+          "text": "Its outer surface would stretch far beyond the asteroid belt, out to ~3.5 AU, still well inside Jupiter’s 5.2 AU orbit.",
+          "visual": "asteroid belt",
+          "nasa": "Jupiter orbit",
+          "subject": "Jupiter orbit",
+          "compare": {
+            "kind": "length",
+            "unit": "AU",
+            "items": [
+              {
+                "label": "Earth Orbit",
+                "value": 1.0
+              },
+              {
+                "label": "Jupiter Orbit",
+                "value": 5.2
+              }
+            ]
+          }
+        },
+        {
+          "text": "This cosmic monster turns very slowly, completing one spin roughly every 8 years.",
+          "visual": "spinning planet",
+          "nasa": "star rotation",
+          "subject": "Betelgeuse"
+        },
+        {
+          "text": "Located about 640 light‑years away, it remains one of the brightest stars in our night sky.",
+          "visual": "night sky",
+          "nasa": "night sky stars",
+          "subject": "night sky"
+        },
+        {
+          "text": "So when you look up at Orion, remember which planets would vanish if it replaced our Sun.",
+          "visual": "starry night",
+          "nasa": "Orion nebula",
+          "subject": "Orion constellation"
+        }
+      ],
+      "youtube": {
+        "title": "If Betelgeuse Replaced Our Sun",
+        "hook_text": "MERCURY, VENUS, EARTH, MARS GONE",
+        "description": "What happens if this Orion monster replaces our Sun? Deep in Orion sits Betelgeuse, a colossal red-supergiant star with a radius about 764 times the Sun's, stretching out to roughly 3.5 billion km (~3.5 AU). Located about 640 light-years away, this cosmic giant turns very slowly, completing one spin roughly every 8 years.\n\nSources: Wikipedia: Betelgeuse, Wikipedia: Orion (constellation)\n\n#Shorts #Betelgeuse #Space #Astronomy #Orion",
+        "tags": [
+          "Betelgeuse",
+          "Orion constellation",
+          "red supergiant",
+          "Sun",
+          "Solar System",
+          "Mercury Venus Earth Mars",
+          "asteroid belt",
+          "astronomy",
+          "space",
+          "universe",
+          "stars",
+          "red supergiant star",
+          "astronomy facts",
+          "space science"
+        ],
+        "pinned_comment": "Would you look up at Orion differently knowing what this star could swallow?"
+      },
+      "instagram": {
+        "caption": "If Betelgeuse replaced our Sun, Mercury, Venus, Earth, and Mars would instantly vanish.\n\nWould you look at Orion the same way?",
+        "hashtags": [
+          "#Betelgeuse",
+          "#Orion",
+          "#Astronomy",
+          "#Space",
+          "#Universe"
+        ]
+      },
+      "sources": [
+        "Wikipedia: Betelgeuse",
+        "Wikipedia: Orion (constellation)"
+      ],
+      "music_mood": "wonder",
+      "provenance": {
+        "write": "gemini-3.6-flash",
+        "polish": "gemini-flash-lite-latest",
+        "fact_check": "groq:openai/gpt-oss-120b",
+        "packaging": "gemini-flash-lite-latest"
+      },
+      "fact_checks": [
+        {
+          "claim": "If this Orion monster replaced our Sun, which planets vanish?",
+          "verdict": "ok",
+          "working": "Based on Betelgeuse’s radius (~3.5 AU) it would engulf Mercury, Venus, Earth and Mars."
+        },
+        {
+          "claim": "Deep in the constellation of Orion sits Betelgeuse, a giant red supergiant star.",
+          "verdict": "ok",
+          "working": "Betelgeuse is classified as a red‑supergiant (M1‑M2 Ia‑Iab) in Orion."
+        },
+        {
+          "claim": "Its radius is roughly 640 to 764 times larger than our Sun.",
+          "verdict": "fixed",
+          "working": "Current interferometric measurements give a radius ≈764 R☉ (≈3.5 AU). Earlier lower estimates ~640 R☉ exist, but the most reliable value is ~764 R☉."
+        },
+        {
+          "claim": "If placed at the center of our Solar System, it would instantly swallow Mercury, Venus, Earth, and Mars.",
+          "verdict": "ok",
+          "working": "Betelgeuse’s radius (~3.5 AU) exceeds the orbital radii of Mercury (0.39 AU), Venus (0.72 AU), Earth (1 AU) and Mars (1.52 AU)."
+        },
+        {
+          "claim": "Its outer surface would stretch far beyond the asteroid belt, potentially extending past the orbit of Jupiter.",
+          "verdict": "fixed",
+          "working": "The asteroid belt lies ~2‑3 AU from the Sun; Betelgeuse’s radius (~3.5 AU) reaches beyond it but stops well short of Jupiter’s orbit (5.2 AU). Updated compare values: Earth Orbit = 1.0 AU, Jupiter Orbit = 5.2 AU."
+        },
+        {
+          "claim": "This cosmic monster is so colossal that it takes 36 years to turn just once on its axis.",
+          "verdict": "fixed",
+          "working": "Spectroscopic measurements of surface rotation give a period of roughly 8 years (range 7‑10 yr), not 36 yr."
+        },
+        {
+          "claim": "Located around 400 to 600 light-years away, it remains one of the brightest stars in our night sky.",
+          "verdict": "fixed",
+          "working": "Gaia DR3 places Betelgeuse at ~640 ly (≈197 pc). The 400‑600 ly range is outdated."
+        },
+        {
+          "claim": "So if you ever look up at Orion, remember how that single monster star would swallow us.",
+          "verdict": "ok",
+          "working": "Implication matches corrected size: inner planets would be engulfed."
+        }
+      ],
+      "fact_trail": [
+        {
+          "stage": "fact_check",
+          "added": [
+            3.5,
+            3500000000.0,
+            3.5,
+            5.2,
+            8.0
+          ],
+          "removed": [
+            36.0,
+            400.0,
+            600.0
+          ],
+          "words": [
+            "every"
+          ]
+        }
+      ],
+      "research": {
+        "sources": [
+          {
+            "title": "Betelgeuse",
+            "url": "https://en.wikipedia.org/wiki/Betelgeuse"
+          },
+          {
+            "title": "Orion (constellation)",
+            "url": "https://en.wikipedia.org/wiki/Orion_(constellation)"
+          }
+        ],
+        "notes": [
+          "Betelgeuse is a red supergiant star in the equatorial constellation of Orion.",
+          "It is usually the tenth-brightest star in the night sky and, after Rigel, the second brightest in its constellation.",
+          "It is a distinctly reddish, semiregular variable star whose apparent magnitude, varying between +0.0 and +1.6, with a main period near 400 days, has the widest range displayed by any first-magnitude star.",
+          "Betelgeuse is the brightest star in the night sky at near-infrared wavelengths.",
+          "Its Bayer designation is α Orionis, Latinised to Alpha Orionis and abbreviated Alpha Ori or α Ori.",
+          "With a radius between 640 and 764 times that of the Sun, if it were at the center of the Solar System, its surface would lie beyond the asteroid belt and it would engulf the orbits of Mercury, Venus, Earth, and Mars.",
+          "For various reasons, its distance has been quite difficult to measure; current best estimates are of the order of 400–600 light-years from the Sun – a comparatively wide uncertainty for a relatively nearby star.",
+          "Betelgeuse became the first extrasolar star whose photosphere's angular size was measured, in 1920, and whose image was resolved, in 1995.",
+          "It would be much smaller and fainter than the red supergiant and is believed to orbit at a distance only a few times greater than the size of Betelgeuse.",
+          "Before entering its 2020 conjunction with the Sun, Betelgeuse had reached a brightness of +0.4 .",
+          "On 13 December 1920, Betelgeuse became the first star outside the Solar System to have the angular size of its photosphere measured.",
+          "Using the Solar System for comparison, the orbit of Mars is about 1.5 AU, Ceres in the asteroid belt 2.7 AU, Jupiter 5.5 AU—so, assuming Betelgeuse occupying the place of the Sun, its photosphere might extend beyond the Jovian orbit, not quite reaching Saturn at 9.5 AU.",
+          "a figure roughly the size of the Jovian orbit of 5.5 AU.",
+          "Uncertainty in the star's surface temperature, diameter, and distance make it difficult to achieve a precise measurement of Betelgeuse's luminosity, but research from 2012 quotes a luminosity of around 126,000 L☉, assuming a distance of 200 pc.",
+          "The rotation period depends on Betelgeuse's size and orientation to Earth, but it has been calculated to take 36 years to turn on its axis, inclined at an angle of around 60° to Earth.",
+          "A series of spectropolarimetric observations obtained in 2010 with the Bernard Lyot Telescope at Pic du Midi Observatory revealed the presence of a weak magnetic field at the surface of Betelgeuse, suggesting that the giant convective motions of supergiant stars are able to trigger the onset of a small-scale dynamo effect.",
+          "Starting from its present position and motion, a projection back in time would place Betelgeuse around 290 parsecs farther from the galactic plane—an implausible location, as there is no star formation region there.",
+          "\"Instead of the star's atmosphere expanding uniformly due to gas heated to high temperatures near its surface, it now appears that several giant convection cells propel gas from the star's surface into its atmosphere.\" This is the same region in which Kervella's 2009 finding of a bright plume, possibly containing carbon and nitrogen and extending at least six photospheric radii in the southwest direction of the star, is believed to exist.",
+          "Although the exact size of the two outer CO shells remains elusive, preliminary estimates suggest that one shell extends from about 1.5 to 4.0 arcseconds and the other expands as far as 7.0 arcseconds.",
+          "Assuming the Jovian orbit of 5.5 AU as the star radius, the inner shell would extend roughly 50 to 150 stellar radii (~300 to 800 AU) with the outer one as far as 250 stellar radii (~1,400 AU).",
+          "The Sun's heliopause is estimated at 100 AU, so the size of this outer shell would be almost fourteen times the size of the Solar System.",
+          "Its chemical makeup can be reasonably assumed to have been around 70% hydrogen, 28% helium, and 2.4% heavy elements, slightly more metal-rich than the Sun but otherwise similar.",
+          "By using speckle interferometry, the team concluded that it was located at 0.06″±0.01″ (9 AU) from the main star at a position angle of 273°, an orbit that would potentially place it within the star's chromosphere.",
+          "Alnitak is around 800 light-years away from Earth, 100,000 times more luminous than the Sun, and shines with a magnitude of 1.8; much of its radiation is in the ultraviolet range, which the human eye cannot see.",
+          "It is 90,000 times more luminous than the Sun and is a double star: the two orbit each other every 5.73 days."
+        ]
+      },
+      "release": {
+        "hour_ist": 20,
+        "day_hint": "Thursday",
+        "reason": "Peak evening screen-time in US and European time zones aligns with 8:00 PM IST."
+      }
+    },
+    "draft_saved": "2026-11-14"
+  },
+  {
     "topic": "Voyager's Intergalactic Silence",
     "pillar": "Missions in danger",
     "series": "Mission Files",
@@ -36,25 +272,6 @@
     },
     "veo_prompt": "Icy and rocky surface with plumes of orange lava erupting from fissures, contrast of cold ice and hot magma, photorealistic, 9:16.",
     "score": 41.5
-  },
-  {
-    "topic": "Betelgeuse's Size",
-    "pillar": "Stars & black holes",
-    "series": "Scale Explained",
-    "role": "authority",
-    "angle": "If Betelgeuse replaced the Sun, its surface would extend past Jupiter's orbit.",
-    "hook_idea": "If this star replaced the Sun, where would it end?",
-    "viewer_benefit": "Grasping the true scale of red supergiants.",
-    "scores": {
-      "audience_relevance": 4,
-      "curiosity": 5,
-      "evidence_quality": 4,
-      "visual_feasibility": 5,
-      "series_potential": 4,
-      "familiarity": 4
-    },
-    "veo_prompt": "Diagrammatic view of a massive red star in the center of the solar system, with its outer edge glowing past the orbit of a smaller, distant planet, photorealistic, 9:16.",
-    "score": 41.0
   },
   {
     "topic": "The Chandrayaan-1 mission discovered definitive signatures of water molecules distributed across the lunar surface",
