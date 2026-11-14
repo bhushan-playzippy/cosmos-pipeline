@@ -11645,5 +11645,456 @@
     "stage_failed": null,
     "title": "1914 Christmas Truce: Enemies Played Football",
     "music": "archive-dm.m4a"
+  },
+  {
+    "folder": "2026-11-14_032735_hiram-binghams-1911-machu-picchu-discovery",
+    "topic": "Hiram Bingham's 1911 Machu Picchu Discovery",
+    "status": "failed",
+    "stage": "script",
+    "role": "discovery",
+    "slot": "2026-11-14T20:00:00+05:30",
+    "pillar": "Mysteries finally solved",
+    "selection": {
+      "role": "discovery",
+      "base_score": 52.0,
+      "multiplier": 1.3,
+      "parts": {
+        "pillar_role": 1.3
+      },
+      "final": 67.6,
+      "runner_up": [
+        {
+          "topic": "The 1977 Wow! Signal Radio Detection",
+          "final": 65.65
+        },
+        {
+          "topic": "Harrison Schmitt's Moon Dust Allergy",
+          "final": 64.35
+        }
+      ]
+    },
+    "visual_precheck": {
+      "at": "2026-11-14T03:27:35+05:30",
+      "need": 2,
+      "assets": [
+        {
+          "source": "wikimedia_commons",
+          "query": "Hiram Bingham Machu",
+          "title": "File:Hiram Bingham 1912 at Machu Picchu.jpg",
+          "page": "https://commons.wikimedia.org/wiki/File:Hiram_Bingham_1912_at_Machu_Picchu.jpg",
+          "license": "Public domain",
+          "license_evidence": "Commons file metadata (extmetadata.LicenseShortName)",
+          "date": "1912 date QS:P571,+1912-00-00T00:00:00Z/9 ",
+          "downloaded": true,
+          "bytes": 1091074,
+          "relevance": "file title shares the query's distinctive words",
+          "asset_id": "commons:170705582"
+        },
+        {
+          "source": "wikimedia_commons",
+          "query": "Hiram Bingham Machu",
+          "title": "File:Hiram Bingham III at his tent door near Machu Picchu in 1912.jpg",
+          "page": "https://commons.wikimedia.org/wiki/File:Hiram_Bingham_III_at_his_tent_door_near_Machu_Picchu_in_1912.jpg",
+          "license": "Public domain",
+          "license_evidence": "Commons file metadata (extmetadata.LicenseShortName)",
+          "date": "1912",
+          "downloaded": true,
+          "bytes": 197664,
+          "relevance": "file title shares the query's distinctive words",
+          "asset_id": "commons:15014379"
+        }
+      ]
+    },
+    "created": "2026-11-14T03:27:35+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "stage_failed": "research",
+    "reason": "Unsupported: research: the sources don't support this story (The notes do not state that the local guide was an 11-year-old boy, that Bingham asked a boy for directions, or give an age for Melchor Arteaga. The premise req)"
+  },
+  {
+    "folder": "2026-11-14_033127_harrison-schmitts-moon-dust-allergy",
+    "topic": "Harrison Schmitt's Moon Dust Allergy",
+    "status": "failed",
+    "stage": "script",
+    "role": "discovery",
+    "slot": "2026-11-14T20:00:00+05:30",
+    "pillar": "Disasters that hinged on one detail",
+    "selection": {
+      "role": "discovery",
+      "base_score": 49.5,
+      "multiplier": 1.3,
+      "parts": {
+        "pillar_role": 1.3
+      },
+      "final": 64.35,
+      "runner_up": [
+        {
+          "topic": "Project Corona Satellite Film Catch in Mid-Air",
+          "final": 62.4
+        },
+        {
+          "topic": "The 1859 Carrington Event Solar Storm",
+          "final": 62.4
+        }
+      ]
+    },
+    "visual_precheck": {
+      "at": "2026-11-14T03:31:27+05:30",
+      "need": 2,
+      "assets": [
+        {
+          "source": "wikimedia_commons",
+          "query": "Harrison Schmitt Moon",
+          "title": "File:Apollo 17 Harrison H. Schmitt and Tracy's Rock - AS17-140-21493+AS17-140-21497 2025.jpg",
+          "page": "https://commons.wikimedia.org/wiki/File:Apollo_17_Harrison_H._Schmitt_and_Tracy%27s_Rock_-_AS17-140-21493%2BAS17-140-21497_2025.jpg",
+          "license": "Public domain",
+          "license_evidence": "Commons file metadata (extmetadata.LicenseShortName)",
+          "date": "1972-12-13",
+          "downloaded": true,
+          "bytes": 494454,
+          "relevance": "file title shares the query's distinctive words",
+          "asset_id": "commons:171454045"
+        },
+        {
+          "source": "wikimedia_commons",
+          "query": "Harrison Schmitt Moon",
+          "title": "File:Moon-apollo17-schmitt boulder.jpg",
+          "page": "https://commons.wikimedia.org/wiki/File:Moon-apollo17-schmitt_boulder.jpg",
+          "license": "Public domain",
+          "license_evidence": "Commons file metadata (extmetadata.LicenseShortName)",
+          "date": "1972-12-13",
+          "downloaded": true,
+          "bytes": 955408,
+          "relevance": "file title shares the query's distinctive words",
+          "asset_id": "commons:109142"
+        }
+      ]
+    },
+    "created": "2026-11-14T03:31:27+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "stage_failed": "research",
+    "reason": "Unsupported: research: the sources don't support this story (No notes mention an allergy to lunar dust or any health reaction after returning to the lunar lander; the premise of a moon dust allergy is not supported by the)"
+  },
+  {
+    "folder": "2026-11-14_033217_project-corona-satellite-film-catch-in-mid-air",
+    "topic": "Project Corona Satellite Film Catch in Mid-Air",
+    "status": "failed",
+    "stage": "script",
+    "role": "discovery",
+    "slot": "2026-11-14T20:00:00+05:30",
+    "pillar": "Strange but true history",
+    "selection": {
+      "role": "discovery",
+      "base_score": 48.0,
+      "multiplier": 1.3,
+      "parts": {
+        "pillar_role": 1.3
+      },
+      "final": 62.4,
+      "runner_up": [
+        {
+          "topic": "The 1859 Carrington Event Solar Storm",
+          "final": 62.4
+        },
+        {
+          "topic": "The 1980s 'Ghost' of the USS Liberty",
+          "final": 57.2
+        }
+      ]
+    },
+    "visual_precheck": {
+      "at": "2026-11-14T03:32:17+05:30",
+      "need": 2,
+      "assets": [
+        {
+          "source": "wikimedia_commons",
+          "query": "Project Corona Satellite",
+          "title": "File:Project 402 - satellite image (1967-09-20).jpg",
+          "page": "https://commons.wikimedia.org/wiki/File:Project_402_-_satellite_image_(1967-09-20).jpg",
+          "license": "Public domain",
+          "license_evidence": "Commons file metadata (extmetadata.LicenseShortName)",
+          "date": "1967-09-20",
+          "downloaded": true,
+          "bytes": 642126,
+          "relevance": "file title shares the query's distinctive words",
+          "asset_id": "commons:44027646"
+        },
+        {
+          "source": "wikimedia_commons",
+          "query": "Project Corona Satellite",
+          "title": "File:Master of Palazzo Venezia Madonna - St. Corona - Google Art Project - crop.jpg",
+          "page": "https://commons.wikimedia.org/wiki/File:Master_of_Palazzo_Venezia_Madonna_-_St._Corona_-_Google_Art_Project_-_crop.jpg",
+          "license": "Public domain",
+          "license_evidence": "Commons file metadata (extmetadata.LicenseShortName)",
+          "date": "1350-01-01",
+          "downloaded": true,
+          "bytes": 5277478,
+          "relevance": "file title shares the query's distinctive words",
+          "asset_id": "commons:88423559"
+        }
+      ]
+    },
+    "created": "2026-11-14T03:32:17+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "stage_failed": "verify",
+    "reason": "ValueError: independent check still failing after repair: The United States offered a reward in eight languages for th (wrong)"
+  },
+  {
+    "folder": "2026-11-14_041005_the-1980s-ghost-of-the-uss-liberty",
+    "topic": "The 1980s 'Ghost' of the USS Liberty",
+    "status": "failed",
+    "stage": "script",
+    "role": "discovery",
+    "slot": "2026-11-14T20:00:00+05:30",
+    "pillar": "Mysteries finally solved",
+    "selection": {
+      "role": "discovery",
+      "base_score": 44.0,
+      "multiplier": 1.3,
+      "parts": {
+        "pillar_role": 1.3
+      },
+      "final": 57.2,
+      "runner_up": [
+        {
+          "topic": "The 1938 'Phantom' of the Hindenburg Passenger List",
+          "final": 53.95
+        },
+        {
+          "topic": "The 1944 Battle of Castle Itter",
+          "final": 53.59
+        }
+      ]
+    },
+    "visual_precheck": {
+      "at": "2026-11-14T04:10:05+05:30",
+      "need": 2,
+      "assets": [
+        {
+          "source": "wikimedia_commons",
+          "query": "ghost",
+          "title": "File:Image of a ghost, produced by double exposure in 1899.jpg",
+          "page": "https://commons.wikimedia.org/wiki/File:Image_of_a_ghost,_produced_by_double_exposure_in_1899.jpg",
+          "license": "Public domain",
+          "license_evidence": "Commons file metadata (extmetadata.LicenseShortName)",
+          "date": "2013-10-31 16:47",
+          "downloaded": true,
+          "bytes": 769131,
+          "relevance": "file title shares the query's distinctive words",
+          "asset_id": "commons:37941211"
+        },
+        {
+          "source": "wikimedia_commons",
+          "query": "ghost",
+          "title": "File:The Canterville Ghost illustration.jpg",
+          "page": "https://commons.wikimedia.org/wiki/File:The_Canterville_Ghost_illustration.jpg",
+          "license": "Public domain",
+          "license_evidence": "Commons file metadata (extmetadata.LicenseShortName)",
+          "date": "1914",
+          "downloaded": true,
+          "bytes": 211890,
+          "relevance": "file title shares the query's distinctive words",
+          "asset_id": "commons:3011530"
+        }
+      ]
+    },
+    "created": "2026-11-14T04:10:05+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "stage_failed": "research",
+    "reason": "Unsupported: research: the sources don't support this story (The research notes do not contain any information about a missing crew member found decades later in an engine room, nor any event regarding a 'Ghost' of the US)"
+  },
+  {
+    "folder": "2026-11-14_041120_the-1944-battle-of-castle-itter",
+    "topic": "The 1944 Battle of Castle Itter",
+    "status": "failed",
+    "stage": "script",
+    "role": "discovery",
+    "slot": "2026-11-14T20:00:00+05:30",
+    "pillar": "Forgotten heroes",
+    "selection": {
+      "role": "discovery",
+      "base_score": 48.5,
+      "multiplier": 1.105,
+      "parts": {
+        "pillar_role": 1.3,
+        "repeat_pillar": 0.85
+      },
+      "final": 53.59,
+      "runner_up": [
+        {
+          "topic": "The 1942 St. Nazaire Raid Explosive Ship",
+          "final": 53.59
+        }
+      ]
+    },
+    "visual_precheck": {
+      "at": "2026-11-14T04:11:20+05:30",
+      "need": 2,
+      "assets": [
+        {
+          "source": "wikimedia_commons",
+          "query": "battle",
+          "title": "File:Episode after Battle of Zonnebeke 1918 Hurley restoration.jpg",
+          "page": "https://commons.wikimedia.org/wiki/File:Episode_after_Battle_of_Zonnebeke_1918_Hurley_restoration.jpg",
+          "license": "Public domain",
+          "license_evidence": "Commons file metadata (extmetadata.LicenseShortName)",
+          "date": "Composited August 1917 - August 1918",
+          "downloaded": true,
+          "bytes": 768440,
+          "relevance": "file title shares the query's distinctive words",
+          "asset_id": "commons:169733713"
+        },
+        {
+          "source": "wikimedia_commons",
+          "query": "battle",
+          "title": "File:Thure de Thulstrup - Battle of Shiloh.jpg",
+          "page": "https://commons.wikimedia.org/wiki/File:Thure_de_Thulstrup_-_Battle_of_Shiloh.jpg",
+          "license": "Public domain",
+          "license_evidence": "Commons file metadata (extmetadata.LicenseShortName)",
+          "date": "1888 date QS:P571,+1888-00-00T00:00:00Z/9 ",
+          "downloaded": true,
+          "bytes": 1194514,
+          "relevance": "file title shares the query's distinctive words",
+          "asset_id": "commons:1281915"
+        }
+      ]
+    },
+    "created": "2026-11-14T04:11:20+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "stage_failed": "verify",
+    "reason": "ValueError: independent check still failing after repair: On May 5, 1945, Lieutenant Jack Lee defended Itter Castle wi (disputed); That Austrian castle marked one of the rare times Americans  (superlative with no document stating it; a model's word isn't enough)"
+  },
+  {
+    "folder": "2026-11-14_045430_the-1942-st-nazaire-raid-explosive-ship",
+    "topic": "The 1942 St. Nazaire Raid Explosive Ship",
+    "status": "failed",
+    "stage": "script",
+    "role": "discovery",
+    "slot": "2026-11-14T20:00:00+05:30",
+    "pillar": "Forgotten heroes",
+    "selection": {
+      "role": "discovery",
+      "base_score": 48.5,
+      "multiplier": 1.105,
+      "parts": {
+        "pillar_role": 1.3,
+        "repeat_pillar": 0.85
+      },
+      "final": 53.59,
+      "runner_up": []
+    },
+    "visual_precheck": {
+      "at": "2026-11-14T04:54:30+05:30",
+      "need": 2,
+      "assets": [
+        {
+          "source": "wikimedia_commons",
+          "query": "St Nazaire Raid",
+          "title": "File:Operation Chariot- the Raid on St Nazaire, 27-28 March 1942 C3317A.jpg",
+          "page": "https://commons.wikimedia.org/wiki/File:Operation_Chariot-_the_Raid_on_St_Nazaire,_27-28_March_1942_C3317A.jpg",
+          "license": "Public domain",
+          "license_evidence": "Commons file metadata (extmetadata.LicenseShortName)",
+          "date": "1942 date QS:P571,+1942-00-00T00:00:00Z/9 ",
+          "downloaded": true,
+          "bytes": 185605,
+          "relevance": "file title shares the query's distinctive words",
+          "asset_id": "commons:24476687"
+        },
+        {
+          "source": "wikimedia_commons",
+          "query": "St Nazaire Raid",
+          "title": "File:Operation Chariot- the Raid on St Nazaire, 27-28 March 1942 A13626A.jpg",
+          "page": "https://commons.wikimedia.org/wiki/File:Operation_Chariot-_the_Raid_on_St_Nazaire,_27-28_March_1942_A13626A.jpg",
+          "license": "Public domain",
+          "license_evidence": "Commons file metadata (extmetadata.LicenseShortName)",
+          "date": "1942 date QS:P571,+1942-00-00T00:00:00Z/9 ",
+          "downloaded": true,
+          "bytes": 727538,
+          "relevance": "file title shares the query's distinctive words",
+          "asset_id": "commons:25088347"
+        }
+      ]
+    },
+    "created": "2026-11-14T04:54:30+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "stage_failed": "verify",
+    "reason": "ValueError: independent check still failing after repair: The explosives rammed the Normandie dry dock (misleading); HMS Campbeltown crossed the Channel toward Saint-Nazaire on  (misleading); The convoy was sighted at about midnight (00:00) (wrong)"
+  },
+  {
+    "folder": "2026-11-14_054854_apollo-11s-return-journey-where-a-broken-circuit-b",
+    "topic": "Apollo 11's return journey where a broken circuit breaker switch was repaired with a felt-tip pen",
+    "status": "failed",
+    "stage": "script",
+    "role": "discovery",
+    "slot": "2026-11-14T20:00:00+05:30",
+    "pillar": "Impossible survivals",
+    "selection": {
+      "role": "discovery",
+      "base_score": 55.0,
+      "multiplier": 1.4,
+      "parts": {
+        "pillar_role": 1.4
+      },
+      "final": 77.0,
+      "runner_up": [
+        {
+          "topic": "The 1914 Shackleton Endurance expedition where the ship was ",
+          "final": 77.0
+        },
+        {
+          "topic": "The 1925 Alaska Serum Run Sled Dogs",
+          "final": 77.0
+        }
+      ]
+    },
+    "visual_precheck": {
+      "at": "2026-11-14T05:48:54+05:30",
+      "need": 2,
+      "assets": [
+        {
+          "source": "wikimedia_commons",
+          "query": "Apollo",
+          "title": "File:Apollo 11 Launch2.jpg",
+          "page": "https://commons.wikimedia.org/wiki/File:Apollo_11_Launch2.jpg",
+          "license": "Public domain",
+          "license_evidence": "Commons file metadata (extmetadata.LicenseShortName)",
+          "date": "Taken on 16 July 1969",
+          "downloaded": true,
+          "bytes": 1659215,
+          "relevance": "file title shares the query's distinctive words",
+          "asset_id": "commons:6739626"
+        },
+        {
+          "source": "wikimedia_commons",
+          "query": "Apollo",
+          "title": "File:NASA Apollo 17 Lunar Roving Vehicle.jpg",
+          "page": "https://commons.wikimedia.org/wiki/File:NASA_Apollo_17_Lunar_Roving_Vehicle.jpg",
+          "license": "Public domain",
+          "license_evidence": "Commons file metadata (extmetadata.LicenseShortName)",
+          "date": "12 December 1972",
+          "downloaded": true,
+          "bytes": 1243104,
+          "relevance": "file title shares the query's distinctive words",
+          "asset_id": "commons:12872"
+        }
+      ]
+    },
+    "created": "2026-11-14T05:48:54+05:30",
+    "stages": {},
+    "youtube_id": null,
+    "instagram_id": null,
+    "stage_failed": "research",
+    "reason": "Unsupported: research: the sources don't support this story (The timeline requires a specific date for the pen‑repair event, but none is provided in the supplied notes.)"
   }
 ]

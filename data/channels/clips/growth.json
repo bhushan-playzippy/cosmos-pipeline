@@ -1,7 +1,7 @@
 {
   "date": "2026-11-14",
-  "videos": 37,
-  "median_views_per_day": 19.2,
+  "videos": 38,
+  "median_views_per_day": 19.1,
   "min_sample": 5,
   "groups": {
     "slot": {
@@ -46,8 +46,8 @@
         "conclusive": false
       },
       "?": {
-        "n": 10,
-        "median_vpd": 29.0,
+        "n": 11,
+        "median_vpd": 19.0,
         "conclusive": true
       }
     },
@@ -68,8 +68,8 @@
         "conclusive": false
       },
       "?": {
-        "n": 22,
-        "median_vpd": 19.1,
+        "n": 23,
+        "median_vpd": 19.0,
         "conclusive": true
       }
     },

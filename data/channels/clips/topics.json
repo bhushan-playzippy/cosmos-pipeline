@@ -1,24 +1,5 @@
 [
   {
-    "topic": "Apollo 11's return journey where a broken circuit breaker switch was repaired with a felt-tip pen",
-    "pillar": "Impossible survivals",
-    "series": "Survived",
-    "role": "retention",
-    "angle": "compare a billion-dollar spacecraft to a standard office pen",
-    "hook_idea": "How did a simple plastic pen save the Apollo 11 astronauts?",
-    "viewer_benefit": "learns how a makeshift tool prevented disaster in space",
-    "scores": {
-      "audience_relevance": 5,
-      "curiosity": 5,
-      "evidence_quality": 5,
-      "visual_feasibility": 5,
-      "series_potential": 5,
-      "familiarity": 5
-    },
-    "veo_prompt": "Vertical 9:16 cinematic shot of an astronaut's gloved hand holding a black felt-tip pen inside a cramped Apollo control panel, glowing instrument lights, archival NASA photo aesthetic, photoreal.",
-    "score": 55.0
-  },
-  {
     "topic": "The 1914 Shackleton Endurance expedition where the ship was crushed by Antarctic pack ice",
     "pillar": "Impossible survivals",
     "series": "Survived",
@@ -35,7 +16,340 @@
       "familiarity": 5
     },
     "veo_prompt": "Vertical 9:16 cinematic shot of a wooden ship trapped and listing at an angle between jagged blocks of Antarctic ice, black and white archival photography look, photoreal.",
-    "score": 55.0
+    "score": 55.0,
+    "visual_precheck": {
+      "at": "2026-11-14T05:51:01+05:30",
+      "need": 2,
+      "assets": [
+        {
+          "source": "wikimedia_commons",
+          "query": "Shackleton Endurance Antarctic",
+          "title": "File:Shackleton's expedition to the Antarctic Endurance squeezed between an ice jam. LCCN2013646123.jpg",
+          "page": "https://commons.wikimedia.org/wiki/File:Shackleton%27s_expedition_to_the_Antarctic_Endurance_squeezed_between_an_ice_jam._LCCN2013646123.jpg",
+          "license": "Public domain",
+          "license_evidence": "Commons file metadata (extmetadata.LicenseShortName)",
+          "date": "1916",
+          "downloaded": true,
+          "bytes": 314130,
+          "relevance": "file title shares the query's distinctive words",
+          "asset_id": "commons:67975413"
+        },
+        {
+          "source": "wikimedia_commons",
+          "query": "Shackleton Endurance Antarctic",
+          "title": "File:Shackleton's expedition to the Antarctic Endurance after ice pressure was released. LCCN2013646126.jpg",
+          "page": "https://commons.wikimedia.org/wiki/File:Shackleton%27s_expedition_to_the_Antarctic_Endurance_after_ice_pressure_was_released._LCCN2013646126.jpg",
+          "license": "Public domain",
+          "license_evidence": "Commons file metadata (extmetadata.LicenseShortName)",
+          "date": "1915-11",
+          "downloaded": true,
+          "bytes": 440044,
+          "relevance": "file title shares the query's distinctive words",
+          "asset_id": "commons:67975468"
+        }
+      ]
+    },
+    "draft": {
+      "topic": "Shackleton Endurance Antarctic expedition",
+      "subject_query": "Endurance Antarctic",
+      "scenes": [
+        {
+          "text": "Shackleton warned the pack ice would crush his ship like an eggshell.",
+          "commons": "Endurance ship ice 1914",
+          "visual": "stormy ocean",
+          "subject": "Ernest Shackleton",
+          "shows": "Shackleton on deck watching ship trapped in Antarctic ice",
+          "notes": [
+            21
+          ]
+        },
+        {
+          "text": "Endurance leaves Plymouth 8 August 1914 with 28 men bound for imperial Antarctic crossing",
+          "commons": "Endurance ship Plymouth 1914",
+          "visual": "old ship ocean",
+          "subject": "Endurance",
+          "shows": "Endurance sailing out of Plymouth harbor",
+          "notes": [
+            12,
+            8,
+            2
+          ]
+        },
+        {
+          "text": "Shackleton encounters pack ice near 57°26S in Weddell Sea forcing course correction",
+          "commons": "Endurance pack ice Antarctica",
+          "visual": "stormy ocean",
+          "subject": "Ernest Shackleton",
+          "shows": "Shackleton on bridge navigating through ice",
+          "notes": [
+            15,
+            6
+          ]
+        },
+        {
+          "text": "Ice halts Endurance for 24 hours on 14 December Antarctic",
+          "commons": "Endurance stuck ice Antarctica",
+          "visual": "old ship ice",
+          "subject": "Endurance",
+          "shows": "Endurance immobilized by pack ice",
+          "notes": [
+            16
+          ]
+        },
+        {
+          "text": "Leads open 22 December allowing steady southward progress",
+          "commons": "Endurance moving through ice leads",
+          "visual": "ocean ice channels",
+          "subject": "Endurance",
+          "shows": "Endurance sailing through cracked ice",
+          "notes": [
+            17
+          ]
+        },
+        {
+          "text": "Ship approaches 100-foot ice walls guarding Coats Land in January 1915",
+          "commons": "Antarctic ice walls Coats Land",
+          "visual": "tall ice cliffs",
+          "subject": "Endurance",
+          "shows": "Endurance near towering icebergs",
+          "notes": [
+            18
+          ]
+        },
+        {
+          "text": "Shackleton records pack piling ice warning ship would crush like eggshell",
+          "commons": "Endurance ice pack Antarctica",
+          "visual": "old newspaper diary",
+          "subject": "Ernest Shackleton",
+          "shows": "Shackleton writing in journal",
+          "notes": [
+            21
+          ]
+        },
+        {
+          "text": "1 August gale disintegrates ice floe around ship",
+          "commons": "Endurance gale Antarctica",
+          "visual": "stormy ocean",
+          "subject": "Endurance",
+          "shows": "Endurance being crushed by ice pressure",
+          "notes": [
+            22
+          ]
+        },
+        {
+          "text": "The doomed ship finally sank after ice crushed it.",
+          "commons": "Antarctic ice floes survivors",
+          "visual": "men on ice",
+          "subject": "Shackleton crew",
+          "shows": "Shackleton's men standing on ice floe",
+          "notes": [
+            24
+          ]
+        }
+      ],
+      "youtube": {
+        "title": "Endurance: Crushed Like An Eggshell",
+        "hook_text": "CRUSHED LIKE AN EGGSHELL",
+        "description": "When 28 men set sail to cross Antarctica, they had no idea the ice would trap and destroy their ship. Endurance left Plymouth on August 8, 1914, facing pack ice that eventually crushed the vessel completely.\n\nSources: [\"Wikipedia: Imperial Trans-Antarctic Expedition",
+        "Wikipedia: Endurance: Shackleton's Incredible Voyage\"]\n#Shorts #Endurance #History #TrueStory\",\n    \"tags": [
+          "Endurance",
+          "Shackleton",
+          "Antarctic",
+          "Antarctic expedition",
+          "Weddell Sea",
+          "pack ice",
+          "history",
+          "true story",
+          "historical events",
+          "1914 history",
+          "polar exploration",
+          "shipwreck"
+        ],
+        "pinned_comment": "Would you have trusted the ice to hold or turned back immediately?"
+      },
+      "hashtags": [
+        "#Shorts",
+        "#Antarctica",
+        "#History",
+        "#TrueStory"
+      ],
+      "instagram": {
+        "caption": "The ice crushed Endurance like an eggshell. Would you have kept going? \n\nSources: Wikipedia: Imperial Trans-Antarctic Expedition, Wikipedia: Endurance: Shackleton's Incredible Voyage",
+        "hashtags": [
+          "#Endurance",
+          "#Antarctic",
+          "#PolarExploration",
+          "#History",
+          "#TrueStory"
+        ]
+      },
+      "sources": [
+        "Wikipedia: Imperial Trans-Antarctic Expedition",
+        "Wikipedia: Endurance: Shackleton's Incredible Voyage"
+      ],
+      "music_mood": "dramatic",
+      "provenance": {
+        "write": "openrouter-text:nvidia/nemotron-3.5-lightning:free",
+        "polish": "gemini-flash-lite-latest",
+        "fact_check": "openrouter-text:nvidia/nemotron-3-ultra-550b-a55b:free",
+        "packaging": "gemini-flash-lite-latest"
+      },
+      "fact_checks": [
+        {
+          "claim": "Shackleton warned the Endurance would crush like an eggshell",
+          "verdict": "fixed",
+          "working": "Note [21] states Shackleton recorded on 14 April that the ship would be crushed like an eggshell; he did not necessarily issue a verbal warning to crew."
+        },
+        {
+          "claim": "Endurance leaves Plymouth 8 August 1914 with 28 men bound for imperial Antarctic crossing",
+          "verdict": "ok",
+          "working": "Notes [12], [8], [2] confirm departure date, complement of 28, and expedition objective."
+        },
+        {
+          "claim": "Shackleton encounters pack ice near 57°26S in Weddell Sea forcing course correction",
+          "verdict": "ok",
+          "working": "Note [15] confirms encounter at 57°26'S forcing manoeuvre."
+        },
+        {
+          "claim": "Ice halts Endurance for 24 hours on 14 December Antarctic",
+          "verdict": "ok",
+          "working": "Note [16] confirms halt on 14 December."
+        },
+        {
+          "claim": "Leads open 22 December allowing steady southward progress",
+          "verdict": "ok",
+          "working": "Note [17] confirms leads opened 22 December."
+        },
+        {
+          "claim": "Ship approaches 100-foot ice walls guarding Coats Land in January 1915",
+          "verdict": "ok",
+          "working": "Note [18] confirms approach to 100-foot ice walls guarding Coats Land 7-10 January 1915."
+        },
+        {
+          "claim": "Shackleton records pack piling ice warning ship would crush like eggshell",
+          "verdict": "ok",
+          "working": "Note [21] directly quotes Shackleton's 14 April record."
+        },
+        {
+          "claim": "1 August gale disintegates ice floe around ship",
+          "verdict": "fixed",
+          "working": "Note [22] describes 1 August gale causing ice floe to disintegrate; correct spelling 'disintegrates'."
+        },
+        {
+          "claim": "The eggshell crush warning echoed as the Endurance was crushed by ice",
+          "verdict": "fixed",
+          "working": "Note [24] states ship sank 21 November after being crushed; the warning did not literally 'echo'—replace with documented fact."
+        },
+        {
+          "claim": "Description: Sir Ernest Shackleton's ship Endurance became trapped in Antarctic pack ice in 1914",
+          "verdict": "fixed",
+          "working": "Ship became trapped in pack ice in January 1915, not 1914 (notes [15]-[18])."
+        }
+      ],
+      "fact_trail": [],
+      "research": {
+        "sources": [
+          {
+            "title": "Imperial Trans-Antarctic Expedition",
+            "url": "https://en.wikipedia.org/wiki/Imperial_Trans-Antarctic_Expedition"
+          },
+          {
+            "title": "Endurance: Shackleton's Incredible Voyage",
+            "url": "https://en.wikipedia.org/wiki/Endurance:_Shackleton's_Incredible_Voyage"
+          }
+        ],
+        "notes": [
+          "The Imperial Trans-Antarctic Expedition (abbreviated as ITAE) of 1914–1917 is considered to be the last major expedition of the Heroic Age of Antarctic Exploration.",
+          "Conceived by Sir Ernest Shackleton, the expedition was an attempt to make the first land crossing of the Antarctic continent.",
+          "After Roald Amundsen's South Pole expedition in 1911, this crossing remained, in Shackleton's words, the \"one great main object of Antarctic journeyings\".",
+          "Shackleton's expedition failed to accomplish this objective but became recognised instead as an epic feat of endurance.",
+          "Shackleton had served in the Antarctic on the Discovery Expedition of 1901–1904 and had led the Nimrod Expedition of 1907–1909.",
+          "In this new venture, he proposed to sail to the Weddell Sea and to land a shore party near Vahsel Bay, in preparation for a transcontinental march via the South Pole to the Ross Sea.",
+          "It drifted northward, held in the pack ice, throughout the Antarctic winter of 1915.",
+          "Eventually the ice crushed the ship, and it sank, stranding its complement of 28 men on the ice.",
+          "By 1912, his future Antarctic plans depended on the results of Robert Falcon Scott's Terra Nova Expedition, which had left Cardiff in July 1910, and on the concurrent Norwegian expedition led by Roald Amundsen.",
+          "Shackleton got support, however, from William Speirs Bruce, leader of the Scottish National Antarctic Expedition of 1902–1904, who had harboured plans for an Antarctic crossing since 1908 but had abandoned the project for lack of funds.",
+          "Lord Rosebery, who had previously expressed his lack of interest in polar expeditions, gave £50.",
+          "Endurance, without Shackleton (who was detained in England by expedition business), left Plymouth on 8 August 1914, heading first for Buenos Aires.",
+          "Shackleton's original intention was that the crossing would take place in the first season, 1914–1915.",
+          "After a month-long halt in the Grytviken whaling station on South Georgia, Endurance departed for the Antarctic on 5 December.",
+          "Two days later, Shackleton was disconcerted to encounter pack ice as far north as 57° 26′S, forcing the ship to manoeuvre.",
+          "During the following days there were more tussles with the pack, which, on 14 December, was thick enough to halt the ship for 24 hours.",
+          "Endurance's progress was frustratingly slow, until, on 22 December, leads opened up and the ship was able to continue steadily southward.",
+          "Further delays then slowed progress after the turn of the year, before a lengthy run south during 7–10 January 1915 brought them close to the 100-foot (30 m) ice walls which guarded the Antarctic coastal region of Coats Land.",
+          "This territory had been discovered and named by William Speirs Bruce in 1904 during the Scottish National Antarctic Expedition.",
+          "On 24 February, Shackleton realised that they would be held in the ice throughout the winter and ordered ship's routine abandoned.",
+          "On 14 April, Shackleton recorded the nearby pack \"piling and rafting against the masses of ice\"—if the ship was caught in this disturbance \"she would be crushed like an eggshell\".",
+          "On 1 August, in a south-westerly gale with heavy snow, the ice floe began to disintegrate all around the ship, the pressure forcing masses of ice beneath the keel and causing a heavy list to port.",
+          "On 24 October, the starboard side was forced against a large floe, increasing the pressure until the hull began to bend and splinter, so that water from below the ice began to pour into the ship.",
+          "More of the abandoned supplies were retrieved until, on 21 November, the ship finally slipped beneath the ice.",
+          "As the vessel approached Elephant Island they saw that an impenetrable barrier of pack ice had formed, some 70 miles (110 km) from their destination.",
+          "He thereafter organised one final Antarctic expedition, the Shackleton–Rowett Expedition on Quest, which left London on 17 September 1921.",
+          "It would be more than forty years before the first crossing of Antarctica was achieved, by the Commonwealth Trans-Antarctic Expedition, 1955–1958.",
+          "The Endurance: Shackleton's Legendary Antarctic Expedition.",
+          "Endurance: Shackleton's Incredible Voyage, is a 1959 book written by Alfred Lansing, about the failure of the Imperial Trans-Antarctic Expedition led by Sir Ernest Shackleton, in its attempt to cross the Antarctic continent in 1914.",
+          "The ship was beset and eventually crushed by ice floes in the Weddell Sea, leaving the men stranded on the pack ice.",
+          "Lansing consistently calls him “old McNish”, giving his age at the start of the expedition, in 1914, to be 56 years."
+        ],
+        "timeline": [
+          {
+            "when": "8 August 1914",
+            "event": "Endurance leaves Plymouth for Antarctic expedition",
+            "notes": [
+              12
+            ]
+          },
+          {
+            "when": "5 December",
+            "event": "Endurance departs South Georgia whaling station for Antarctic",
+            "notes": [
+              14
+            ]
+          },
+          {
+            "when": "7 December",
+            "event": "Shackleton encounters pack ice near 57°26S forcing course maneuver",
+            "notes": [
+              15
+            ]
+          },
+          {
+            "when": "14 December",
+            "event": "Pack ice halts Endurance for 24 hours",
+            "notes": [
+              16
+            ]
+          },
+          {
+            "when": "22 December",
+            "event": "Leads open allowing Endurance steady southward progress",
+            "notes": [
+              17
+            ]
+          },
+          {
+            "when": "10 January 1915",
+            "event": "Ship approaches 100-foot ice walls guarding Coats Land",
+            "notes": [
+              18
+            ]
+          },
+          {
+            "when": "24 February",
+            "event": "Shackleton realizes held in ice through winter, abandons routine",
+            "notes": [
+              20
+            ]
+          }
+        ]
+      },
+      "release": {
+        "hour_ist": 19,
+        "day_hint": "Thursday",
+        "reason": "Peak evening viewing time for US and European audiences interested in history content."
+      }
+    },
+    "draft_saved": "2026-11-14"
   },
   {
     "topic": "The 1925 Alaska Serum Run Sled Dogs",
@@ -152,101 +466,6 @@
     "score": 52.0
   },
   {
-    "topic": "Wilmer McLean's Civil War Coincidence",
-    "pillar": "Eerie true coincidences",
-    "series": "Unbelievably True",
-    "role": "discovery",
-    "angle": "Moving 120 miles (193 km) to escape war only for the surrender to happen in your parlor",
-    "hook_idea": "How did the Civil War start and end on one man's property?",
-    "viewer_benefit": "Discover the incredible coincidental bookends of the American Civil War.",
-    "scores": {
-      "audience_relevance": 5,
-      "curiosity": 5,
-      "evidence_quality": 5,
-      "visual_feasibility": 5,
-      "series_potential": 4,
-      "familiarity": 4
-    },
-    "veo_prompt": "Vertical 9:16 exterior shot of a historic 19th-century Virginia brick plantation home under a moody cloudy sky.",
-    "score": 52.0
-  },
-  {
-    "topic": "The Accidental Apollo 8 Earthrise Photo",
-    "pillar": "Strange but true history",
-    "series": "Unbelievably True",
-    "role": "discovery",
-    "angle": "Scrambling for color film while orbiting the Moon to capture an unplanned horizon shot",
-    "hook_idea": "How did a routine moon mission produce history’s most famous photo?",
-    "viewer_benefit": "Learn the frantic back-story behind how Earthrise was captured on Apollo 8.",
-    "scores": {
-      "audience_relevance": 5,
-      "curiosity": 4,
-      "evidence_quality": 5,
-      "visual_feasibility": 5,
-      "series_potential": 4,
-      "familiarity": 5
-    },
-    "veo_prompt": "Vertical 9:16 view of a vintage 70mm space camera pointing toward a blue glowing Earth rising over lunar crater terrain.",
-    "score": 52.0
-  },
-  {
-    "topic": "The 1916 New Jersey Creek Shark Attacks",
-    "pillar": "Strange but true history",
-    "series": "Unbelievably True",
-    "role": "discovery",
-    "angle": "An ocean predator travelling 11 miles (18 km) inland into freshwater swimming holes",
-    "hook_idea": "How did an ocean predator attack swimmers 11 miles inland?",
-    "viewer_benefit": "Discover the terrifying real event that inspired the book and film Jaws.",
-    "scores": {
-      "audience_relevance": 5,
-      "curiosity": 5,
-      "evidence_quality": 5,
-      "visual_feasibility": 5,
-      "series_potential": 4,
-      "familiarity": 4
-    },
-    "veo_prompt": "Vertical 9:16 tracking shot over murky freshwater river surface framed by dense green trees under bright summer sun.",
-    "score": 52.0
-  },
-  {
-    "topic": "The 1944 WWII Ghost Army Inflatables",
-    "pillar": "Strange but true history",
-    "series": "Unbelievably True",
-    "role": "discovery",
-    "angle": "Using 93-pound (42 kg) inflatable tanks and audio trucks to simulate two combat divisions",
-    "hook_idea": "How did rubber tanks and loudspeakers fool the German army?",
-    "viewer_benefit": "Learn how top-secret deception units saved thousands of Allied lives in Europe.",
-    "scores": {
-      "audience_relevance": 5,
-      "curiosity": 5,
-      "evidence_quality": 5,
-      "visual_feasibility": 5,
-      "series_potential": 4,
-      "familiarity": 4
-    },
-    "veo_prompt": "Vertical 9:16 side view of an inflatable olive-drab military tank sitting in a foggy European meadow at dawn.",
-    "score": 52.0
-  },
-  {
-    "topic": "Hiram Bingham's 1911 Machu Picchu Discovery",
-    "pillar": "Mysteries finally solved",
-    "series": "Unbelievably True",
-    "role": "discovery",
-    "angle": "Asking an 11-year-old local boy for directions while searching for a different city",
-    "hook_idea": "How did a local farmer lead an explorer to a forgotten city?",
-    "viewer_benefit": "See how a chance encounter revealed Peru's iconic citadel to the world.",
-    "scores": {
-      "audience_relevance": 5,
-      "curiosity": 4,
-      "evidence_quality": 5,
-      "visual_feasibility": 5,
-      "series_potential": 4,
-      "familiarity": 5
-    },
-    "veo_prompt": "Vertical 9:16 atmospheric shot looking down through thick jungle vines onto ancient stone terraces enveloped in mountain mist.",
-    "score": 52.0
-  },
-  {
     "topic": "Tsutomu Yamaguchi Surviving Both Atomic Bombs",
     "pillar": "Impossible survivals",
     "series": "Survived",
@@ -264,44 +483,6 @@
     },
     "veo_prompt": "Vertical 9:16 wide shot looking out over a desolate post-war Japanese industrial city ruin bathed in dawn twilight, eerie atmospheric fog.",
     "score": 50.5
-  },
-  {
-    "topic": "The 1977 Wow! Signal Radio Detection",
-    "pillar": "Mysteries finally solved",
-    "series": "Unbelievably True",
-    "role": "discovery",
-    "angle": "A 72-second narrow-band signal that matched alien transmission predictions perfectly",
-    "hook_idea": "What made an astronomer circle a radio printout and write 'Wow!'?",
-    "viewer_benefit": "Understand the true story behind deep space's most compelling radio signal.",
-    "scores": {
-      "audience_relevance": 4,
-      "curiosity": 5,
-      "evidence_quality": 5,
-      "visual_feasibility": 5,
-      "series_potential": 4,
-      "familiarity": 4
-    },
-    "veo_prompt": "Vertical 9:16 shot of a massive radio telescope dish tilted up toward a starry deep night sky, subtle blue lighting accents.",
-    "score": 50.5
-  },
-  {
-    "topic": "Harrison Schmitt's Moon Dust Allergy",
-    "pillar": "Disasters that hinged on one detail",
-    "series": "Unbelievably True",
-    "role": "discovery",
-    "angle": "Discovering you are allergic to space after stepping back into the lunar lander",
-    "hook_idea": "How did an astronaut suddenly develop an allergy to lunar dust?",
-    "viewer_benefit": "Find out the unexpected biological hazard uncovered on the last Moon landing.",
-    "scores": {
-      "audience_relevance": 4,
-      "curiosity": 5,
-      "evidence_quality": 5,
-      "visual_feasibility": 5,
-      "series_potential": 3,
-      "familiarity": 4
-    },
-    "veo_prompt": "Vertical 9:16 macro close-up of dark grey lunar dust resting on metallic space suit fabric, sharp contrast lights in vacuum setting.",
-    "score": 49.5
   },
   {
     "topic": "The 1965 Gemini 3 Corned Beef Sandwich Incident",
@@ -340,82 +521,6 @@
     },
     "veo_prompt": "Vertical 9:16 interior shot of a thick stone dungeon door with a tiny barred window, illuminated by harsh side shafts of sun.",
     "score": 49.0
-  },
-  {
-    "topic": "The 1944 Battle of Castle Itter",
-    "pillar": "Forgotten heroes",
-    "series": "Unbelievably True",
-    "role": "discovery",
-    "angle": "US Army units and Wehrmacht soldiers uniting to defend an Austrian castle",
-    "hook_idea": "Why did American and German soldiers fight together in World War II?",
-    "viewer_benefit": "Uncover the strange true story of enemy forces teaming up in WWII's final days.",
-    "scores": {
-      "audience_relevance": 4,
-      "curiosity": 5,
-      "evidence_quality": 5,
-      "visual_feasibility": 5,
-      "series_potential": 4,
-      "familiarity": 3
-    },
-    "veo_prompt": "Vertical 9:16 shot of a medieval stone castle perched on a lush European mountain ridge under heavy rain clouds, dramatic cinematic WWII lighting.",
-    "score": 48.5
-  },
-  {
-    "topic": "The 1942 St. Nazaire Raid Explosive Ship",
-    "pillar": "Forgotten heroes",
-    "series": "Unbelievably True",
-    "role": "discovery",
-    "angle": "Ramming a warship packed with 4.5 tons of hidden dynamite directly into dry docks",
-    "hook_idea": "Why did British commandos intentionally crash an explosive ship into enemy docks?",
-    "viewer_benefit": "Discover the daring audacity of WWII's most explosive naval sabotage mission.",
-    "scores": {
-      "audience_relevance": 4,
-      "curiosity": 5,
-      "evidence_quality": 5,
-      "visual_feasibility": 5,
-      "series_potential": 4,
-      "familiarity": 3
-    },
-    "veo_prompt": "Vertical 9:16 low-angle view of a massive steel warship bow slicing through dark harbor water at night, intense spotlight illumination.",
-    "score": 48.5
-  },
-  {
-    "topic": "Project Corona Satellite Film Catch in Mid-Air",
-    "pillar": "Strange but true history",
-    "series": "Unbelievably True",
-    "role": "discovery",
-    "angle": "Using airplane hooks to catch space capsules falling from orbit",
-    "hook_idea": "How did US spy planes catch falling satellite film in mid-air?",
-    "viewer_benefit": "Discover the wild mid-air retrieval technique used during the Cold War.",
-    "scores": {
-      "audience_relevance": 4,
-      "curiosity": 5,
-      "evidence_quality": 5,
-      "visual_feasibility": 4,
-      "series_potential": 4,
-      "familiarity": 4
-    },
-    "veo_prompt": "Vertical 9:16 vintage military aircraft flying high above ocean clouds extending a mechanical winch hook toward a parachute descent capsule.",
-    "score": 48.0
-  },
-  {
-    "topic": "The 1859 Carrington Event Solar Storm",
-    "pillar": "Disasters that hinged on one detail",
-    "series": "Unbelievably True",
-    "role": "discovery",
-    "angle": "Telegraph lines catching fire and sending messages with their batteries disconnected",
-    "hook_idea": "How did solar flares make telegraph machines operate without batteries?",
-    "viewer_benefit": "Understand how a massive solar storm disrupted Victorian technology in minutes.",
-    "scores": {
-      "audience_relevance": 4,
-      "curiosity": 5,
-      "evidence_quality": 5,
-      "visual_feasibility": 4,
-      "series_potential": 4,
-      "familiarity": 4
-    },
-    "veo_prompt": "Vertical 9:16 close-up of a 19th-century brass telegraph key emitting bright electrical sparks, flickering warm sepia studio lighting.",
-    "score": 48.0
   },
   {
     "topic": "Juliane Koepcke's 1971 Jungle Survival",
@@ -530,43 +635,5 @@
     },
     "veo_prompt": "Vertical 9:16 cinematic shot of a red vintage rotary telephone on a metal desk in a dark command bunker, green radar screen glowing in the background, photoreal.",
     "score": 46.0
-  },
-  {
-    "topic": "The 1980s 'Ghost' of the USS Liberty",
-    "pillar": "Mysteries finally solved",
-    "series": "",
-    "role": "discovery",
-    "angle": "A missing crew member found decades later in a place you wouldn't expect.",
-    "hook_idea": "Who was the missing sailor found in the engine room?",
-    "viewer_benefit": "Understanding how a sealed environment can hide a survival story.",
-    "scores": {
-      "audience_relevance": 4,
-      "curiosity": 5,
-      "evidence_quality": 5,
-      "visual_feasibility": 4,
-      "series_potential": 2,
-      "familiarity": 3
-    },
-    "veo_prompt": "Cinematic 9:16 shot. Dimly lit, rusted interior of a submarine engine room. Dust motes dance in a single beam of light from a porthole. A lone, weathered yellow hard hat sits on a metal console. No people. Hyper-realistic, moody lighting.",
-    "score": 44.0
-  },
-  {
-    "topic": "The 1938 'Phantom' of the Hindenburg Passenger List",
-    "pillar": "Disasters that hinged on one detail",
-    "series": "",
-    "role": "discovery",
-    "angle": "The passenger who didn't board, and why the manifest mattered for the inquiry.",
-    "hook_idea": "Who was the passenger listed but never seen aboard?",
-    "viewer_benefit": "Insight into the strictness of interwar travel documentation and security.",
-    "scores": {
-      "audience_relevance": 4,
-      "curiosity": 5,
-      "evidence_quality": 4,
-      "visual_feasibility": 3,
-      "series_potential": 2,
-      "familiarity": 4
-    },
-    "veo_prompt": "Cinematic 9:16 shot. A close-up of a vintage, cream-colored passenger manifest paper. A single name is circled in red ink, but the word 'ABSENT' is stamped over it in faded black ink. The paper is slightly curled. No people. High detail, archival feel.",
-    "score": 41.5
   }
 ]
